@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project name="simabak" default="." basedir=".">
+
+   <tstamp>
+      <format property="anohoy"   pattern="yyyy"/>
+      <format property="fechahoy" pattern="MMM d/yyyy"/>
+      <format property="horahoy"  pattern="hh:mm aa"/>
+   </tstamp>
+
+   <property name="simabak.v"      value="simabak-GA-1.0.0"/>
+
+   <property name="fechasys"      value="${DSTAMP}-${TSTAMP}"/>
+   <property name="simabak"       value="simabak"/>
+   <property name="bak"           value="/${simabak}/${anohoy}/bak"/>
+   <property name="jornada"       value=".diu"/>
+   <property name="bases"         value="bases"/>
+   <property name="simamatr"      value="simamatr"/>
+   <property name="simacont"      value="simacont"/>
+   <property name="simaprof"      value="simaprof"/>
+   <property name="simacart"      value="simacart"/>
+   <property name="simavoto"      value="simavoto"/>
+   <property name="simacafe"      value="simacafe"/>
+   <property name="simadata"      value="simadata"/>
+   <property name="simaasis"      value="simaasis"/>
+
+
+<!--INICIALIZACION -->
+    <target name="init">
+
+      <property name="ano"        value="${param_ano}"/>
+      <echo message="${ano}"/>
+
+      <condition property="dato0101.dat">
+         <and>
+            <available file="${simamatr}/${bases}/dato0101.dat"/>
+            <available file="${simamatr}/${ano}${jornada}/matr${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0102.dat">
+         <and>
+            <available file="${simacont}/${bases}/dato0102.dat"/>
+            <available file="${simacont}/${ano}${jornada}/cont${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0103.dat">
+         <and>
+            <available file="${simaprof}/${bases}/dato0103.dat"/>
+            <available file="${simaprof}/${ano}${jornada}/prof${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0104.dat">
+         <and>
+            <available file="${simacart}/${bases}/dato0104.dat"/>
+            <available file="${simacart}/${ano}${jornada}/cart${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0105.dat">
+         <and>
+            <available file="${simavoto}/${bases}/dato0101.dat"/>
+            <available file="${simavoto}/${ano}${jornada}/voto${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0106.dat">
+         <and>
+            <available file="${simacafe}/${bases}/dato0106.dat"/>
+            <available file="${simacafe}/${ano}${jornada}/cafe${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0107.dat">
+         <and>
+            <available file="${simadata}/${bases}/dato0107.dat"/>
+            <available file="${simadata}/${ano}${jornada}/data${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="dato0108.dat">
+         <and>
+            <available file="${simaasis}/${bases}/dato0108.dat"/>
+            <available file="${simaasis}/${ano}${jornada}/asis${ano}.dat"/>
+         </and>
+      </condition>
+
+    </target>
+<!--FIN INICIALIZACION -->
+
+<!--COPIA SIMABAK XML -->
+    <target name="xml">
+       <copy todir="${bak}" verbose="true">
+          <fileset dir=".">
+             <include name="*.xml"/>
+             <include name="*.XML"/>
+          </fileset>
+       </copy>
+    </target>
+<!--FIN COPIA SIMABAK XML -->
+
+<!--BORRADO DE LA COPIA PREVIA -->
+    <target name="delbak">
+      <delete dir="${bak}" failonerror="no"/> <!--Borrar la copia previa -->
+    </target>
+<!--FIN BORRADO DE LA COPIA PREVIA -->
+
+<!--SIMA -->
+    <target name="sima" depends="init,xml,simamatr,simacont,simaprof,simacart,simavoto,simacafe,simadata,simaasis,sima-otros">
+    </target>
+<!--SIMA -->
+
+<!--SISTEMA DE MATRICULAS -->
+    <target name="simamatr" if="dato0101.dat">
+
+       <echo message="${simamatr}/${ano}${jornada} = ${dato0101.dat}"/>
+
+       <property name="simamatr_bases" value="${simamatr}/${bases}"/>
+       <copy todir="${bak}/${simamatr_bases}">
+             <fileset dir="${simamatr_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simamatr_ano" value="${simamatr}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simamatr_ano}">
+             <fileset dir="${simamatr_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simamatr_sys" value="${simamatr}"/>
+       <copy todir="${bak}/${simamatr_sys}">
+             <fileset dir="${simamatr_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE MATRICULAS -->
+
+<!--SISTEMA DE SIMACONT -->
+    <target name="simacont" if="dato0102.dat">
+
+       <echo message="${simacont}/${ano}${jornada} = ${dato0102.dat}"/>
+
+       <property name="simacont_bases" value="${simacont}/${bases}"/>
+       <copy todir="${bak}/${simacont_bases}">
+             <fileset dir="${simacont_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simacont_ano" value="${simacont}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simacont_ano}">
+             <fileset dir="${simacont_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+
+                <exclude name="**/AFILELOG/*"/>
+                <exclude name="**/afilelog/*"/>
+
+                <exclude name="**/jar/logros/*"/>
+                <exclude name="**/JAR/LOGROS/*"/>
+
+                <exclude name="**/pri/logros/*"/>
+                <exclude name="**/PRI/LOGROS/*"/>
+
+                <exclude name="**/bto/logros/*"/>
+                <exclude name="**/BTO/LOGROS/*"/>
+             </fileset>
+       </copy>
+
+       <property name="simacont_sys" value="${simacont}"/>
+       <copy todir="${bak}/${simacont_sys}">
+             <fileset dir="${simacont_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE SIMACONT -->
+
+<!--SISTEMA DE PROFESORES -->
+    <target name="simaprof" if="dato0103.dat">
+
+       <echo message="${simaprof}/${ano}${jornada} = ${dato0103.dat}"/>
+
+       <property name="simaprof_bases" value="${simaprof}/${bases}"/>
+       <copy todir="${bak}/${simaprof_bases}">
+             <fileset dir="${simaprof_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simaprof_ano" value="${simaprof}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simaprof_ano}">
+             <fileset dir="${simaprof_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simaprof_sys" value="${simaprof}"/>
+       <copy todir="${bak}/${simaprof_sys}">
+             <fileset dir="${simaprof_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE PROFESORES -->
+
+<!--SISTEMA DE CARTERA -->
+    <target name="simacart" if="dato0104.dat">
+
+       <echo message="${simacart}/${ano}${jornada} = ${dato0104.dat}"/>
+
+       <property name="simacart_bases" value="${simacart}/${bases}"/>
+       <copy todir="${bak}/${simacart_bases}">
+             <fileset dir="${simacart_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simacart_ano" value="${simacart}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simacart_ano}">
+
+             <fileset dir="${simacart_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+
+                <exclude name="**/SITIOS/*"/>
+                <exclude name="**/sitios/*"/>
+             </fileset>
+       </copy>
+
+       <property name="simacart_sys" value="${simacart}"/>
+       <copy todir="${bak}/${simacart_sys}">
+             <fileset dir="${simacart_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE CARTERA -->
+
+<!--SISTEMA DE VOTACIONES -->
+    <target name="simavoto" if="dato0105.dat">
+
+       <echo message="${simavoto}/${ano}${jornada} = ${dato0105.dat}"/>
+
+       <property name="simavoto_bases" value="${simavoto}/${bases}"/>
+       <copy todir="${bak}/${simavoto_bases}">
+             <fileset dir="${simavoto_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simavoto_ano" value="${simavoto}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simavoto_ano}">
+             <fileset dir="${simavoto_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simavoto_sys" value="${simavoto}"/>
+       <copy todir="${bak}/${simavoto_sys}">
+             <fileset dir="${simavoto_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE VOTACIONES -->
+
+<!--SISTEMA DE CAFETERIA -->
+    <target name="simacafe" if="dato0106.dat">
+
+       <echo message="${simacafe}/${ano}${jornada} = ${dato0106.dat}"/>
+
+       <property name="simacafe_bases" value="${simacafe}/${bases}"/>
+       <copy todir="${bak}/${simacafe_bases}">
+             <fileset dir="${simacafe_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simacafe_ano" value="${simacafe}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simacafe_ano}">
+             <fileset dir="${simacafe_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simacafe_sys" value="${simacafe}"/>
+       <copy todir="${bak}/${simacafe_sys}">
+             <fileset dir="${simacafe_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE CAFETERIA -->
+
+<!--SISTEMA DE DATACREDITO -->
+    <target name="simadata" if="dato0107.dat">
+
+       <echo message="${simadata}/${ano}${jornada} = ${dato0107.dat}"/>
+
+       <property name="simadata_bases" value="${simadata}/${bases}"/>
+       <copy todir="${bak}/${simadata_bases}">
+             <fileset dir="${simadata_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simadata_ano" value="${simadata}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simadata_ano}">
+             <fileset dir="${simadata_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simadata_sys" value="${simadata}"/>
+       <copy todir="${bak}/${simadata_sys}">
+             <fileset dir="${simadata_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE DATACREDITO -->
+
+<!--SISTEMA DE CONTROL DE ASISTENCIA -->
+    <target name="simaasis" if="dato0108.dat">
+
+       <echo message="${simaasis}/${ano}${jornada} = ${dato0108.dat}"/>
+
+       <property name="simaasis_bases" value="${simaasis}/${bases}"/>
+       <copy todir="${bak}/${simaasis_bases}">
+             <fileset dir="${simaasis_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simaasis_ano" value="${simaasis}/${ano}${jornada}"/>
+       <copy todir="${bak}/${simaasis_ano}">
+             <fileset dir="${simaasis_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="simaasis_sys" value="${simaasis}"/>
+       <copy todir="${bak}/${simaasis_sys}">
+             <fileset dir="${simaasis_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE CONTROL DE ASISTENCIA -->
+
+
+</project>

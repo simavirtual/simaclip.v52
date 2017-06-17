@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CENTRAL DE RIESGOS"
+   titulo1 = "A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "REPORTE A DATACREDITO"
+   titulo3 = "MES DE ENERO"
+   fechprn = "FEB 19/2016"
+   horaprn = "07:50:55"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO</columna>
+    <columna>A¥O</columna>
+    <columna>123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">BGA210035</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">BGA209199</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">BGA207224</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">BGA207206</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">BGA206017</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">BGA208231</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">BGA205068</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">BGA211157</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">BGA209056</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">BGA202203</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">BGA204258</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">2011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">BGA210172</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2012</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">BGA211157</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2012</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">BGA211157</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2012</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">BGA213141</campo>
+    <campo url="no">1601</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">BGA213055</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">BGA213055</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">BGA212102</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">BGA212102</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">BGA211172</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">BGA211172</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">BGA211211</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">BGA211173</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">BGA211173</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">BGA213150</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">BGA213150</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">BGA208011</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">BGA208011</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">BGA209172</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">BGA213160</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">BGA213155</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">2013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">BGA214161</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">BGA211204</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">BGA211204</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">BGA213002</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">BGA213002</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">BGA213055</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">BGA213055</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">BGA214162</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">BGA210090</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">BGA210090</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">BGA211205</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">BGA211205</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">BGA208239</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">BGA208239</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">BGA208030</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">BGA208030</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">BGA211036</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">BGA211036</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">BGA211178</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">BGA211178</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">BGA205169</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">BGA205169</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">BGA214054</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">BGA214054</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">BGA213155</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">BGA213155</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">BGA215149</campo>
+    <campo url="no">1501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">BGA215149</campo>
+    <campo url="no">1501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">BGA214161</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">BGA214135</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">BGA214135</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">BGA212094</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">65</campo>
+    <campo url="no">BGA212094</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">66</campo>
+    <campo url="no">BGA214014</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">67</campo>
+    <campo url="no">BGA214014</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">68</campo>
+    <campo url="no">BGA214030</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">69</campo>
+    <campo url="no">BGA214030</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">70</campo>
+    <campo url="no">BGA214019</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">71</campo>
+    <campo url="no">BGA214019</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">72</campo>
+    <campo url="no">BGA214205</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">73</campo>
+    <campo url="no">BGA214205</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">74</campo>
+    <campo url="no">BGA212037</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">75</campo>
+    <campo url="no">BGA211204</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">76</campo>
+    <campo url="no">BGA211204</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">77</campo>
+    <campo url="no">BGA213068</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">78</campo>
+    <campo url="no">BGA213068</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">79</campo>
+    <campo url="no">BGA212045</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">80</campo>
+    <campo url="no">BGA212045</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">81</campo>
+    <campo url="no">BGA211167</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">82</campo>
+    <campo url="no">BGA214034</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">83</campo>
+    <campo url="no">BGA214034</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">84</campo>
+    <campo url="no">BGA213226</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">85</campo>
+    <campo url="no">BGA212102</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">86</campo>
+    <campo url="no">BGA212102</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">87</campo>
+    <campo url="no">BGA214162</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">88</campo>
+    <campo url="no">BGA214155</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">89</campo>
+    <campo url="no">BGA214155</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">90</campo>
+    <campo url="no">BGA214168</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">91</campo>
+    <campo url="no">BGA214168</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">92</campo>
+    <campo url="no">BGA212092</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">93</campo>
+    <campo url="no">BGA212092</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">94</campo>
+    <campo url="no">BGA211162</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">95</campo>
+    <campo url="no">BGA215140</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">96</campo>
+    <campo url="no">BGA215140</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">97</campo>
+    <campo url="no">BGA215118</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">98</campo>
+    <campo url="no">BGA215118</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">99</campo>
+    <campo url="no">BGA215142</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">100</campo>
+    <campo url="no">BGA215142</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">101</campo>
+    <campo url="no">BGA215144</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">102</campo>
+    <campo url="no">BGA211205</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">103</campo>
+    <campo url="no">BGA211205</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">104</campo>
+    <campo url="no">BGA208011</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">105</campo>
+    <campo url="no">BGA208011</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">106</campo>
+    <campo url="no">BGA215068</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">107</campo>
+    <campo url="no">BGA215068</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">108</campo>
+    <campo url="no">BGA213109</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">109</campo>
+    <campo url="no">BGA213109</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">110</campo>
+    <campo url="no">BGA209045</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">111</campo>
+    <campo url="no">BGA209045</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">112</campo>
+    <campo url="no">BGA213130</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">113</campo>
+    <campo url="no">BGA215105</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">114</campo>
+    <campo url="no">BGA215105</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">115</campo>
+    <campo url="no">BGA208239</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">116</campo>
+    <campo url="no">BGA208239</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">117</campo>
+    <campo url="no">BGA213044</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">118</campo>
+    <campo url="no">BGA211011</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">119</campo>
+    <campo url="no">BGA211011</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">120</campo>
+    <campo url="no">BGA208058</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">121</campo>
+    <campo url="no">BGA209172</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">122</campo>
+    <campo url="no">BGA213087</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">123</campo>
+    <campo url="no">BGA213087</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">124</campo>
+    <campo url="no">BGA213227</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">125</campo>
+    <campo url="no">BGA215147</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">126</campo>
+    <campo url="no">BGA215148</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">127</campo>
+    <campo url="no">BGA212093</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">128</campo>
+    <campo url="no">BGA212093</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">129</campo>
+    <campo url="no">BGA207158</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">130</campo>
+    <campo url="no">BGA207158</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">131</campo>
+    <campo url="no">BGA211174</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">132</campo>
+    <campo url="no">BGA211174</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">133</campo>
+    <campo url="no">BGA215143</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">134</campo>
+    <campo url="no">BGA215143</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">135</campo>
+    <campo url="no">BGA210089</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">136</campo>
+    <campo url="no">BGA208175</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">137</campo>
+    <campo url="no">BGA215013</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">138</campo>
+    <campo url="no">BGA215013</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">139</campo>
+    <campo url="no">BGA214169</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">140</campo>
+    <campo url="no">BGA214169</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">141</campo>
+    <campo url="no">BGA211012</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">142</campo>
+    <campo url="no">BGA211012</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">143</campo>
+    <campo url="no">BGA211178</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">144</campo>
+    <campo url="no">BGA211178</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">145</campo>
+    <campo url="no">BGA209156</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">146</campo>
+    <campo url="no">BGA209156</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">147</campo>
+    <campo url="no">BGA205245</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">148</campo>
+    <campo url="no">BGA205169</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">149</campo>
+    <campo url="no">BGA205169</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">150</campo>
+    <campo url="no">BGA212168</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">151</campo>
+    <campo url="no">BGA210159</campo>
+    <campo url="no">1104</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">152</campo>
+    <campo url="no">BGA210159</campo>
+    <campo url="no">1104</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">153</campo>
+    <campo url="no">BGA212158</campo>
+    <campo url="no">1104</campo>
+    <campo url="no">2015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">154</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE MARZO. A¥O: 2017"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "ABR  7/2017"
+   horaprn = "13:09:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTMAR\PAGMAR17.XML">RECIBOS DE MAR 2017</campo>
+    <campo url="no">312,330,942.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">312,330,942.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTABR\PAGABR17.XML">RECIBOS DE ABR 2017</campo>
+    <campo url="no">1,350,591.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,350,591.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTMAR\PAGMAR17.XML">ABONOS DE MAR 2017</campo>
+    <campo url="no">22,207,953.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">22,207,953.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no"></campo>
+    <campo url="no">239,972,932.00</campo>
+    <campo url="no">-239,972,932.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">11,808.99</campo>
+    <campo url="no"></campo>
+    <campo url="no">11,808.99</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">DESCUENTO PARA PAGO DE NOMINA</campo>
+    <campo url="no"></campo>
+    <campo url="no">130,248,984.00</campo>
+    <campo url="no">-130,248,984.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">744,206.23</campo>
+    <campo url="no">-744,206.23</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">COMPRAS PSE</campo>
+    <campo url="no">2,741,000.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,741,000.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">29,646.00</campo>
+    <campo url="no">-29,646.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">338,642,294.99</campo>
+    <campo url="no">370,995,768.23</campo>
+    <campo url="no">-32,353,473.24</campo>
+
+  </registro>
+
+</registros>

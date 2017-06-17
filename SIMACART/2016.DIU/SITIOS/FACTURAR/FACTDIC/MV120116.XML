@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE DICIEMBRE DIA:01. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC  2/2016"
+   horaprn = "11:39:28"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">33,376.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0024      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">7,016.42</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">211174141100</campo>
+    <campo url="no">1102 CASTELLANOS NIEVES JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3900,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">206176141100</campo>
+    <campo url="no">1103 MANTILLA ARIZA MARIA CAMILA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6481,264.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211178141100</campo>
+    <campo url="no">1103 SOLIS PACHECO ADALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">608,530.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">213169141100</campo>
+    <campo url="no">0701 BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">668,846.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">210015021100</campo>
+    <campo url="no">1002 CELY MONTA¥EZ YOHAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">211178141100</campo>
+    <campo url="no">1103 SOLIS PACHECO ADALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6481,264.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">215143141100</campo>
+    <campo url="no">1103 HERNANDEZ ZAMBRANO VALENTINA E</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2533,210.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">630000619800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">8344,000.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">206183141100</campo>
+    <campo url="no">1002 ACEVEDO NI¥O DIEGO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1214,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">212061021100</campo>
+    <campo url="no">1002 LOPEZ ARRIETA OSCAR DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">216092141100</campo>
+    <campo url="no">1003 RAMIREZ ACU¥A CARLOS ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1214,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">215142141100</campo>
+    <campo url="no">0701 HERNANDEZ ZAMBRANO VALERIA MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2880,565.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">212127021100</campo>
+    <campo url="no">1003 CACUA GAMBOA PAULA CATALINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  2/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

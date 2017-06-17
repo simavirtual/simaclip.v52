@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:10. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY 15/2017"
+   horaprn = "09:06:24"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215062050502</campo>
+    <campo url="no">0502 DUE¥AS CASTRO STHEPHANIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">213166050502</campo>
+    <campo url="no">0602 REYES PRINCE LADER ALEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">212119050502</campo>
+    <campo url="no">0402 QUINTERO ARIAS MIGUEL ANGEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">730,445.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">207001050502</campo>
+    <campo url="no">1101 QUINTERO ARIAS DANIEL FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">213030050502</campo>
+    <campo url="no">0402 SERRANO CUADROS SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">730,445.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">210119050502</campo>
+    <campo url="no">0701 ANAYA CABALLERO FREDY ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208083050502</campo>
+    <campo url="no">1001 ANAYA CABALLERO EMILY PAOLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">217058050502</campo>
+    <campo url="no">1102 CEPEDA AGUILAR MARIA CAMILA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">209210050502</campo>
+    <campo url="no">0801 HERNANDEZ REYES JOSE DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215131140502</campo>
+    <campo url="no">1003 SANCHEZ FLOREZ MARIA CAMILA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">654,356.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">211006140502</campo>
+    <campo url="no">0701 SANCHEZ MURILLO HELI SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,055.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">048460007338</campo>
+    <campo url="no">alumno:216099 216096 216097</campo>
+    <campo url="no">034</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">alumno:216099 216096 216097</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">213087050502</campo>
+    <campo url="no">1001 HERNANDEZ MORENO CARLOS EDUARD</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2648,662.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">217038050502</campo>
+    <campo url="no">0101 RENGIFO PULIDO DIEGO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,469.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 10/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

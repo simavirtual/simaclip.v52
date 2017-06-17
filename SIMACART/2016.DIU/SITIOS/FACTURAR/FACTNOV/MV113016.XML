@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE NOVIEMBRE DIA:30. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC  1/2016"
+   horaprn = "08:14:42"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">434,531.87</campo>
+    <campo url="no">NOV 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0028      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">*********.**</campo>
+    <campo url="no">NOV 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">208175111100</campo>
+    <campo url="no">1101 GONZALEZ RINCON DANIELA ALEXAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6400,847.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 30/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214154111100</campo>
+    <campo url="no">1001 LOBO PATERNINA SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2458,498.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 30/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

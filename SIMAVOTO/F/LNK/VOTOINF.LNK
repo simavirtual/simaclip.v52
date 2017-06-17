@@ -1,0 +1,23 @@
+#  LINKEADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simavoto\f\objs\VotInfor
+     #ÀInformes de la aplicaci¢n
+
+       fi \simaclip.v52\simavoto\f\objs\Vot00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simavoto\f\objs\Vot00200
+     #ÀInformes Controlados
+
+       fi \simaclip.v52\simavoto\f\objs\Vot10100
+     #ÀInformes canditos. Resultado de las Elecciones.
+#>>>>FIN ARCHIVOS DEL MODULO

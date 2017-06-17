@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS"
+   titulo2 = "CORRESPONDIENTE AL MES DE FEBRERO"
+   titulo3 = "GRUPO: 1101 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "ABR  8/2016"
+   horaprn = "16:04:11"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV020416.XML">1</campo>
+    <campo url="no">ABRIL SARMIENTO MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">5,744,070</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,456,868</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">DIC  4/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211100</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022916.XML">2</campo>
+    <campo url="no">BARRAGAN RUEDA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">206021</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">3</campo>
+    <campo url="no">BARRERA ROJAS DANN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">205248</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV020316.XML">4</campo>
+    <campo url="no">BERNAL GONZALEZ VA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">5,744,070</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,456,868</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">DIC  3/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213191</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021716.XML">5</campo>
+    <campo url="no">BUITRAGO DIAZ MIGU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 17/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211052</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022416.XML">6</campo>
+    <campo url="no">CARRILLO OROZCO VA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 24/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215156</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">7</campo>
+    <campo url="no">CARVAJAL PICON MAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211082</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021916.XML">8</campo>
+    <campo url="no">CASTRO LOBO JOSEPH</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 19/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215135</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">9</campo>
+    <campo url="no">CELIS CARVAJAL MAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214061</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021916.XML">10</campo>
+    <campo url="no">CRUZ SANTAMARIA VA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 19/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214082</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">DELGADO PACHECO MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,872</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,465</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">205097</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">12</campo>
+    <campo url="no">DURAN PARADA OSCAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">206068</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021716.XML">13</campo>
+    <campo url="no">GAONA OSORIO CESAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 17/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">207126</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV020116.XML">14</campo>
+    <campo url="no">GARCIA MOGOLLON DA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">5,744,070</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,456,868</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">DIC  1/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213034</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">MARTINEZ ACU¥A JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,699</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,292</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">209130</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">MEJIA MARTINEZ IVA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,699</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,292</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">210091</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021916.XML">17</campo>
+    <campo url="no">MUSKUS GARCIA ALEJ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 19/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">208249</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022516.XML">18</campo>
+    <campo url="no">OREJARENA SERRANO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 25/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215084</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">PE¥A GELVEZ BRANDO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211181</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">PINZON GONZALEZ JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">557,979</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">11,707</campo>
+    <campo url="no">546,272</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216077</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021616.XML">21</campo>
+    <campo url="no">RAMIREZ ARRIETA MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">210003</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">22</campo>
+    <campo url="no">REYES CADENA CARLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215109</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV020716.XML">23</campo>
+    <campo url="no">RODRIGUEZ ARGUELLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">5,744,070</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,456,868</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">DIC  7/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214122</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021616.XML">24</campo>
+    <campo url="no">ROJAS AGUILAR JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">205023</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">RUEDA BLANCO NICOL</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,699</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,292</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">207207</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021616.XML">26</campo>
+    <campo url="no">RUIZ MEJIA JUANA G</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">208212</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022416.XML">27</campo>
+    <campo url="no">SALCEDO VARGAS LAU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 24/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">210089</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022516.XML">28</campo>
+    <campo url="no">SUAREZ LEAL JHONAT</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 25/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212159</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022616.XML">29</campo>
+    <campo url="no">TABORDA SIBAJA AND</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">5,744</campo>
+    <campo url="no">FEB 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">210058</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">VARGAS PEREZ SARA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,699</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,292</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">208104</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">GONZALEZ RINCON DA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">586,699</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">12,292</campo>
+    <campo url="no">574,407</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">208175</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022216.XML">32</campo>
+    <campo url="no">BUENO CARRIZALES B</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">5,744,070</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,456,867</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 22/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">209188</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACFEB16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">4,078,346</campo>
+    <campo url="no">44,229,339</campo>
+    <campo url="no">85,632</campo>
+    <campo url="no">3,992,714</campo>
+    <campo url="no"></campo>
+    <campo url="no">63,184</campo>
+    <campo url="no">38,198,072</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

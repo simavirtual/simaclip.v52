@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:13. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR 14/2016"
+   horaprn = "07:42:40"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">212043040400</campo>
+    <campo url="no">0701 OLARTE GOMEZ MATTIAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">212070040400</campo>
+    <campo url="no">1003 BELTRAN NI¥O JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">210071040400</campo>
+    <campo url="no">1103 SILVA ORDO¥EZ LUZ ANGLICA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216061040400</campo>
+    <campo url="no">0202 CASTRO SORA MARIA ALEJANDRA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216027040400</campo>
+    <campo url="no">1501 CELIS TAMARA ANDREA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216038040400</campo>
+    <campo url="no">0601 CELIS TAMARA BRENDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216072040400</campo>
+    <campo url="no">1001 CHACON ROBAYO NATHALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215135040400</campo>
+    <campo url="no">1101 CASTRO LOBO JOSEPH FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">214126040400</campo>
+    <campo url="no">0201 CARPETA RAMIREZ JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">214127040400</campo>
+    <campo url="no">0201 CARPETA RAMIREZ JIMMY ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">209024040400</campo>
+    <campo url="no">0801 BARROS NAVARRO DAVID RICARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216039040400</campo>
+    <campo url="no">0601 GONZALEZ SANCHEZ CARLOS SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">215109040400</campo>
+    <campo url="no">1101 REYES CADENA CARLOS HUMBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">216111040400</campo>
+    <campo url="no">1601 FRANCO RUEDA JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">216110040400</campo>
+    <campo url="no">0301 FRANCO RUEDA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">212050040400</campo>
+    <campo url="no">0802 SANTOS ORTIZ CARLOS ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">212051040400</campo>
+    <campo url="no">1001 SANTOS ORTIZ CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">216067040400</campo>
+    <campo url="no">0802 GUTIERREZ GUTIERREZ JULIAN AND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">213065040400</campo>
+    <campo url="no">1102 GRATERON RAMIREZ ADRIAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">216129040400</campo>
+    <campo url="no">0401 CEREZO ZULUAGA SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">207018040400</campo>
+    <campo url="no">1002 QUINTERO PINZON ANDRES FERNAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">216066040400</campo>
+    <campo url="no">0701 SILVA OSMA MATEO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1320,514.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">214051040400</campo>
+    <campo url="no">0802 MU¥OZ ALVAREZ IVAN DARIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214042040400</campo>
+    <campo url="no">0801 SUAREZ PE¥UELA JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">213165040400</campo>
+    <campo url="no">0901 GARCIA VALLEJO DANIEL SEBASTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1185,214.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">215180040400</campo>
+    <campo url="no">1601 VILLALBA IBA¥EZ LUISA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">216077040400</campo>
+    <campo url="no">1101 PINZON GONZALEZ JULIAN EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">545,687.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">214096040400</campo>
+    <campo url="no">0302 CARRE¥O GONZALEZ JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1355,182.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">215028040400</campo>
+    <campo url="no">0202 BALLESTEROS DIAZ JUAN FELIX</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">214033040400</campo>
+    <campo url="no">0402 MANTILLA GUTIERREZ SARAH SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">214099040400</campo>
+    <campo url="no">1103 TERAN DIAZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">213024040400</campo>
+    <campo url="no">0902 OTERO PRIETO LUIS JAVIER</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

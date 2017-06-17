@@ -1,0 +1,58 @@
+#  ENCADENADOR: SIMA - COLEGIOS
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: abr 23/2008 DIA A
+#       Colombia, Bucaramanga        INICIO:  09:11 AM
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \simaclip.v52\simacole\simacole
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \simaclip.v52\simacole\f\objs\simacole
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \simaclip.v52\simacole\simacole
+
+       @lnk\Col100.lnk
+       @lnk\Col200.lnk
+       @lnk\Col300.lnk
+       @lnk\Col400.lnk
+       @lnk\Col500.lnk
+       @lnk\Col600.lnk
+       @lnk\Col700.lnk
+
+       @lnk\ColFun.lnk
+       @lnk\ColInf.lnk
+       @lnk\ColSha.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       @\simaclip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\simaclip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

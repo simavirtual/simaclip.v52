@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE MARZO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "ABR  7/2017"
+   horaprn = "13:27:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0101-11</campo>
+    <campo url="no">217046</campo>
+    <campo url="no">PORTILLA ORTEGA JUAN SEBASTIAN</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,899,752</campo>
+    <campo url="no">5,899,752</campo>
+    <campo url="no">6,268,492</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0301- 3</campo>
+    <campo url="no">215039</campo>
+    <campo url="no">BARRETO VILLADIEGO SHEYLA MARGARITA</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,843,560</campo>
+    <campo url="no">5,843,560</campo>
+    <campo url="no">6,957,059</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0402-16</campo>
+    <campo url="no">216052</campo>
+    <campo url="no">SOLANO CARDENAS ANDRES FELIPE</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,843,560</campo>
+    <campo url="no">5,843,560</campo>
+    <campo url="no">7,322,273</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0701-21</campo>
+    <campo url="no">211045</campo>
+    <campo url="no">RAMIREZ ALBARRACIN MANUEL ESTEBAN</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,694,072</campo>
+    <campo url="no">5,694,072</campo>
+    <campo url="no">6,636,726</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0701-27</campo>
+    <campo url="no">210090</campo>
+    <campo url="no">RUIZ SOSA RICARDO ANDRS</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">5,694,072</campo>
+    <campo url="no">5,694,072</campo>
+    <campo url="no">6,789,754</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0902-18</campo>
+    <campo url="no">211054</campo>
+    <campo url="no">RUGELES DIAZ JUAN DIEGO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">6,084,492</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0903-20</campo>
+    <campo url="no">209059</campo>
+    <campo url="no">PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">MAR/ABR: 1</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">638,832</campo>
+    <campo url="no">638,832</campo>
+    <campo url="no">1,932,084</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">1001-19</campo>
+    <campo url="no">213230</campo>
+    <campo url="no">OVIEDO RUEDA STANNLLY ANDRES</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">5,430,072</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">1003-25</campo>
+    <campo url="no">211036</campo>
+    <campo url="no">RUIZ SOSA HELEN YULITZA</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">5,110,656</campo>
+    <campo url="no">6,094,074</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">1101-14</campo>
+    <campo url="no">209222</campo>
+    <campo url="no">MONSALVE TAPIAS RAUL ANDRES</campo>
+    <campo url="no">MAR/ABR: 1</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">625,931</campo>
+    <campo url="no">625,931</campo>
+    <campo url="no">1,251,862</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">1101-17</campo>
+    <campo url="no">209103</campo>
+    <campo url="no">PORRAS TRILLOS JUAN PABLO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,961,632</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">1101-22</campo>
+    <campo url="no">215054</campo>
+    <campo url="no">SANTAMARIA URIBE DAVID FERNANDO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,351,710</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">1103-14</campo>
+    <campo url="no">206129</campo>
+    <campo url="no">MAY BRAVO PAUL ESTEBAN</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,007,448</campo>
+    <campo url="no">5,971,006</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">60,594,091</campo>
+    <campo url="no">60,594,091</campo>
+
+  </registro>
+
+</registros>

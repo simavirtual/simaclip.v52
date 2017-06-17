@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE AGOSTO DIA:30. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "AGO 31/2016"
+   horaprn = "07:29:43"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">467,580.32</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0028      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">*********.**</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">210020101000</campo>
+    <campo url="no">0701 CASTRO SANDOVAL EDGAR DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">208133101100</campo>
+    <campo url="no">0901 CASTRO SANDOVAL EDGAR MAURICIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1172,492.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE OCT A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214017080800</campo>
+    <campo url="no">0301 CASTELLANOS ARIZA DAVID SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216145080800</campo>
+    <campo url="no">1601 FLOREZ VARGAS JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">474,316.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216115080800</campo>
+    <campo url="no">0102 PEREZ GONZALEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214120080800</campo>
+    <campo url="no">0502 CUESTA MONTENEGRO JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">214131080800</campo>
+    <campo url="no">0001 NAJM SASSINE SANTIAGO IMAD</campo>
+    <campo url="no">036</campo>
+    <campo url="no">756,058.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215014080800</campo>
+    <campo url="no">0302 TORRES CORREA ISABEL SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">215104080800</campo>
+    <campo url="no">0502 PINZON GORDILLO LAURA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">215023080800</campo>
+    <campo url="no">1003 SEPULVEDA SARMIENTO ANA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">500018581800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">2000,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">215162080800</campo>
+    <campo url="no">0202 LOPEZ VARGAS VALENTINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">209059080800</campo>
+    <campo url="no">0802 PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">214198140800</campo>
+    <campo url="no">1003 HERNANDEZ JARAMILLO MARIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1213,177.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">216110080800</campo>
+    <campo url="no">0301 FRANCO RUEDA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">216111080800</campo>
+    <campo url="no">1601 FRANCO RUEDA JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">695,655.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">206020080800</campo>
+    <campo url="no">1103 LOPEZ RUEDA DAVID ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">216024140800</campo>
+    <campo url="no">0602 SAAVEDRA TRIANA ERWIN OMAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">675,835.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">214012080800</campo>
+    <campo url="no">0201 GIL DIAZ SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">500018580000</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">3500,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">216088080800</campo>
+    <campo url="no">0701 SALGADO PIMIENTO JOHAN DIOFANO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214071080800</campo>
+    <campo url="no">0302 DIAZ VANEGAS CARLOS LEONARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">205248080800</campo>
+    <campo url="no">1101 BARRERA ROJAS DANNY SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">214134080800</campo>
+    <campo url="no">0802 LOPEZ MADIEDO CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">213077080800</campo>
+    <campo url="no">1002 PRADA DIAZ ERWIN YESID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1197,935.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">212073080800</campo>
+    <campo url="no">0901 CESPEDES VARGAS EMERSON SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">211082080800</campo>
+    <campo url="no">1101 CARVAJAL PICON MARIA DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">211053080800</campo>
+    <campo url="no">1001 RIVERA TRASLAVI¥A CESAR IVAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">214021140800</campo>
+    <campo url="no">0301 CALDERON SOTO SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1355,785.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">214152080800</campo>
+    <campo url="no">0102 HERNANDEZ CARRILLO DANA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">216108080800</campo>
+    <campo url="no">0101 REYES DURAN JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">206100080800</campo>
+    <campo url="no">1002 NU¥EZ ROHSMAN CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">213085080800</campo>
+    <campo url="no">1103 PARRA HERRERA JULIETH PATRICIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">209019080800</campo>
+    <campo url="no">0802 LOBO MONCADA DIEGO FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">208094140800</campo>
+    <campo url="no">0901 GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">613,752.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">211154080800</campo>
+    <campo url="no">1103 ALFONSO HERNANDEZ ANDRES FELIP</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">213194080800</campo>
+    <campo url="no">0801 CONVERS CARDENAS ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">213193080800</campo>
+    <campo url="no">0602 CONVERS CARDENAS JOHN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">215133080800</campo>
+    <campo url="no">0602 TORRES ORTIZ MARIA FERNANDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">639,910.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">215007080800</campo>
+    <campo url="no">0201 ORTIZ MARTINEZ ANDRES FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">656,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">0000      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">036</campo>
+    <campo url="no">700,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">213086080800</campo>
+    <campo url="no">0902 RINCON PLAZAS JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

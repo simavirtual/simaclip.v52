@@ -1,0 +1,3661 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE MAYO. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = "GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS"
+   fechprn = "JUN  1/2016"
+   horaprn = "11:25:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>FECHA</columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>REFERENCIA</columna>
+    <columna>COMPROBANTE</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">MAY  2/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6389701</campo>
+    <campo url="no"></campo>
+    <campo url="no">210090051100</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 RUIZ SOSA RICARDO ANDRS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  2/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1236979</campo>
+    <campo url="no"></campo>
+    <campo url="no">216112050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">RETIRADO 1002 MALDONADO MENDOZA FELIXMEN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  2/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1236979</campo>
+    <campo url="no"></campo>
+    <campo url="no">216113050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">RETIRADO 1003 MALDONADO MENDOZA FEDERICO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  2/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216087050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 TAPIAS QUIROZ PIETRO ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  2/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216086050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 VANEGAS QUIROZ MARIA LAURA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  4/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">210020050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 CASTRO SANDOVAL EDGAR DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  4/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208133050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 CASTRO SANDOVAL EDGAR MAURICIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  4/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3898536</campo>
+    <campo url="no"></campo>
+    <campo url="no">209103051100</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 PORRAS TRILLOS JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  5/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212117050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 REDONDO QUINTERO SHAIEL FABIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">213024050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 OTERO PRIETO LUIS JAVIER</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215174050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0001 BRAVO WIESNER SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209162050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 GONZALEZ BARAJAS ARTURO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209175050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 ARIZA OLARTE EDGAR ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216029050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 PE¥ALOSA BURGOS GUSTAVO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208083050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 ANAYA CABALLERO EMILY PAOLA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209041050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 CONTRERAS MARTINEZ CARLOS EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">215028050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 BALLESTEROS DIAZ JUAN FELIX</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2422720</campo>
+    <campo url="no"></campo>
+    <campo url="no">216047050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 BALLESTEROS VELASCO MARIA CATALINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214123050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 DIAZ SILVA DANIEL MATEO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214124050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 DIAZ SILVA DIEGO DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216026050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1501 LOAIZA RAMIREZ JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">209077050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 SIERRA AGUILAR MARIA PAULA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">214003050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 SIERRA AGUILAR LAURA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">211053050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 RIVERA TRASLAVI¥A CESAR IVAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587853</campo>
+    <campo url="no"></campo>
+    <campo url="no">211001050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 CALVO CASTRO ANDREA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1321102</campo>
+    <campo url="no"></campo>
+    <campo url="no">212144050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 CALVO CASTRO CARLOS FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214106050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 CAMACHO GARCIA JUAN MANUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  7/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209036050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 MALDONADO BAYONA JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">207027050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 PARADA TARAZONA PEDRO ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209138050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 SILVA MEJIA JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">212084050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 BARBOSA NI¥O NATALIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">213020050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214048050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 BUSTOS HERNANDEZ JULIAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208103050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 MARI¥O BUITRAGO ANDRES MAURICIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215165050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 BENAVIDES SARMIENTO DAVID SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216049050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 BENAVIDES SARMIENTO PAULA VALENTINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216102050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 ZAMBRANO HERNANDEZ EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">211128050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 ULLOA MENESES JOSE JULIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216120050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 GARCIA CORTES SAMUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">208241050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 MORENO SUAREZ CATALINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1321102</campo>
+    <campo url="no"></campo>
+    <campo url="no">209100050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 BARRERA PADILLA JUAN EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212043050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 OLARTE GOMEZ MATTIAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215177050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 MELO ARIAS JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">210044050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 SALAZAR VILLAMIZAR JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216111050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 FRANCO RUEDA JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216110050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 FRANCO RUEDA JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">213043050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 PARRA RODRIGUEZ JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216071050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 GAMBOA BARAJAS JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216129050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 CEREZO ZULUAGA SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215062050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 DUE¥AS CASTRO STHEPHANIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">208212050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 RUIZ MEJIA JUANA GABRIELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212055050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 RONDON RODRIGUEZ JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">210119050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 ANAYA CABALLERO FREDY ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">213200050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 MEJIA RIVERA JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 10/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">214099050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 TERAN DIAZ JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215160050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 GARCIA TORRES JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">215006050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 RUIZ FLOREZ JUAN MANUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215164050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 MARTINEZ FORERO CYNTHIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215163050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 MARTINEZ FORERO KEVIN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">209089050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 ESTUPI¥AN MOJICA ANDRES FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211093050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 ESTUPI¥AN MOJICA MARÖA ALEJANDRA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216040050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 SANTIAGO RUIZ JOSE MANUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">212119050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 QUINTERO ARIAS MIGUEL ANGEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">207001050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 QUINTERO ARIAS DANIEL FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211155050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 NAVAS RODRIGUEZ EDDY SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216004050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1501 AGUILAR SIERRA JOSE DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216061050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 CASTRO SORA MARIA ALEJANDRA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214023050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 SANTOS PEREZ JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">207126050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 GAONA OSORIO CESAR FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208038050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 CASTRO VERA MIGUEL SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">213081050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 BUELVAS PRADA JUAN MIGUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216100050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 PARRA MARTINEZ CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">214102050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 TORRA CASTRO JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216033050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 SARMIENTO GOMEZ JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208079050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 VILLAMIZAR SIERRA JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">600916</campo>
+    <campo url="no"></campo>
+    <campo url="no">213228050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 CALA CASTRO MARIA PAULA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">213148050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 BELTRAN FRANCO LUIS CARLOS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216005050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1501 BELTRAN FRANCO SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">210173050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 JAIMES VILLAMIZAR GEOFFRY FARID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209210050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 HERNANDEZ REYES JOSE DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">205023050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 ROJAS AGUILAR JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214095050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 COBOS MONTES MANUELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215040050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 GABANZO MORALES NICOLAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1185741</campo>
+    <campo url="no"></campo>
+    <campo url="no">215049050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 MORENO BECERRA JESUS ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">212077050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 ABAUNZA PEREZ GABRIEL HORACIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211081050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 ARIAS ARGUELLO MARIA LUCIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214051050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 MU¥OZ ALVAREZ IVAN DARIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">215113050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 CHAPARRO MOTTA JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">215180050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 VILLALBA IBA¥EZ LUISA MARIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">551014</campo>
+    <campo url="no"></campo>
+    <campo url="no">216093050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 RODRIGUEZ GALVIS MAXIMILIANO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214033050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0402 MANTILLA GUTIERREZ SARAH SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215038050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 IRIARTE FRANCO DANIEL ESTEBAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212050050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 SANTOS ORTIZ CARLOS ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 12/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">212051050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 SANTOS ORTIZ CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">212035050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 VELANDIA DONADO MOISES ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">212011050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 VELANDIA DONADO URIEL ALFONSO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">210034050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 ORTIZ MOJICA IVAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216028050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 SILVA ACEVEDO MARIA JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215026050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 SILVA ACEVEDO JOSE DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214104050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 OSPINA PRADA JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214132050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 OSPINA PRADA GABRIELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215050050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 CASTRO PLAZAS JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215051050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 CASTRO PLAZAS JOSE MIGUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215090050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 GARCIA ALVAREZ SEBASTIAN JAVIER</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214127050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 CARPETA RAMIREZ JIMMY ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216072050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 CHACON ROBAYO NATHALIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214046050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 PEINADO ROA GABRIEL LEONARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">207018050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 QUINTERO PINZON ANDRES FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216099050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 AMAYA PINTO LAURA MARCELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216096050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 AMAYA PINTO JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216097050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 AMAYA PINTO LUIS ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214126050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 CARPETA RAMIREZ JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 13/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">207055050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 GOMEZ CORREDOR MIGUEL ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">211064050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 DIAZ ARANGO JUAN ESTEBAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215094050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 LOPEZ ANGARITA CARLOS DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215095050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0001 LOPEZ ANGARITA ANY SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215128050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 IBA¥EZ SAAD RONALD SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211022050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 RIVERA RODRIGUEZ LAILA NADEZHDA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215106050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 PRADA SANCHEZ JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215111050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 PRADA SANCHEZ CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216062050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 ORTIZ FIGUEROA JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216064050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 ORTIZ FIGUEROA DANIELA ORTIZ</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216035050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 RENGIFO PULIDO JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">527621</campo>
+    <campo url="no"></campo>
+    <campo url="no">208047050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 PRADA CARVAJAL DANIEL JESUS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215083050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 DULCEY JAIMES LAURA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211024050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 MU¥OZ ROBLES LAURA MARCELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216119050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 DELGADO ALFONSO KEYNER STEVEN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216094050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 AYALA GARCIA JUAN DIEGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209024050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 BARROS NAVARRO DAVID RICARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">208072050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 DURAN URIBE OSCAR ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209029050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 ORDUZ BLANCO EMANUEL ANTONIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">214195050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 TRUJILLO MEDINA MARIA FERNANDA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">214192050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 TRUJILLO MEDINA EDGAR FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">209124050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 ANAYA NI¥O JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">212070050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 BELTRAN NI¥O JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">215138050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 CARRE¥O CABEZA DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212059050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 ROBERTO ZU¥IGA CRISTIAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216001050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 MANOSALVA ARIZA JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216066050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 SILVA OSMA MATEO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">216054050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 CACERES VELASQUEZ DANNA VALERIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">212009050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 PE¥A RUIZ KEVIN SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">210013050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 PE¥A RUIZ DAVID FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">210071050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 SILVA ORDO¥EZ LUZ ANGLICA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">215119050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 SERRANO JIMENEZ LUIS MIGUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211003050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 GALVIS RUEDA MARIA LUCIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">206027050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 SILGADO MEJIA WEINNER DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208099050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 SUAREZ PINZON JORGE EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">213021050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 SUAREZ PINZON MARIA LUCIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215103050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 RODRIGUEZ AGUSTIN ANGIE YULIETH</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">212073050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 CESPEDES VARGAS EMERSON SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211134050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 PEREZ SANCHEZ ANA LUCIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">214025050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 ACEVEDO SANCHEZ MARIA JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215035050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 ACEVEDO SANCHEZ MARIA ANGEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216031050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 LIZCANO ARENAS NICOLE SOPHIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">208043050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 LIZCANO ARENAS CRISTHIAN RAFAEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">215044050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 CORONEL DAZA ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211025050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 CRUZ SANTAMARIA NICOLAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">214082050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 CRUZ SANTAMARIA VALENTINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670318</campo>
+    <campo url="no"></campo>
+    <campo url="no">216078050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 GUERRERO BALAGUERA THOMAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">207043050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 CORTES ORTIZ SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">215070050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 NORIEGA SARMIENTO DAVID FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215168050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 ARDILA HERNANDEZ CLARIBELLE VANESSA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">206012050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 FERREIRA GUERRERO BRANDON STEVEN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216069050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 GAMBOA HERRERA JHOAN ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">211005050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 ADARME DAZA JOSE ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">212038050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 MEJIA PARADA MONICA MARCELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1163499</campo>
+    <campo url="no"></campo>
+    <campo url="no">215072050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 GOMEZ GOMEZ JULIANA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">216073050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 GUZMAN JAIMES JORGE STEVEN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215167050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 PLATA CARDENAS JUAN FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676764</campo>
+    <campo url="no"></campo>
+    <campo url="no">216032050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 APARICIO BELTRAN ISABELLA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">216103050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 TAVERA CAMARGO CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586246</campo>
+    <campo url="no"></campo>
+    <campo url="no">215120050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 JIMENEZ BETANCOURT DANIXA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688767</campo>
+    <campo url="no"></campo>
+    <campo url="no">215134050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 GRANADOS TORO JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 16/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653170</campo>
+    <campo url="no"></campo>
+    <campo url="no">213090050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 RUIZ PINEDA JHONATAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">213088050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 AVILA CARRERO SAMUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212039050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 AVILA CARRERO DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">213085050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 PARRA HERRERA JULIETH PATRICIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214085050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 GARCIA MANTILLA LUIS JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212003050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 VALERO RUEDA SAMUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212010050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 MENDOZA ROSALES LAURA JULIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 17/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214143050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 ACEVEDO GARNICA CARLOS ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214032050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 SERRANO JIMENEZ CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">214180050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 PATI¥O CAMACHO JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">208039050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 COBOS AYALA DANIEL EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215156050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 CARRILLO OROZCO VALERIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">205274050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 MARQUEZ MERCADO GABRIELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">214101050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 REMOLINA OLIVEROS CAMILO ERNESTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215135050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 CASTRO LOBO JOSEPH FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">211205050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 SARMIENTO MARTINEZ ANA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">211204050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 SARMIENTO MARTINEZ JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">208149050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 MORALES CASTELLON JULIAN ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173284</campo>
+    <campo url="no"></campo>
+    <campo url="no">216132050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 PINZON HERNANDEZ MARIA ANDREA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1197466</campo>
+    <campo url="no"></campo>
+    <campo url="no">207056050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 FRANCO CORREDOR GUSTAVO ALBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">211002050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 VILLARREAL PE¥ARANDA GORGY ESTEBAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216039050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 GONZALEZ SANCHEZ CARLOS SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">214136050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 ARENAS LOPEZ SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">209021050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 PEREZ RODRIGUEZ SILVIA JULIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1161796</campo>
+    <campo url="no"></campo>
+    <campo url="no">215098050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 MARTINEZ VARGAS DANIELA ANDREA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214096050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 CARRE¥O GONZALEZ JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">211013050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 GOMEZ OCHOA VALERIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">210199050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 GOMEZ OCHOA TOMAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216067050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 GUTIERREZ GUTIERREZ JULIAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1197466</campo>
+    <campo url="no"></campo>
+    <campo url="no">215092050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 PARADA HERNANDEZ CARLOS HERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">211087050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 ALVAREZ VERGEL JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">212124050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 VILLAMIL YASSIN ANGIE JULIETH</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">214060050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 MITCHELL POMBO BRAYAN ORLANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">214059050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 MITCHELL POMBO SERGIO DANIEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">209037050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 MONTAGUTH DURAN SEBASTIAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">206100050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 NU¥EZ ROHSMAN CAMILO ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">216044050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 CELY FORERO JOSE DANIEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">215115050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 BELLO SILVA JUAN DANIEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">207019050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 ORTIZ CALDERON JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1197466</campo>
+    <campo url="no"></campo>
+    <campo url="no">213078050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 JIMENEZ CAMARGO NATALIA ANDREA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">213030050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 SERRANO CUADROS SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">212074050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 HERNANDEZ OTERO CARLOS SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">215150050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 RUEDA HERNANDEZ CARLOS EDUARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">211098050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 NARANJO FRANCO JUAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">215017050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 GRANADOS BAUTISTA JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">695655</campo>
+    <campo url="no"></campo>
+    <campo url="no">216023050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 GRANADOS BAUTISTA JULIAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369191</campo>
+    <campo url="no"></campo>
+    <campo url="no">212136050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 HERNANDEZ HIGUERA FELIPE ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">639910</campo>
+    <campo url="no"></campo>
+    <campo url="no">215133050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 TORRES ORTIZ MARIA FERNANDA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 23/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">656710</campo>
+    <campo url="no"></campo>
+    <campo url="no">215007050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 ORTIZ MARTINEZ ANDRES FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">215015050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0102 CHAPARRO GOMEZ DIEGO ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">212028050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 CHAPARRO GOMEZ SEBASTIAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">215170050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0002 SUAREZ AVAUNZA JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">214056050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 LEON DIAZ JULIAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">209019050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 LOBO MONCADA DIEGO FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">213110050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 DIAZ CERON CRISTIAN JAVIER</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">211052050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 BUITRAGO DIAZ MIGUEL ANGEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">209168050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 VILLAMIZAR CARVAJAL DIEGO MARTIN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216117050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 PLATA CASTELLANOS JULIAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">213093050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 ZAFRA OTERO FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574407</campo>
+    <campo url="no"></campo>
+    <campo url="no">211066050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 FORERO NAVARRO ANA MARIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 24/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215013050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 ALVAREZ PARADA SEBASTIAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">216098050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 GALLO BELLO ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215114050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 CARRASCAL LEMUS LUIS FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">214057050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 SANCHEZ PRADA LAURA CAMILA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216038050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 CELIS TAMARA BRENDA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">695655</campo>
+    <campo url="no"></campo>
+    <campo url="no">216027050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1501 CELIS TAMARA ANDREA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">209020050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 SERRANO MENDOZA ALEXANDRA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">207017050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 SERRANO MENDOZA DIEGO FRANCISCO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">213142050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 SUAREZ BARAJAS SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">494777</campo>
+    <campo url="no"></campo>
+    <campo url="no">214179050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 MARTINEZ CHEHAYEB PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214178050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 MARTINEZ CHEHAYEB SAMUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">214177050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0001 MARTINEZ CHEHAYEB NICOLAS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">215162050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 LOPEZ VARGAS VALENTINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">215011050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 DUQUE CHAPARRO JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">438373</campo>
+    <campo url="no"></campo>
+    <campo url="no">214131050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0001 NAJM SASSINE SANTIAGO IMAD</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214045050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 HERRERA GALAN JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">214009050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 CAMARGO TOLOZA SIMON</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212036050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 QUINTERO BLANCO JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">215052050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 OLARTE PUENTES YURLEY TATIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">212138050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 PINZON GIRALDO SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">211091050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 CARDENAS CUBILLOS LAURA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">211090050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 CARDENAS CUBILLOS JUAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 25/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2022802</campo>
+    <campo url="no"></campo>
+    <campo url="no">214113050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 VELASQUEZ CARRE¥O JUAN ESTEBAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">212069050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 HOLGUIN LEON JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">211206050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 PAEZ BARON SAMI JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1778881</campo>
+    <campo url="no"></campo>
+    <campo url="no">213099050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 DEL TORO ZARATE DIEGO FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214049050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 AGUDELO LADRON DE GUEVARA SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216015050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 RODRIGUEZ JAIMES MARIA JULIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173284</campo>
+    <campo url="no"></campo>
+    <campo url="no">207176050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 HERNANDEZ RUEDA MARIA JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">216063050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 DAZA LOPEZ ALVARO JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">215014050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 TORRES CORREA ISABEL SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">209092050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 REYES BARCENAS JHOAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">216055050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 LEON DUARTE JUAN JOSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">216056050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 STERLING DUARTE LAYLLA EVELITH</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">215022050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 LEON DUARTE JESUS DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">216130050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 REYES PEREZ PABLO ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2446170</campo>
+    <campo url="no"></campo>
+    <campo url="no">208058050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 TAPIAS BARRAGAN JORGE ENRIQUE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">210016050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 GUALDRON TELLEZ JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">214133050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 MADRID ALFONSO CARLOS DANIEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">216057050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 LOPEZ DUARTE LUNA SOFIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">206020050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 LOPEZ RUEDA DAVID ORLANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683532</campo>
+    <campo url="no"></campo>
+    <campo url="no">216108050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0101 REYES DURAN JUAN MANUEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">213166050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 REYES PRINCE LADER ALEN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 26/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369191</campo>
+    <campo url="no"></campo>
+    <campo url="no">214098050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 REY AMAYA SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214017050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0301 CASTELLANOS ARIZA DAVID SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173284</campo>
+    <campo url="no"></campo>
+    <campo url="no">214197050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 MONTOYA DUQUE ESTEFANIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369191</campo>
+    <campo url="no"></campo>
+    <campo url="no">214071050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 DIAZ VANEGAS CARLOS LEONARDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214120050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 CUESTA MONTENEGRO JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215127050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 RUEDA SOLANO MARIA GABRIELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">212115050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 VARGAS ROJAS GERMAN DAVID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214084050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 ARENAS PE¥UELA JUAN PABLO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214015050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0202 APARICIO CALDERON SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">210003050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 RAMIREZ ARRIETA MARIA MANUELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">209237050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 OTALORA PEREZ ISABELLA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214043050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 ALVAREZ LIZCANO CARLOS MARIO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">215117050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 BAUTISTA TOLOZA DIANA MARCELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">213077050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 PRADA DIAZ ERWIN YESID</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1406875</campo>
+    <campo url="no"></campo>
+    <campo url="no">215146050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1601 BOBADILLA SANCHEZ SAUL ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">215112050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1001 SIACHOQUE PE¥A ANDRES CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">216024050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 SAAVEDRA TRIANA ERWIN OMAR</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214128050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 FERREIRA RUEDA SILVIA MARCELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215129050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 SILVA AMAYA JORGE ARMANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">211117050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1002 FERREIRA RUEDA DUVAN FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2725418</campo>
+    <campo url="no"></campo>
+    <campo url="no">214201050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 ARGUELLO GOMEZ DYLAN DANIEL</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">214042050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 SUAREZ PE¥UELA JUAN SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216017050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 LANZZIANO RIVERA MARIA ANGELICA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">034</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">212159050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 SUAREZ LEAL JHONATAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212066050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 CARVAJAL QUINTERO ISABELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">215104050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0502 PINZON GORDILLO LAURA JULIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">206068050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 DURAN PARADA OSCAR FERNANDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">216067050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0802 GUTIERREZ GUTIERREZ JULIAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173284</campo>
+    <campo url="no"></campo>
+    <campo url="no">211082050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 CARVAJAL PICON MARIA DANIELA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">215109050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 REYES CADENA CARLOS HUMBERTO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">205248050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 BARRERA ROJAS DANNY SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">213165050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 GARCIA VALLEJO DANIEL SEBASTIAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">211076050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0601 SERRANO GONZALEZ JUAN ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">212037050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0401 SALCEDO VARGAS SARA MARIA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">215097050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 MARTINEZ VARGAS JUAN CARLOS</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">211154050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1103 ALFONSO HERNANDEZ ANDRES FELIPE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">210089050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 SALCEDO VARGAS LAURA VALENTINA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">213194050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0801 CONVERS CARDENAS ISABELLA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">213193050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0602 CONVERS CARDENAS JOHN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">207141050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0902 GUERRERO ROMERO CARLOS ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580151</campo>
+    <campo url="no"></campo>
+    <campo url="no">214061050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1101 CELIS CARVAJAL MARIA PAULA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">214198050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 HERNANDEZ JARAMILLO MARIANA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">215057050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 ADARME VALDERRAMA DANIEL ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369191</campo>
+    <campo url="no"></campo>
+    <campo url="no">215056050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 ADARME VALDERRAMA JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">997291</campo>
+    <campo url="no"></campo>
+    <campo url="no">205042050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1102 ADARME HERNANDEZ ANDRES RODRIGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369191</campo>
+    <campo url="no"></campo>
+    <campo url="no">214144050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0302 RINCON PLAZAS JOEL SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677021</campo>
+    <campo url="no"></campo>
+    <campo url="no">214012050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0201 GIL DIAZ SANTIAGO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">211073050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 RODRIGUEZ NORE¥A JUAN CAMILO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334165</campo>
+    <campo url="no"></campo>
+    <campo url="no">216088050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0701 SALGADO PIMIENTO JOHAN DIOFANOR</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592108</campo>
+    <campo url="no"></campo>
+    <campo url="no">216070050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0901 CELIS CARVAJAL JORGE IVAN</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1197466</campo>
+    <campo url="no"></campo>
+    <campo url="no">216092050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">1003 RAMIREZ ACU¥A CARLOS ANDRES</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659702</campo>
+    <campo url="no"></campo>
+    <campo url="no">215124050500</campo>
+    <campo url="no"></campo>
+    <campo url="no">0501 FLOREZ MANTILLA DAVID ALEJANDRO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no">244,157,154.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

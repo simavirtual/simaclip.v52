@@ -1,0 +1,72 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# NOMBRE DEL ENCADENADOR..: PLUSMATR.LNK                                 *
+# TITULO DEL PROGRAMA.....: ENCADENADOR DEL SISTEMA                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador del CLIPPER V52 Rtlink
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador "rtlink"
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+       BLI INC OF
+       BLI EXE CLI //F:60
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>OPCIONES OPCIONALES
+#      BLI EXE DUA
+#      BLI EXE NODELETE
+#      BLI DEM DAT 2001/01/30
+#      BLI EXE COM 9
+#      VERBOSE
+#      MAP A,S
+#>>>>FIN OPCIONES OPCIONALES
+
+#>>>>NOMBRE DEL ARCHIVO EXECUTABLE
+       output \SimaClip.v52\SimaCart\PlusCart
+       section into \SimaClip.v52\SimaCart\PlusCart
+#>>>>FIN NOMBRE DEL ARCHIVO EXECUTABLE
+
+#>>>>MODULOS DEL SISTEMA
+       fi \SimaClip.v52\SimaCart\f\objs\PlusCart
+       BEGINAREA
+	 @lnk\Carte100.lnk
+	 @lnk\Carte200.lnk
+	 @lnk\Carte300.lnk
+	 @lnk\Carte400.lnk
+	 @lnk\Carte500.lnk
+	 @lnk\Carte600.lnk
+	 @lnk\Carte700.lnk
+
+	 @lnk\CarteFun.lnk
+	 @lnk\CarteSha.lnk
+
+	 @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+	 Lib extend
+       ENDAREA
+#>>>>FIN MODULOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+#       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIAS DE TERCEROS
+       search \aplica.dos\lenguaje\blinker7\lib\blxclp52
+#>>>>FIN LIBRERIAS DE TERCEROS
+

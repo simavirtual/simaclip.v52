@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JUNIO DIA:13. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUN 14/2016"
+   horaprn = "07:52:08"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">009126157000</campo>
+    <campo url="no">alumno:211052 ref:91261570</campo>
+    <campo url="no">034</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">alumno:211052 ref:91261570</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214195060600</campo>
+    <campo url="no">0102 TRUJILLO MEDINA MARIA FERNANDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">214192060600</campo>
+    <campo url="no">0701 TRUJILLO MEDINA EDGAR FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">210071060600</campo>
+    <campo url="no">1103 SILVA ORDO¥EZ LUZ ANGLICA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">210020060600</campo>
+    <campo url="no">0701 CASTRO SANDOVAL EDGAR DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">208133060600</campo>
+    <campo url="no">0901 CASTRO SANDOVAL EDGAR MAURICIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">211167060600</campo>
+    <campo url="no">0402 RONCANCIO PALLARES SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3411,508.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214048060600</campo>
+    <campo url="no">0801 BUSTOS HERNANDEZ JULIAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">216119060600</campo>
+    <campo url="no">0902 DELGADO ALFONSO KEYNER STEVEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215015060600</campo>
+    <campo url="no">0102 CHAPARRO GOMEZ DIEGO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">211128060600</campo>
+    <campo url="no">0901 ULLOA MENESES JOSE JULIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">213020060600</campo>
+    <campo url="no">0902 CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">211177060600</campo>
+    <campo url="no">0601 GUTIERREZ PORRAS WILSON ARLEY</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1321,102.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">208099060600</campo>
+    <campo url="no">0901 SUAREZ PINZON JORGE EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">210044060600</campo>
+    <campo url="no">0602 SALAZAR VILLAMIZAR JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">216051060600</campo>
+    <campo url="no">1601 PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">216050060600</campo>
+    <campo url="no">0301 PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">216120060600</campo>
+    <campo url="no">1601 GARCIA CORTES SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">211081060600</campo>
+    <campo url="no">0601 ARIAS ARGUELLO MARIA LUCIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">207018060600</campo>
+    <campo url="no">1002 QUINTERO PINZON ANDRES FERNAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">215167060600</campo>
+    <campo url="no">0902 PLATA CARDENAS JUAN FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">213021060600</campo>
+    <campo url="no">0401 SUAREZ PINZON MARIA LUCIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">212028060600</campo>
+    <campo url="no">1003 CHAPARRO GOMEZ SEBASTIAN CAMIL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214033060600</campo>
+    <campo url="no">0402 MANTILLA GUTIERREZ SARAH SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">216040060600</campo>
+    <campo url="no">0701 SANTIAGO RUIZ JOSE MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">213093060600</campo>
+    <campo url="no">0701 ZAFRA OTERO FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

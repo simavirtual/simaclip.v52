@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE AGOSTO DIA:10. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "AGO 11/2016"
+   horaprn = "07:19:15"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215103080800</campo>
+    <campo url="no">0801 RODRIGUEZ AGUSTIN ANGIE YULIET</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214048080800</campo>
+    <campo url="no">0801 BUSTOS HERNANDEZ JULIAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">209036080800</campo>
+    <campo url="no">0801 MALDONADO BAYONA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216071080800</campo>
+    <campo url="no">1002 GAMBOA BARAJAS JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216120080800</campo>
+    <campo url="no">1601 GARCIA CORTES SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214201080800</campo>
+    <campo url="no">0802 ARGUELLO GOMEZ DYLAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214197080800</campo>
+    <campo url="no">1102 MONTOYA DUQUE ESTEFANIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214051080800</campo>
+    <campo url="no">0802 MU¥OZ ALVAREZ IVAN DARIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">210044080800</campo>
+    <campo url="no">0602 SALAZAR VILLAMIZAR JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">212140080800</campo>
+    <campo url="no">0302 JAIMES PULIDO DAVID ARMANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1356,321.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">213166080800</campo>
+    <campo url="no">0502 REYES PRINCE LADER ALEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">214099080800</campo>
+    <campo url="no">1103 TERAN DIAZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">213209080800</campo>
+    <campo url="no">0902 BRITO DE LA CRUZ JHONNY JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">213208080800</campo>
+    <campo url="no">1103 BRITO DE LA CRUZ YOMERCI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,67 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+     #ÀFucniones generales de SimaSoft
+
+       fi \SimaClip.v52\sima.fun\gContJvf
+       fi \SimaClip.v52\sima.fun\eContJvf
+
+       fi \SimaClip.v52\sima.fun\gSimaInf
+       fi \SimaClip.v52\sima.fun\eSimaInf
+
+       fi \SimaClip.v52\sima.fun\gSimaIso
+       fi \SimaClip.v52\sima.fun\eSimaIso
+     #ÀFunciones generadas
+
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaInd
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaGru
+       fi \SimaClip.v52\sima.fun\SimaNiv
+       fi \SimaClip.v52\sima.fun\SimaMat
+       fi \SimaClip.v52\sima.fun\SimaPla
+       fi \SimaClip.v52\sima.fun\SimaNot
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAlu
+     #ÀFunciones de la Matr¡cula
+
+       fi \SimaClip.v52\SimaCont\f\objs\FSimaCon
+       fi \SimaClip.v52\Simacont\f\objs\FContTbl
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsNiv
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsMat
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsPla
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsGru
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsNot
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsPaz
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsSel
+       fi \SimaClip.v52\simacont\f\objs\fDeudaPz
+       fi \SimaClip.v52\simacont\f\objs\FuncsCar
+       fi \SimaClip.v52\simacont\f\objs\FuncsSuG
+       fi \SimaClip.v52\simacont\f\objs\FuncsSuN
+       fi \SimaClip.v52\simacont\f\objs\FuncsEva
+       fi \SimaClip.v52\simacont\f\objs\FuCal000
+       fi \SimaClip.v52\simacont\f\objs\FuCal301
+       fi \SimaClip.v52\simacont\f\objs\FuCal302
+       fi \SimaClip.v52\simacont\f\objs\gContCla
+       fi \SimaClip.v52\simacont\f\objs\eContCla
+       fi \SimaClip.v52\simacont\f\objs\gSubIndi
+       fi \SimaClip.v52\simacont\f\objs\eSubIndi
+       fi \SimaClip.v52\simacont\f\objs\gContJui
+     #ÀFunciones de la Contabilidad
+
+       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+      #ÀFunciones de la Cartera
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotProfe.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

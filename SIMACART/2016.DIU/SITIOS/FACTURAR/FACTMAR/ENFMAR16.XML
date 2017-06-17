@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS NO FACTURADOS}"
+   titulo1 = "ESTUDIANTES NO FACTURADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE MARZO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "ABR  8/2016"
+   horaprn = "14:08:10"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No. </columna>
+    <columna>GRUPO</columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>MOTIVO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">1501</campo>
+    <campo url="no">216053</campo>
+    <campo url="no">PARRA MANTILLA NICOLAS SANTIAGO</campo>
+    <campo url="no">DIC 16/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">214001</campo>
+    <campo url="no">BELTRAN ALMEIDA MARIA JOSE</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">214006</campo>
+    <campo url="no">DIAZ JAIMES MATIAS</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">214004</campo>
+    <campo url="no">ESTEBAN BUENO MANUEL JOSE</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">214180</campo>
+    <campo url="no">PATI¥O CAMACHO JUAN FELIPE</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">213014</campo>
+    <campo url="no">RAMIREZ ALBARRACIN ANA SOFIA</campo>
+    <campo url="no">DIC 15/2015</campo>
+    <campo url="no">AAAAAAAAAA</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">214103</campo>
+    <campo url="no">SANCHEZ AMADO JUANA VALENTINA</campo>
+    <campo url="no">DIC 11/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">214145</campo>
+    <campo url="no">RODRIGUEZ DIAZ OMAR DAVID</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">216003</campo>
+    <campo url="no">SANTOYO CONTRERAS TOMAS AUGUSTO</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">215154</campo>
+    <campo url="no">PE¥A PINZON GABRIEL FERNANDO</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">212041</campo>
+    <campo url="no">TOVAR SANCHEZ SEBASTIAN</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">213120</campo>
+    <campo url="no">AVILA CAMPO JOSSI RAFAEL</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">215005</campo>
+    <campo url="no">JEREZ MADRIGAL JOSE ALEJANDRO</campo>
+    <campo url="no">ENE 15/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">215001</campo>
+    <campo url="no">SALAMANCA ARDILA DIEGO JOSE</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">214161</campo>
+    <campo url="no">MU¥OS ARMENTA JHON WEST</campo>
+    <campo url="no">MAR 28/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214158</campo>
+    <campo url="no">GALEANO VASQUEZ ALEXANDER OLEGARIO</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214029</campo>
+    <campo url="no">GAMBOA MANTILLA JUAN ESTEBAN</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214027</campo>
+    <campo url="no">PEREZ TAMAYO DIEGO JOSE</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214024</campo>
+    <campo url="no">RAMIREZ LOZANO JOSEPH CAMILO</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214075</campo>
+    <campo url="no">SANCHEZ RINCON SEBASTIAN</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214205</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN FELIPE</campo>
+    <campo url="no">ABR  4/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">211109</campo>
+    <campo url="no">SIERRA ROJAS JHONATAN STIVEN</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">214028</campo>
+    <campo url="no">ZAMBRANO TORRES SANTIAGO</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">213038</campo>
+    <campo url="no">JEREZ MADRIGAL JUAN ESTEBAN</campo>
+    <campo url="no">ENE 15/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">213009</campo>
+    <campo url="no">MARTINEZ ARROYO DAVID ALEJANDRO</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">215018</campo>
+    <campo url="no">RODRIGUEZ BAUTISTA JOSE SANTIAGO</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">216129</campo>
+    <campo url="no">CEREZO ZULUAGA SEBASTIAN</campo>
+    <campo url="no">MAR 31/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">213119</campo>
+    <campo url="no">AVILA CAMPO JANNY JULIETH</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">214035</campo>
+    <campo url="no">BERBESI PINZON JONATHAN DAVID</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">212023</campo>
+    <campo url="no">OCHOA GRANADOS ANGIE LORENA</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">211017</campo>
+    <campo url="no">ACEVEDO PE¥UELA JUAN GUILLERMO</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">214202</campo>
+    <campo url="no">DONIS HUNG JUAN PABLO</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">212027</campo>
+    <campo url="no">ESTEBAN BUENO JUAN DAVID</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">212004</campo>
+    <campo url="no">MEDINA GALVIS SANTIAGO</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">212029</campo>
+    <campo url="no">VASQUEZ DAVILA ROBERTO JOSE</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">214162</campo>
+    <campo url="no">MU¥OZ ARMENTA SANTIAGO</campo>
+    <campo url="no">MAR 28/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">214155</campo>
+    <campo url="no">PLATA URIBE DANIEL JOSE</campo>
+    <campo url="no">ENE 30/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">216013</campo>
+    <campo url="no">ROMERO JOYA JUAN DIEGO</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">212026</campo>
+    <campo url="no">SALAZAR LEON FERNANDO JOSE</campo>
+    <campo url="no">ENE 30/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">214038</campo>
+    <campo url="no">SANCHEZ PATI¥O JUAN CAMILO</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">211043</campo>
+    <campo url="no">AYALA JAIMES ANGEL DAVID</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">211009</campo>
+    <campo url="no">BAUTISTA GOMEZ JUAN DAVID</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">211075</campo>
+    <campo url="no">DELGADO DUARTE DANIEL FELIPE</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">216018</campo>
+    <campo url="no">GONZALEZ CHAVES DAVID ALEJANDRO</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">216085</campo>
+    <campo url="no">MELO CEVERICHE DAVID EDUARDO</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">211045</campo>
+    <campo url="no">RAMIREZ ALBARRACIN MANUEL ESTEBAN</campo>
+    <campo url="no">DIC 15/2015</campo>
+    <campo url="no">AAAAAAAAAA</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">214168</campo>
+    <campo url="no">SANCHEZ LOPEZ JULIAN DAVID</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">212031</campo>
+    <campo url="no">BAYONA CORDERO OLGER ERNESTO</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">211015</campo>
+    <campo url="no">GOMEZ VEGA IVAN DARIO</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">216084</campo>
+    <campo url="no">MELO CEVERICHE ESTEBAN FELIPE</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">210155</campo>
+    <campo url="no">PEREZ JURADO IVAN ANDRES</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">211040</campo>
+    <campo url="no">PEREZ TAMAYO MOISES ANDRES</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">215009</campo>
+    <campo url="no">SALAZAR LEON KAREN FERNANDA</campo>
+    <campo url="no">ENE 30/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">213118</campo>
+    <campo url="no">AVILA CAMPO JUAN JOSE</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">216116</campo>
+    <campo url="no">HSU LEE ALEJANDRO</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">A</campo>
+    <campo url="no">FEBRERO</campo>
+    <campo url="no">Retirado</campo>
+    <campo url="no">EN MAR  1/2016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">208170</campo>
+    <campo url="no">GOMEZ RIA¥O CARLOS FERNANDO</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">213109</campo>
+    <campo url="no">GOMEZ TOSCANO NICOLLE</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">212022</campo>
+    <campo url="no">OCHOA GRANADOS RAUL DAVID</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">212042</campo>
+    <campo url="no">TOVAR SANCHEZ GABRIELA</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">214050</campo>
+    <campo url="no">CASTRO SUAREZ DANIEL ALEJANDRO</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">213130</campo>
+    <campo url="no">MONCADA MORALES JUAN ANDRES</campo>
+    <campo url="no">FEB 26/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">216128</campo>
+    <campo url="no">VELASQUEZ VILLABONA JUAN ANDRES</campo>
+    <campo url="no">ABR  6/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de MARZO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">210041</campo>
+    <campo url="no">AYALA LOPEZ SEBASTIAN EDUARDO</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">212133</campo>
+    <campo url="no">DE LA HOZ CASTA¥EDA PAOLA ANDREA</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">65</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">215073</campo>
+    <campo url="no">LEON DIAZ SILVIA JULIANA</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">66</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">212143</campo>
+    <campo url="no">LOZANO ARIZA DAVID SANTIAGO</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">67</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">214076</campo>
+    <campo url="no">SANCHEZ RINCON ALIRIO ESTEBAN</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">68</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">213204</campo>
+    <campo url="no">VILLAMIZAR HURTADO JUAN PABLO</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">69</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">213138</campo>
+    <campo url="no">BLANCO OLARTE ANDRES MAURICIO</campo>
+    <campo url="no">FEB  8/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Retirado</campo>
+    <campo url="no">EN ABR  4/2016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">70</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">214203</campo>
+    <campo url="no">DONIS HUNG ANTONIO JOSE</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">71</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">207148</campo>
+    <campo url="no">PINZON QUI¥ONEZ ANGEL DE JESUS</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">72</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">215002</campo>
+    <campo url="no">VEGA HIGUERA LUIS CARLOS</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">73</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">213101</campo>
+    <campo url="no">GOMEZ CHAUX ANDRES FELIPE</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">74</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">207183</campo>
+    <campo url="no">MANTILLA PEREZ ANGIE VANESSA</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">75</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">210122</campo>
+    <campo url="no">MOSQUERA DUARTE SANTIAGO</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">76</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">213128</campo>
+    <campo url="no">NOSSA RUGELES JEAN PIERRE</campo>
+    <campo url="no">FEB  2/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">77</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">206046</campo>
+    <campo url="no">ANGARITA DIAZ MARIA CAMILA</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">78</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">212060</campo>
+    <campo url="no">BAUTISTA ORDUZ EDWIN DANIEL</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">79</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">207037</campo>
+    <campo url="no">CLAVIJO SANABRIA CATALINA</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">80</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">211041</campo>
+    <campo url="no">ESCAMILLA SALAS DIEGO JAVIER</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">81</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">212024</campo>
+    <campo url="no">OCHOA GRANADOS DAYANA KATHERINE</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">82</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">215054</campo>
+    <campo url="no">SANTAMARIA URIBE DAVID FERNANDO</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no">PPPPPPPP</campo>
+    <campo url="no">SEPTIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">83</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">212021</campo>
+    <campo url="no">BAYONA CORDERO JACKY JOHANNA</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">84</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">213096</campo>
+    <campo url="no">CASTILLO MEZA MARIA GABRIELA</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">85</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">210015</campo>
+    <campo url="no">CELY MONTA¥EZ YOHAN ANDRES</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">86</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">214058</campo>
+    <campo url="no">GOMEZ SARMIENTO ISMAEL</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">87</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">212061</campo>
+    <campo url="no">LOPEZ ARRIETA OSCAR DANIEL</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">88</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">216091</campo>
+    <campo url="no">LUNA RUEDA LAURA CRISTINA</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">89</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">213031</campo>
+    <campo url="no">MERCHAN QUEVEDO HELMAN ANDRES</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">90</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">207005</campo>
+    <campo url="no">RINCON LEMUS MARIA XIMENA</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">91</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">212127</campo>
+    <campo url="no">CACUA GAMBOA PAULA CATALINA</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">92</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">215159</campo>
+    <campo url="no">CANO MERCHAN LAURA ALEJANDRA</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">93</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">206129</campo>
+    <campo url="no">MAY BRAVO PAUL ESTEBAN</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">94</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">207103</campo>
+    <campo url="no">MORA SERRANO FRANCISCO JAVIER</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">95</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">216074</campo>
+    <campo url="no">MORALES PU¥UELA VALENTINA</campo>
+    <campo url="no">DIC 15/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">96</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">213220</campo>
+    <campo url="no">NARANJO HERRERA JUAN DAVID</campo>
+    <campo url="no">FEB  9/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">97</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">213123</campo>
+    <campo url="no">SARMIENTO GUALDRON NICOLAS</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">98</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">214194</campo>
+    <campo url="no">SUAREZ RAMIREZ MAICOL SEBASTIAN</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">99</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">211100</campo>
+    <campo url="no">ABRIL SARMIENTO MARTIN</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">100</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">213191</campo>
+    <campo url="no">BERNAL GONZALEZ VALENTINA</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">101</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">213034</campo>
+    <campo url="no">GARCIA MOGOLLON DAVID SAID</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">102</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">214122</campo>
+    <campo url="no">RODRIGUEZ ARGUELLO VALERIA</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">103</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">209188</campo>
+    <campo url="no">BUENO CARRIZALES BRYAN RICARDO</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">104</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">206118</campo>
+    <campo url="no">CADENA ANGARITA CLAUDIA ELENA</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPP</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">105</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">205223</campo>
+    <campo url="no">FONSECA HERNANDEZ JUAN DAVID</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">106</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">211186</campo>
+    <campo url="no">MILLAN TELLEZ LUIS FELIPE</campo>
+    <campo url="no">DIC 15/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">107</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">214137</campo>
+    <campo url="no">TORRES RUEDA JAIR ESTEBAN</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">108</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">215016</campo>
+    <campo url="no">VEGA HIGUERA MARIA CAMILA</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">109</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">208195</campo>
+    <campo url="no">VERA QUINTERO CAMILO ALBERTO</campo>
+    <campo url="no">FEB 25/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">110</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">209003</campo>
+    <campo url="no">GOMEZ AYALA LAURA ALEXANDRA</campo>
+    <campo url="no">DIC  3/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">111</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">212128</campo>
+    <campo url="no">GONZALEZ PRADA MARIA PAULA</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">112</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">207090</campo>
+    <campo url="no">JAIMES BAYONA CESAR AUGUSTO</campo>
+    <campo url="no">DIC  9/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">113</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">213242</campo>
+    <campo url="no">PLAZAS GARRIDO JOSE ALEJANDRO</campo>
+    <campo url="no">DIC  2/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">114</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">212013</campo>
+    <campo url="no">VEGA MEJIA DANIEL FELIPE</campo>
+    <campo url="no">DIC  1/2015</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Por Anticipado</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A ENE 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE NOVIEMBRE"
+   titulo3 = "GRUPO: 0202 JORNADA: DIURNA. A¥O: 2015"
+   fechprn = "FEB  5/2016"
+   horaprn = "16:01:24"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV111715.XML">1</campo>
+    <campo url="no">ACEVEDO GARNICA CA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 17/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214143</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111815.XML">2</campo>
+    <campo url="no">ADARME VALDERRAMA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 18/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215056</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">BELLO RINCON JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213140</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112615.XML">4</campo>
+    <campo url="no">CARRE¥O GONZALEZ J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 26/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214096</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110515.XML">5</campo>
+    <campo url="no">COBOS MONTES MANUE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  5/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214095</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112615.XML">6</campo>
+    <campo url="no">DIAZ VANEGAS CARLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,276,358</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">12,628</campo>
+    <campo url="no">NOV 26/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214071</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112615.XML">7</campo>
+    <campo url="no">FRANCO PINTO EFRAI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 26/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214077</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112015.XML">8</campo>
+    <campo url="no">JAIMES PULIDO DAVI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 20/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212140</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111715.XML">9</campo>
+    <campo url="no">PACHECO GONZALEZ J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 17/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214031</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">QUEVEDO OTERO LUIS</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">212096</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112415.XML">11</campo>
+    <campo url="no">REY AMAYA SANTIAGO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 24/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214098</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112315.XML">12</campo>
+    <campo url="no">RINCON PLAZAS JOEL</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 23/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214144</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112515.XML">13</campo>
+    <campo url="no">SANCHEZ GONZALEZ O</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,015,566</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">19,497</campo>
+    <campo url="no">NOV 25/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110615.XML">14</campo>
+    <campo url="no">SANTOS PEREZ JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  6/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214023</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111015.XML">15</campo>
+    <campo url="no">SERRANO CUADROS SA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 10/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213030</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">SERRANO JIMENEZ GU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215132</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">SIERRA ROJAS JHONA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">211109</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112515.XML">18</campo>
+    <campo url="no">TORRES CORREA ISAB</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">631,423</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,314</campo>
+    <campo url="no">NOV 25/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">TORRES REBOLLEDO J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">631,423</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">214022</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN</campo>
+    <campo url="no">OTRO GRUPO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214205</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">ZAMBRANO TORRES SA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214028</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">SERRANO MANCILLA S</campo>
+    <campo url="no">R E T I R A D O</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213040</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACNOV15.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">10,102,768</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no">88,951</campo>
+    <campo url="no">10,869,000</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

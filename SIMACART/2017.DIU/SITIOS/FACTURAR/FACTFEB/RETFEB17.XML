@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS RETIRADOS}"
+   titulo1 = "ESTUDIANTES RETIRADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE FEBRERO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAR  7/2017"
+   horaprn = "12:35:40"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>GRUPO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>RETIRO</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>ULTIMO RECIBO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">**************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ENERO DIA:22. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ENE 23/2017"
+   horaprn = "16:16:04"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">216085021100</campo>
+    <campo url="no">0701 MELO CEVERICHE DAVID EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216084021100</campo>
+    <campo url="no">0702 MELO CEVERICHE ESTEBAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">506999877000</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">2461,266.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">500013367700</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">20000,000.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214205141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3945,224.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214203021100</campo>
+    <campo url="no">1001 DONIS HUNG ANTONIO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214202021100</campo>
+    <campo url="no">0601 DONIS HUNG JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">216058141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">705,297.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">212089141100</campo>
+    <campo url="no">0302 MONSALVE ESTUPI¥AN LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">686,406.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">214018141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2130,704.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">213109021100</campo>
+    <campo url="no">0901 GOMEZ TOSCANO NICOLLE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">214155021100</campo>
+    <campo url="no">0602 PLATA URIBE DANIEL JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">215009021100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6619,358.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">212026021100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6619,358.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">215043141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">693,006.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">215144141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1321,624.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">217056021100</campo>
+    <campo url="no">0600 FLOREZ SARMIENTO LUISA FERNAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 23/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">215078141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3625,019.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 23/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

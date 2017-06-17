@@ -1,0 +1,39 @@
+#  LINKEADOR: SIMA - SISTEMA DE CAFETERIA
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simacafe\f\objs\CaFInfor
+     #ÀInformes de la aplicaci¢n
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00200
+     #ÀInformes Controlados
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00300
+     #ÀEstudiantes con ingresos a Cafeteria
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00400
+     #ÀPersonal Actual
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00500
+     #ÀIngresos por d¡a a la Cafeteria
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00600
+     #ÀIngresos por fechas a la Cafeteria
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00700
+     #ÀServicios Activos de Cafeteria
+
+       fi \simaclip.v52\simacafe\f\objs\CaF00800
+     #ÀDescripci¢n de deudas de Paz y Salvos
+#>>>>FIN ARCHIVOS DEL MODULO
+

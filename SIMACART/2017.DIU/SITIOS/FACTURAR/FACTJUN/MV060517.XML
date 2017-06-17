@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JUNIO DIA:05. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUN  7/2017"
+   horaprn = "10:53:15"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">214036140602</campo>
+    <campo url="no">0601 BLANCO VEGA SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214002140602</campo>
+    <campo url="no">0102 BLANCO VEGA JOSE ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">764,350.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">209054140602</campo>
+    <campo url="no">1103 DELGADO ARIAS NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1297,492.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">470169983595</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">1546,846.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  5/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">208168140602</campo>
+    <campo url="no">1002 BARON CRISTANCHO MARIA DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1191,898.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

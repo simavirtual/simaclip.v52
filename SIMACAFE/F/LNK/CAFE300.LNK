@@ -1,0 +1,23 @@
+#  ENCADENADOR PARA SIMA - SISTEMA DE CAFETERIA
+
+#*************************************************************************
+# MODULO..: INFORMES                                                     *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe301
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe311
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe312
+
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe302
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe321
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe322
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe303
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe304
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe305
+       fi \SimaClip.V52\SimaCafe\f\objs\Cafe306
+#>>>>ARCHIVOS DEL MODULO

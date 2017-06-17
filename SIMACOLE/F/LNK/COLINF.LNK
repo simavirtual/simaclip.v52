@@ -1,0 +1,20 @@
+#  LINKEADOR: SIMA - COLEGIOS
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simacole\f\objs\ColInfor
+     #ÀInformes de la aplicaci¢n
+
+       fi \simaclip.v52\simacole\f\objs\Col00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simacole\f\objs\Col00200
+     #ÀInformes Controlados
+#>>>>FIN ARCHIVOS DEL MODULO

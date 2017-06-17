@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE ABRIL"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAY  5/2017"
+   horaprn = "17:03:09"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0102- 8</campo>
+    <campo url="no">217075</campo>
+    <campo url="no">NAVARRO GARCIA SIMON</campo>
+    <campo url="no">ABR/NOV: 7</campo>
+    <campo url="no">O:04/06/2017</campo>
+    <campo url="no">5,162,283</campo>
+    <campo url="no">5,162,283</campo>
+    <campo url="no">7,059,937</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">5,162,283</campo>
+    <campo url="no">5,162,283</campo>
+
+  </registro>
+
+</registros>

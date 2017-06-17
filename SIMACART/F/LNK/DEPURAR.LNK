@@ -1,0 +1,107 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaCart\PlusCart
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaCart\f\objs\Depurar
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \SimaClip.v52\SimaCart\PlusCart
+
+       fi \SimaClip.V52\simacart\f\objs\Carte255
+
+
+#       fi \SimaClip.V52\simacart\f\objs\Carte203
+#       fi \SimaClip.V52\simacart\f\objs\FuncsTra
+#       fi \SimaClip.V52\simacart\f\objs\OtrTra01
+
+#       fi \SimaClip.V52\simacart\f\objs\Carte102
+
+#       fi \SimaClip.V52\simacart\f\objs\Carte193
+
+#       fi \SimaClip.v52\sima.fun\eSimaFam
+#       fi \SimaClip.v52\sima.fun\gSimaFam
+
+#       fi \SimaClip.V52\simacart\f\objs\Carte301
+
+#       fi \SimaClip.V52\simacart\f\objs\FuncsMor
+#       fi \SimaClip.V52\simacart\f\objs\OtrMor01
+#       fi \SimaClip.V52\simacart\f\objs\OtrMor02
+#	fi \SimaClip.V52\simacart\f\objs\OtrMor05
+
+
+#       fi \SimaClip.v52\sima.fun\gSimaCoE
+#       fi \SimaClip.v52\sima.fun\eSimaCoE
+#       fi \SimaClip.v52\sima.fun\SimaCoE
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsBan
+       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+       fi \SimaClip.V52\simacart\f\objs\FuncsRec
+
+#       fi \SimaClip.V52\simacart\f\objs\Carte251
+#       fi \SimaClip.V52\simacart\f\objs\Cart2511
+#       fi \SimaClip.V52\simacart\f\objs\Carte261
+
+       fi \SimaClip.V52\simacart\f\objs\FSimaCar
+       fi \SimaClip.V52\simacart\f\objs\FCartAno
+       fi \SimaClip.V52\simacart\f\objs\FCartTbl
+       fi \SimaClip.V52\simacart\f\objs\CarteFun
+       fi \SimaClip.V52\simacart\f\objs\FuncsAlu
+       fi \SimaClip.V52\simacart\f\objs\FuncsGru
+       fi \SimaClip.V52\simacart\f\objs\FuncsDes
+       fi \SimaClip.V52\simacart\f\objs\FuncsCon
+       fi \SimaClip.V52\simacart\f\objs\FuncsTar
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsCli
+       fi \SimaClip.V52\simacart\f\objs\FuncsPag
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsNiv
+     #ÀCarteFun.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaGru
+       fi \SimaClip.v52\sima.fun\SimaCli
+       fi \SimaClip.v52\sima.fun\SimaPag
+       fi \SimaClip.v52\sima.fun\SimaCon
+       fi \SimaClip.v52\sima.fun\SimaDes
+       fi \SimaClip.v52\sima.fun\gSimaRut
+       fi \SimaClip.v52\sima.fun\eSimaRut
+       fi \SimaClip.v52\sima.fun\SimaCoE
+
+       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

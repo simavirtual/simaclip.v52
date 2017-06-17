@@ -1,0 +1,220 @@
+//  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+//*************************************************************************
+// NOMBRE DEL ENCADENADOR..: PLUSMATR.RMK                                 *
+// TITULO DEL PROGRAMA.....: UTILIDAD DE CONTRUCCION DEL SISTEMA          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+//	  Colombia, Bucaramanga	       INICIO: 09:05 AM   Pendiente
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaMatr /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaMatr
+      OBJDIR := objs
+      SISPRG := \SimaClip.v52\SimaMatr\f
+      FUNPRG := \SimaClip.v52\SimaMatr\f\funcions
+      FUNINF := \SimaClip.v52\SimaMatr\f\inforsys
+      FUNCAR := \SimaClip.v52\SimaCart\f\funcions
+      OBJCAR := \SimaClip.v52\SimaCart\f\objs
+      OPTIONS := /w/b
+//    LINKER  := Rtlink @$(FILSCR).lnk
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaMatr\f\lnk\Rtlink.lnk
+    LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaMatr\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+///RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 $(CLIPPER) $* /w/b/o$(OBJDIR)\$
+"$(OBJDIR)\SimaMatr.obj" : "$(SISPRG)\SimaMatr.prg"
+.prg.obj:
+	 $(CLIPPER) $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Matri101.obj" : "$(SISPRG)\Matri101.prg"
+"$(OBJDIR)\Matri102.obj" : "$(SISPRG)\Matri102.prg"
+"$(OBJDIR)\Matri103.obj" : "$(SISPRG)\Matri103.prg"
+"$(OBJDIR)\Matri201.obj" : "$(SISPRG)\Matri201.prg"
+"$(OBJDIR)\Matri202.obj" : "$(SISPRG)\Matri202.prg"
+"$(OBJDIR)\Matri221.obj" : "$(SISPRG)\Matri221.prg"
+"$(OBJDIR)\Matri222.obj" : "$(SISPRG)\Matri222.prg"
+"$(OBJDIR)\Matri223.obj" : "$(SISPRG)\Matri223.prg"
+"$(OBJDIR)\Matri203.obj" : "$(SISPRG)\Matri203.prg"
+"$(OBJDIR)\Matri204.obj" : "$(SISPRG)\Matri204.prg"
+"$(OBJDIR)\Matri205.obj" : "$(SISPRG)\Matri205.prg"
+"$(OBJDIR)\Matri206.obj" : "$(SISPRG)\Matri206.prg"
+"$(OBJDIR)\Matri207.obj" : "$(SISPRG)\Matri207.prg"
+"$(OBJDIR)\Matri301.obj" : "$(SISPRG)\Matri301.prg"
+"$(OBJDIR)\Matri311.obj" : "$(SISPRG)\Matri311.prg"
+"$(OBJDIR)\Matri312.obj" : "$(SISPRG)\Matri312.prg"
+"$(OBJDIR)\Matri313.obj" : "$(SISPRG)\Matri313.prg"
+"$(OBJDIR)\Matri302.obj" : "$(SISPRG)\Matri302.prg"
+"$(OBJDIR)\Matri303.obj" : "$(SISPRG)\Matri303.prg"
+"$(OBJDIR)\Matri304.obj" : "$(SISPRG)\Matri304.prg"
+"$(OBJDIR)\Matri305.obj" : "$(SISPRG)\Matri305.prg"
+"$(OBJDIR)\Matri306.obj" : "$(SISPRG)\Matri306.prg"
+"$(OBJDIR)\Matri307.obj" : "$(SISPRG)\Matri307.prg"
+"$(OBJDIR)\Matri371.obj" : "$(SISPRG)\Matri371.prg"
+"$(OBJDIR)\Matri372.obj" : "$(SISPRG)\Matri372.prg"
+"$(OBJDIR)\Matri373.obj" : "$(SISPRG)\Matri373.prg"
+"$(OBJDIR)\Matri308.obj" : "$(SISPRG)\Matri308.prg"
+"$(OBJDIR)\Matri309.obj" : "$(SISPRG)\Matri309.prg"
+"$(OBJDIR)\Matri391.obj" : "$(SISPRG)\Matri391.prg"
+"$(OBJDIR)\Matri392.obj" : "$(SISPRG)\Matri392.prg"
+"$(OBJDIR)\Matri401.obj" : "$(SISPRG)\Matri401.prg"
+"$(OBJDIR)\Matri402.obj" : "$(SISPRG)\Matri402.prg"
+"$(OBJDIR)\Matri403.obj" : "$(SISPRG)\Matri403.prg"
+"$(OBJDIR)\Matri404.obj" : "$(SISPRG)\Matri404.prg"
+"$(OBJDIR)\Matri405.obj" : "$(SISPRG)\Matri405.prg"
+"$(OBJDIR)\Matri501.obj" : "$(SISPRG)\Matri501.prg"
+"$(OBJDIR)\Matri511.obj" : "$(SISPRG)\Matri511.prg"
+"$(OBJDIR)\Matri512.obj" : "$(SISPRG)\Matri512.prg"
+"$(OBJDIR)\Matri502.obj" : "$(SISPRG)\Matri502.prg"
+"$(OBJDIR)\Matri521.obj" : "$(SISPRG)\Matri521.prg"
+"$(OBJDIR)\Matri522.obj" : "$(SISPRG)\Matri522.prg"
+"$(OBJDIR)\Matri503.obj" : "$(SISPRG)\Matri503.prg"
+"$(OBJDIR)\Matri504.obj" : "$(SISPRG)\Matri504.prg"
+"$(OBJDIR)\Matri505.obj" : "$(SISPRG)\Matri505.prg"
+"$(OBJDIR)\Matri551.obj" : "$(SISPRG)\Matri551.prg"
+"$(OBJDIR)\Matri552.obj" : "$(SISPRG)\Matri552.prg"
+"$(OBJDIR)\Matri553.obj" : "$(SISPRG)\Matri553.prg"
+"$(OBJDIR)\Matr5531.obj" : "$(SISPRG)\Matr5531.prg"
+"$(OBJDIR)\Matr5532.obj" : "$(SISPRG)\Matr5532.prg"
+"$(OBJDIR)\Matri554.obj" : "$(SISPRG)\Matri554.prg"
+"$(OBJDIR)\Matri555.obj" : "$(SISPRG)\Matri555.prg"
+"$(OBJDIR)\Matri556.obj" : "$(SISPRG)\Matri556.prg"
+"$(OBJDIR)\Matri506.obj" : "$(SISPRG)\Matri506.prg"
+"$(OBJDIR)\Matri507.obj" : "$(SISPRG)\Matri507.prg"
+"$(OBJDIR)\Matri509.obj" : "$(SISPRG)\Matri509.prg"
+"$(OBJDIR)\Matri601.obj" : "$(SISPRG)\Matri601.prg"
+"$(OBJDIR)\Matri602.obj" : "$(SISPRG)\Matri602.prg"
+"$(OBJDIR)\Matri603.obj" : "$(SISPRG)\Matri603.prg"
+"$(OBJDIR)\Matri631.obj" : "$(SISPRG)\Matri631.prg"
+"$(OBJDIR)\Matri632.obj" : "$(SISPRG)\Matri632.prg"
+"$(OBJDIR)\Matri633.obj" : "$(SISPRG)\Matri633.prg"
+"$(OBJDIR)\Matri634.obj" : "$(SISPRG)\Matri634.prg"
+"$(OBJDIR)\Matr6341.obj" : "$(SISPRG)\Matr6341.prg"
+"$(OBJDIR)\Matr6342.obj" : "$(SISPRG)\Matr6342.prg"
+"$(OBJDIR)\Matri635.obj" : "$(SISPRG)\Matri635.prg"
+"$(OBJDIR)\Matr6351.obj" : "$(SISPRG)\Matr6351.prg"
+"$(OBJDIR)\Matr6352.obj" : "$(SISPRG)\Matr6352.prg"
+"$(OBJDIR)\Matr6353.obj" : "$(SISPRG)\Matr6353.prg"
+"$(OBJDIR)\Matr6354.obj" : "$(SISPRG)\Matr6354.prg"
+"$(OBJDIR)\Matri636.obj" : "$(SISPRG)\Matri636.prg"
+"$(OBJDIR)\Matri637.obj" : "$(SISPRG)\Matri637.prg"
+"$(OBJDIR)\Matr6371.obj" : "$(SISPRG)\Matr6371.prg"
+"$(OBJDIR)\Matr6372.obj" : "$(SISPRG)\Matr6372.prg"
+"$(OBJDIR)\Matr6373.obj" : "$(SISPRG)\Matr6373.prg"
+"$(OBJDIR)\Matr6374.obj" : "$(SISPRG)\Matr6374.prg"
+"$(OBJDIR)\Matr6375.obj" : "$(SISPRG)\Matr6375.prg"
+"$(OBJDIR)\Matri638.obj" : "$(SISPRG)\Matri638.prg"
+"$(OBJDIR)\Matri639.obj" : "$(SISPRG)\Matri639.prg"
+"$(OBJDIR)\Matri604.obj" : "$(SISPRG)\Matri604.prg"
+"$(OBJDIR)\Matri641.obj" : "$(SISPRG)\Matri641.prg"
+"$(OBJDIR)\Matri642.obj" : "$(SISPRG)\Matri642.prg"
+"$(OBJDIR)\Matri643.obj" : "$(SISPRG)\Matri643.prg"
+"$(OBJDIR)\Matri644.obj" : "$(SISPRG)\Matri644.prg"
+"$(OBJDIR)\Matri645.obj" : "$(SISPRG)\Matri645.prg"
+"$(OBJDIR)\Matri646.obj" : "$(SISPRG)\Matri646.prg"
+"$(OBJDIR)\Matri647.obj" : "$(SISPRG)\Matri647.prg"
+"$(OBJDIR)\Matri605.obj" : "$(SISPRG)\Matri605.prg"
+"$(OBJDIR)\Matri606.obj" : "$(SISPRG)\Matri606.prg"
+"$(OBJDIR)\Matri661.obj" : "$(SISPRG)\Matri661.prg"
+"$(OBJDIR)\Matri662.obj" : "$(SISPRG)\Matri662.prg"
+"$(OBJDIR)\Matri607.obj" : "$(SISPRG)\Matri607.prg"
+"$(OBJDIR)\Matri671.obj" : "$(SISPRG)\Matri671.prg"
+"$(OBJDIR)\Matri672.obj" : "$(SISPRG)\Matri672.prg"
+"$(OBJDIR)\Matri608.obj" : "$(SISPRG)\Matri608.prg"
+"$(OBJDIR)\Matri609.obj" : "$(SISPRG)\Matri609.prg"
+"$(OBJDIR)\Matri691.obj" : "$(SISPRG)\Matri691.prg"
+"$(OBJDIR)\Matri692.obj" : "$(SISPRG)\Matri692.prg"
+"$(OBJDIR)\Matri705.obj" : "$(SISPRG)\Matri705.prg"
+"$(OBJDIR)\Matri706.obj" : "$(SISPRG)\Matri706.prg"
+"$(OBJDIR)\Matri764.obj" : "$(SISPRG)\Matri764.prg"
+"$(OBJDIR)\Matri707.obj" : "$(SISPRG)\Matri707.prg"
+"$(OBJDIR)\Matri776.obj" : "$(SISPRG)\Matri776.prg"
+"$(OBJDIR)\Matri777.obj" : "$(SISPRG)\Matri777.prg"
+"$(OBJDIR)\Matri708.obj" : "$(SISPRG)\Matri708.prg"
+"$(OBJDIR)\Matri709.obj" : "$(SISPRG)\Matri709.prg"
+"$(OBJDIR)\Matri791.obj" : "$(SISPRG)\Matri791.prg"
+"$(OBJDIR)\Matri792.obj" : "$(SISPRG)\Matri792.prg"
+"$(OBJDIR)\Matri793.obj" : "$(SISPRG)\Matri793.prg"
+"$(OBJDIR)\Matri794.obj" : "$(SISPRG)\Matri794.prg"
+"$(OBJDIR)\Matri795.obj" : "$(SISPRG)\Matri795.prg"
+"$(OBJDIR)\Matri796.obj" : "$(SISPRG)\Matri796.prg"
+.prg.obj:
+	 $(CLIPPER) funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\MatriFun.obj" : "$(FUNPRG)\MatriFun.prg"
+"$(OBJDIR)\FuncsAdm.obj" : "$(FUNPRG)\FuncsAdm.prg"
+"$(OBJDIR)\FuncsCon.obj" : "$(FUNPRG)\FuncsCon.prg"
+"$(OBJDIR)\FuncsTar.obj" : "$(FUNPRG)\FuncsTar.prg"
+"$(OBJDIR)\FuncsBan.obj" : "$(FUNPRG)\FuncsBan.prg"
+"$(OBJDIR)\FuncsDes.obj" : "$(FUNPRG)\FuncsDes.prg"
+"$(OBJDIR)\FuncsPag.obj" : "$(FUNPRG)\FuncsPag.prg"
+"$(OBJDIR)\FuncsAlu.obj" : "$(FUNPRG)\FuncsAlu.prg"
+"$(OBJDIR)\FuncsGru.obj" : "$(FUNPRG)\FuncsGru.prg"
+"$(OBJDIR)\FuncsNiv.obj" : "$(FUNPRG)\FuncsNiv.prg"
+"$(OBJDIR)\FSimaMtr.obj" : "$(FUNPRG)\FSimaMtr.prg"
+"$(OBJDIR)\FMatrAno.obj" : "$(FUNPRG)\FMatrAno.prg"
+"$(OBJDIR)\FuncsPro.obj" : "$(FUNPRG)\FuncsPro.prg"
+"$(OBJDIR)\FTipoAdm.obj" : "$(FUNPRG)\FTipoAdm.prg"
+"$(OBJDIR)\FTipOrde.obj" : "$(FUNPRG)\FTipOrde.prg"
+"$(OBJDIR)\FTipoMat.obj" : "$(FUNPRG)\FTipoMat.prg"
+"$(OBJDIR)\FuncsRec.obj" : "$(FUNPRG)\FuncsRec.prg"
+"$(OBJDIR)\FuncsTra.obj" : "$(FUNPRG)\FuncsTra.prg"
+"$(OBJDIR)\OtrTra01.obj" : "$(FUNPRG)\OtrTra01.prg"
+"$(OBJDIR)\OtrTra04.obj" : "$(FUNPRG)\OtrTra04.prg"
+"$(OBJDIR)\OtrTra07.obj" : "$(FUNPRG)\OtrTra07.prg"
+"$(OBJDIR)\FuncsExt.obj" : "$(FUNPRG)\FuncsExt.prg"
+"$(OBJDIR)\OtrExt11.obj" : "$(FUNPRG)\OtrExt11.prg"
+"$(OBJDIR)\OtrExt12.obj" : "$(FUNPRG)\OtrExt12.prg"
+"$(OBJDIR)\OtrExt13.obj" : "$(FUNPRG)\OtrExt13.prg"
+"$(OBJDIR)\OtrExt21.obj" : "$(FUNPRG)\OtrExt21.prg"
+"$(OBJDIR)\OtExt213.obj" : "$(FUNPRG)\OtExt213.prg"
+"$(OBJDIR)\OtrExt25.obj" : "$(FUNPRG)\OtrExt25.prg"
+"$(OBJDIR)\OtrExt42.obj" : "$(FUNPRG)\OtrExt42.prg"
+"$(OBJDIR)\OtrExt43.obj" : "$(FUNPRG)\OtrExt43.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\mtrinfor.obj" : "$(FUNINF)\mtrinfor.prg"
+"$(OBJDIR)\mtr00100.obj" : "$(FUNINF)\mtr00100.prg"
+"$(OBJDIR)\mtr00200.obj" : "$(FUNINF)\mtr00200.prg"
+"$(OBJDIR)\mtr00101.obj" : "$(FUNINF)\mtr00101.prg"
+"$(OBJDIR)\mtr00102.obj" : "$(FUNINF)\mtr00102.prg"
+"$(OBJDIR)\mtr00103.obj" : "$(FUNINF)\mtr00103.prg"
+"$(OBJDIR)\mtr00104.obj" : "$(FUNINF)\mtr00104.prg"
+"$(OBJDIR)\mtr00105.obj" : "$(FUNINF)\mtr00105.prg"
+"$(OBJDIR)\mtr00106.obj" : "$(FUNINF)\mtr00106.prg"
+"$(OBJDIR)\mtr00107.obj" : "$(FUNINF)\mtr00107.prg"
+"$(OBJDIR)\mtr00108.obj" : "$(FUNINF)\mtr00108.prg"
+"$(OBJDIR)\mtr00109.obj" : "$(FUNINF)\mtr00109.prg"
+"$(OBJDIR)\mtr00110.obj" : "$(FUNINF)\mtr00110.prg"
+"$(OBJDIR)\mtr00199.obj" : "$(FUNINF)\mtr00199.prg"
+"$(OBJDIR)\mtr00201.obj" : "$(FUNINF)\mtr00201.prg"
+.prg.obj:
+	 $(CLIPPER) $(FUNCAR)\$* $(OPTIONS)/o$(OBJCAR)\$
+"$(OBJCAR)\FuncsTmv.obj" : "$(FUNCAR)\FuncsTmv.prg"
+"$(OBJCAR)\FuncsCmv.obj" : "$(FUNCAR)\FuncsCmv.prg"
+///FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+     $(FILSCR).EXE: $(OBJDIR)\SimaMatr.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE
+
+
+
+

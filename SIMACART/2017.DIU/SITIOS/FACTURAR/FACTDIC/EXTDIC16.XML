@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE DICIEMBRE. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "MAR  7/2017"
+   horaprn = "11:23:32"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS DE NOV 2016</campo>
+    <campo url="no">61,578,276.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">61,578,276.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2014 NOV</campo>
+    <campo url="no">608,530.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">608,530.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2015 NOV</campo>
+    <campo url="no">17,306,656.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">17,306,656.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTFEB\PAGFEB16.XML">PENSIONES 2017 FEB</campo>
+    <campo url="no">277,889,803.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">277,889,803.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no"></campo>
+    <campo url="no">416,991,663.00</campo>
+    <campo url="no">-416,991,663.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">11,171.03</campo>
+    <campo url="no"></campo>
+    <campo url="no">11,171.03</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,144,985.54</campo>
+    <campo url="no">-1,144,985.54</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">COBRO RECAUDO CON CODIGO DE BARRAS</campo>
+    <campo url="no"></campo>
+    <campo url="no">189,721.00</campo>
+    <campo url="no">-189,721.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">30,356.00</campo>
+    <campo url="no">-30,356.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">PAGO PLANILLA UNICA INTERNET</campo>
+    <campo url="no"></campo>
+    <campo url="no">55,858,200.00</campo>
+    <campo url="no">-55,858,200.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">357,394,436.03</campo>
+    <campo url="no">474,214,925.54</campo>
+    <campo url="no">-116,820,489.51</campo>
+
+  </registro>
+
+</registros>

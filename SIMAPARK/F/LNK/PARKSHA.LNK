@@ -1,0 +1,44 @@
+#  ENCADENADOR PARA SIMA - CONTROL DE ASISTENCIA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\sima.fun\ParkStr
+     #ÀFunciones del Sistema
+
+       fi \SimaClip.v52\sima.fun\gSimaInf
+       fi \SimaClip.v52\sima.fun\eSimaInf
+
+       fi \SimaClip.v52\sima.fun\gSimaIso
+       fi \SimaClip.v52\sima.fun\eSimaIso
+
+       fi \SimaClip.v52\sima.fun\eParkCat
+       fi \SimaClip.v52\sima.fun\eParkTar
+       fi \SimaClip.v52\sima.fun\eParkCaj
+       fi \SimaClip.v52\sima.fun\eParkVeh
+       fi \SimaClip.v52\sima.fun\eParkReg
+       fi \SimaClip.v52\sima.fun\eParkRca
+     #ÀFunciones Extendidas
+
+       fi \SimaClip.v52\sima.fun\gParkCat
+       fi \SimaClip.v52\sima.fun\gParkTar
+       fi \SimaClip.v52\sima.fun\gParkReg
+       fi \SimaClip.v52\sima.fun\gParkVeh
+       fi \SimaClip.v52\sima.fun\gParkCaj
+       fi \SimaClip.v52\sima.fun\gParkRca
+     #ÀFunciones generadas
+
+       fi \SimaClip.v52\sima.fun\SimaEmp
+       fi \SimaClip.v52\sima.fun\SimaFun
+     #ÀFunciones generales
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotPark.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

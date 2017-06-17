@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A MAR 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE MARZO"
+   titulo3 = "GRUPO: TR02 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "ABR  8/2016"
+   horaprn = "14:09:18"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">ACEVEDO SANCHEZ MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">691,450</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">14,686</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215035</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">BAUTISTA ARGUELLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">691,450</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">14,686</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215043</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV032816.XML">3</campo>
+    <campo url="no">BLANCO VEGA JOSE A</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,368,011</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no">13,535</campo>
+    <campo url="no">MAR 28/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214002</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV031216.XML">4</campo>
+    <campo url="no">CORONEL DAZA ALEJA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,368,011</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAR 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215044</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV032916.XML">5</campo>
+    <campo url="no">GOMEZ NAVARRO ANA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">MAR 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215019</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV030816.XML">6</campo>
+    <campo url="no">MELO ARIAS JUAN SE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAR  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215177</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV030716.XML">7</campo>
+    <campo url="no">SIERRA AGUILAR LAU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAR  7/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214003</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV031016.XML">8</campo>
+    <campo url="no">SILVA ACEVEDO MARI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAR 10/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216028</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV032316.XML">9</campo>
+    <campo url="no">SUAREZ AVAUNZA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">MAR 23/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215170</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">LOPEZ BARRAGAN MOI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">1,397,383</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">29,372</campo>
+    <campo url="no">1,368,011</campo>
+    <campo url="no">MARMAR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216118</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV032216.XML">11</campo>
+    <campo url="no">SUAREZ PEREZ DANIE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">6,090,876</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,786,332</campo>
+    <campo url="no">MARNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAR 22/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216127</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">PATI¥O CAMACHO JUA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214180</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACMAR16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,780,283</campo>
+    <campo url="no">12,858,516</campo>
+    <campo url="no">58,744</campo>
+    <campo url="no">2,721,539</campo>
+    <campo url="no"></campo>
+    <campo url="no">27,071</campo>
+    <campo url="no">11,906,174</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

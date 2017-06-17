@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE DICIEMBRE DIA:10. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC 12/2016"
+   horaprn = "10:32:53"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">207036141100</campo>
+    <campo url="no">1003 ABRIL GUTIERREZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3225,053.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214070141100</campo>
+    <campo url="no">0001 ABRIL GUTIERREZ DANIEL ALEJAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3723,010.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">207148021100</campo>
+    <campo url="no">0901 PINZON QUI¥ONEZ ANGEL DE JESUS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">506999877000</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">26210,000.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211043021100</campo>
+    <campo url="no">0601 AYALA JAIMES ANGEL DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">215030141100</campo>
+    <campo url="no">1002 MONSALVE GOMEZ FEYSARK SEBASTI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">600,316.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">211009021100</campo>
+    <campo url="no">0601 BAUTISTA GOMEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6405,831.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214055141100</campo>
+    <campo url="no">1003 CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1842,806.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

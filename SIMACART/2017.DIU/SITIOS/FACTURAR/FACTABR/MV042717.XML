@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:27. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY  2/2017"
+   horaprn = "14:34:44"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">412804040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">612,959.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">415904040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">213020040400</campo>
+    <campo url="no">1003 CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214045040400</campo>
+    <campo url="no">0901 HERRERA GALAN JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">604604040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">212049040400</campo>
+    <campo url="no">0301 VILLAMIZAR HERNANDEZ JOSE MANU</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,749.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">215040040400</campo>
+    <campo url="no">0702 GABANZO MORALES NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">511104040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">215106040400</campo>
+    <campo url="no">0801 PRADA SANCHEZ JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215044040400</campo>
+    <campo url="no">0101 CORONEL DAZA ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">707,602.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">217049040400</campo>
+    <campo url="no">1601 CORONEL DAZA JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">758,054.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216148040400</campo>
+    <campo url="no">1501 VEGA PEINADO SAMMUEL ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">758,054.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">211167040400</campo>
+    <campo url="no">0502 RONCANCIO PAYARES SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">215049040400</campo>
+    <campo url="no">1102 MORENO BECERRA JESUS ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">632,190.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">217033040400</campo>
+    <campo url="no">0702 FLETCHER GUEVARA JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">510504040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">217023040400</campo>
+    <campo url="no">0801 PABON MORALES DANIEL MAURICIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">803804040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">216129040400</campo>
+    <campo url="no">0501 CEREZO ZULUAGA SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">212089040400</campo>
+    <campo url="no">0302 MONSALVE ESTUPI¥AN LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,749.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">216058040400</campo>
+    <campo url="no">1601 MONSALVE ESTUPI¥AN ISABEL SOFI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">758,054.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">217053040400</campo>
+    <campo url="no">0903 GARCIA OBREGON VALENTINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 27/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

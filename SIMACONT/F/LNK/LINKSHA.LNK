@@ -1,0 +1,29 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\sima.fun\eSimaFam
+     #ÀFunciones Extendidas
+
+       fi \SimaClip.v52\sima.fun\gSimaFam
+     #ÀFunciones Generadas
+
+       fi \SimaClip.v52\sima.fun\SimaPla
+       fi \SimaClip.v52\sima.fun\SimaFam
+       fi \SimaClip.v52\sima.fun\SimaHra
+       fi \SimaClip.v52\sima.fun\SimaNiv
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+     #ÀFunciones de la Cartera
+
+       fi \SimaClip.V52\simaprof\f\objs\FuJvfCal
+     #ÀFunciones de SimaProf
+#>>>>FIN ARCHIVOS DEL MODULO

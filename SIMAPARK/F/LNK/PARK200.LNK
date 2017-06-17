@@ -1,0 +1,19 @@
+#  ENCADENADOR: SIMA - SISTEMA DE PARQUEADEROS
+
+#*************************************************************************
+# MODULO..: CONSULTAS                                                    *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaPark\f\objs\Park201
+       fi \SimaClip.V52\SimaPark\f\objs\Park202
+       fi \SimaClip.V52\SimaPark\f\objs\Park203
+       fi \SimaClip.V52\SimaPark\f\objs\Park204
+       fi \SimaClip.V52\SimaPark\f\objs\Park205
+       fi \SimaClip.V52\SimaPark\f\objs\Park206
+       fi \SimaClip.V52\SimaPark\f\objs\Park207
+#>>>>FIN ARCHIVOS DEL MODULO

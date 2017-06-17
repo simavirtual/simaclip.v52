@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A ENE 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE NOVIEMBRE"
+   titulo3 = "GRUPO: TR01 JORNADA: DIURNA. A¥O: 2015"
+   fechprn = "FEB  5/2016"
+   horaprn = "16:01:23"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV111015.XML">1</campo>
+    <campo url="no">BRICE¥O ROJAS ANDR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">637,494</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 10/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212171</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111315.XML">2</campo>
+    <campo url="no">CHAPARRO GOMEZ DIE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">637,494</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 13/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110515.XML">3</campo>
+    <campo url="no">GOMEZ GOMEZ JULIAN</campo>
+    <campo url="no">PENSION->BECA 20.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">509,996</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  5/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215072</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111115.XML">4</campo>
+    <campo url="no">IBA¥EZ SAAD RONALD</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">637,494</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 11/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215128</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111715.XML">5</campo>
+    <campo url="no">MORALES VALENCIA F</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">637,494</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,375</campo>
+    <campo url="no">NOV 17/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">SANCHEZ AMADO JUAN</campo>
+    <campo url="no">NO FACTURADO->BECA</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214103</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">SERRANO MANCILLA M</campo>
+    <campo url="no">R E T I R A D O</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213041</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110515.XML">8</campo>
+    <campo url="no">HERNANDEZ CARRILLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">637,494</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  5/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214152</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110715.XML">9</campo>
+    <campo url="no">MELO ARIAS JUAN SE</campo>
+    <campo url="no">PENSION->BECA 13.72%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">637,494</campo>
+    <campo url="no"></campo>
+    <campo url="no">550,000</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  7/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215177</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACNOV15.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">4,462,458</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,375</campo>
+    <campo url="no">4,247,466</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

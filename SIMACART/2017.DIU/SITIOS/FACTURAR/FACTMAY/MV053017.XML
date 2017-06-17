@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:30. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUN  1/2017"
+   horaprn = "15:49:53"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215056050502</campo>
+    <campo url="no">0402 ADARME VALDERRAMA JUAN CAMILO</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">1493,249.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">215056050503</campo>
+    <campo url="no">0402 ADARME VALDERRAMA JUAN CAMILO</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147,600.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">215057050502</campo>
+    <campo url="no">0601 ADARME VALDERRAMA DANIEL ALEJA</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">1455,049.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">215057050503</campo>
+    <campo url="no">0601 ADARME VALDERRAMA DANIEL ALEJA</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147,600.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

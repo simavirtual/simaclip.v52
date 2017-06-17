@@ -1,0 +1,19 @@
+<T2>CERTIFICADO No. <NROCER> Inscripci¢n Secretar°a de Educaci¢n: 237. ç
+Registro DANE: 368001005747.
+
+<JF>Los suscritos Rector y Secretaria del Colegio "La Salle" de Bucaramanga, ç
+con Licencia de Funcionamiento No. 1227 del 28 de Octubre de 1999 emanada de ç
+la Secretar°a de Educaci¢n Departamental.<JI>
+                      <G1>CERTIFICAN:<G2>
+<JF>Que el alumno, <NOMBRE>, C.C. o T.I <NRODOC> de <LUGDOC> curs¢ en este ç
+plantel el a§o que a continuaci¢n se expresa y obtuvo las calificaciones que ç
+frente a cada asignatura se especifican.
+<NOTAS>
+<T2><JI>Este certificado es solicitado para tr†mite: <USO>
+Se expide en Bucaramanga, <FECHA>.
+
+
+Hno. JORGE ENRIQUE MOLINA VALENCIA      SANDRA VIVIANA CORTES BARRETO 
+Rector.                                 Secretaria
+C.C. No. 19'273.998 Bogot† D.C          C.C. No.37'862.839 Bucaramanga
+

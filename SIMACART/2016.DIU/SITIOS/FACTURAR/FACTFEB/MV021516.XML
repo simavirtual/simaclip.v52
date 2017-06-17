@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE FEBRERO DIA:15. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB 16/2016"
+   horaprn = "11:53:43"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">216053021100</campo>
+    <campo url="no">1501 PARRA MANTILLA NICOLAS SANTIAG</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6543,286.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216086020200</campo>
+    <campo url="no">1003 VANEGAS QUIROZ MARIA LAURA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216087020200</campo>
+    <campo url="no">0402 TAPIAS QUIROZ PIETRO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">213065020200</campo>
+    <campo url="no">1102 GRATERON RAMIREZ ADRIAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214101020200</campo>
+    <campo url="no">1001 REMOLINA OLIVEROS CAMILO ERNES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">210003020200</campo>
+    <campo url="no">1101 RAMIREZ ARRIETA MARIA MANUELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208103020200</campo>
+    <campo url="no">0901 MARI¥O BUITRAGO ANDRES MAURICI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">216026020200</campo>
+    <campo url="no">1501 LOAIZA RAMIREZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">208241020200</campo>
+    <campo url="no">0801 MORENO SUAREZ CATALINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216072020200</campo>
+    <campo url="no">1001 CHACON ROBAYO NATHALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">216103020200</campo>
+    <campo url="no">0901 TAVERA CAMARGO CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">215160020200</campo>
+    <campo url="no">1001 GARCIA TORRES JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

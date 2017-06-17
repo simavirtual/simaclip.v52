@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:07. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR 10/2017"
+   horaprn = "10:32:38"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3,023.49</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0028      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">755,873.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">000000010000</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+    <campo url="no">034</campo>
+    <campo url="no">195,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">215165040400</campo>
+    <campo url="no">1103 BENAVIDES SARMIENTO DAVID SANT</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216049040400</campo>
+    <campo url="no">1103 BENAVIDES SARMIENTO PAULA VALE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214144140400</campo>
+    <campo url="no">0402 RINCON PLAZAS JOEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">748,268.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208241040400</campo>
+    <campo url="no">0903 MORENO SUAREZ CATALINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">207055040400</campo>
+    <campo url="no">1003 GOMEZ CORREDOR MIGUEL ALBERTO</campo>
+    <campo url="no">034</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">215113040400</campo>
+    <campo url="no">0301 CHAPARRO MOTTA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">730,445.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216102040400</campo>
+    <campo url="no">0502 ZAMBRANO HERNANDEZ EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

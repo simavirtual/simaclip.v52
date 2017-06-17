@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE FEBRERO DIA:17. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB 18/2016"
+   horaprn = "09:01:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041</campo>
+    <campo url="no">gravamen a los movimientos fin</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">4,335.47</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">gravamen a los movimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">506999877000</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">1028,694.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">001384777100</campo>
+    <campo url="no">alumno:209175 ref:0013847771</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">alumno:209175 ref:0013847771</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">447247101060</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">1083,868.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216026020200</campo>
+    <campo url="no">1501 LOAIZA RAMIREZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">208241020200</campo>
+    <campo url="no">0801 MORENO SUAREZ CATALINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208103020200</campo>
+    <campo url="no">0901 MARI¥O BUITRAGO ANDRES MAURICI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215160020200</campo>
+    <campo url="no">1001 GARCIA TORRES JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">210003020200</campo>
+    <campo url="no">1101 RAMIREZ ARRIETA MARIA MANUELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216103020200</campo>
+    <campo url="no">0901 TAVERA CAMARGO CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">216072020200</campo>
+    <campo url="no">1001 CHACON ROBAYO NATHALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211093020200</campo>
+    <campo url="no">0502 ESTUPI¥AN MOJICA MARÖA ALEJAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">205023020200</campo>
+    <campo url="no">1101 ROJAS AGUILAR JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">213166020200</campo>
+    <campo url="no">0502 REYES PRINCE LADER ALEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">216064020200</campo>
+    <campo url="no">0801 ORTIZ FIGUEROA DANIELA ORTIZ</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">216062020200</campo>
+    <campo url="no">0201 ORTIZ FIGUEROA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">212084020200</campo>
+    <campo url="no">1103 BARBOSA NI¥O NATALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">211098020200</campo>
+    <campo url="no">0501 NARANJO FRANCO JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">215119020200</campo>
+    <campo url="no">0202 SERRANO JIMENEZ LUIS MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">214101020200</campo>
+    <campo url="no">1001 REMOLINA OLIVEROS CAMILO ERNES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">209089020200</campo>
+    <campo url="no">1103 ESTUPI¥AN MOJICA ANDRES FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">216005020200</campo>
+    <campo url="no">1501 BELTRAN FRANCO SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">208212020200</campo>
+    <campo url="no">1101 RUIZ MEJIA JUANA GABRIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">215104020200</campo>
+    <campo url="no">0502 PINZON GORDILLO LAURA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">214099020200</campo>
+    <campo url="no">1103 TERAN DIAZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">214145021100</campo>
+    <campo url="no">0102 RODRIGUEZ DIAZ OMAR DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6429,258.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">209077020200</campo>
+    <campo url="no">1003 SIERRA AGUILAR MARIA PAULA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">215043020200</campo>
+    <campo url="no">0002 BAUTISTA ARGUELLO EMANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">215051020200</campo>
+    <campo url="no">0401 CASTRO PLAZAS JOSE MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">215050020200</campo>
+    <campo url="no">0701 CASTRO PLAZAS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">205274020200</campo>
+    <campo url="no">1102 MARQUEZ MERCADO GABRIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">214003020200</campo>
+    <campo url="no">0002 SIERRA AGUILAR LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">215165020200</campo>
+    <campo url="no">1002 BENAVIDES SARMIENTO DAVID SANT</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">212046020200</campo>
+    <campo url="no">1102 RODRIGUEZ OTERO SILVIA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">216120020200</campo>
+    <campo url="no">1601 GARCIA CORTES SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">216049020200</campo>
+    <campo url="no">1003 BENAVIDES SARMIENTO PAULA VALE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">215174020200</campo>
+    <campo url="no">0001 BRAVO WIESNER SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">209037020200</campo>
+    <campo url="no">0801 MONTAGUTH DURAN SEBASTIAN CAMI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">214159020200</campo>
+    <campo url="no">0901 GOMEZ URIBE JUAN SALVADOR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">215164020200</campo>
+    <campo url="no">0802 MARTINEZ FORERO CYNTHIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">215163020200</campo>
+    <campo url="no">0701 MARTINEZ FORERO KEVIN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">213148020200</campo>
+    <campo url="no">0402 BELTRAN FRANCO LUIS CARLOS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">216063020200</campo>
+    <campo url="no">0201 DAZA LOPEZ ALVARO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">215006020200</campo>
+    <campo url="no">0201 RUIZ FLOREZ JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">213043020200</campo>
+    <campo url="no">0401 PARRA RODRIGUEZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">207043020200</campo>
+    <campo url="no">0902 CORTES ORTIZ SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">215138020200</campo>
+    <campo url="no">0202 CARRE¥O CABEZA DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">216055020200</campo>
+    <campo url="no">0101 LEON DUARTE JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">215022020200</campo>
+    <campo url="no">0201 LEON DUARTE JESUS DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">216056020200</campo>
+    <campo url="no">0901 STERLING DUARTE LAYLLA EVELITH</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">216050020200</campo>
+    <campo url="no">0301 PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">216051020200</campo>
+    <campo url="no">1601 PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">208038020200</campo>
+    <campo url="no">0901 CASTRO VERA MIGUEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">216004020200</campo>
+    <campo url="no">1501 AGUILAR SIERRA JOSE DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">216029020200</campo>
+    <campo url="no">0102 PE¥ALOSA BURGOS GUSTAVO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">216078020200</campo>
+    <campo url="no">0202 GUERRERO BALAGUERA THOMAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">215054020900</campo>
+    <campo url="no">1001 SANTAMARIA URIBE DAVID FERNAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">4689,968.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB A SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">216024020200</campo>
+    <campo url="no">0602 SAAVEDRA TRIANA ERWIN OMAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">216094020200</campo>
+    <campo url="no">0101 AYALA GARCIA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">215124020200</campo>
+    <campo url="no">0501 FLOREZ MANTILLA DAVID ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">207126020200</campo>
+    <campo url="no">1101 GAONA OSORIO CESAR FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">214015020200</campo>
+    <campo url="no">0202 APARICIO CALDERON SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">209021020200</campo>
+    <campo url="no">0902 PEREZ RODRIGUEZ SILVIA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">215030020200</campo>
+    <campo url="no">1002 MONSALVE GOMEZ FEYSARK SEBASTI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">65</campo>
+    <campo url="no">215129020200</campo>
+    <campo url="no">1102 SILVA AMAYA JORGE ARMANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">66</campo>
+    <campo url="no">213021020200</campo>
+    <campo url="no">0401 SUAREZ PINZON MARIA LUCIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">67</campo>
+    <campo url="no">208099020200</campo>
+    <campo url="no">0901 SUAREZ PINZON JORGE EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">68</campo>
+    <campo url="no">214051020200</campo>
+    <campo url="no">0802 MU¥OZ ALVAREZ IVAN DARIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">69</campo>
+    <campo url="no">215110020200</campo>
+    <campo url="no">1002 JIMENEZ RIVERA JENIFER CATALIN</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">70</campo>
+    <campo url="no">215113020200</campo>
+    <campo url="no">0201 CHAPARRO MOTTA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">71</campo>
+    <campo url="no">212055020200</campo>
+    <campo url="no">0402 RONDON RODRIGUEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">72</campo>
+    <campo url="no">211133020200</campo>
+    <campo url="no">1003 GUERRA MORENO JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">73</campo>
+    <campo url="no">212027021100</campo>
+    <campo url="no">0501 ESTEBAN BUENO JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,115.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">74</campo>
+    <campo url="no">211064020200</campo>
+    <campo url="no">0901 DIAZ ARANGO JUAN ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">75</campo>
+    <campo url="no">214004021100</campo>
+    <campo url="no">0001 ESTEBAN BUENO MANUEL JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6429,258.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">76</campo>
+    <campo url="no">009126157000</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">77</campo>
+    <campo url="no">048460007338</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">78</campo>
+    <campo url="no">048460007338</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">79</campo>
+    <campo url="no">048460007338</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">80</campo>
+    <campo url="no">000570732300</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">1306,340.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">81</campo>
+    <campo url="no">080401438200</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

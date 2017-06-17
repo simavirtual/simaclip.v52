@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ENERO DIA:26. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ENE 27/2017"
+   horaprn = "09:14:53"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">216086020200</campo>
+    <campo url="no">1103 VANEGAS QUIROZ MARIA LAURA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">RECIBO DE FEB</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216087020200</campo>
+    <campo url="no">0502 TAPIAS QUIROZ PIETRO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">RECIBO DE FEB</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">217069021100</campo>
+    <campo url="no">0600 AZA SARABIA JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214135141100</campo>
+    <campo url="no">0301 RUEDA TORRES DANIEL FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3781,734.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211157141100</campo>
+    <campo url="no">1102 RUEDA TORRES JORGE ENRIQUE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3001,580.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">208051141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3307,424.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">207027021100</campo>
+    <campo url="no">1102 PARADA TARAZONA PEDRO ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">213220021100</campo>
+    <campo url="no">1103 NARANJO HERRERA JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">213068141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6567,168.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">212116020200</campo>
+    <campo url="no">0602 RONDON TORRES SANTIAGO</campo>
+    <campo url="no">034</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">RECIBO DE FEB</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

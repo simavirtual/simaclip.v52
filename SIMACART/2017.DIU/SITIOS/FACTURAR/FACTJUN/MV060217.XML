@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JUNIO DIA:02. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUN  7/2017"
+   horaprn = "10:52:31"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">26,371.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">500013358600</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">138,793.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">660.65</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216086060602</campo>
+    <campo url="no">1103 VANEGAS QUIROZ MARIA LAURA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">006334565700</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">006334565700</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216148140602</campo>
+    <campo url="no">1501 VEGA PEINADO SAMMUEL ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">768,787.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">216087060602</campo>
+    <campo url="no">0501 TAPIAS QUIROZ PIETRO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">217013060602</campo>
+    <campo url="no">0602 MENESES MATEUS VALENTINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN  2/2017</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

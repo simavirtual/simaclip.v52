@@ -1,0 +1,17 @@
+#  ENCADENADOR PARA SIMA - SIMAPROF
+
+#*************************************************************************
+# MODULO..: RECUPERACIONES                                               *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaProf\f\objs\Profe401
+       fi \SimaClip.v52\SimaProf\f\objs\Spr40199
+       fi \SimaClip.v52\SimaProf\f\objs\Profe402
+       fi \SimaClip.v52\SimaProf\f\objs\Profe403
+       fi \SimaClip.v52\SimaProf\f\objs\Profe404
+#>>>>FIN ARCHIVOS DEL MODULO

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE MARZO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "ABR  8/2016"
+   horaprn = "14:05:12"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0002-11</campo>
+    <campo url="no">216127</campo>
+    <campo url="no">SUAREZ PEREZ DANIEL ORLANDO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,414,112</campo>
+    <campo url="no">5,414,112</campo>
+    <campo url="no">5,786,332</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0201- 1</campo>
+    <campo url="no">212111</campo>
+    <campo url="no">ARCHILA COMBITA DAVID SANTIAGO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,362,544</campo>
+    <campo url="no">5,362,544</campo>
+    <campo url="no">6,415,882</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0302-16</campo>
+    <campo url="no">216052</campo>
+    <campo url="no">SOLANO CARDENAS ANDRES FELIPE</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,362,544</campo>
+    <campo url="no">5,362,544</campo>
+    <campo url="no">6,415,882</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0402- 7</campo>
+    <campo url="no">216012</campo>
+    <campo url="no">DUQUE GAMEZ SAMUEL</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,584,604</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0402- 8</campo>
+    <campo url="no">215032</campo>
+    <campo url="no">HERNANDEZ RIVERA DIEGO ANDRES</campo>
+    <campo url="no">MAR/JUL: 4</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">3,932,998</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0502- 5</campo>
+    <campo url="no">213134</campo>
+    <campo url="no">OVALLE JAIMES JOSE DAVID</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">6,228,891</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0601- 6</campo>
+    <campo url="no">213075</campo>
+    <campo url="no">BARON QUI¥ONEZ THAYLA VALERIA</campo>
+    <campo url="no">MAR/JUN: 3</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">1,959,510</campo>
+    <campo url="no">1,959,510</campo>
+    <campo url="no">2,619,212</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">0602- 1</campo>
+    <campo url="no">211061</campo>
+    <campo url="no">ARCHILA COMBITA DIEGO FERNANDO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">6,251,751</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">0701-31</campo>
+    <campo url="no">216123</campo>
+    <campo url="no">RUEDA NAVARRO JUAN ESTEBAN</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">6,545,678</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">0802- 6</campo>
+    <campo url="no">216089</campo>
+    <campo url="no">CELIS VILLAMIZAR DANIELA VALENTINA</campo>
+    <campo url="no">MAR/MAY: 2</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">1,306,340</campo>
+    <campo url="no">1,306,340</campo>
+    <campo url="no">2,626,658</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">0802-25</campo>
+    <campo url="no">211054</campo>
+    <campo url="no">RUGELES DIAZ JUAN DIEGO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">5,225,360</campo>
+    <campo url="no">6,251,752</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">1001-14</campo>
+    <campo url="no">209222</campo>
+    <campo url="no">MONSALVE TAPIAS RAUL ANDRES</campo>
+    <campo url="no">MAR/JUN: 3</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">1,758,738</campo>
+    <campo url="no">1,758,738</campo>
+    <campo url="no">2,955,501</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">1002- 8</campo>
+    <campo url="no">207068</campo>
+    <campo url="no">ESTUPI¥AN GONZALEZ RAUL ERNESTO</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">4,689,968</campo>
+    <campo url="no">4,689,968</campo>
+    <campo url="no">5,045,233</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">1003- 2</campo>
+    <campo url="no">213074</campo>
+    <campo url="no">BARON QUI¥ONES JEAN PIERRE</campo>
+    <campo url="no">MAR/JUN: 3</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">1,758,738</campo>
+    <campo url="no">1,758,738</campo>
+    <campo url="no">2,350,846</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">1101-11</campo>
+    <campo url="no">205097</campo>
+    <campo url="no">DELGADO PACHECO MARIA JOSE</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">4,595,256</campo>
+    <campo url="no">4,595,256</campo>
+    <campo url="no">5,459,739</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">1102-21</campo>
+    <campo url="no">212046</campo>
+    <campo url="no">RODRIGUEZ OTERO SILVIA JULIANA</campo>
+    <campo url="no">MAR/AGO: 5</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">2,872,035</campo>
+    <campo url="no">2,872,035</campo>
+    <campo url="no">3,446,442</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">1102-22</campo>
+    <campo url="no">207144</campo>
+    <campo url="no">SIERRA CARDENAS DARVYN JULIAN</campo>
+    <campo url="no">MAR/NOV: 8</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">4,595,256</campo>
+    <campo url="no">4,595,256</campo>
+    <campo url="no">5,497,879</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">68,414,521</campo>
+    <campo url="no">68,414,521</campo>
+
+  </registro>
+
+</registros>

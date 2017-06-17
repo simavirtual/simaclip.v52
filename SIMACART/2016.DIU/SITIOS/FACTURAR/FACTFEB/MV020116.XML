@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE FEBRERO DIA:01. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB  2/2016"
+   horaprn = "09:59:30"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040</campo>
+    <campo url="no">iva por servicios</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3,228.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">iva por servicios</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0041</campo>
+    <campo url="no">gravamen a los movimientos fin</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">93.60</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">gravamen a los movimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0024</campo>
+    <campo url="no">rendimientos financieros</campo>
+    <campo url="no">034</campo>
+    <campo url="no">4,204.95</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 31/2016</campo>
+    <campo url="no">rendimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">500013358600</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">20,172.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">213087141100</campo>
+    <campo url="no">0902 HERNANDEZ MORENO CARLOS EDUARD</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3561,049.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211012141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6046,319.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">213109141100</campo>
+    <campo url="no">0801 GOMEZ TOSCANO NICOLLE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6152,690.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">211011141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170,938.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">213109021100</campo>
+    <campo url="no">0801 GOMEZ TOSCANO NICOLLE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6009,164.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  1/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

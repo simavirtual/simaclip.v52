@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS RETIRADOS}"
+   titulo1 = "ESTUDIANTES RETIRADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE AGOSTO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "SEP 12/2016"
+   horaprn = "08:49:51"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>GRUPO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>RETIRO</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>ULTIMO RECIBO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">1601</campo>
+    <campo url="no">215149</campo>
+    <campo url="no">BERNIER CANTILLO CAROLINA</campo>
+    <campo url="no">FEB  8/2016</campo>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">DDDDP</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">215174</campo>
+    <campo url="no">BRAVO WIESNER SANTIAGO</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no">JUL 19/2016</campo>
+    <campo url="no">PPPPPP</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">214172</campo>
+    <campo url="no">CARDENAS CHONLONG MARIA JOSE</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">ABR 15/2016</campo>
+    <campo url="no">DDP</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">214205</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN FELIPE</campo>
+    <campo url="no">ABR  4/2016</campo>
+    <campo url="no">JUN 13/2016</campo>
+    <campo url="no">DDDDD*</campo>
+    <campo url="no">SEPTIEMBRE</campo>
+    <campo url="no">SEPTIEMBRE</campo>
+    <campo url="no">Deudor</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">216011</campo>
+    <campo url="no">BERNIER CANTILLO MARIA CAMILA</campo>
+    <campo url="no">DIC 17/2015</campo>
+    <campo url="no">MAY 27/2016</campo>
+    <campo url="no">DDDDA</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">209138</campo>
+    <campo url="no">SILVA MEJIA JUAN JOSE</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">DAPPPPA</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">216116</campo>
+    <campo url="no">HSU LEE ALEJANDRO</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">MAR  1/2016</campo>
+    <campo url="no">A</campo>
+    <campo url="no">FEBRERO</campo>
+    <campo url="no">FEBRERO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">215082</campo>
+    <campo url="no">VARGAS NEIRA OSCAR EDGAR</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">JUN 10/2016</campo>
+    <campo url="no">AAADDDD*</campo>
+    <campo url="no">SEPTIEMBRE</campo>
+    <campo url="no">SEPTIEMBRE</campo>
+    <campo url="no">Deudor</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">216096</campo>
+    <campo url="no">AMAYA PINTO JUAN CAMILO</campo>
+    <campo url="no">DIC 15/2015</campo>
+    <campo url="no">JUL 31/2016</campo>
+    <campo url="no">PPPPPP</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">213138</campo>
+    <campo url="no">BLANCO OLARTE ANDRES MAURICIO</campo>
+    <campo url="no">FEB  8/2016</campo>
+    <campo url="no">ABR  4/2016</campo>
+    <campo url="no">PPPPPPPPPP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">Revisar meses facturados</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">216047</campo>
+    <campo url="no">BALLESTEROS VELASCO MARIA CATALINA</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">JUL 11/2016</campo>
+    <campo url="no">DDDPPP</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">216083</campo>
+    <campo url="no">PRADA PE¥A SANTIAGO</campo>
+    <campo url="no">DIC 10/2015</campo>
+    <campo url="no">ABR 13/2016</campo>
+    <campo url="no">DPP</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">216075</campo>
+    <campo url="no">BARRERA GUERRERO VALENTINA</campo>
+    <campo url="no">DIC 14/2015</campo>
+    <campo url="no">MAY  6/2016</campo>
+    <campo url="no">DPA</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">216112</campo>
+    <campo url="no">MALDONADO MENDOZA FELIXMENIA</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">ABR 12/2016</campo>
+    <campo url="no">DDDP</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">211133</campo>
+    <campo url="no">GUERRA MORENO JUAN CAMILO</campo>
+    <campo url="no">DIC  4/2015</campo>
+    <campo url="no">ABR  6/2016</campo>
+    <campo url="no">PP</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">216113</campo>
+    <campo url="no">MALDONADO MENDOZA FEDERICO</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">ABR 12/2016</campo>
+    <campo url="no">DDDP</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">**************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

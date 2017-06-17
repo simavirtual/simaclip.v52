@@ -1,0 +1,724 @@
+/* SIMA - MATRICULA ACADEMICA
+
+MODULO      : MATRICULAS
+SUBMODULO...: MATRICULAS             MODULO No. 601
+
+**************************************************************************
+* NOMBRE DEL PROGRAMA..: MATRI601.PRG                                    *
+* TITULO DEL PROGRAMA..: MATRICULAS DE LOS ESTUDIANTES                   *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: FEB 02/96 VIE A
+       Colombia, Bucaramanga        INICIO: 11:20 PM   FEB 02/96 VIE
+
+
+REQUERIMIENTOS:
+
+1- Para ejecutar la funci¢n tener presente la sintaxis
+
+OBJETIVOS:
+
+1- Permite grabar las notas parciales de las entrevistas
+
+2- Retorna NIL
+
+SINTAXIS:
+
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION Matri_601(lShared,nFilInf,nColInf,nFilPal,cNomEmp,cNomSis,cNomUsr,;
+		   cAnoUsr,cPatSis,lIntUno,lIntDos,lIntTre,lIntCua,cMaeAlu,;
+		   cJorTxt,cMaeAct)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     lShared                              // .T. Sistema Compartido
+       nFilInf                              // Fila Inferior del SubMen£
+       nColInf                              // Columna Inferior del SubMen£
+       nFilPal                              // Fila Inferior Men£ principal
+       cNomEmp                              // Nombre de la Empresa
+       cNomSis                              // Nombre del Sistema
+       cNomUsr                              // Nombre del Usuario
+       cAnoUsr                              // A¤o del usuario
+       cPatSis                              // Path del sistema
+       lIntUno                              // Primera Integraci¢n
+       lIntDos                              // Segunda Integraci¢n
+       lIntTre                              // Tercera Integraci¢n
+       lIntCua                              // Cuarta Integraci¢n
+       cMaeAlu                              // Maestros habilitados
+       cJorTxt                              // Jornada escogida
+       cMaeAct                              // Maestro Activo */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE VARIABLES
+       #INCLUDE "inkey.ch"                  // Declaraci¢n de teclas
+       #INCLUDE "CAMPOS\ARC-MATRI.PRG"      // Archivos del Sistema
+       #INCLUDE "\APLICA.NEL\CLIPPER.V52\CLIPPER.FUN\EPSONFX.PRG"
+
+       LOCAL cSavPan := ''                  // Salvar Pantalla
+       LOCAL cSavLin := ''                  // Salvar Linea
+       LOCAL cAnoSis := SUBS(cAnoUsr,3,2)   // A¤o del sistema
+       LOCAL lHayErr := .F.                 // .T. Hay Error
+       LOCAL lErrUno := .F.                 // Error Archivos Compartidos Uno
+       LOCAL lErrDos := .F.                 // Error Archivos Compartidos Dos
+       LOCAL lErrTre := .F.                 // Error Archivos Compartidos Tres
+       LOCAL lErrCua := .F.                 // Error Archivos Compartidos Cuatro
+       LOCAL cIntUno := ''                  // Path de integraci¢n uno
+       LOCAL cIntDos := ''                  // Path de integraci¢n dos
+       LOCAL cIntTre := ''                  // Path de integraci¢n tres
+       LOCAL cIntCua := ''                  // Path de integraci¢n cuatro
+       LOCAL lAnoAct := .T.                 // A¤o Actual
+
+       LOCAL lMensaj := .T.
+       LOCAL lPatSis := .F.                 // .T. Incluir Path del Sistema
+       LOCAL cPatAnt := ''                  // Path A¤os anteriores
+       LOCAL cAnoAnt := .F.                 // A¤o Anterior
+       LOCAL nNroFil := 0                   // Fila de lectura
+       LOCAL nNroCol := 0                   // Columna de lectura
+       LOCAL aNroCol := {}                  // N£meros de Columnas
+       LOCAL cMsgTxt := ''                  // Variable de texto
+
+
+       LOCAL lNuevos := .F.                 // .T. Matricula para nuevos
+       LOCAL lMatric := .F.                 // Matr¡cula del estudiante
+       LOCAL lGrabar := .F.                 // .T. Grabar el registro
+       LOCAL lDuplic := .F.                 // .T. Duplicar hoja matricula
+
+       LOCAL cNalias := ''                  // Alias Antiguos o nuevos
+       LOCAL cAliasN := ''                  // Alias para matricular
+       LOCAL cObserv := ''                  // Observaci¢n para la matr¡cula
+
+       LOCAL cCodigoTes := ''               // C¢digo del Estudiante
+       LOCAL cNombreTes := ''               // Nombre del Estudiante
+       LOCAL dFecMatTes := CTOD('00/00/00') // Fecha de la Matr¡cula
+       LOCAL cHorMatTes := ''               // Hora de la Matr¡cula
+       LOCAL cCodigoTgr := ''               // C¢digo del grupo
+
+       LOCAL GetList := {}                  // Variable del Sistema
+       CLOSE ALL
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>VISUALIZACION DE LA FECHA
+       FecHorSys(cNomSis)
+       SETKEY(K_F10,{||LeerFecHora(cNomSis)})
+       cError('LA TECLA <F10> PERMITE MODIFICAR',;
+	      'POR FAVOR REVISE LA FECHA Y HORA')
+*>>>>FIN VISUALIZACION DE LA FECHA
+
+*>>>>LECTURA DE PATHS
+       LeePathAno(lShared,cPatSis,cAnoUsr,;
+		  @cIntUno,@cIntDos,@cIntTre,@cIntCua)
+     *ÀLectura de paths
+
+       cIntUno := IF(lIntUno,cIntUno,cPatSis)
+       cIntDos := IF(lIntDos,cIntDos,cPatSis)
+*>>>>FIN LECTURA DE PATHS
+
+
+*>>>>SELECCION DE ALUMNOS NUEVOS O ANTIGUOS
+       lNuevos := .F.
+       IF nLeeOpcion('VA REALIZAR MATRICULA PARA: '+;
+		     '1<NUEVOS> 2<ANTIGUOS>?',2,'1') == 1
+	  lNuevos := .T.
+       ENDIF
+*>>>>FIN SELECCION DE ALUMNOS NUEVOS O ANTIGUOS
+
+*>>>>SELECION DEL A¥O ANTERIOR
+       IF !lNuevos
+	  cAnoAnt := STR((VAL(cAnoUsr)-1),4)
+	  cPatAnt := cPatSis
+	  cPatAnt := STUFF(cPatAnt,1,4,cAnoAnt)
+	  cPatAnt := IF(lIntUno,cIntUno+'\'+cPatAnt,cPatAnt)
+       ENDIF
+       PathAlu := IF(lIntUno,cIntUno,cPatSis)
+*>>>>FIN SELECION DEL A¥O ANTERIOR
+
+*>>>>SELECION DE LAS AREAS DE TRABAJO
+       lHayErr := .F.
+       DO CASE
+       CASE lNuevos
+	    IF !lUseDbf(.T.,cPatSis+'\'+;
+			FileAdm+cAnoUsr+ExtFile,'ADM',NIL,lShared)
+	       lHayErr := .T.
+	    ENDIF
+       CASE !lNuevos
+	    IF !lUseMae(lShared,cPatAnt,cMaeAlu,;
+			SUBS(cAnoAnt,3,2),!lAnoAct)
+	       lHayErr := .T.
+	    ENDIF
+       ENDCASE
+       IF lHayErr
+	  cError("ABRIENDO ARCHIVOS EN "+IF(lNuevos,"NUEVOS","ANTIGUOS"))
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+
+       IF !lUseMae(lShared,PathAlu,cMaeAlu,cAnoSis,lAnoAct) .OR.;
+	  !lUseDbf(.T.,cPatSis+'\'+fMtrAno+cAnoUsr+ExtFile,'ANO',NIL,lShared)
+	  cError('ABRIENDO ARCHIVOS EN MATRICULAS')
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN SELECION DE LAS AREAS DE TRABAJO
+
+*>>>>VALIDACION DE CONTENIDOS DE ARCHIVOS
+       lHayErr := .T.
+       DO CASE
+       CASE lNuevos .AND. ADM->(RECCOUNT()) == 0
+	    cError('No Existen Inscripciones')
+/*
+       CASE !lNuevos .AND. 'JAR' $ cMaeAlu .AND. JAA->(RECCOUNT()) == 0
+	    cError('No Existen Estudiantes de Jardin para '+cAnoAnt)
+
+       CASE !lNuevos .AND. 'PRI' $ cMaeAlu .AND. PRA->(RECCOUNT()) == 0
+	    cError('No Existen Estudiantes de Primaria para '+cAnoAnt)
+
+       CASE !lNuevos .AND. 'BTO' $ cMaeAlu .AND. BTA->(RECCOUNT()) == 0
+	    cError('No Existen Estudiantes de Bachillerato para '+cAnoAnt)
+*/
+       OTHERWISE
+	    lHayErr :=.F.
+       ENDCASE
+       IF lHayErr
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE CONTENIDOS DE ARCHIVOS
+
+*>>>>VERIFICACION DE INSCRIPCIONES ABIERTAS
+       IF !ANO->lHayMtrAno
+	  cError('Estan Cerradas las Matriculas para '+cAnoUsr,;
+		 '!Atenci¢n!')
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VERIFICACION DE INSCRIPCIONES ABIERTAS
+
+*>>>>SELECION DEL TIPO DE IMPRESION
+       IF lShared
+	  NNETSETQ('COLA')
+	  NNETCAPBEG(1)
+	  IF !lPregunta('DESEA IMPRIMIR EN RED? Si No')
+	     NNETCAPEND(1)
+	  ENDIF
+       ENDIF
+*>>>>FIN SELECION DEL TIPO DE IMPRESION
+
+*>>>>IMPRESION DE LOS ENCABEZADOS
+       nNroFil := nMarco(0,'MATRICULAS DE ALUMNOS '+IF(lNuevos,'NUEVOS ',;
+			   'ANTIGUOS '),22,'°')
+       nNroCol := 1
+
+       cMsgTxt := cRegPrint({'CODIGO',;
+			     'NOMBRE',;
+			     'ENTRA A ',;
+			     'MATRICULA '},;
+			     {06,52,08,10},@aNroCol)
+       @ nNroFil,nNroCol SAY cMsgTxt
+*>>>>FIN IMPRESION DE LOS ENCABEZADOS
+
+*>>>>ACTIVACION DE LA IMPRESORA
+       IF !Printer_On()
+	  RETURN NIL
+       ENDIF
+       @ PROW(),00 SAY INICIALIZA+PROPOR_OF+CONDEN_ON
+*>>>>FIN ACTIVACION DE LA IMPRESORA
+
+*>>>>ACTUALIZACION DE LOS DATOS DEL ESTUDIANTE
+       nNroFil++
+       DO WHILE .T.
+
+**********CAPTURA DEL CODIGO DEL ESTUDIANTE
+	    SET DEVICE TO SCREEN
+	    cSavPan := SAVESCREEN(nNroFil,0,nNroFil,79)
+	    cCodigoTes := IF(lNuevos,SPACE(04),SPACE(06))
+
+	    DO CASE
+	    CASE lNuevos
+		 cNalias := 'ADM'
+		 IF lLeeCodAdm(nNroFil,aNroCol[1],;
+			       @cCodigoTes,{||lLocCodigo('cNumeroAdm',;
+					      'ADM',cCodigoTes,;
+					      'NUMERO DE INSCRIPCION')})
+		     EXIT
+		 ENDIF
+
+	    CASE !lNuevos
+		 cCodigoTes := cLeeCodEst(nNroFil,aNroCol[1],;
+					  cMaeAlu,@cNalias,!lAnoAct)
+	    ENDCASE
+
+	    IF LASTKEY() == K_ESC .OR. EMPTY(cCodigoTes)
+	       EXIT
+	    ENDIF
+	    cNombreTes := ALLTRIM(RTRIM(&cNalias->cApelliEst)+' '+;
+				  &cNalias->cNombreEst)
+**********FIN CAPTURA DEL CODIGO DEL ESTUDIANTE
+
+**********VALIDACION DEL CODIGO
+	    DO CASE
+	    CASE lNuevos .AND. &cNalias->lRetiroAdm
+		 cError(cNombreTes+ 'ESTA RETIRADO')
+		 LOOP
+
+	    CASE !(&cNalias->lSiCupoEst)
+		 cError(cNombreTes+' NO TIENE CUPO')
+		 LOOP
+
+	    CASE !lNuevos
+		 IF SUBS(&cNalias->cCodigoGru,1,2) = '11' .AND.;
+		    !&cNalias->lRepiteEst
+		    cError(cNombreTes+' ES BACHILLER')
+		    LOOP
+		 ENDIF
+	    ENDCASE
+**********FIN VALIDACION DEL CODIGO
+
+**********ANALISIS DEL GRUPO AL QUE ENTRA
+	    cCodigoTgr := &cNalias->cCodigoGru
+	    IF !lNuevos
+	       cCodigoTgr := STR(VAL(SUBS(&cNalias->cCodigoGru,1,2))+1,2)
+	      *Incremento del nivel
+
+	       IF VAL(cCodigoTgr) < 10
+		  cCodigoTgr := STUFF(cCodigoTgr,1,1,'0')
+	       ENDIF
+	     *ÀValidaci¢n del nivel
+
+	       cCodigoTgr += SUBS(&cNalias->cCodigoGru,3,2)
+	      *Adici¢n del nivel mas el grupo
+
+	       IF &cNalias->lRepiteEst
+		  cCodigoTgr := &cNalias->cCodigoGru
+	       ENDIF
+	    ELSE
+	       cCodigoTgr := &cNalias->cCodigoGru
+	    ENDIF
+	    @ nNroFil,aNroCol[2] SAY cNombreTes
+*	    @ nNroFil,aNroCol[3] SAY cConverNiv(SUBS(cCodigoTgr,1,2))
+	    @ nNroFil,aNroCol[3] SAY SUBS(cCodigoTgr,1,2)
+**********FIN ANALISIS DEL GRUPO AL QUE ENTRA
+
+**********IMPRESION DE LOS DETALLES DE LA MATRICULA
+	    SAVE SCREEN
+	    DetalleMat(IF(lNuevos,ADM->cNumeroAdm,&cNalias->cCodigoEst),;
+		       VAL(SUBS(cCodigoTgr,1,2)),;
+		       &cNalias->cNombreEst,;
+		       &cNalias->cApelliEst,;
+		       &cNalias->cLugNacEst,;
+		       &cNalias->dFecNacEst,;
+		       &cNalias->cDocNitEst,;
+		       &cNalias->cLugNitEst,;
+		       &cNalias->cDireccEst,;
+		       &cNalias->cBarrioEst,;
+		       &cNalias->cTelefnEst,;
+		       &cNalias->cNomPadEst,;
+		       &cNalias->cProPadEst,;
+		       &cNalias->cEmpPadEst,;
+		       &cNalias->cCarPadEst,;
+		       &cNalias->cTelPadEst,;
+		       &cNalias->cNomMadEst,;
+		       &cNalias->cProMadEst,;
+		       &cNalias->cEmpMadEst,;
+		       &cNalias->cCarMadEst,;
+		       &cNalias->cTelMadEst,;
+		       &cNalias->cNomAcuEst,;
+		       &cNalias->cTe1AcuEst,;
+		       &cNalias->cTe2AcuEst)
+**********FIN IMPRESION DE LOS DETALLES DE LA MATRICULA
+
+**********ASIGNACION DEL CODIGO PARA LOS ALUMNOS NUEVOS
+	    IF lNuevos
+	       cCodigoTes := cAnoSis+cCodigoTes
+	    ENDIF
+**********FIN ASIGNACION DEL CODIGO PARA LOS ALUMNOS NUEVOS
+
+**********VALIDACION DEL CODIGO A MATRICULAR
+	    lMatric := .F.
+	    lDuplic := .F.
+	    cAliasN := cAliasNiv(VAL(SUBS(cCodigoTgr,1,2)),lAnoAct)
+
+	    IF lSekCodMae(cCodigoTes,cMaeAlu,cAliasN,lAnoAct,!lMensaj)
+	       cError(cNombreTes+ ' YA ESTA MATRICULADO')
+
+*--------------PREGUNTA DE DECISION
+		 IF lPregunta('DESEA IMPRIMIR UNA COPIA DE LA HOJA '+;
+			      'DE MATRICULA? Si No')
+		    lDuplic := .T.
+		 ENDIF
+*--------------FIN PREGUNTA DE DECISION
+
+	    ELSE
+
+*--------------PREGUNTA DE DECISION
+		 IF lPregunta('DESEA MATRICULAR AL ESTUDIANTE? Si No')
+		    lMatric := .T.
+		 ENDIF
+*--------------FIN PREGUNTA DE DECISION
+
+	    ENDIF
+**********FIN VALIDACION DEL CODIGO A MATRICULAR
+
+**********LECTURA DE LAS OBSERVACIONES PARA LA MATRICULA
+	    IF lMatric .OR. lDuplic
+	       cObserv := SPACE(65)
+	       DO WHILE .T.
+		  @ 21,01 SAY "OBSERVACION:" GET cObserv PICT "@!X"
+		  READ
+		  IF !EMPTY(cObserv)
+		     IF lPregunta('DESEA CORREGIR LA OBSERVACION? No Si')
+			LOOP
+		     ELSE
+			EXIT
+		     ENDIF
+		  ELSE
+		     EXIT
+		  ENDIF
+	       ENDDO
+	    ENDIF
+**********FIN LECTURA DE LAS OBSERVACIONES PARA LA MATRICULA
+
+**********INCLUSION DEL REGISTRO EN BLANCO EN NUEVOS
+	    lGrabar := .F.
+	    IF lMatric .AND. !lDuplic
+	       SELECT &cAliasN
+	       lGrabar := lRegLock(lShared,.T.)
+	    ENDIF
+**********FIN INCLUSION DEL REGISTRO EN BLANCO EN NUEVOS
+
+**********GRABACION DE LA MATRICULA
+	    DO CASE
+	    CASE lMatric .AND. !lDuplic
+		 IF lGrabar
+		    SELECT &cAliasN
+		    REPL &cAliasN->cCodigoEst WITH cCodigoTes
+		    REPL &cAliasN->lRetiroEst WITH .F.
+		    REPL &cAliasN->cCodigoGru WITH cCodigoTgr
+		    REPL &cAliasN->cApelliEst WITH &cNalias->cApelliEst
+		    REPL &cAliasN->cNombreEst WITH &cNalias->cNombreEst
+		    REPL &cAliasN->dFecNacEst WITH &cNalias->dFecNacEst
+		    REPL &cAliasN->cLugNacEst WITH &cNalias->cLugNacEst
+		    REPL &cAliasN->cDocNitEst WITH &cNalias->cDocNitEst
+		    REPL &cAliasN->cLugNitEst WITH &cNalias->cLugNitEst
+		    REPL &cAliasN->cDireccEst WITH &cNalias->cDireccEst
+		    REPL &cAliasN->cTelefnEst WITH &cNalias->cTelefnEst
+		    REPL &cAliasN->cBarrioEst WITH &cNalias->cBarrioEst
+		    REPL &cAliasN->cNomPadEst WITH &cNalias->cNomPadEst
+		    REPL &cAliasN->cProPadEst WITH &cNalias->cProPadEst
+		    REPL &cAliasN->cEmpPadEst WITH &cNalias->cEmpPadEst
+		    REPL &cAliasN->cCarPadEst WITH &cNalias->cCarPadEst
+		    REPL &cAliasN->cTelPadEst WITH &cNalias->cTelPadEst
+		    REPL &cAliasN->cNomMadEst WITH &cNalias->cNomMadEst
+		    REPL &cAliasN->cProMadEst WITH &cNalias->cProMadEst
+		    REPL &cAliasN->cEmpMadEst WITH &cNalias->cEmpMadEst
+		    REPL &cAliasN->cCarMadEst WITH &cNalias->cCarMadEst
+		    REPL &cAliasN->cTelMadEst WITH &cNalias->cTelMadEst
+		    REPL &cAliasN->cNomAcuEst WITH &cNalias->cNomAcuEst
+		    REPL &cAliasN->cTe1AcuEst WITH &cNalias->cTe1AcuEst
+		    REPL &cAliasN->cTe2AcuEst WITH &cNalias->cTe2AcuEst
+		    REPL &cAliasN->lRepiteEst WITH .F.
+		    REPL &cAliasN->lSiCupoEst WITH .T.
+		    REPL &cAliasN->lSiMatrEst WITH .F.
+		    REPL &cAliasN->dFecMatEst WITH DATE()
+		    REPL &cAliasN->cHorMatEst WITH TIME()
+		    DBCOMMIT()
+		    IF lShared
+		       DBUNLOCK()
+		    ENDIF
+		 ELSE
+		    cError('NO SE PUEDE MATRICULAR NUEVOS. '+;
+			   'ERRORES EN EL SISTEMA')
+		 ENDIF
+	    ENDCASE
+**********FIN GRABACION DE LA MATRICULA
+
+**********GRABACION DEL CONTROL DE LA MATRICULA
+	    IF lMatric .AND. lGrabar
+	       SELECT &cNalias
+	       IF lRegLock(lShared,.F.)
+		  SELECT &cNalias
+		  REPL &cNalias->cCodigoEst WITH cCodigoTes
+		  REPL &cNalias->lSiMatrEst WITH .T.
+		  REPL &cNAlias->dFecMatEst WITH DATE()
+		  REPL &cNAlias->cHorMatEst WITH TIME()
+		  DBCOMMIT()
+	       ELSE
+		  cError("NO SE GRABA EL CONTROL DE MATRICULA ")
+		  lMatric := .F.
+	       ENDIF
+	       IF lShared
+		  DBUNLOCK()
+	       ENDIF
+	    ENDIF
+**********FIN GRABACION DEL CONTROL DE LA MATRICULA
+
+**********IMPRESION DE LA MATRICULA
+	    IF (lMatric .AND. lGrabar) .OR. lDuplic
+	       SET DEVICE TO PRINT
+	       dFecMatTes := DATE()
+	       cHorMatTes := TIME()
+	       IF lDuplic
+		  dFecMatTes := &cAliasN->dFecMatEst
+		  cHorMatTes := &cAliasN->cHorMatEst
+	       ENDIF
+	       Matricula(&cNalias->cCodigoEst,;
+			 IF(lNuevos,.T.,.F.),;
+			 IF(!lNuevos,&cNalias->lRepiteEst,.F.),;
+			 VAL(SUBS(cCodigoTgr,1,2)),;
+			 &cAliasN->cNombreEst,;
+			 &cAliasN->cApelliEst,;
+			 &cAliasN->dFecNacEst,;
+			 &cAliasN->cLugNacEst,;
+			 &cAliasN->cDocNitEst,;
+			 &cAliasN->cLugNitEst,;
+			 &cAliasN->cDireccEst,;
+			 &cAliasN->cBarrioEst,;
+			 &cAliasN->cTelefnEst,;
+			 &cAliasN->cNomPadEst,;
+			 &cAliasN->cProPadEst,;
+			 &cAliasN->cEmpPadEst,;
+			 &cAliasN->cCarPadEst,;
+			 &cAliasN->cTelPadEst,;
+			 &cAliasN->cNomMadEst,;
+			 &cAliasN->cProMadEst,;
+			 &cAliasN->cEmpMadEst,;
+			 &cAliasN->cCarMadEst,;
+			 &cAliasN->cTelMadEst,;
+			 &cAliasN->cNomAcuEst,;
+			 &cAliasN->cTe1AcuEst,;
+			 dFecMatTes,;
+			 cHorMatTes,;
+			 cObserv,cNomSis,;
+			 cNomEmp,cAnoUsr)
+	    ENDIF
+	    RESTORE SCREEN
+	    @ nNroFil,aNroCol[4] SAY IF(lMatric,'Si','No')
+**********FIN IMPRESION DE LA MATRICULA
+
+ALTD()
+
+**********PREPARACION DE LAS VARIABLES DE ARCHIVOS
+	    IF lIntUno
+	       FileNot := cIntUno+'\'+cAliasN+'\NOTAS\'+;
+			  'NT'+cCodigoTgr+cAnoSis+ExtFile
+	    ENDIF
+	    IF lIntDos
+	       FileCli := cIntDos+'\CLIENTES\CL'+;
+			  cCodigoTgr+cAnoSis+ExtFile
+	    ENDIF
+**********FIN PREPARACION DE LAS VARIABLES DE ARCHIVOS
+
+**********SELECION DE LAS AREAS DE TRABAJO
+	    lErrUno := .F.
+	    IF lIntUno .AND. FILE(FileNot)
+	       IF !lUseDbf(.T.,FileNot,'NOT',NIL,lShared)
+		  cError('ABRIENDO EL ARCHIVO DE NOTAS DEL GRUPO '+cCodigoTgr)
+		  lErrUno := .T.
+	       ENDIF
+	    ENDIF
+**********FIN SELECION DE LAS AREAS DE TRABAJO
+
+**********GRABACION DEL ESTUDIANTE EN NOTAS
+	    IF lIntUno .AND. !lErrUno
+
+	       SELECT NOT
+	       IF !lLocCodigo('cCodigoEst','NOT',cCodigoTes)
+		  IF lRegLock(lShared,.T.)
+		     REPL NOT->cCodigoEst WITH cCodigoTes
+		     NOT->(DBCOMMIT())
+		  ELSE
+		     cError("NO SE GRABA EL ESTUDIANTE EN NOTAS")
+		  ENDIF
+		  IF lShared
+		     NOT->(DBUNLOCK())
+		  ENDIF
+	       ENDIF
+
+	    ENDIF
+	    CloseDbf('NOT')
+**********FIN GRABACION DEL ESTUDIANTE EN NOTAS
+
+**********SELECION DE LAS AREAS DE TRABAJO
+	    lErrDos := .F.
+	    IF lIntDos .AND. FILE(FileCli)
+	       IF !lUseDbf(.T.,FileCli,'CLI',NIL,lShared)
+		  cError('ABRIENDO EL ARCHIVO DE CLIENTES DEL GRUPO '+cCodigoTgr)
+		  lErrDos := .T.
+	       ENDIF
+	    ENDIF
+**********FIN SELECION DE LAS AREAS DE TRABAJO
+
+**********GRABACION DEL ESTUDIANTE EN NOTAS
+	    IF lIntDos .AND. !lErrDos
+
+	       SELECT CLI
+	       IF !lLocCodigo('cCodigoEst','CLI',cCodigoTes)
+		  IF lRegLock(lShared,.T.)
+		     REPL CLI->cCodigoEst WITH cCodigoTes
+		     CLI->(DBCOMMIT())
+		  ELSE
+		     cError("NO SE GRABA EL ESTUDIANTE EN CLIENTES")
+		  ENDIF
+		  IF lShared
+		     CLI->(DBUNLOCK())
+		  ENDIF
+	       ENDIF
+
+	    ENDIF
+	    CloseDbf('CLI')
+**********FIN GRABACION DEL ESTUDIANTE EN NOTAS
+
+**********INCREMENTO DE LAS FILAS
+	    nNroFil++
+	    IF nNroFil > 19
+
+*--------------IMPRESION DE LOS DATOS DEL ULTIMO ESTUDIANTE
+		 nNroFil := nMarco(0,'MATRICULAS PARA ALUMNOS PARA EL '+;
+				     cAnoUsr,22,'°')
+		 @ nNroFil,nNroCol SAY cMsgTxt
+
+		 nNroFil++
+		 SET COLOR TO I
+		 @ nNroFil,01 SAY cCodigoTes
+		 SET COLOR TO
+
+		 @ nNroFil,aNroCol[2] SAY cNombreTes
+		 @ nNroFil,aNroCol[3] SAY cCodigoTgr
+		 @ nNroFil,aNroCol[4] SAY IF(lMatric,'Si','No')
+		 nNroFil++
+*--------------FIN IMPRESION DE LOS DATOS DEL ULTIMO ESTUDIANTE
+
+	    ENDIF
+**********FIN INCREMENTO DE LAS FILAS
+
+       ENDDO
+       SETKEY(K_F10,NIL)
+       SHOWTIME()
+       CLOSE ALL
+       RETURN NIL
+*>>>>FIN ACTUALIZACION DE LOS DATOS DEL ESTUDIANTE
+
+
+/*************************************************************************
+* TITULO DE LA FUNCION..: VISUALIZA LA FECHA Y HORA DEL SISTEMA          *
+**************************************************************************
+
+OBJETIVOS:                          FECHA DE CREACION: NOV 25/94 VIE A
+						       NOV 25/94 VIE
+
+1- Visualiza la fecha y hora del sistema
+
+2- Retorna el valor l¢gico de cambiar la fecha y hora
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION FecHorSys(cNomSis)
+
+*>>>>PARAMETROS DEL SISTEMA
+/*     cNomSis                              // Nombre del sistema */
+*>>>>FIN PARAMETROS DEL SISTEMA
+
+*>>>>VISUALIZACION DE FECHA Y HORA Y SISTEMA
+       LineaEstado('FECHA: '+cFecha(DATE())+" "+cDia(DOW(DATE()),9)+;
+		   '           <F10> CAMBIAR HORA/FECHA',cNomSis,.F.)
+
+       SHOWTIME(23,71,.F.,,.T.,.T.)
+       RETURN NIL
+*>>>>FIN VISUALIZACION DE FECHA Y HORA Y SISTEMA
+
+/*************************************************************************
+* TITULO DE LA FUNCION..: LECTURA DE LA FECHA Y HORA DEL SISTEMA         *
+**************************************************************************
+
+OBJETIVOS:                          FECHA DE CREACION: NOV 25/94 VIE A
+						       NOV 25/94 VIE
+
+1- Permite leer y cambiar la fecha y hora del sistema
+
+2- Retorna NIL
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION LeerFecHora(cNomSis)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     cNomSis                              // Nombre del Sistema */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL cSavPan := ''                  // Salvar Pantalla
+       LOCAL nFilSup := 10                  // Fila Superior
+       LOCAL nColSup := 34                  // Columna Superior
+       LOCAL nFilInf := 14                  // Fila Inferior
+       LOCAL nColInf := 48                  // Columna Inferior
+
+       LOCAL aMenus  := {}                  // Declaraci¢n de Men£s
+       LOCAL aAyuda  := {}                  // Declaraci¢n de Ayudas
+       LOCAL nNroOpc := 1                   // N£mero de la opci¢n
+
+       LOCAL dFecSys := CTOD("00/00/00")    // Fecha del sistema
+       LOCAL cHorSys := SPACE(08)           // Hora del sistema
+
+       LOCAL GetList := {}
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>ANALISIS PARA EL CAMBIO DE LA FECHA Y HORA
+       aMenus  := {'1<FECHA>',;
+		   '2<HORA >'}
+
+       aAyuda  := {'Cambia la fecha en el formato MM/DD/AA',;
+		   'Cambia la hora en el formato internaciona HH:MM:SS'}
+
+       cSavPan := SAVESCREEN(nFilSup,nColSup,nFilInf,nColInf)
+       nNroOpc := nMenu(aMenus,aAyuda,nFilSup,nColSup,NIL,NIL,1,.F.)
+*>>>>FIN ANALISIS PARA EL CAMBIO DE LA FECHA Y HORA
+
+*>>>>ANALISIS DE LA OPCION ESCOGIDA
+       DO CASE
+       CASE nNroOpc == 1
+
+************LECTURA DE LA FECHA
+	      @ nFilInf,nColSup SAY "FECHA:" GET dFecSys PICT "@D";
+				     VALID dFecSys <> CTOD('00/00/00')
+	      READ
+************FIN LECTURA DE LA FECHA
+
+************GRABACION DE LA FECHA
+	      IF ISAT()
+		 SETDATE(dFecSys,.T.)
+	      ELSE
+		 SETDATE(dFecSys)
+	      ENDIF
+************FIN GRABACION DE LA FECHA
+
+       CASE nNroOpc == 2
+
+*************LECTURA DE LA HORA
+	       @ nFilInf,nColSup SAY "HORA:"  GET cHorSys PICT "99:99:99" ;
+				     VALID TIMEVALID(ALLTRIM(cHorSys))
+	       READ
+*************FIN LECTURA DE LA HORA
+
+*************GRABACION DE LA HORA
+	       IF ISAT()
+		  SETTIME(cHorSys,.T.)
+	       ELSE
+		  SETTIME(cHorSys)
+	       ENDIF
+*************FIN GRABACION DE LA HORA
+       ENDCASE
+
+       RESTSCREEN(nFilSup,nColSup,nFilInf,nColInf,cSavPan)
+       FecHorSys(cNomSis)
+       RETURN NIL
+*>>>>FIN ANALISIS DE LA OPCION ESCOGIDA

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A ABR 30/2017"
+   titulo2 = "CORRESPONDIENTE AL MES DE ABRIL"
+   titulo3 = "GRUPO: 0201 JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAY  5/2017"
+   horaprn = "17:15:37"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV042517.XML">1</campo>
+    <campo url="no">AYALA GARCIA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 25/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216094</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042617.XML">2</campo>
+    <campo url="no">CAMARGO TOLOZA SIM</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 26/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214009</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041217.XML">3</campo>
+    <campo url="no">CHAPARRO GOMEZ DIE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 12/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215015</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">GOMEZ GOMEZ JULIAN</campo>
+    <campo url="no">PENSION->BECA  8.00%</campo>
+    <campo url="no">694,958</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">16,487</campo>
+    <campo url="no">678,471</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215072</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042417.XML">5</campo>
+    <campo url="no">GRANADOS BAUTISTA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 24/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215017</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041917.XML">6</campo>
+    <campo url="no">HERNANDEZ CARRILLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,492,932</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">14,749</campo>
+    <campo url="no">ABR 19/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214152</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">LEON DUARTE JUAN J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216055</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041717.XML">8</campo>
+    <campo url="no">LIZCANO ARENAS NIC</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 17/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216031</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041717.XML">9</campo>
+    <campo url="no">MANOSALVA ARIZA JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 17/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216001</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042817.XML">10</campo>
+    <campo url="no">MORALES VALENCIA F</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 28/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042517.XML">11</campo>
+    <campo url="no">PEREZ GONZALEZ JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 25/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216115</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041217.XML">12</campo>
+    <campo url="no">PE¥ALOSA BURGOS GU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 12/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216029</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">RAMIREZ ALBARRACIN</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042017.XML">14</campo>
+    <campo url="no">RAMIREZ BECERRA JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 20/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">217039</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041817.XML">15</campo>
+    <campo url="no">REYES DURAN JUAN M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,492,932</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">14,749</campo>
+    <campo url="no">ABR 18/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216108</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">RODRIGUEZ DIAZ OMA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214145</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV040017.XML">17</campo>
+    <campo url="no">SANCHEZ AMADO JUAN</campo>
+    <campo url="no">PENSION->BECA *****%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">??</campo>
+    <campo url="no"></campo>
+    <campo url="no">214103</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">SANTOYO CONTRERAS</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216003</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041917.XML">19</campo>
+    <campo url="no">SARABIA BALLESTERO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">7,375</campo>
+    <campo url="no">ABR 19/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">217073</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">SARMIENTO GOMEZ JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">755,389</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">17,920</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216033</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">TORRES LUNA SAMUEL</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">2,320,150</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">53,761</campo>
+    <campo url="no">2,266,389</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215081</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041717.XML">22</campo>
+    <campo url="no">TRUJILLO MEDINA MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">737,469</campo>
+    <campo url="no"></campo>
+    <campo url="no">737,469</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 17/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214195</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACABR17.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">3,770,497</campo>
+    <campo url="no">14,011,911</campo>
+    <campo url="no">88,168</campo>
+    <campo url="no">3,682,329</campo>
+    <campo url="no"></campo>
+    <campo url="no">81,123</campo>
+    <campo url="no">11,835,492</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

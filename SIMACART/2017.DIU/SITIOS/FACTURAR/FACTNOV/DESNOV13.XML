@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2013 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "MAR  8/2017"
+   horaprn = "16:10:31"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">212102</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">BOTERO BOADA JULIANA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">2,498,866</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$  2,498,866</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

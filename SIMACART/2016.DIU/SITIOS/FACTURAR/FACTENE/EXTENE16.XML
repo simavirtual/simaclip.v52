@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE ENERO. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "MAR  1/2016"
+   horaprn = "16:11:24"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTFEB\PAGFEB16.XML">RECIBOS DE FEB 2016</campo>
+    <campo url="no">152,228,582.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">152,228,582.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2014 NOV</campo>
+    <campo url="no">1,920,268.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,920,268.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2015 NOV</campo>
+    <campo url="no">77,106,219.00</campo>
+    <campo url="no">10,381,161.00</campo>
+    <campo url="no">66,725,058.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no"></campo>
+    <campo url="no">80,077,013.00</campo>
+    <campo url="no">-80,077,013.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">4,204.95</campo>
+    <campo url="no"></campo>
+    <campo url="no">4,204.95</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">320,421.97</campo>
+    <campo url="no">-320,421.97</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">28,485.00</campo>
+    <campo url="no">-28,485.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">231,259,273.95</campo>
+    <campo url="no">90,807,080.97</campo>
+    <campo url="no">140,452,192.98</campo>
+
+  </registro>
+
+</registros>

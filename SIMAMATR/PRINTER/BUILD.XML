@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+
+<project default='pdf' basedir='.'>
+
+  <target name='init'>
+
+    <tstamp/>
+    <property file='${basedir}/build.pro' />
+    <property name='outfo'  value='fo'/>
+    <property name='outpdf' value='pdf'/>
+
+    <mkdir dir='${outfo}'/>
+    <mkdir dir='${outpdf}'/>
+
+    <path id='run-classpath'>
+      <fileset dir='${dir.fop}/lib'>
+	     <include name='*.jar'/>
+      </fileset>
+      <pathelement location='${dir.fop}/lib/fop.jar'/>
+    </path>
+
+    <path id='file-xml'>
+      <fileset dir='.'>
+	     <include name='*.xml'/>
+      </fileset>
+    </path>
+
+    <taskdef name='fop'
+	     classname='org.apache.fop.tools.anttasks.Fop'
+	     classpathref='run-classpath'/>
+  </target>
+
+  <target name='fo' depends='init'>
+    <echo message='Generando los pdf' />
+
+    <xslt style='${dir.infpdf}/infpdf00.www' destdir='${outfo}' basedir='xml' extension='.fo'>
+      <outputproperty name='method' value='xml'/>
+      <outputproperty name='standalone' value='yes'/>
+      <outputproperty name='encoding' value='ISO-8859-1'/>
+      <outputproperty name='indent' value='yes'/>
+    </xslt>
+  </target>
+
+  <target name='fo1' depends='init'>
+    <echo message='Generando los pdf' />
+
+    <xslt basedir='xml' destdir='${outfo}'
+	   includes='*.xml'
+	   extension='.fo'
+	   style='${dir.infpdf}/infpdf00.www'>
+    </xslt>
+
+  </target>
+
+  <target name='pdf' depends='fo' description='Generando los pdfs'>
+
+    <fop format='application/pdf' outdir='${outpdf}' messagelevel='warn' relativebase='true'>
+      <fileset dir='${outfo}'>
+	     <include name='**/*.fo'/>
+      </fileset>
+    </fop>
+  </target>
+
+</project>

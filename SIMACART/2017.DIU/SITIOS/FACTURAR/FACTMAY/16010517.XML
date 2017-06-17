@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A MAY 31/2017"
+   titulo2 = "CORRESPONDIENTE AL MES DE MAYO"
+   titulo3 = "GRUPO: JA01 JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "JUN  7/2017"
+   horaprn = "16:40:01"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV051117.XML">1</campo>
+    <campo url="no">AGUILAR SIERRA JOS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 11/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216004</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV053017.XML">2</campo>
+    <campo url="no">BELTRAN FRANCO SOF</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no">7,505</campo>
+    <campo url="no">MAY 30/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216005</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">CORONEL DAZA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">768,787</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">18,238</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">217049</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">LOAIZA RAMIREZ JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216026</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">MONSALVE ESTUPI¥AN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">768,787</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">18,238</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216058</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">OTEO LOPEZ CANDELA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216149</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">PARRA MANTILLA NIC</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216053</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV051517.XML">8</campo>
+    <campo url="no">RUEDA VERA CARLOS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 15/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">217047</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACMAY17.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,537,574</campo>
+    <campo url="no">4,503,294</campo>
+    <campo url="no">36,476</campo>
+    <campo url="no">1,501,098</campo>
+    <campo url="no"></campo>
+    <campo url="no">7,505</campo>
+    <campo url="no">2,251,647</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

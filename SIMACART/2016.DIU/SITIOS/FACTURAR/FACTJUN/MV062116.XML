@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JUNIO DIA:21. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUN 22/2016"
+   horaprn = "08:52:58"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215068140600</campo>
+    <campo url="no">0801 GAITAN FONSECA CARLOS AUGUSTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">652,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214180060600</campo>
+    <campo url="no">0002 PATI¥O CAMACHO JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216098060600</campo>
+    <campo url="no">0201 GALLO BELLO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">215114060600</campo>
+    <campo url="no">1102 CARRASCAL LEMUS LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211091060600</campo>
+    <campo url="no">0502 CARDENAS CUBILLOS LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211090060600</campo>
+    <campo url="no">0602 CARDENAS CUBILLOS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUN 21/2016</campo>
+    <campo url="no">RECIBO DE JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

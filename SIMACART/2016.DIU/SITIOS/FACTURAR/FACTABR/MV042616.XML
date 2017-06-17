@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:26. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR 27/2016"
+   horaprn = "07:30:04"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">003790131000</campo>
+    <campo url="no"></campo>
+    <campo url="no">034</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">213093040400</campo>
+    <campo url="no">0701 ZAFRA OTERO FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">214043040400</campo>
+    <campo url="no">0802 ALVAREZ LIZCANO CARLOS MARIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">215014040400</campo>
+    <campo url="no">0302 TORRES CORREA ISABEL SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215108040400</campo>
+    <campo url="no">0601 CHAPARRO PEDROZO SUSANA CRISTI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">215125040400</campo>
+    <campo url="no">0902 CHAPARRO PEDROZO EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">209022040400</campo>
+    <campo url="no">0701 TRILLOS PEINADO BALDINI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1333,577.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215084040400</campo>
+    <campo url="no">1101 OREJARENA SERRANO ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">211090040400</campo>
+    <campo url="no">0602 CARDENAS CUBILLOS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">211091040400</campo>
+    <campo url="no">0502 CARDENAS CUBILLOS LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">214049040400</campo>
+    <campo url="no">0801 AGUDELO LADRON DE GUEVARA SANT</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216130040400</campo>
+    <campo url="no">0202 REYES PEREZ PABLO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">213030040400</campo>
+    <campo url="no">0302 SERRANO CUADROS SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">090059344900</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 26/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,96 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# NOMBRE DEL ENCADENADOR..: SIMASOFT.BLK                                 *
+# TITULO DEL PROGRAMA.....: ENCADENADOR DEL SISTEMA                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 11/96 LUN A
+#	Colombia, Bucaramanga	     INICIO: 11:35 AM   Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+       BLI EXE DUA
+       BLI EXE CLI //F:60
+       MAP S,A
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>MODULOS DEL SISTEMA
+       output \aplica.nel\clipper.v52\Sima\SimaProf\SimaProf
+       fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\SimaProf
+       BEGINAREA
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe101
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe102
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe401
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe402
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe403
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe404
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe405
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe503
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe601
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe602
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe603
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe604
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe701
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\Profe702
+       #ÀModulos principales
+
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FSimaPro
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FProfAno
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FProfTbl
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\ProfeFun
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsPro
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsCaP
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsMaP
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsNoP
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsInd
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsCla
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsEva
+	 fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsNro
+       #ÀFunciones del sistema
+
+	 fi \aplica.nel\clipper.v52\Sima\SimaMatr\f\objs\FuncsAlu
+         fi \aplica.nel\clipper.v52\Sima\SimaMatr\f\objs\FuncsNiv
+       #ÀFunciones compartidas. Contabilidad
+
+#        fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsTar
+#        fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsBan
+#        fi \aplica.nel\clipper.v52\Sima\SimaProf\f\objs\FuncsPag
+       #ÀFunciones compartidas. Cartera
+
+	 fi  \aplica.nel\clipper.v52\clipper.fun\usrcrypt
+	 fi  \aplica.nel\clipper.v52\clipper.fun\classnel
+	 fi  \aplica.nel\clipper.v52\clipper.fun\archinel
+	 fi  \aplica.nel\clipper.v52\clipper.fun\funcsdbf
+	 fi  \aplica.nel\clipper.v52\clipper.fun\funcsprn
+	 fi  \aplica.nel\clipper.v52\clipper.fun\funcsnel
+	 fi  \aplica.nel\clipper.v52\clipper.fun\printer
+       #ÀFunciones generales
+       ENDAREA
+#>>>>FIN MODULOS DEL SISTEMA
+
+#>>>>LIBRERIAS DE TERCEROS
+      fi h:\aplica.win\lenguaje\clipper.v53\Catools\obj\ctusp
+      lib h:\aplica.win\lenguaje\clipper.v53\Catools\lib\ctp
+      lib g:\aplica.dos\lenguaje\blinker4\lib\blxclp52
+#      lib cld
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIAS DE TERCEROS
+#      fi h:\aplica.win\lenguaje\clipper.v53\Catools\obj\ctusp
+#      lib h:\aplica.win\lenguaje\clipper.v53\Catools\lib\ctp
+#      lib g:\aplica.dos\lenguaje\blinker4\lib\blxclp52
+#      lib cld
+#>>>>FIN LIBRERIAS DE TERCEROS
+

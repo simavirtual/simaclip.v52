@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES. DE ENE  1/2016 A ENE 31/2016"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE NOVIEMBRE"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2015"
+   fechprn = "FEB  5/2016"
+   horaprn = "16:26:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>ABONOS</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\..\..\2016.DIU\sitios\facturar\FACTENEEXTENE16.XML">2016 ENE  01</campo>
+    <campo url="no">66,725,058</campo>
+    <campo url="no">66,725,058</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">66,725,058</campo>
+    <campo url="no">66,725,058</campo>
+
+  </registro>
+
+</registros>

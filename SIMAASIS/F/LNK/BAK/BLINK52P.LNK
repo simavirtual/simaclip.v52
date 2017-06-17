@@ -1,0 +1,70 @@
+#  LINKEADOR: SISTEMA DE CENTRAL DE RIESGOS
+
+#*************************************************************************
+# TITULO..: ENCADENADOR DEL SISTEMA                                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: ENE 16/2004 VIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador blinker version 7.00
+#   compatible con Clipper
+
+#OBJETIVOS:
+
+#1- Especificaciones para el linkeador
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+       BLI INC OF
+       BLI EXE CLI //F:60
+       BLI EXE EXT
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>OPCIONES OPCIONALES
+#      BLI EXE DUA
+#      BLI EXE NODELETE
+#      BLI DEM DAT 2001/01/30
+      BLI EXE COM 9
+#      VERBOSE
+#      MAP A,S
+#>>>>FIN OPCIONES OPCIONALES
+
+#>>>>NOMBRE DEL ARCHIVO EXECUTABLE
+       output \SimaClip.v52\SimaAsis\SimaAsis
+#>>>>FIN NOMBRE DEL ARCHIVO EXECUTABLE
+
+#>>>>MODULOS DEL SISTEMA
+       fi \SimaClip.v52\SimaAsis\f\objs\SimaAsis
+       BEGINAREA
+	 @lnk\Asist100.lnk
+	 @lnk\Asist300.lnk
+	 @lnk\Asist400.lnk
+	 @lnk\Asist700.lnk
+
+	 @lnk\AsistFun.lnk
+	 @lnk\AsistSha.lnk
+
+	 @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+	 Lib extend
+       ENDAREA
+#>>>>FIN MODULOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+#       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools52p.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIAS DE TERCEROS
+       search \aplica.dos\lenguaje\blinker7\lib\blxclp52
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+

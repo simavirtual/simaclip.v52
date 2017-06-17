@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:12. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY 15/2017"
+   horaprn = "09:13:29"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">000000000200</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+    <campo url="no">034</campo>
+    <campo url="no">1664,477.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216061050502</campo>
+    <campo url="no">0302 CASTRO SORA MARIA ALEJANDRA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">730,445.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">215020050502</campo>
+    <campo url="no">0702 BENITEZ QUIROZ YARIB DEL MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">213148140502</campo>
+    <campo url="no">0502 BELTRAN FRANCO LUIS CARLOS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,055.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">217073050502</campo>
+    <campo url="no">0201 SARABIA BALLESTEROS ROBINSON A</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,469.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216029050502</campo>
+    <campo url="no">0201 PE¥ALOSA BURGOS GUSTAVO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,469.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214043050502</campo>
+    <campo url="no">0902 ALVAREZ LIZCANO CARLOS MARIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">208072050502</campo>
+    <campo url="no">0903 DURAN URIBE OSCAR ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">216005140502</campo>
+    <campo url="no">1601 BELTRAN FRANCO SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">768,787.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216015050502</campo>
+    <campo url="no">0702 RODRIGUEZ JAIMES MARIA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">211013050502</campo>
+    <campo url="no">1002 GOMEZ OCHOA VALERIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211122050502</campo>
+    <campo url="no">0701 MERCHAN NAVARRO MARIA DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">211177050502</campo>
+    <campo url="no">0701 GUTIERREZ PORRAS WILSON ARLEY</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1440,814.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">214144140502</campo>
+    <campo url="no">0402 RINCON PLAZAS JOEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">748,195.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">217035050502</campo>
+    <campo url="no">0601 ALVAREZ LIZCANO JOSE ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 12/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

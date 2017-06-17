@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE ENERO. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "FEB  4/2016"
+   horaprn = "08:35:41"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>FECHA</columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>REFERENCIA</columna>
+    <columna>COMPROBANTE</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">ENE 14/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5395232</campo>
+    <campo url="no"></campo>
+    <campo url="no">212037141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 15/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6920774</campo>
+    <campo url="no"></campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170938</campo>
+    <campo url="no"></campo>
+    <campo url="no">213044141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170938</campo>
+    <campo url="no"></campo>
+    <campo url="no">207158141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">564047</campo>
+    <campo url="no"></campo>
+    <campo url="no">208058141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">055</campo>
+    <campo url="no"></campo>
+    <campo url="no">3460387</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">055</campo>
+    <campo url="no"></campo>
+    <campo url="no">3460387</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1951650</campo>
+    <campo url="no"></campo>
+    <campo url="no">215068141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">628436</campo>
+    <campo url="no"></campo>
+    <campo url="no">215144141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3637343</campo>
+    <campo url="no"></campo>
+    <campo url="no">214155141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1920268</campo>
+    <campo url="no"></campo>
+    <campo url="no">208239141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2957466</campo>
+    <campo url="no"></campo>
+    <campo url="no">209156141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 20/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">552656</campo>
+    <campo url="no"></campo>
+    <campo url="no">210159141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3359423</campo>
+    <campo url="no"></campo>
+    <campo url="no">214019141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">4674815</campo>
+    <campo url="no"></campo>
+    <campo url="no">209045141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6920774</campo>
+    <campo url="no"></campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1727537</campo>
+    <campo url="no"></campo>
+    <campo url="no">215105141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3273477</campo>
+    <campo url="no"></campo>
+    <campo url="no">212045141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1750000</campo>
+    <campo url="no"></campo>
+    <campo url="no">215148141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no">055</campo>
+    <campo url="no"></campo>
+    <campo url="no">3460387</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2005320</campo>
+    <campo url="no"></campo>
+    <campo url="no">213068141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1988675</campo>
+    <campo url="no"></campo>
+    <campo url="no">215013141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6875385</campo>
+    <campo url="no"></campo>
+    <campo url="no">213226141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170938</campo>
+    <campo url="no"></campo>
+    <campo url="no">213227141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1270039</campo>
+    <campo url="no"></campo>
+    <campo url="no">215142141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1116891</campo>
+    <campo url="no"></campo>
+    <campo url="no">215143141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1023465</campo>
+    <campo url="no"></campo>
+    <campo url="no">215148141100</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no">79,026,487.00</campo>
+    <campo url="no">10,381,161.00</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

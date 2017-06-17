@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JULIO DIA:12. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUL 13/2016"
+   horaprn = "07:28:07"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041</campo>
+    <campo url="no">gravamen a los movimientos fin</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">191,318.80</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">gravamen a los movimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216100070700</campo>
+    <campo url="no">0301 PARRA MARTINEZ CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216064070700</campo>
+    <campo url="no">0801 ORTIZ FIGUEROA DANIELA ORTIZ</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216062070700</campo>
+    <campo url="no">0201 ORTIZ FIGUEROA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215180070700</campo>
+    <campo url="no">1601 VILLALBA IBA¥EZ LUISA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">212084070700</campo>
+    <campo url="no">1103 BARBOSA NI¥O NATALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">212038070700</campo>
+    <campo url="no">1102 MEJIA PARADA MONICA MARCELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214061070700</campo>
+    <campo url="no">1101 CELIS CARVAJAL MARIA PAULA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1161,796.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">212144070700</campo>
+    <campo url="no">0401 CALVO CASTRO CARLOS FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">211001070700</campo>
+    <campo url="no">0602 CALVO CASTRO ANDREA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,853.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">212003070700</campo>
+    <campo url="no">0502 VALERO RUEDA SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216094070700</campo>
+    <campo url="no">0101 AYALA GARCIA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">209162070700</campo>
+    <campo url="no">0801 GONZALEZ BARAJAS ARTURO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">214018070700</campo>
+    <campo url="no">0301 CUELLAR ESTUPI¥AN DANNA VALENT</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1542,300.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">215062070700</campo>
+    <campo url="no">0402 DUE¥AS CASTRO STHEPHANIA</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">214046070700</campo>
+    <campo url="no">0802 PEINADO ROA GABRIEL LEONARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">211117070700</campo>
+    <campo url="no">1002 FERREIRA RUEDA DUVAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">208072070700</campo>
+    <campo url="no">0801 DURAN URIBE OSCAR ANDRES</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">216029070700</campo>
+    <campo url="no">0102 PE¥ALOSA BURGOS GUSTAVO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">215177070700</campo>
+    <campo url="no">0002 MELO ARIAS JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">209237070700</campo>
+    <campo url="no">0701 OTALORA PEREZ ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">209067070700</campo>
+    <campo url="no">0802 SIERRA LABRADOR DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2003,795.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">216035070700</campo>
+    <campo url="no">0302 RENGIFO PULIDO JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214128070700</campo>
+    <campo url="no">0801 FERREIRA RUEDA SILVIA MARCELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">216047070700</campo>
+    <campo url="no">RETIRADO 1001 BALLESTEROS VELASCO M</campo>
+    <campo url="no">036</campo>
+    <campo url="no">195,415.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">216070070700</campo>
+    <campo url="no">0901 CELIS CARVAJAL JORGE IVAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1185,741.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">208038070700</campo>
+    <campo url="no">0901 CASTRO VERA MIGUEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">500018580000</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">8500,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">500018581800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">3500,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">0207345712+0</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">47829,700.00</campo>
+    <campo url="no">JUL 12/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

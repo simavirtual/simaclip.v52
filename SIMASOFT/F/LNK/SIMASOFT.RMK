@@ -1,0 +1,67 @@
+//  ENCADENADOR PARA SIMASOFT - SISTEMA ADMINISTRADOR
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: SEP 04/2002 MIE A
+//        Colombia, Bucaramanga        INICIO: 05:00 PM   SEP 04/2002 MIE
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaSoft /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaSoft
+      OBJDIR := \SimaClip.v52\SimaSoft\f\objs
+      SISPRG := \SimaClip.v52\SimaSoft\f
+      FUNPRG := \SimaClip.v52\SimaSoft\f\funcions
+
+      OPTIONS := /w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaSoft\f\lnk\Rtlink.lnk
+    LINKER  := \Aplica.dos\Lenguaje\Blinker4\Blinker @\SimaClip.v52\SimaSoft\f\lnk\Blink52P.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$*
+"$(OBJDIR)\SimaSoft.obj" : "$(SISPRG)\SimaSoft.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$*
+"$(OBJDIR)\Soft203.obj" : "$(SISPRG)\Soft203.prg"
+"$(OBJDIR)\Soft707.obj" : "$(SISPRG)\Soft707.prg"
+"$(OBJDIR)\Soft708.obj" : "$(SISPRG)\Soft708.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SoftFun.obj"  :  "$(FUNPRG)\SoftFun.prg"
+"$(OBJDIR)\FSimaSof.obj" :  "$(FUNPRG)\FSimaSof.prg"
+"$(OBJDIR)\FuncsEmp.obj" :  "$(FUNPRG)\FuncsEmp.prg"
+"$(OBJDIR)\FuncsCiu.obj" :  "$(FUNPRG)\FuncsCiu.prg"
+"$(OBJDIR)\FuncsTip.obj" :  "$(FUNPRG)\FuncsTip.prg"
+"$(OBJDIR)\FuncSuit.obj" :  "$(FUNPRG)\FuncSuit.prg"
+"$(OBJDIR)\FuncsCmd.obj" :  "$(FUNPRG)\FuncsCmd.prg"
+"$(OBJDIR)\FuncsLic.obj" :  "$(FUNPRG)\FuncsLic.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+     $(FILSCR).EXE: $(OBJDIR)\SimaSoft.obj  \\
+		    $(OBJDIR)\Soft203.obj \\
+		    $(OBJDIR)\Soft707.obj   $(OBJDIR)\Soft708.obj  \\
+		    $(OBJDIR)\SoftFun.obj   $(OBJDIR)\FSimaSof.obj \\
+		    $(OBJDIR)\FuncsEmp.obj  $(OBJDIR)\FuncsCiu.obj \\
+		    $(OBJDIR)\FuncsTip.obj  $(OBJDIR)\FuncSuit.obj \\
+		    $(OBJDIR)\FuncsCmd.obj  $(OBJDIR)\FuncsLic.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

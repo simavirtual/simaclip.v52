@@ -1,0 +1,52 @@
+*>>>>DECLARACION DE VARIABLES
+       LOCAL lShared := .T.                 // .T. Archivo Compartido
+       LOCAL PathAct := ''                  // Path Actual
+       FIELD cCodigoEst                     // C¢digo del estudiante
+
+       LOCAL aDbfAlu := {{"cCodigoEst","Character",06,0},; // C¢digo del Estudiante
+			 {"lRetiroEst","Logical"  ,01,0},; // .T. Retirado
+			 {"dFecRetEst","Date"     ,08,0},; // Fecha del retiro
+			 {"nAproboNot","Numeric"  ,02,0},; // Indicardor de Aprobaci¢n
+			 {"lRepiteEst","Logical"  ,01,0},; // .T. Repite a¤o
+			 {"lSiCupoEst","Logical"  ,01,0},; // .T. Tiene Cupo
+			 {"lSiMatrEst","Logical"  ,01,0},; // .T. Si matriculado para sgte a¤o
+			 {"dFecMatEst","Date"     ,08,0},; // Fecha de matricula
+			 {"cHorMatEst","Character",08,0},; // Hora de matricula
+			 {"cFolMatEst","Character",06,0},; // Folio de la matr¡cula
+			 {"cFolFinEst","Character",12,0},; // Folios del libro final
+			 {"lGrupOkEst","Logical"  ,01,0},; // .T. Grupo OK no mezclar grupos
+			 {"cCodigoGru","Character",04,0},; // Codigo del grupo
+			 {"nNroLisEst","Numeric"  ,03,0},; // N£mero de lista.
+			 {"cApelliEst","Character",26,0},; // Apellido del Estudiante
+			 {"cNombreEst","Character",26,0},; // Nombre del Estudiante
+			 {"dFecNacEst","Date"     ,08,0},; // Fecha de nacimiento
+			 {"cLugNacEst","Character",20,0},; // Lugar de nacimiento
+			 {"cDocNitEst","Character",16,0},; // Documento de Identidad
+			 {"cLugNitEst","Character",20,0},; // Lugar del Documento
+			 {"cDireccEst","Character",40,0},; // Direccion de la casa
+			 {"cTelefnEst","Character",10,0},; // Telefono de la casa
+			 {"cBarrioEst","Character",16,0},; // Barrio de la direcci¢n
+			 {"cNomPadEst","Character",40,0},; // Nombre del padre
+			 {"cPadNitEst","Character",16,0},; // C‚dula del padre
+			 {"cPadLugEst","Character",16,0},; // Lugar de la c‚dula
+			 {"cProPadEst","Character",26,0},; // Profesi¢n del padre
+			 {"cEmpPadEst","Character",26,0},; // Empresa del padre
+			 {"cCarPadEst","Character",20,0},; // Cargo del padre
+			 {"cTelPadEst","Character",10,0},; // Telefono del padre
+			 {"cNomMadEst","Character",40,0},; // Nombre de la madre
+			 {"cMadNitEst","Character",16,0},; // C‚dula de la madre
+			 {"cMadLugEst","Character",16,0},; // Lugar de la c‚dula
+			 {"cProMadEst","Character",26,0},; // Profesi¢n de la madre
+			 {"cEmpMadEst","Character",26,0},; // Empresa de la madre
+			 {"cCarMadEst","Character",20,0},; // Cargo de la madre
+			 {"cTelMadEst","Character",10,0},; // Telefono de la madre
+			 {"cNomAcuEst","Character",40,0},; // Nombre del Acudiente
+			 {"cAcuNitEst","Character",16,0},; // C‚dula del Acudiente
+			 {"cAcuLugEst","Character",16,0},; // Lugar del Acudiente
+			 {"cTe1AcuEst","Character",10,0},; // Telefono No. 1 del Acudiente
+			 {"cTe2AcuEst","Character",10,0},; // Telefono No. 2 del Acudiente
+			 {"cEstratEst","Character",02,0},; // Estatro del Estudiante
+			 {"cConcepEst","Character",16,0},; // Conceptos del Estudiante
+			 {"cCodigoMat","Character",04,0},; // C¢digo de la materia del area Especializada
+			 {"cAnoEstMae","Character",68,0}}  // A¤os en que estudio en el colegio
+*>>>>FIN DECLARACION DE VARIABLES

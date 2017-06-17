@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:19. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY 23/2017"
+   horaprn = "15:22:39"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">217067050502</campo>
+    <campo url="no">0802 JIMENEZ GOMEZ AILENM JOHANNA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 19/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214104050502</campo>
+    <campo url="no">0801 OSPINA PRADA JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 19/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">214132050502</campo>
+    <campo url="no">0302 OSPINA PRADA GABRIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,749.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 19/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214180050502</campo>
+    <campo url="no">0102 PATI¥O CAMACHO JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1507,607.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 19/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

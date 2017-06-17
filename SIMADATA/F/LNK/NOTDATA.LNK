@@ -1,0 +1,17 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD PROFESORES
+
+#*************************************************************************
+# MODULO..: FUNCIONES DESCARTADAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                    DECLARACION DE MODULOS EXCLUIDOS                    *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS EXCLUIDOS
+       DEFINE VlrTarCar,lVlrCon,VlrTarMtr,lVlrConAbo,lVlrConRec
+       DEFINE lValConcep,PathCarAno,cFilePlan,lValCodRec
+       DEFINE RecuCarAno,MenuEstCta,lParam0104
+       DEFINE lValInf,MenuOtrIso
+       DEFINE SumArrCon
+#>>>>FIN MODULOS EXCLUIDOS

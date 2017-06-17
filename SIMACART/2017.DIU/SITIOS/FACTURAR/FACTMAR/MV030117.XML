@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MARZO DIA:01. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAR  2/2017"
+   horaprn = "08:14:48"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0024      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">12,344.22</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB 28/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214017140300</campo>
+    <campo url="no">0401 CASTELLANOS ARIZA DAVID SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">748,268.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">217080140300</campo>
+    <campo url="no">0802 VALLEJO TARAZONA JOSEPH SAUL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,126.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216115140300</campo>
+    <campo url="no">0201 PEREZ GONZALEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">755,463.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">217034140300</campo>
+    <campo url="no">0702 RAMIREZ LOPEZ ANDRES MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,126.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211045031100</campo>
+    <campo url="no">0701 RAMIREZ ALBARRACIN MANUEL ESTE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6636,726.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">RECIBO DE MAR A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">217062140300</campo>
+    <campo url="no">0903 MARTINEZ CORONEL IVAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">654,420.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  1/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,68 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# NOMBRE DEL ENCADENADOR..: PLUSMATR.LNK                                 *
+# TITULO DEL PROGRAMA.....: ENCADENADOR DEL SISTEMA                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 11/96 LUN A
+#	Colombia, Bucaramanga	     INICIO: 11:35 AM   Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador del CLIPPER V52 Rtlink
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador "rtlink"
+
+#------------------------------------------------------------------------*
+#         ESPECIFICACIONES PARA EL ENCADENADOR RTLINK CLIPPER V52        *
+#------------------------------------------------------------------------*
+
+#>>>>GENERACION DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaProf\SimaProf
+#>>>>FIN GENERACION DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaProf\f\objs\SimaProf
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>FUNCIONES GENERALES
+       dynamic into \SimaClip.v52\SimaProf\SimaProf
+
+       lib \aplica.dos\lenguaje\tools\lib\nt250
+
+       fi  \SimaClip.v52\clipper.fun\funcsdbf
+       fi  \SimaClip.v52\clipper.fun\funcsnel
+       fi  \SimaClip.v52\clipper.fun\classnel
+       fi  \SimaClip.v52\clipper.fun\archinel
+       fi  \SimaClip.v52\clipper.fun\funcsprn
+       fi  \SimaClip.v52\clipper.fun\usrcrypt
+       fi  \SimaClip.v52\clipper.fun\FunColor
+       fi  \SimaClip.v52\clipper.fun\Printer
+#>>>>FIN FUNCIONES GENERALES
+
+#>>>>MODULOS DEL SISTEMA
+       @lnk\Profe100.lnk
+       @lnk\Profe200.lnk
+       @lnk\Profe300.lnk
+       @lnk\Profe400.lnk
+       @lnk\Profe500.lnk
+       @lnk\Profe600.lnk
+       @lnk\Profe700.lnk
+
+       @lnk\ProfeFun.lnk
+       @lnk\ProfeSha.lnk
+
+       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS DEL SISTEMA
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#     incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

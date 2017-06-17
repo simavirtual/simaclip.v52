@@ -1,0 +1,21 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: ESTADISTICAS                                                 *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\simacont\f\objs\Conta401
+       fi \SimaClip.v52\simacont\f\objs\Conta411
+       fi \SimaClip.v52\simacont\f\objs\Conta412
+       fi \SimaClip.v52\simacont\f\objs\Conta414
+       fi \SimaClip.v52\simacont\f\objs\Conta415
+       fi \SimaClip.v52\simacont\f\objs\Conta416
+       fi \SimaClip.v52\simacont\f\objs\Conta402
+       fi \SimaClip.v52\simacont\f\objs\Conta403
+       fi \SimaClip.v52\simacont\f\objs\Conta407
+#>>>>FIN ARCHIVOS DEL MODULO

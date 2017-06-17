@@ -1,0 +1,16 @@
+#  ENCADENADOR PARA SIMA - CENTRAL DE RIESGOS
+
+#*************************************************************************
+# MODULO..: DATACREDITO                                                  *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaData\f\objs\Data101
+       fi \SimaClip.V52\SimaData\f\objs\Data103
+       fi \SimaClip.V52\SimaData\f\objs\Data104
+       fi \SimaClip.V52\SimaData\f\objs\Data105
+#>>>>ARCHIVOS DEL MODULO

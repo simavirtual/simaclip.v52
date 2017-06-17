@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2017 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "MAY  5/2017"
+   horaprn = "17:00:35"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">216138</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">LOPEZ JARAMILLO MIGUEL ANGEL</campo>
+    <campo url="no">ABR</campo>
+    <campo url="no">FEB 15/2017</campo>
+    <campo url="no"></campo>
+    <campo url="no">638,944</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">PAGO PARCIAL FEB 15/17</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">217075</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">NAVARRO GARCIA SIMON</campo>
+    <campo url="no">ABR</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">368,735</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211202</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">HERNANDEZ DURAN IAN ALEJANDRO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">654,420</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">217096</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">FORERO AMADO JUAN DIEGO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">755,463</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208246</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">ROSALES FLOREZ HECTOR NICOLAS</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">662,213</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214071</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">DIAZ VANEGAS CARLOS LEONARDO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">1,514,359</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215022</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">LEON DUARTE JESUS DAVID</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">748,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216055</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">LEON DUARTE JUAN JOSE</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">755,463</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216056</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">STERLING DUARTE LAYLLA EVELITH</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">654,420</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215019</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">GOMEZ NAVARRO ANA SOFIA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">764,460</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214017</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">CASTELLANOS ARIZA DAVID SANTIA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">748,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210046</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">GOMEZ NAVARRO ANDRES FELIPE</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">737,809</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">217070</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">RINCON CONTRERAS MARIA GABRIEL</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no">641,204</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211006</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">SANCHEZ MURILLO HELI SANTIAGO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no">729,126</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212087</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">RUEDA CHACON DAVID ANDRES</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no">648,840</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213086</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">RINCON PLAZAS JUAN SEBASTIAN</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no">654,420</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214129</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">REYES HERNANDEZ SARA GABRIELA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  6/2017</campo>
+    <campo url="no">566,598</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214130</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">REYES HERNANDEZ JUAN DIEGO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  6/2017</campo>
+    <campo url="no">561,201</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">217032</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">MEJIA FUENTES CAMILO ANDRES</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  6/2017</campo>
+    <campo url="no">729,126</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216046</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">BLANCO MOJICA DIEGO ALEXANDER</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  6/2017</campo>
+    <campo url="no">654,420</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214144</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">RINCON PLAZAS JOEL SANTIAGO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">748,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215131</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">SANCHEZ FLOREZ MARIA CAMILA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 10/2017</campo>
+    <campo url="no">654,420</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215047</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 10/2017</campo>
+    <campo url="no">1,514,359</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216079</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 17/2017</campo>
+    <campo url="no">748,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216065</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">CRISTANCHO MU¥OZ VLADIMIR</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 20/2017</campo>
+    <campo url="no">662,213</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215133</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">TORRES ORTIZ MARIA FERNANDA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 24/2017</campo>
+    <campo url="no">729,126</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215007</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">ORTIZ MARTINEZ ANDRES FERNANDO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 24/2017</campo>
+    <campo url="no">748,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211212</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">ARIAS CUADROS KAREN VANESSA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 28/2017</campo>
+    <campo url="no">1,475,619</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211211</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">ARIAS CUADROS BRAYAN ALONSO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 28/2017</campo>
+    <campo url="no">1,475,619</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214055</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 28/2017</campo>
+    <campo url="no">648,840</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215144</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">VARGAS BARAJAS NATHALIA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 28/2017</campo>
+    <campo url="no">737,809</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216117</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">PLATA CASTELLANOS JULIAN ANDRE</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 28/2017</campo>
+    <campo url="no">729,126</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214036</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">BLANCO VEGA SANTIAGO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 29/2017</campo>
+    <campo url="no">729,126</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214002</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">BLANCO VEGA JOSE ALEJANDRO</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 29/2017</campo>
+    <campo url="no">755,463</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212016</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SANCHEZ SIMANCAS LAURA SOFIA</campo>
+    <campo url="no">ABR-MAR</campo>
+    <campo url="no">ABR 18/2017</campo>
+    <campo url="no">1,475,619</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$ 27,012,221</campo>
+    <campo url="no">$    638,944</campo>
+    <campo url="no">$    368,735</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

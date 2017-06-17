@@ -1,0 +1,47 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\simacont\f\objs\FSimaCon
+       fi \SimaClip.v52\simacont\f\objs\FContAno
+       fi \SimaClip.v52\simacont\f\objs\FContTbl
+#       fi \SimaClip.v52\simacont\f\objs\FContLog
+       fi \SimaClip.v52\simacont\f\objs\ContaFun
+       fi \SimaClip.v52\simacont\f\objs\FuncsAlu
+       fi \SimaClip.v52\simacont\f\objs\FuncsGru
+#       fi \SimaClip.v52\simacont\f\objs\FuncsNiv
+       fi \SimaClip.v52\simacont\f\objs\FuncsBol
+#       fi \SimaClip.v52\simacont\f\objs\FuncsLib
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCer
+#      fi \SimaClip.v52\simacont\f\objs\FuncsCns
+#       fi \SimaClip.v52\simacont\f\objs\FuncsEmp
+#       fi \SimaClip.v52\simacont\f\objs\FuncsOrg
+#       fi \SimaClip.v52\simacont\f\objs\FuncsPro
+       fi \SimaClip.v52\simacont\f\objs\FuncsMat
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSel
+       fi \SimaClip.v52\simacont\f\objs\FuncsPla
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSuN
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSuG
+#       fi \SimaClip.v52\simacont\f\objs\FuncsNot
+       fi \SimaClip.v52\simacont\f\objs\FuncsJui
+#      fi \SimaClip.v52\simacont\f\objs\FuncsHab
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCar
+       fi \SimaClip.v52\simacont\f\objs\FuncsCla
+#       fi \SimaClip.v52\simacont\f\objs\FuncsNro
+       fi \SimaClip.v52\simacont\f\objs\FuncsEva
+#       fi \SimaClip.v52\simacont\f\objs\FuncsApr
+#       fi \SimaClip.v52\simacont\f\objs\FuncsFun
+#       fi \SimaClip.v52\simacont\f\objs\FCorrBol
+#       fi \SimaClip.v52\simacont\f\objs\FuncsPaz
+#       fi \SimaClip.v52\simacont\f\objs\fDeudaPz
+#       fi \SimaClip.v52\simacont\f\objs\FuncsFam
+       fi \SimaClip.v52\simacont\f\objs\FBoleXml
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

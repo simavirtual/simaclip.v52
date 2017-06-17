@@ -1,0 +1,48 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaMatr\f\objs\MatriFun
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAdm
+       fi \SimaClip.v52\SimaMatr\f\objs\FSimaMtr
+       fi \SimaClip.v52\SimaMatr\f\objs\FMatrAno
+       fi \SimaClip.v52\SimaMatr\f\objs\FTipoAdm
+       fi \SimaClip.v52\SimaMatr\f\objs\FTipOrde
+       fi \SimaClip.v52\SimaMatr\f\objs\FTipoMat
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsRec
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsTra
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsDes
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrTra01
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrTra04
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrTra07
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsExt
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt11
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt12
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt13
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt21
+       fi \SimaClip.v52\SimaMatr\f\objs\OtExt213
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt25
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt42
+       fi \SimaClip.v52\SimaMatr\f\objs\OtrExt43
+     #ÀFunciones del Sistema
+
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsCon
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsTar
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsBan
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsPag
+       fi \SimaClip.V52\SimaCart\f\objs\FuCtrRec
+     #ÀFunciones de la cartera
+
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAlu
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsGru
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsNiv
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsPro
+     #ÀFunciones de la contabilidad
+#>>>>FIN ARCHIVOS DEL MODULO

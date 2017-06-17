@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE OCTUBRE DIA:03. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "OCT  4/2016"
+   horaprn = "10:21:09"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">22,962.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">143,511.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">665.89</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0024      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">5,226.30</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 30/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216115141000</campo>
+    <campo url="no">0102 PEREZ GONZALEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">692,600.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">209168141000</campo>
+    <campo url="no">0802 VILLAMIZAR CARVAJAL DIEGO MART</campo>
+    <campo url="no">036</campo>
+    <campo url="no">668,454.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">215115141000</campo>
+    <campo url="no">0901 BELLO SILVA JUAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1213,646.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">216050141000</campo>
+    <campo url="no">0301 PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">686,003.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">208094141000</campo>
+    <campo url="no">0901 GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">599,964.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">213020141000</campo>
+    <campo url="no">0902 CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1213,646.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">215047141000</campo>
+    <campo url="no">0202 GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1372,811.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216051141000</campo>
+    <campo url="no">1601 PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">704,884.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">213169141000</campo>
+    <campo url="no">0701 BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1375,482.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">216033141000</campo>
+    <campo url="no">0101 SARMIENTO GOMEZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">692,600.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,34 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaMatr\f\objs\MatriFun
+       fi \SimaClip.v52\SimaMatr\f\objs\FSimaMtr
+       fi \SimaClip.v52\SimaMatr\f\objs\FMatrAno
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAdm
+#       fi \SimaClip.v52\SimaMatr\f\objs\FTipoAdm
+       fi \SimaClip.v52\SimaMatr\f\objs\FTipOrde
+#       fi \SimaClip.v52\SimaMatr\f\objs\FTipoMat
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsRec
+     #ÀFunciones del Sistema
+
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsCon
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsTar
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsBan
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsPag
+#       fi \SimaClip.V52\SimaCart\f\objs\FuCtrRec
+     #ÀFunciones de la cartera
+
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAlu
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsGru
+       fi \SimaClip.v52\SimaMatr\f\objs\FuncsNiv
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsPro
+     #ÀFunciones de la contabilidad
+#>>>>FIN ARCHIVOS DEL MODULO

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MARZO DIA:04. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAR  6/2017"
+   horaprn = "08:28:27"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">504.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">2,652.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">12.62</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">211076140300</campo>
+    <campo url="no">0701 SERRANO GONZALEZ JUAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,126.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211177140300</campo>
+    <campo url="no">0701 GUTIERREZ PORRAS WILSON ARLEY</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,126.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214129140300</campo>
+    <campo url="no">0102 REYES HERNANDEZ SARA GABRIELA</campo>
+    <campo url="no">034</campo>
+    <campo url="no">566,598.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">215039031100</campo>
+    <campo url="no">0301 BARRETO VILLADIEGO SHEYLA MARG</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6957,059.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">216148140300</campo>
+    <campo url="no">1501 VEGA PEINADO SAMMUEL ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">768,862.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">214130140300</campo>
+    <campo url="no">0302 REYES HERNANDEZ JUAN DIEGO</campo>
+    <campo url="no">034</campo>
+    <campo url="no">561,201.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">217070140300</campo>
+    <campo url="no">1103 RINCON CONTRERAS MARIA GABRIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">641,204.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  4/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">211192030300</campo>
+    <campo url="no">0501 CAMACHO JARAMILLO JUAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1440,885.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  4/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

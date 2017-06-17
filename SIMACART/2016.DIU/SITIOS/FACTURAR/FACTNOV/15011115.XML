@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A ENE 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE NOVIEMBRE"
+   titulo3 = "GRUPO: PR01 JORNADA: DIURNA. A¥O: 2015"
+   fechprn = "FEB  5/2016"
+   horaprn = "15:59:27"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV112415.XML">1</campo>
+    <campo url="no">BOBADILLA SANCHEZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no"></campo>
+    <campo url="no">648,801</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,488</campo>
+    <campo url="no">NOV 24/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215146</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111015.XML">2</campo>
+    <campo url="no">GRANADOS TORO JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no"></campo>
+    <campo url="no">648,801</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 10/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215134</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111015.XML">3</campo>
+    <campo url="no">PUENTES SANGUINO J</campo>
+    <campo url="no">PENSION->BECA 15.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,114,764</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 10/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215101</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">BERNIER CANTILLO C</campo>
+    <campo url="no">PENSION->BECA 15.00%</campo>
+    <campo url="no">766,191</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no">15,468</campo>
+    <campo url="no">750,723</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215149</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112515.XML">5</campo>
+    <campo url="no">PE¥A SILVA VALERIA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,311,486</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">12,976</campo>
+    <campo url="no">NOV 25/2015:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215176</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111215.XML">6</campo>
+    <campo url="no">VILLALBA IBA¥EZ LU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">648,801</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,297,602</campo>
+    <campo url="no">NOVNOV+</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 12/2015:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215180</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACNOV15.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">766,191</campo>
+    <campo url="no">3,892,806</campo>
+    <campo url="no">15,468</campo>
+    <campo url="no">750,723</campo>
+    <campo url="no"></campo>
+    <campo url="no">19,464</campo>
+    <campo url="no">5,021,454</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

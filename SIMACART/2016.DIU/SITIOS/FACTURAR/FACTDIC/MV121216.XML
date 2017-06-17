@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE DICIEMBRE DIA:12. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC 13/2016"
+   horaprn = "09:39:05"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">198,965.20</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214055141100</campo>
+    <campo url="no">1003 CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1842,806.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0231115856+0</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">49741,300.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214006021100</campo>
+    <campo url="no">0001 DIAZ JAIMES MATIAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">7005,961.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211115141100</campo>
+    <campo url="no">0801 MOLANO CALIXTO ANDRES FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1250,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211009021100</campo>
+    <campo url="no">0601 BAUTISTA GOMEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6405,831.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">212092141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6284,358.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212093141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3948,327.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">212094141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">4514,548.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">212021021100</campo>
+    <campo url="no">1002 BAYONA CORDERO JACKY JOHANNA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">212031021100</campo>
+    <campo url="no">0602 BAYONA CORDERO OLGER ERNESTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">217072021100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

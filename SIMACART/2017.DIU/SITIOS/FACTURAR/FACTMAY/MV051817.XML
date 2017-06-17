@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:18. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY 23/2017"
+   horaprn = "15:20:32"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">000000000100</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+    <campo url="no">034</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">DAVIVIENDA PSE</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214101050502</campo>
+    <campo url="no">1101 REMOLINA OLIVEROS CAMILO ERNES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">632,190.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">214201050502</campo>
+    <campo url="no">0903 ARGUELLO GOMEZ DYLAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214015050502</campo>
+    <campo url="no">0302 APARICIO CALDERON SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,749.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">217019050502</campo>
+    <campo url="no">0601 ALVAREZ GUZMAN NICOLAS ENRIQUE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">682,933.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216129050502</campo>
+    <campo url="no">0501 CEREZO ZULUAGA SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">210199050502</campo>
+    <campo url="no">0702 GOMEZ OCHOA TOMAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">213036050502</campo>
+    <campo url="no">0701 LANDAZABAL SUAREZ JOSE LUIS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">718,877.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY 18/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

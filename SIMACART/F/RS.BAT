@@ -1,0 +1,1 @@
+call \SimaClip.v52\Sima.Fun\f\r.bat

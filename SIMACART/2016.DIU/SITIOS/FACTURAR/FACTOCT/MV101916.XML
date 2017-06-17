@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE OCTUBRE DIA:19. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "OCT 20/2016"
+   horaprn = "07:51:17"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">209092101000</campo>
+    <campo url="no">1102 REYES BARCENAS JHOAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173,743.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214143101000</campo>
+    <campo url="no">0302 ACEVEDO GARNICA CARLOS ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">212117101000</campo>
+    <campo url="no">0602 REDONDO QUINTERO SHAIEL FABIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">212039101000</campo>
+    <campo url="no">0501 AVILA CARRERO DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">213088101000</campo>
+    <campo url="no">0201 AVILA CARRERO SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">215040101000</campo>
+    <campo url="no">0602 GABANZO MORALES NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">212038101000</campo>
+    <campo url="no">1102 MEJIA PARADA MONICA MARCELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212136141000</campo>
+    <campo url="no">0301 HERNANDEZ HIGUERA FELIPE ANDRE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1387,692.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">212070101000</campo>
+    <campo url="no">1003 BELTRAN NI¥O JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">212055101000</campo>
+    <campo url="no">0402 RONDON RODRIGUEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">212115101000</campo>
+    <campo url="no">1001 VARGAS ROJAS GERMAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211167101000</campo>
+    <campo url="no">0402 RONCANCIO PALLARES SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">214023101000</campo>
+    <campo url="no">0302 SANTOS PEREZ JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">215084101000</campo>
+    <campo url="no">1101 OREJARENA SERRANO ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">216032101000</campo>
+    <campo url="no">0101 APARICIO BELTRAN ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">216035101000</campo>
+    <campo url="no">0302 RENGIFO PULIDO JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">215110101000</campo>
+    <campo url="no">1002 JIMENEZ RIVERA JENIFER CATALIN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE FEBRERO DIA:03. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB  6/2017"
+   horaprn = "14:01:09"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">5,627.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">168.00</campo>
+    <campo url="no">FEB  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">884.00</campo>
+    <campo url="no">FEB  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">29,615.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">4.20</campo>
+    <campo url="no">FEB  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">140.96</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">213087141100</campo>
+    <campo url="no">1000 HERNANDEZ MORENO CARLOS EDUARD</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3866,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212077021100</campo>
+    <campo url="no">1101 ABAUNZA PEREZ GABRIEL HORACIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">214004021100</campo>
+    <campo url="no">0102 ESTEBAN BUENO MANUEL JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">7005,961.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  4/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">212027021100</campo>
+    <campo url="no">0601 ESTEBAN BUENO JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  4/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">215002021100</campo>
+    <campo url="no">1003 VEGA HIGUERA LUIS CARLOS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">216013021100</campo>
+    <campo url="no">0602 ROMERO JOYA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">212083141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3307,424.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

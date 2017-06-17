@@ -1,0 +1,24 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaCafe\f\objs\CafeFun
+       fi \SimaClip.V52\SimaCafe\f\objs\FSimaCaF
+       fi \SimaClip.V52\SimaCafe\f\objs\FCafeAno
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsAlu
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsGru
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsPro
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsPer
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsTip
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsPrs
+       fi \SimaClip.V52\SimaCafe\f\objs\FuncsBol
+       fi \SimaClip.V52\SimaCafe\f\objs\OtrPrs11
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

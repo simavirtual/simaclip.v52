@@ -1,0 +1,57 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaCart\PlusCart
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaCart\f\objs\PlusCart
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \SimaClip.v52\SimaCart\PlusCart
+
+       @lnk\Carte100.lnk
+       @lnk\Carte200.lnk
+       @lnk\Carte300.lnk
+       @lnk\Carte400.lnk
+       @lnk\Carte500.lnk
+       @lnk\Carte600.lnk
+       @lnk\Carte700.lnk
+
+       @lnk\CarteFun.lnk
+       @lnk\CarteSha.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

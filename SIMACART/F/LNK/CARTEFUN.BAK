@@ -1,0 +1,108 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\simacart\f\objs\FSimaCar
+       fi \SimaClip.V52\simacart\f\objs\FCartAno
+       fi \SimaClip.V52\simacart\f\objs\FCartTbl
+
+       fi \SimaClip.V52\simacart\f\objs\CarteFun
+       fi \SimaClip.V52\simacart\f\objs\FuncsAlu
+       fi \SimaClip.V52\simacart\f\objs\FuncsGru
+       fi \SimaClip.V52\simacart\f\objs\FuncsDes
+       fi \SimaClip.V52\simacart\f\objs\FuncsBan
+       fi \SimaClip.V52\simacart\f\objs\FuncsCon
+       fi \SimaClip.V52\simacart\f\objs\FuncsTar
+       fi \SimaClip.V52\simacart\f\objs\FuncsRec
+       fi \SimaClip.V52\simacart\f\objs\FuncsAbo
+       fi \SimaClip.V52\simacart\f\objs\FReciOtr
+       fi \SimaClip.V52\simacart\f\objs\FuncsCli
+       fi \SimaClip.V52\simacart\f\objs\FuncsPag
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsTra
+       fi \SimaClip.V52\simacart\f\objs\OtrTra01
+       fi \SimaClip.V52\simacart\f\objs\OtrTra02
+       fi \SimaClip.V52\simacart\f\objs\OtrTra03
+       fi \SimaClip.V52\simacart\f\objs\OtrTra04
+       fi \SimaClip.V52\simacart\f\objs\OtrTra05
+       fi \SimaClip.V52\simacart\f\objs\OtrTra06
+       fi \SimaClip.V52\simacart\f\objs\OtrTra07
+       fi \SimaClip.V52\simacart\f\objs\OtrTra09
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsExt
+       fi \SimaClip.V52\simacart\f\objs\OtrExt11
+       fi \SimaClip.V52\simacart\f\objs\OtrExt12
+       fi \SimaClip.V52\simacart\f\objs\OtrExt13
+       fi \SimaClip.V52\simacart\f\objs\OtrExt21
+       fi \SimaClip.V52\simacart\f\objs\OtExt211
+       fi \SimaClip.V52\simacart\f\objs\OtExt212
+       fi \SimaClip.V52\simacart\f\objs\OtExt213
+       fi \SimaClip.V52\simacart\f\objs\OtrExt22
+       fi \SimaClip.V52\simacart\f\objs\OtrExt23
+       fi \SimaClip.V52\simacart\f\objs\OtrExt24
+       fi \SimaClip.V52\simacart\f\objs\OtrExt31
+       fi \SimaClip.V52\simacart\f\objs\OtrExt32
+       fi \SimaClip.V52\simacart\f\objs\OtrExt33
+       fi \SimaClip.V52\simacart\f\objs\OtrExt34
+       fi \SimaClip.V52\simacart\f\objs\OtrExt42
+       fi \SimaClip.V52\simacart\f\objs\OtrExt43
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsCob
+       fi \SimaClip.V52\simacart\f\objs\OtrCob01
+       fi \SimaClip.V52\simacart\f\objs\OtrCob02
+       fi \SimaClip.V52\simacart\f\objs\OtrCob03
+       fi \SimaClip.V52\simacart\f\objs\OtrCob04
+       fi \SimaClip.V52\simacart\f\objs\OtrCob05
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsMor
+       fi \SimaClip.V52\simacart\f\objs\OtrMor01
+       fi \SimaClip.V52\simacart\f\objs\OtrMor02
+       fi \SimaClip.V52\simacart\f\objs\OtrMor03
+       fi \SimaClip.V52\simacart\f\objs\OtrMor04
+       fi \SimaClip.V52\simacart\f\objs\OtrMor05
+       fi \SimaClip.V52\simacart\f\objs\OtrMor06
+       fi \SimaClip.V52\simacart\f\objs\OtrMor6A
+       fi \SimaClip.V52\simacart\f\objs\OtrMor07
+       fi \SimaClip.V52\simacart\f\objs\OtMor071
+       fi \SimaClip.V52\simacart\f\objs\OtMor072
+       fi \SimaClip.V52\simacart\f\objs\OtMor073
+       fi \SimaClip.V52\simacart\f\objs\OtrMor08
+       fi \SimaClip.V52\simacart\f\objs\OtrMor09
+       fi \SimaClip.V52\simacart\f\objs\OtrMor9A
+       fi \SimaClip.V52\simacart\f\objs\OtrMor9B
+       fi \SimaClip.V52\simacart\f\objs\Ot1Mor01
+       fi \SimaClip.V52\simacart\f\objs\Ot1Mor02
+       fi \SimaClip.V52\simacart\f\objs\Ot1Mor03
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsTmv
+       fi \SimaClip.V52\simacart\f\objs\FuncsCmv
+       fi \SimaClip.V52\simacart\f\objs\FuncsNiv
+       fi \SimaClip.V52\simacart\f\objs\fTipoPaz
+       fi \SimaClip.V52\simacart\f\objs\FuncsFpg
+       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+       fi \SimaClip.V52\simacart\f\objs\FuncsPuc
+       fi \SimaClip.V52\simacart\f\objs\FuncsRut
+       fi \SimaClip.V52\simacart\f\objs\FuncsFia
+     #ÀFunciones del Sistema
+
+     #ÀFunciones Generadas
+
+       fi \SimaClip.v52\sima.fun\gSimaCoE
+       fi \SimaClip.v52\sima.fun\eSimaCoE
+       fi \SimaClip.v52\sima.fun\gSimaPaC
+       fi \SimaClip.v52\sima.fun\gSimaRut
+       fi \SimaClip.v52\sima.fun\eSimaRut
+       fi \SimaClip.v52\sima.fun\gSimaURu
+       fi \SimaClip.v52\sima.fun\eSimaURu
+     #ÀFunciones del Sistema Compartidas Generadas
+
+       fi \SimaClip.v52\sima.fun\SimaCoE
+     #ÀFunciones del Sistema Compartidas Externas
+#>>>>FIN ARCHIVOS DEL MODULO

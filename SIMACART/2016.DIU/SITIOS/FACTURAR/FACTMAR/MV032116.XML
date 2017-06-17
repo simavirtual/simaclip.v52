@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MARZO DIA:21. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAR 22/2016"
+   horaprn = "08:46:45"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">506999877000</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">21204,504.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214113140300</campo>
+    <campo url="no">0501 VELASQUEZ CARRE¥O JUAN ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,148.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 19/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216019140300</campo>
+    <campo url="no">0001 LANCHEROS ROMERO LUCIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">691,247.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214079140300</campo>
+    <campo url="no">1102 SILVA VEGA PAULA ANDREA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,699.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214060030300</campo>
+    <campo url="no">1102 MITCHELL POMBO BRAYAN ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214059030300</campo>
+    <campo url="no">1103 MITCHELL POMBO SERGIO DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214159030300</campo>
+    <campo url="no">0901 GOMEZ URIBE JUAN SALVADOR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215090030300</campo>
+    <campo url="no">0902 GARCIA ALVAREZ SEBASTIAN JAVIE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">213074030600</campo>
+    <campo url="no">1003 BARON QUI¥ONES JEAN PIERRE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2350,846.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR A JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">213075030600</campo>
+    <campo url="no">0601 BARON QUI¥ONEZ THAYLA VALERIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2619,212.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR A JUN PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">209138030300</campo>
+    <campo url="no">0602 SILVA MEJIA JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1333,381.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">212140030300</campo>
+    <campo url="no">0302 JAIMES PULIDO DAVID ARMANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 18/2016</campo>
+    <campo url="no">RECIBO DE MAR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,92 @@
+//  ENCADENADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MES 99/9999 DIA A
+//        Colombia, Bucaramanga        INICIO: 99:99 AM   Pendiente
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente los archivos .LNK correspondientes
+
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+
+// SINTAXIS:
+//          Rmake simavoto /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := simavoto
+      OBJDIR := \simaclip.v52\simavoto\f\objs
+      SISPRG := \simaclip.v52\simavoto\f
+      FUNPRG := \simaclip.v52\simavoto\f\funcions
+      FUNINF := \simaclip.v52\simavoto\f\inforsys
+      SIMFUN := \simaclip.v52\sima.fun\f
+      SIMOBJ := \simaclip.v52\sima.fun
+      SIMSCO := \simaclip.v52\simacont\f\funcions
+      SCOOBJ := \simaclip.v52\simacont\f\objs
+      SCAFUN := \simaclip.v52\simacart\f\funcions
+      SCAOBJ := \simaclip.v52\simacart\f\objs
+      OPTIONS := /n/w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\simaclip.v52\simavoto\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\simaclip.v52\simavoto\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\simavoto.obj" : "$(SISPRG)\simavoto.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Voto101.obj" : "$(SISPRG)\Voto101.prg"
+"$(OBJDIR)\Voto705.obj" : "$(SISPRG)\Voto705.prg"
+"$(OBJDIR)\Voto706.obj" : "$(SISPRG)\Voto706.prg"
+"$(OBJDIR)\Voto707.obj" : "$(SISPRG)\Voto707.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\VotoFun.obj"  :  "$(FUNPRG)\VotoFun.prg"
+"$(OBJDIR)\fSimaVot.obj" :  "$(FUNPRG)\fSimaVot.prg"
+"$(OBJDIR)\fVotAno.obj"  :  "$(FUNPRG)\fVotAno.prg"
+"$(OBJDIR)\FuncsV01.obj" :  "$(FUNPRG)\FuncsV01.prg"
+"$(OBJDIR)\FuncsV02.obj" :  "$(FUNPRG)\FuncsV02.prg"
+"$(OBJDIR)\FuncsAlu.obj" :  "$(FUNPRG)\FuncsAlu.prg"
+"$(OBJDIR)\FuncsPro.obj" :  "$(FUNPRG)\FuncsPro.prg"
+"$(OBJDIR)\gVotoCnd.obj" :  "$(FUNPRG)\gVotoCnd.prg"
+"$(OBJDIR)\eVotoCnd.obj" :  "$(FUNPRG)\eVotoCnd.prg"
+"$(OBJDIR)\gVotoEle.obj" :  "$(FUNPRG)\gVotoEle.prg"
+"$(OBJDIR)\eVotoEle.obj" :  "$(FUNPRG)\eVotoEle.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\VotInfor.obj" : "$(FUNINF)\VotInfor.prg"
+"$(OBJDIR)\Vot00100.obj" : "$(FUNINF)\Vot00100.prg"
+"$(OBJDIR)\Vot00200.obj" : "$(FUNINF)\Vot00200.prg"
+"$(OBJDIR)\Vot10100.obj" : "$(FUNINF)\Vot10100.prg"
+.prg.obj:
+	 clipper \simaclip.v52\sima.fun\f\$* $(OPTIONS)/o$(SIMOBJ)\$
+"$(SIMOBJ)\simafun.obj"  : "$(SIMFUN)\simafun.prg"
+"$(SIMOBJ)\gsimainf.obj" : "$(SIMFUN)\gsimainf.prg"
+"$(SIMOBJ)\esimainf.obj" : "$(SIMFUN)\esimainf.prg"
+"$(SIMOBJ)\gsimaiso.obj" : "$(SIMFUN)\gsimaiso.prg"
+"$(SIMOBJ)\esimaiso.obj" : "$(SIMFUN)\esimaiso.prg"
+.prg.obj:
+	 clipper \simaclip.v52\simacont\f\funcions$* $(OPTIONS)/o$(SCOOBJ)\$
+"$(SCOOBJ)\FSimaCon.obj"  : "$(SIMSCO)\FSimaCon.prg"
+.prg.obj:
+	 clipper \simaclip.v52\simacart\f\funcions$* $(OPTIONS)/o$(SCAOBJ)\$
+"$(SCAOBJ)\FuCtrRec.obj"  : "$(SCAFUN)\FuCtrRec.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\simavoto.obj
+    $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A JUN 30/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE JUNIO"
+   titulo3 = "GRUPO: 0402 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUL  7/2016"
+   horaprn = "14:15:48"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">AVILA CAMPO JANNY</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213119</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060816.XML">2</campo>
+    <campo url="no">BELTRAN FRANCO LUI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213148</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">BERBESI PINZON JON</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214035</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060816.XML">4</campo>
+    <campo url="no">BUELVAS PRADA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213081</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">CAMACHO RODRIGUEZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">2,048,080</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">44,285</campo>
+    <campo url="no">2,003,795</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211191</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061016.XML">6</campo>
+    <campo url="no">DUE¥AS CASTRO STHE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 10/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215062</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">DUQUE GAMEZ SAMUEL</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216012</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">HERNANDEZ RIVERA D</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215032</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">JIMENEZ PEREZ JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">2,759,709</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">59,047</campo>
+    <campo url="no">2,700,662</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213068</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061316.XML">10</campo>
+    <campo url="no">MANTILLA GUTIERREZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 13/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214033</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">OCHOA GRANADOS ANG</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">212023</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">PALOMINO RUEDA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">3,485,316</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">73,808</campo>
+    <campo url="no">3,411,508</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">212045</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060816.XML">13</campo>
+    <campo url="no">RONDON RODRIGUEZ J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212055</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060316.XML">14</campo>
+    <campo url="no">TAPIAS QUIROZ PIET</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  3/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216087</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060316.XML">15</campo>
+    <campo url="no">ZAMBRANO HERNANDEZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  3/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216102</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061316.XML">16</campo>
+    <campo url="no">RONCANCIO PALLARES</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">3,411,508</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 13/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211167</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">CONTRERAS CABRERA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">2,759,709</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">59,047</campo>
+    <campo url="no">2,700,662</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">214034</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">RUEDA NAVARRO SOFI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">3,471,338</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">73,808</campo>
+    <campo url="no">3,397,530</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216122</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">MORENO CASTRO ADID</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">3,471,261</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">73,807</campo>
+    <campo url="no">3,397,454</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213226</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACJUN16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">17,995,413</campo>
+    <campo url="no">9,144,380</campo>
+    <campo url="no">383,802</campo>
+    <campo url="no">17,611,611</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">7,983,698</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

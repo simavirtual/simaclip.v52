@@ -1,0 +1,305 @@
+/*SISTEMA DE CONTABILIDAD ACADEMICA
+
+MODULO      : CERTIFICADOS
+SUBMODULO...: ESTUDIANTES            MODULO No. 601
+
+**************************************************************************
+* NOMBRE DEL PROGRAMA..: CONTA601.PRG                                    *
+* TITULO DEL PROGRAMA..: CERTIFICADOS PARA ESTUDIANTES                   *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAY 29/97 JUE A
+       Colombia, Bucaramanga        INICIO: 04:40 PM   JUL 17/97 JUE
+
+
+REQUERIMIENTOS:
+
+1- Para ejecutar la funci¢n tener presente la sintaxis
+
+OBJETIVOS:
+
+1- Permite un Browse de los estudiantes para escoger el estudiante
+   e imprimir los certificados o constancias.
+
+SINTAXIS:
+
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION Conta_601(lShared,lNovell,cNomSis,cEmpPal,cNitEmp,cNomEmp,cNomDpt,;
+		   cNomMun,nFilPal,nFilInf,nColInf,cNomUsr,cAnoUsr,cPatSis,;
+		   lIntUno,lIntDos,lIntTre,lIntCua,cMaeAlu,cMaeAct,cJorTxt,;
+		   cJornad)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     lShared                              // .T. Sistema Compartido
+       lNovell                              // .T. Red Novell .F. Red Win NT
+       cNomSis                              // Nombre del Sistema
+       cEmpPal                              // Nombre de la Empresa principal
+       cNitEmp                              // Nit de la Empresa
+       cNomEmp                              // Nombre de la Empresa
+       cNomDpt                              // Nombre del Departamento
+       cNomMun                              // Nombre del Municipio
+       nFilPal                              // Fila Inferior Men£ principal
+       nFilInf                              // Fila Inferior del SubMen£
+       nColInf                              // Columna Inferior del SubMen£
+       cNomUsr                              // Nombre del Usuario
+       cAnoUsr				    // A¤o del Sistema
+       cPatSis                              // Path del sistema
+       lIntUno                              // Primera Integraci¢n
+       lIntDos                              // Segunda Integraci¢n
+       lIntTre                              // Tercera Integraci¢n
+       lIntCua                              // Cuarta Integraci¢n
+       cMaeAlu                              // Maestros habilitados
+       cMaeAct                              // Maestro habilitado
+       cJorTxt                              // Jornada escogida
+       cJornad                              // Jornadas habilitadas */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE VARIABLES
+       #INCLUDE "inkey.ch"                  // Declaraci¢n de teclas
+       #INCLUDE "CAMPOS\ARC-CONT.PRG"       // Archivos del Sistema
+
+       LOCAL cSavPan := ''                  // Salvar Pantalla
+       LOCAL cAnoSis := SUBS(cAnoUsr,3,2)   // A¤o del sistema
+       LOCAL lHayErr := .F.                 // .T. Hay Error
+       LOCAL cIntUno := ''                  // Path de integraci¢n uno
+       LOCAL cIntDos := ''                  // Path de integraci¢n dos
+       LOCAL cIntTre := ''                  // Path de integraci¢n tres
+       LOCAL cIntCua := ''                  // Path de integraci¢n cuatro
+       LOCAL lAnoAct := .T.                 // A¤o Actual
+       LOCAL cNalias := ''                  // Alias del maestro
+       LOCAL dFecSys := CTOD('00/00/00')    // Fecha del sistema
+
+       LOCAL cMsgErr := ''                  // Mensaje de Error
+       LOCAL cIniJor := ''                  // Iniciales de la jornada
+       LOCAL cAnoIni := ''                  // A¤o Inicial
+       LOCAL cAnoFin := ''                  // A¤o Final
+       LOCAL cDocNit := ''                  // Nro de Indentificaci¢n
+       LOCAL cLugDoc := ''                  // Lugar del Documento
+       LOCAL cObsEst := '.'                 // Observaci¢n para el Estudiante
+       LOCAL cUsoCer := '.'                 // Uso del Certificado
+       LOCAL nCopias := 0                   // N£meros de copias a imprimir
+       LOCAL aFirmas := {}                  // Firmantes del Certificado
+
+       LOCAL oBrwCer := NIL                 // Browse de Alumnos
+       LOCAL GetList := {}                  // Variable del Sistema
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>SELECCION DE LAS AREAS DE TRABAJO
+       IF !lUseDbf(.T.,PathSis+'\'+fSimaCo,'SCO',NIL,lShared)
+	  cError('ABRIENDO ARCHIVOS')
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN SELECCION DE LAS AREAS DE TRABAJO
+
+*>>>>VALIDACION DE CONTENIDOS DE ARCHIVOS
+       lHayErr := .T.
+       DO CASE
+       CASE SCO->(RECCOUNT()) == 0
+	    cError('NO EXISTEN CONFIGURACION GENERAL PARA EL SISTEMA')
+
+       CASE EMPTY(SCO->nAnoIniCon)
+	    cError('NO SE HA FIJADO EL A¥O INICIAL EN QUE ESTA '+;
+		   'DISPONIBLE LA CONTABILIDAD')
+
+       CASE EMPTY(SCO->nAnoFinCon)
+	    cError('NO SE HA FIJADO EL A¥O FINAL EN QUE ESTA '+;
+		   'DISPONIBLE LA CONTABILIDAD')
+       OTHERWISE
+	    lHayErr :=.F.
+       ENDCASE
+       IF lHayErr
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE CONTENIDOS DE ARCHIVOS
+
+*>>>>VALIDACION DE LOS DATOS GENERALES DEL CERTIFICADO
+       lHayErr := .T.
+       DO CASE
+       CASE EMPTY(cNomEmp)
+	    cMsgErr := 'FALTA EL NOMBRE DE LA EMPRESA'
+       CASE EMPTY(cNomMun)
+	    cMsgErr := 'FALTA EL NOMBRE DEL MUNICIPIO'
+       CASE EMPTY(cNomDpt)
+	    cMsgErr := 'FALTA EL NOMBRE DEL DEPARTAMENTO'
+       CASE EMPTY(SCO->cRegDanCon)
+	    cMsgErr := 'FALTA EL REGISTRO DEL DANE'
+       CASE EMPTY(SCO->cRegSecCon)
+	    cMsgErr := 'FALTA EL REGISTRO DE LA SECRETARIA'
+       CASE EMPTY(SCO->cTipColCon)
+	    cMsgErr := 'FALTA EL TIPO DE COLEGIO PRIVADO O OFICIAL'
+       CASE EMPTY(SCO->cCaractCon)
+	    cMsgErr := 'FALTA EL TIPO DE CARACTER ACADEMICO O TECNICO'
+       CASE EMPTY(SCO->cTipEduCon)
+	    cMsgErr := 'FALTA EL TIPO DE EDUCACION FORMAL O INFORMAL'
+       CASE EMPTY(SCO->cSecEduCon)
+	    cMsgErr := 'FALTA EL NOMBRE DE LA SECRETARIA DE EDUCACION '+;
+		       'QUE DIO LA APROBACION'
+       CASE EMPTY(cJorTxt)
+	    cMsgErr := 'FALTA EL NOMBRE DE LA JORNADA DE ESTUDIO'
+       CASE EMPTY(SCO->cGerentCon)
+	    cMsgErr :='FALTA EL NOMBRE DEL RECTOR(A)'
+       CASE EMPTY(SCO->cNitGerCon)
+	    cMsgErr :='FALTA EL DOCUMENTO DEL RECTOR(A)'
+       CASE EMPTY(SCO->cSecretCon)
+	    cMsgErr :='FALTA EL NOMBRE DEL SECRETARIO(A)'
+       CASE EMPTY(SCO->cNitSecCon)
+	    cMsgErr :='FALTA EL DOCUMENTO DEL SECRETARIO(A)'
+       OTHERWISE
+	    lHayErr := .F.
+       ENDCASE
+
+       IF lHayErr
+	  cError(cMsgErr)
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE LOS DATOS GENERALES DEL CERTIFICADO
+
+*>>>>LECTURA Y VALIDACION DEL A¥O DE CONSULTA
+       cSavPan := SAVESCREEN(0,0,24,79)
+       cAnoUsr := STR(VAL(cAnoUsr)-1,4)
+       @ nFilInf+1,nColInf SAY 'A¥O:' GET cAnoUsr PICT '9999'
+       READ
+       RESTSCREEN(0,0,24,79,cSavPan)
+
+       IF VAL(cAnoUsr) < SCO->nAnoIniCon .OR.;
+	  VAL(cAnoUsr) > SCO->nAnoFinCon
+	  cError('EL A¥O '+cAnoUsr+' NO ESTA DISPONIBLE')
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN LECTURA Y VALIDACION DEL A¥O DE CONSULTA
+
+*>>>>LECTURA DE LA FECHA ACTUAL
+       IF !lPregunta('HOY ES '+cDia(DOW(DATE()),9)+' '+;
+		     cFecha(DATE(),10)+'? Si No')
+
+**********LECTURA DE LA FECHA
+	    dFecSys := DATE()
+	    @ nFilInf+1,nColInf SAY "FECHA:" GET dFecSys PICT "@D";
+				   VALID dFecSys <> CTOD('00/00/00')
+	    READ
+**********FIN LECTURA DE LA FECHA
+
+**********GRABACION DE LA FECHA
+	    IF ISAT()
+	       SETDATE(dFecSys,.T.)
+	    ELSE
+	       SETDATE(dFecSys)
+	    ENDIF
+**********FIN GRABACION DE LA FECHA
+
+       ENDIF
+*>>>>FIN LECTURA DE LA FECHA ACTUAL
+
+*>>>>INICIALIZACION DE VARIABLES
+       cAnoIni := STR(SCO->nAnoIniCon,4)
+       cAnoFin := STR(SCO->nAnoFinCon,4)
+       cMaeAct := cNivelEst(nFilInf+1,nColInf,cMaeAlu)
+       cIniJor := cJornada(nFilInf+1,nColInf,cJornad,@cJorTxt)
+       cPatSis := cAnoUsr+'.'+cIniJor
+       cAnoSis := SUBS(cAnoUsr,3,2)
+       aFirmas := {{ALLTRIM(SCO->cGerentCon),;
+		    ALLTRIM(SCO->cNitGerCon),'RECTOR(A)'},;
+		   {ALLTRIM(SCO->cSecretCon),;
+		    ALLTRIM(SCO->cNitSecCon),'SECRETARIO(A)'}}
+       ActivaPrn(lShared,cNomSis,PathSis,fSimaCo,'cColaAcCon','Con','No Si')
+       CloseDbf('SCO')
+*>>>>FIN INICIALIZACION DE VARIABLES
+
+*>>>>SELECCION DE LAS AREAS DE TRABAJO
+       IF !lUseDbf(.T.,cPatSis+'\'+cMaeAct+'\'+;
+		       FileAlu+cMaeAct+cAnoSis+ExtFile,cMaeAct,;
+		       cPatSis+'\'+cMaeAct+'\'+;
+		       fNtxAlu+cMaeAct+cAnoSis+cExtNtx,lShared) .OR.;
+	  !lUseDbf(.T.,cPatSis+'\'+cMaeAct+'\'+;
+		       FConTbl+cMaeAct+ExtFile,'TCO',NIL,lShared)
+	  cError('ABRIENDO LOS ARCHIVOS MAESTROS')
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN SELECCION DE LAS AREAS DE TRABAJO
+
+*>>>>VALIDACION DE CONTENIDOS DE ARCHIVOS
+       lHayErr := .T.
+       SELECT &cMaeAct
+       DO CASE
+       CASE RECCOUNT() == 0
+	    cError('NO EXISTE ESTUDIANTES GRABADOS')
+
+       CASE EMPTY(TCO->nTipCerTbl)
+	    cError('NO SE HA DEFINIDO EL TIPO DE CERTIFICADO')
+
+       CASE EMPTY(TCO->nTipConTbl)
+	    cError('NO SE HA DEFINIDO EL TIPO DE CONSTANCIA')
+
+       OTHERWISE
+	    lHayErr :=.F.
+       ENDCASE
+       IF lHayErr
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE CONTENIDOS DE ARCHIVOS
+
+*>>>>BUSQUEDA DEL ESTUDIANTE
+       SELECT &cMaeAct
+       cDocNit := &cMaeAct->cDocNitEst
+       cLugDoc := &cMaeAct->cLugNitEst
+
+
+       oBrwCer := oBrwAluCer(lShared,nFilPal+1,00,22,79,cMaeAct,;
+		 '<<  ESTUDIANTES DE '+cMaeAct+' A¥O: '+cAnoUsr+;
+		 ' .TOTAL ='+STR(RECCOUNT(),4)+'  >>',;
+		 '<F3>Constancias <F5>Buscar '+;
+		 '<F6>Certificado <F7>Certificados <ESC>Abandonar')
+
+       SETKEY(K_F5,{||BuscarAlu(lShared,oBrwCer,cMaeAct,;
+				cAnoSis,cPatSis,.F.)})
+*>>>>FIN BUSQUEDA DEL ESTUDIANTE
+
+*>>>>SELECCION DEL TIPO CONSTANCIA
+       DO CASE
+       CASE TCO->nTipConTbl = 01
+
+	    SETKEY(K_F3,{||Constan01(lShared,cNomSis,cNomEmp,cNomDpt,;
+				     cNomMun,cAnoUsr,cPatSis,cMaeAct,;
+				     cJorTxt,cDocNit,cLugDoc,cObsEst,;
+				     cUsoCer,aFirmas,nCopias)})
+       ENDCASE
+*>>>>FIN SELECCION DEL TIPO CONSTANCIA
+
+*>>>>SELECCION DEL TIPO DE CERTIFICADO
+       DO CASE
+       CASE TCO->nTipCerTbl == 01
+
+	    SETKEY(K_F6,{||Certific01(lShared,cNomSis,cNomEmp,cNomDpt,;
+				       cNomMun,cAnoUsr,cPatSis,cMaeAct,;
+				       cJorTxt,cDocNit,cLugDoc,cUsoCer,;
+				       aFirmas,nCopias)})
+       ENDCASE
+*>>>>FIN SELECCION DEL TIPO DE CERTIFICADO
+
+*>>>>IMPRESION DE CERTIFICADO DE VARIOS A¥OS
+       SETKEY(K_F7,{||CertsAnos(lShared,cNomSis,cNomEmp,cNomDpt,cNomMun,;
+				cAnoUsr,cMaeAlu,cMaeAct,cJorTxt,cIniJor,;
+				cAnoIni,cAnoFin,cDocNit,cLugDoc,aFirmas,;
+				oBrwCer)})
+
+       CtrlBrw(lShared,oBrwCer)
+
+       SETKEY(K_F3,NIL)
+       SETKEY(K_F5,NIL)
+       SETKEY(K_F6,NIL)
+       SETKEY(K_F7,NIL)
+
+       SET DEVICE TO SCREEN
+       CLOSE ALL
+       RETURN NIL
+*>>>>FIN IMPRESION DE CERTIFICADO DE VARIOS A¥OS

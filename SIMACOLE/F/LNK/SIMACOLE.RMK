@@ -1,0 +1,94 @@
+//  ENCADENADOR: SIMA - COLEGIOS
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MES 99/9999 DIA A
+//        Colombia, Bucaramanga        INICIO: 99:99 AM   Pendiente
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente los archivos .LNK correspondientes
+
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+
+// SINTAXIS:
+//          Rmake simacole /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := simacole
+      OBJDIR := \simaclip.v52\simacole\f\objs
+      SISPRG := \simaclip.v52\simacole\f
+      FUNPRG := \simaclip.v52\simacole\f\funcions
+      FUNINF := \simaclip.v52\simacole\f\inforsys
+      SIMFUN := \simaclip.v52\sima.fun\f
+      SIMOBJ := \simaclip.v52\sima.fun
+      SIMSCO := \simaclip.v52\simacont\f\funcions
+      SCOOBJ := \simaclip.v52\simacont\f\objs
+      SCAFUN := \simaclip.v52\simacart\f\funcions
+      SCAOBJ := \simaclip.v52\simacart\f\objs
+      OPTIONS := /w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\simaclip.v52\simacole\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\simaclip.v52\simacole\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\simacole.obj" : "$(SISPRG)\simacole.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Cole101.obj" : "$(SISPRG)\Cole101.prg"
+"$(OBJDIR)\Cole705.obj" : "$(SISPRG)\Cole705.prg"
+"$(OBJDIR)\Cole706.obj" : "$(SISPRG)\Cole706.prg"
+"$(OBJDIR)\Cole707.obj" : "$(SISPRG)\Cole707.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\ColeFun.obj" :  "$(FUNPRG)\ColeFun.prg"
+"$(OBJDIR)\fSimaCol.obj" : "$(FUNPRG)\fSimaCol.prg"
+"$(OBJDIR)\fColAno.obj" : "$(FUNPRG)\fColAno.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\ColInfor.obj" : "$(FUNINF)\ColInfor.prg"
+"$(OBJDIR)\Col00100.obj" : "$(FUNINF)\Col00100.prg"
+"$(OBJDIR)\Col00200.obj" : "$(FUNINF)\Col00200.prg"
+.prg.obj:
+	 clipper \simaclip.v52\sima.fun\f\$* $(OPTIONS)/o$(SIMOBJ)\$
+"$(SIMOBJ)\simafun.obj"  : "$(SIMFUN)\simafun.prg"
+"$(SIMOBJ)\gsimainf.obj" : "$(SIMFUN)\gsimainf.prg"
+"$(SIMOBJ)\esimainf.obj" : "$(SIMFUN)\esimainf.prg"
+"$(SIMOBJ)\gsimaiso.obj" : "$(SIMFUN)\gsimaiso.prg"
+"$(SIMOBJ)\esimaiso.obj" : "$(SIMFUN)\esimaiso.prg"
+.prg.obj:
+	 clipper \simaclip.v52\simacont\f\funcions$* $(OPTIONS)/o$(SCOOBJ)\$
+"$(SCOOBJ)\FSimaCon.obj"  : "$(SIMSCO)\FSimaCon.prg"
+.prg.obj:
+	 clipper \simaclip.v52\simacart\f\funcions$* $(OPTIONS)/o$(SCAOBJ)\$
+"$(SCAOBJ)\FuCtrRec.obj"  : "$(SCAFUN)\FuCtrRec.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\simacole.obj \\
+		   $(OBJDIR)\Cole101.obj \\
+		   $(OBJDIR)\Cole706.obj \\
+		   $(OBJDIR)\ColeFun.obj \\
+		   $(OBJDIR)\fSimaCol.obj \\
+		   $(OBJDIR)\ColInfor.obj \\
+		   $(OBJDIR)\Col00100.obj $(OBJDIR)\Col00200.obj \\
+		   $(SIMOBJ)\simafun.obj \\
+		   $(SIMOBJ)\gsimainf.obj $(SIMOBJ)\esimainf.obj \\
+		   $(SIMOBJ)\gsimaiso.obj $(SIMOBJ)\esimaiso.obj \\
+		   $(SCOOBJ)\FSimaCon.obj \\
+		   $(SCAOBJ)\FuCtrRec.obj
+    $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

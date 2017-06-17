@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MAYO DIA:05. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAY  8/2017"
+   horaprn = "15:11:51"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215051050502</campo>
+    <campo url="no">0501 CASTRO PLAZAS JOSE MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1440,814.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">215050050502</campo>
+    <campo url="no">0801 CASTRO PLAZAS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1440,814.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216144050502</campo>
+    <campo url="no">1101 VALERO GARCIA LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">625,931.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">211192050502</campo>
+    <campo url="no">0501 CAMACHO JARAMILLO JUAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1440,814.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215090050502</campo>
+    <campo url="no">1003 GARCIA ALVAREZ SEBASTIAN JAVIE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">209041050502</campo>
+    <campo url="no">0801 CONTRERAS MARTINEZ CARLOS EDUA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">209021050502</campo>
+    <campo url="no">1002 PEREZ RODRIGUEZ SILVIA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215018050502</campo>
+    <campo url="no">0501 RODRIGUEZ BAUTISTA JOSE SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">217084140502</campo>
+    <campo url="no">0903 MEJIA FRANKLIN ANA ISABEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">662,149.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215164050502</campo>
+    <campo url="no">0901 MARTINEZ FORERO CYNTHIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">000570732300</campo>
+    <campo url="no">alumno:214124 214123 ref:05707</campo>
+    <campo url="no">034</campo>
+    <campo url="no">1277,664.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">alumno:214124 214123 ref:0570732300</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211022050502</campo>
+    <campo url="no">0702 RIVERA RODRIGUEZ LAILA NADEZHD</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">211090050502</campo>
+    <campo url="no">0702 CARDENAS CUBILLOS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">211091050502</campo>
+    <campo url="no">0602 CARDENAS CUBILLOS LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">211206140502</campo>
+    <campo url="no">0602 PAEZ BARON SAMI JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">729,055.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">213086140502</campo>
+    <campo url="no">1003 RINCON PLAZAS JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">654,356.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">207055050502</campo>
+    <campo url="no">1003 GOMEZ CORREDOR MIGUEL ALBERTO</campo>
+    <campo url="no">034</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAY  5/2017</campo>
+    <campo url="no">RECIBO DE MAY PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

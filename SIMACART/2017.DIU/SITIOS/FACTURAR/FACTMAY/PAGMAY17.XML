@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE MAYO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "JUN  7/2017"
+   horaprn = "16:37:12"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTMAY17.XML">2017 MAY  01</campo>
+    <campo url="no">218,940,913</campo>
+    <campo url="no">27,869,611</campo>
+    <campo url="no">246,810,524</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="EXTMAY17.XML">2017 MAY  02</campo>
+    <campo url="no">11,168,604</campo>
+    <campo url="no">0</campo>
+    <campo url="no">11,168,604</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\0000.DIU\sitios\facturar\FACT   EXT   00.XML">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">SIN FECHA =    1</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">230,109,517</campo>
+    <campo url="no">27,869,611</campo>
+    <campo url="no">257,979,128</campo>
+
+  </registro>
+
+</registros>

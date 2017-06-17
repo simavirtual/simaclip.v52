@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:21. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR 24/2017"
+   horaprn = "10:50:16"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">212036040400</campo>
+    <campo url="no">0501 QUINTERO BLANCO JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1455,120.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">605514110200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">693,006.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216044040400</campo>
+    <campo url="no">0302 CELY FORERO JOSE DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,749.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">609204040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1942,389.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">209022040400</campo>
+    <campo url="no">0802 TRILLOS PEINADO BALDINI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2208,731.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">405804040200</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1942,389.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208079040400</campo>
+    <campo url="no">1002 VILLAMIZAR SIERRA JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">645,220.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">217052040400</campo>
+    <campo url="no">0601 CAMACHO MENDOZA JULIAN ALEJAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">682,933.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR 21/2017</campo>
+    <campo url="no">RECIBO DE ABR PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

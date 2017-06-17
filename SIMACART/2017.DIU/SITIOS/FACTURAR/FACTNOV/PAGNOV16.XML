@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE NOVIEMBRE"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "FEB  3/2017"
+   horaprn = "13:47:59"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>P PARCIALES</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTNOV16.XML">2016 NOV  01</campo>
+    <campo url="no">362,621,057</campo>
+    <campo url="no">35,888,158</campo>
+    <campo url="no">0</campo>
+    <campo url="no">398,509,215</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTOCT\EXTOCT16.XML">2016 OCT  01</campo>
+    <campo url="no">3,046,307</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">3,046,307</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTDIC\EXTDIC16.XML">2016 DIC  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">61,578,276</campo>
+    <campo url="no">0</campo>
+    <campo url="no">61,578,276</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\2017.DIU\sitios\facturar\FACTENEEXTENE17.XML">2017 ENE  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">99,158,622</campo>
+    <campo url="no">0</campo>
+    <campo url="no">99,158,622</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\2017.DIU\sitios\facturar\FACTFEBEXTFEB17.XML">2017 FEB  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">16,376,995</campo>
+    <campo url="no">0</campo>
+    <campo url="no">16,376,995</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTSEP\EXTSEP16.XML">2016 SEP  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">275,092</campo>
+    <campo url="no">275,092</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">365,667,364</campo>
+    <campo url="no">213,002,051</campo>
+    <campo url="no">275,092</campo>
+    <campo url="no">578,944,507</campo>
+
+  </registro>
+
+</registros>

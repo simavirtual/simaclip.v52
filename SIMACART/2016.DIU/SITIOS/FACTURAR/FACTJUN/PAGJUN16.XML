@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE JUNIO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUL  7/2016"
+   horaprn = "14:01:55"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTJUN16.XML">2016 JUN  01</campo>
+    <campo url="no">239,866,289</campo>
+    <campo url="no">36,456,869</campo>
+    <campo url="no">276,323,158</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTMAY\EXTMAY16.XML">2016 MAY  01</campo>
+    <campo url="no">1,993,806</campo>
+    <campo url="no">0</campo>
+    <campo url="no">1,993,806</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">241,860,095</campo>
+    <campo url="no">36,456,869</campo>
+    <campo url="no">278,316,964</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A JUL 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE JULIO"
+   titulo3 = "GRUPO: JA01 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "AGO  5/2016"
+   horaprn = "15:18:08"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">BERNIER CANTILLO C</campo>
+    <campo url="no">R E T I R A D O</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215149</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV072616.XML">2</campo>
+    <campo url="no">BOBADILLA SANCHEZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,393,100</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no">13,775</campo>
+    <campo url="no">JUL 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215146</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV072716.XML">3</campo>
+    <campo url="no">FRANCO RUEDA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no">6,888</campo>
+    <campo url="no">JUL 27/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216111</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV072516.XML">4</campo>
+    <campo url="no">GRANADOS BAUTISTA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no">6,888</campo>
+    <campo url="no">JUL 25/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216023</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV071816.XML">5</campo>
+    <campo url="no">GRANADOS TORO JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUL 18/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215134</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">PEREZ GONZALEZ ANA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216051</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV071816.XML">7</campo>
+    <campo url="no">RODRIGUEZ GALVIS M</campo>
+    <campo url="no">PENSION->BECA 20.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">551,014</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUL 18/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216093</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV071216.XML">8</campo>
+    <campo url="no">VILLALBA IBA¥EZ LU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUL 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215180</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV071816.XML">9</campo>
+    <campo url="no">GARCIA CORTES SAMU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUL 18/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216120</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV072516.XML">10</campo>
+    <campo url="no">GIRALDO MAURELLO A</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">688,767</campo>
+    <campo url="no"></campo>
+    <campo url="no">688,767</campo>
+    <campo url="no">JULJUL</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUL 25/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216142</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACJUL16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">6,198,903</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no">27,551</campo>
+    <campo url="no">6,076,716</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

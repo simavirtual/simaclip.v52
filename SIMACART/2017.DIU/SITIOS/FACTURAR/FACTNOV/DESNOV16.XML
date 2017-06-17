@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "MAR  8/2017"
+   horaprn = "17:03:33"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">208246</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">ROSALES FLOREZ HECTOR NICOLAS</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 13/2017</campo>
+    <campo url="no">1,242,168</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215121</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">CUBILLOS GARCIA MAYRA ALEJANDR</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 13/2017</campo>
+    <campo url="no">5,963,610</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211192</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">CAMACHO JARAMILLO JUAN ANDRES</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 13/2017</campo>
+    <campo url="no">3,498,639</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215100</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">REY CABANZO JOSE GABRIEL</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 18/2017</campo>
+    <campo url="no">5,571,912</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215122</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">CUBILLOS LUENGAS ANGIE VANESSA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 17/2017</campo>
+    <campo url="no">5,352,576</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215048</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">VILLAMIZAR CAMELO JOSE MIGUEL</campo>
+    <campo url="no">NOV-</campo>
+    <campo url="no">ENE 18/2017</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212083</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">SAAVEDRA BLANCO MARIA ISABEL</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 18/2017</campo>
+    <campo url="no">3,307,424</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214205</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">3,945,224</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214018</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">CUELLAR ESTUPI¥AN DANNA VALENT</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 20/2017</campo>
+    <campo url="no">2,130,704</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216058</campo>
+    <campo url="no">1501</campo>
+    <campo url="no">MONSALVE ESTUPI¥AN ISABEL SOFI</campo>
+    <campo url="no">NOV-</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">705,297</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212089</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">MONSALVE ESTUPI¥AN LUIS FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 19/2017</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215043</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">BAUTISTA ARGUELLO EMANUEL</campo>
+    <campo url="no">NOV-</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no">693,006</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215144</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">VARGAS BARAJAS NATHALIA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 21/2017</campo>
+    <campo url="no">1,321,624</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215078</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">CARRERO RUEDA JUAN PABLO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 23/2017</campo>
+    <campo url="no">3,625,019</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214030</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">ROJAS DUARTE LUIS FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 23/2017</campo>
+    <campo url="no">4,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214135</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">RUEDA TORRES DANIEL FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">3,781,734</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211157</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">RUEDA TORRES JORGE ENRIQUE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 25/2017</campo>
+    <campo url="no">3,001,580</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208051</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">VALDERRAMA DIAZ RODRIGO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">3,307,424</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213068</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">JIMENEZ PEREZ JUAN SEBASTIAN</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">6,567,168</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215112</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">SIACHOQUE PE¥A ANDRES CAMILO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 27/2017</campo>
+    <campo url="no">1,230,604</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210059</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">VELASQUEZ RODRIGUEZ JOSE DANIE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">5,186,283</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214041</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">SANCHEZ LOPEZ JUAN SEBASTIAN</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 27/2017</campo>
+    <campo url="no">6,249,691</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211167</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">RONCANCIO PALLARES SANTIAGO</campo>
+    <campo url="no">NOV-</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209022</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">TRILLOS PEINADO BALDINI</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 28/2017</campo>
+    <campo url="no">2,053,174</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211115</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">MOLANO CALIXTO ANDRES FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">3,818,674</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213037</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">FRANCO RODRIGUEZ MARIA PAULA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 27/2017</campo>
+    <campo url="no">1,409,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215105</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">BARRAGAN ARCINIEGAS MARIA VALE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 27/2017</campo>
+    <campo url="no">1,842,806</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208051</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">VALDERRAMA DIAZ RODRIGO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">2,307,424</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216024</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SAAVEDRA TRIANA ERWIN OMAR</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">2,087,599</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215068</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">GAITAN FONSECA CARLOS AUGUSTO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">1,500,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212037</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">SALCEDO VARGAS SARA MARIA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 30/2017</campo>
+    <campo url="no">4,243,776</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212102</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">BOTERO BOADA JULIANA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">1,375,749</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208011</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">BOTERO BOADA ANDRES CAMILO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">1,375,749</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208051</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">VALDERRAMA DIAZ RODRIGO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215144</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">VARGAS BARAJAS NATHALIA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">731,550</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211205</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">SARMIENTO MARTINEZ ANA SOFIA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">1,353,368</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211204</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 31/2017</campo>
+    <campo url="no">1,353,368</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213037</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">FRANCO RODRIGUEZ MARIA PAULA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  1/2017</campo>
+    <campo url="no">1,960,400</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215068</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">GAITAN FONSECA CARLOS AUGUSTO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  1/2017</campo>
+    <campo url="no">156,804</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213140</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">BELLO RINCON JUAN SEBASTIAN</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  2/2017</campo>
+    <campo url="no">1,388,899</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212102</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">BOTERO BOADA JULIANA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  2/2017</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208011</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">BOTERO BOADA ANDRES CAMILO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  2/2017</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214022</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">TORRES REBOLLEDO JUAN ANDRES</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  2/2017</campo>
+    <campo url="no">7,563,468</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212083</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">SAAVEDRA BLANCO MARIA ISABEL</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">3,307,424</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213087</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">HERNANDEZ MORENO CARLOS EDUARD</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  3/2017</campo>
+    <campo url="no">3,866,112</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207158</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">GOMEZ ARIZA DIEGO ANDRES</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  6/2017</campo>
+    <campo url="no">2,778,770</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211212</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">ARIAS CUADROS KAREN VANESSA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  6/2017</campo>
+    <campo url="no">2,317,500</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211211</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">ARIAS CUADROS BRAYAN ALONSO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  6/2017</campo>
+    <campo url="no">2,317,500</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211191</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">CAMACHO RODRIGUEZ DAVID JOSUE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  8/2017</campo>
+    <campo url="no">2,599,961</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210165</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">HURTADO QUINTERO JUAN CAMILO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  9/2017</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no"></campo>
+    <campo url="no">288,784</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO DTO.INTERESES DE MORA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211011</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">LOZANO CELIS KAREN MARCELA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  9/2017</campo>
+    <campo url="no">3,968,909</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216045</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">ANGULO SANABRIA SHARON SAYREE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 11/2017</campo>
+    <campo url="no">2,840,942</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208239</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">BUENO SARMIENTO JUAN CARLOS I</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 13/2017</campo>
+    <campo url="no">3,607,046</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209045</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">PALOMINO RUEDA SEBASTIAN ANDRE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 15/2017</campo>
+    <campo url="no">3,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212045</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">PALOMINO RUEDA JUAN JOSE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 15/2017</campo>
+    <campo url="no">3,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213227</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">MORENO CASTRO JOSE MAURICIO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 16/2017</campo>
+    <campo url="no">6,602,302</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212045</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">PALOMINO RUEDA JUAN JOSE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 16/2017</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209045</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">PALOMINO RUEDA SEBASTIAN ANDRE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 16/2017</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213226</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">MORENO CASTRO ADID SANTIAGO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 16/2017</campo>
+    <campo url="no">270,408</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215148</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">ALBA RODRIGUEZ SILVIA FERNANDA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 17/2017</campo>
+    <campo url="no">3,307,424</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$158,012,491</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$    288,784</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

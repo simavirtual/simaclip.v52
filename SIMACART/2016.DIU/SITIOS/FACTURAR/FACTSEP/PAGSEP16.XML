@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE SEPTIEMBRE"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "OCT  7/2016"
+   horaprn = "11:48:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>P PARCIALES</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTSEP16.XML">2016 SEP  01</campo>
+    <campo url="no">231,557,386</campo>
+    <campo url="no">40,882,897</campo>
+    <campo url="no">0</campo>
+    <campo url="no">272,440,283</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTJUL\EXTJUL16.XML">2016 JUL  01</campo>
+    <campo url="no">2,968,381</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">2,968,381</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTAGO\EXTAGO16.XML">2016 AGO  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">271,186</campo>
+    <campo url="no">271,186</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">234,525,767</campo>
+    <campo url="no">40,882,897</campo>
+    <campo url="no">271,186</campo>
+    <campo url="no">275,679,850</campo>
+
+  </registro>
+
+</registros>

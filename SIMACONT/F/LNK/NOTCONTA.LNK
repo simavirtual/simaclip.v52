@@ -1,0 +1,14 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD PROFESORES
+
+#*************************************************************************
+# MODULO..: FUNCIONES DESCARTADAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                    DECLARACION DE MODULOS EXCLUIDOS                    *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS EXCLUIDOS
+       DEFINE lParam0104,PathCarAno,lAbonos,lSekCodDes,nValorTar
+       DEFINE nNroMesFac
+#>>>>FIN MODULOS EXCLUIDOS

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A JUN 30/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE JUNIO"
+   titulo3 = "GRUPO: 0502 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUL  7/2016"
+   horaprn = "14:15:48"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">BOTERO BOADA JULIA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">3,485,316</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">73,808</campo>
+    <campo url="no">3,411,508</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">212102</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV062116.XML">2</campo>
+    <campo url="no">CARDENAS CUBILLOS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no">6,532</campo>
+    <campo url="no">JUN 21/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211091</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV062916.XML">3</campo>
+    <campo url="no">CUESTA MONTENEGRO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no">6,532</campo>
+    <campo url="no">JUN 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214120</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060316.XML">4</campo>
+    <campo url="no">ESTUPI¥AN MOJICA M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  3/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211093</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">OVALLE JAIMES JOSE</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213134</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061616.XML">6</campo>
+    <campo url="no">PAEZ BARON SAMI JO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211206</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061416.XML">7</campo>
+    <campo url="no">PEREZ SANCHEZ ANA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 14/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211134</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">PINZON GORDILLO LA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">667,932</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">14,762</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215104</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">PLATA URIBE DANIEL</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214155</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">REYES PRINCE LADER</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">667,932</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">14,762</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213166</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV061616.XML">11</campo>
+    <campo url="no">ROBERTO ZU¥IGA CRI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212059</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">ROMERO JOYA JUAN D</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216013</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV062716.XML">13</campo>
+    <campo url="no">RONDON TORRES SANT</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,321,102</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no">13,063</campo>
+    <campo url="no">JUN 27/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212116</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">SALAZAR LEON FERNA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">212026</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">SANCHEZ PATI¥O JUA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214038</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">SANCHEZ SIMANCAS L</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">667,932</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">14,762</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">212016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV060816.XML">17</campo>
+    <campo url="no">VALERO RUEDA SAMUE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">JUNJUN</campo>
+    <campo url="no"></campo>
+    <campo url="no">JUN  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212003</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">MONTOYA SANABRIA J</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216141</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACJUN16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,489,112</campo>
+    <campo url="no">7,838,040</campo>
+    <campo url="no">118,094</campo>
+    <campo url="no">5,371,018</campo>
+    <campo url="no"></campo>
+    <campo url="no">26,127</campo>
+    <campo url="no">5,893,292</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

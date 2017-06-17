@@ -1,0 +1,236 @@
+//  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+//*************************************************************************
+// NOMBRE DEL ENCADENADOR..: PLUSCART.RMK                                 *
+// TITULO DEL PROGRAMA.....: UTILIDAD DE CONTRUCCION DEL SISTEMA          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: FEB 15/96 JUE A
+//        Colombia, Bucaramanga        INICIO: 03:00 PM   FEB 15/96 JUE
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaMatr /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaCart
+      OBJDIR := \SimaClip.v52\SimaCart\f\objs
+      SISPRG := \SimaClip.v52\SimaCart\f
+      FUNPRG := \SimaClip.v52\SimaCart\f\funcions
+      FUNINF := \simaclip.v52\SimaCart\f\inforsys
+      OPTIONS := /w/b
+//      LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaCart\f\lnk\Depurar.lnk
+//      LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaCart\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaCart\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Pluscart.obj" : "$(SISPRG)\Pluscart.prg"
+//"$(OBJDIR)\Depurar.obj" : "$(SISPRG)\Depurar.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Carte101.obj" : "$(SISPRG)\Carte101.prg"
+"$(OBJDIR)\Carte102.obj" : "$(SISPRG)\Carte102.prg"
+"$(OBJDIR)\Carte103.obj" : "$(SISPRG)\Carte103.prg"
+"$(OBJDIR)\Carte104.obj" : "$(SISPRG)\Carte104.prg"
+"$(OBJDIR)\Carte105.obj" : "$(SISPRG)\Carte105.prg"
+"$(OBJDIR)\Carta151.obj" : "$(SISPRG)\Carta151.prg"
+"$(OBJDIR)\Carte151.obj" : "$(SISPRG)\Carte151.prg"
+"$(OBJDIR)\Carte152.obj" : "$(SISPRG)\Carte152.prg"
+"$(OBJDIR)\Carte108.obj" : "$(SISPRG)\Carte108.prg"
+"$(OBJDIR)\Carte181.obj" : "$(SISPRG)\Carte181.prg"
+"$(OBJDIR)\Carte182.obj" : "$(SISPRG)\Carte182.prg"
+"$(OBJDIR)\Carte109.obj" : "$(SISPRG)\Carte109.prg"
+"$(OBJDIR)\Carte193.obj" : "$(SISPRG)\Carte193.prg"
+"$(OBJDIR)\Carte106.obj" : "$(SISPRG)\Carte106.prg"
+"$(OBJDIR)\Carte107.obj" : "$(SISPRG)\Carte107.prg"
+"$(OBJDIR)\Carte201.obj" : "$(SISPRG)\Carte201.prg"
+"$(OBJDIR)\Carte202.obj" : "$(SISPRG)\Carte202.prg"
+"$(OBJDIR)\Carte203.obj" : "$(SISPRG)\Carte203.prg"
+"$(OBJDIR)\Carte204.obj" : "$(SISPRG)\Carte204.prg"
+
+"$(OBJDIR)\Carte205.obj" : "$(SISPRG)\Carte205.prg"
+"$(OBJDIR)\Carte251.obj" : "$(SISPRG)\Carte251.prg"
+"$(OBJDIR)\Cart2511.obj" : "$(SISPRG)\Cart2511.prg"
+"$(OBJDIR)\Cart2512.obj" : "$(SISPRG)\Cart2512.prg"
+"$(OBJDIR)\Carte252.obj" : "$(SISPRG)\Carte252.prg"
+"$(OBJDIR)\Carte253.obj" : "$(SISPRG)\Carte253.prg"
+"$(OBJDIR)\Carte254.obj" : "$(SISPRG)\Carte254.prg"
+"$(OBJDIR)\Carte255.obj" : "$(SISPRG)\Carte255.prg"
+"$(OBJDIR)\Carte256.obj" : "$(SISPRG)\Carte256.prg"
+"$(OBJDIR)\Carte257.obj" : "$(SISPRG)\Carte257.prg"
+"$(OBJDIR)\Carte258.obj" : "$(SISPRG)\Carte258.prg"
+"$(OBJDIR)\Carte259.obj" : "$(SISPRG)\Carte259.prg"
+"$(OBJDIR)\Carte206.obj" : "$(SISPRG)\Carte206.prg"
+"$(OBJDIR)\Carte261.obj" : "$(SISPRG)\Carte261.prg"
+"$(OBJDIR)\Carte262.obj" : "$(SISPRG)\Carte262.prg"
+"$(OBJDIR)\Carte263.obj" : "$(SISPRG)\Carte263.prg"
+"$(OBJDIR)\Carte264.obj" : "$(SISPRG)\Carte264.prg"
+"$(OBJDIR)\Carte207.obj" : "$(SISPRG)\Carte207.prg"
+"$(OBJDIR)\Carte208.obj" : "$(SISPRG)\Carte208.prg"
+"$(OBJDIR)\Carte209.obj" : "$(SISPRG)\Carte209.prg"
+"$(OBJDIR)\Carte291.obj" : "$(SISPRG)\Carte291.prg"
+"$(OBJDIR)\Carte301.obj" : "$(SISPRG)\Carte301.prg"
+"$(OBJDIR)\Carte304.obj" : "$(SISPRG)\Carte304.prg"
+"$(OBJDIR)\Carte342.obj" : "$(SISPRG)\Carte342.prg"
+"$(OBJDIR)\Carte305.obj" : "$(SISPRG)\Carte305.prg"
+"$(OBJDIR)\Carte306.obj" : "$(SISPRG)\Carte306.prg"
+"$(OBJDIR)\Carte307.obj" : "$(SISPRG)\Carte307.prg"
+"$(OBJDIR)\Carte401.obj" : "$(SISPRG)\Carte401.prg"
+"$(OBJDIR)\Carte411.obj" : "$(SISPRG)\Carte411.prg"
+"$(OBJDIR)\Carte412.obj" : "$(SISPRG)\Carte412.prg"
+"$(OBJDIR)\Carte413.obj" : "$(SISPRG)\Carte413.prg"
+"$(OBJDIR)\Carte414.obj" : "$(SISPRG)\Carte414.prg"
+"$(OBJDIR)\Carte415.obj" : "$(SISPRG)\Carte415.prg"
+"$(OBJDIR)\Carte416.obj" : "$(SISPRG)\Carte416.prg"
+"$(OBJDIR)\Carte402.obj" : "$(SISPRG)\Carte402.prg"
+"$(OBJDIR)\Carte403.obj" : "$(SISPRG)\Carte403.prg"
+"$(OBJDIR)\Carte404.obj" : "$(SISPRG)\Carte404.prg"
+"$(OBJDIR)\Carte405.obj" : "$(SISPRG)\Carte405.prg"
+"$(OBJDIR)\Carte406.obj" : "$(SISPRG)\Carte406.prg"
+"$(OBJDIR)\Carte461.obj" : "$(SISPRG)\Carte461.prg"
+"$(OBJDIR)\Carte462.obj" : "$(SISPRG)\Carte462.prg"
+"$(OBJDIR)\Carte407.obj" : "$(SISPRG)\Carte407.prg"
+"$(OBJDIR)\Carte471.obj" : "$(SISPRG)\Carte471.prg"
+"$(OBJDIR)\Carte472.obj" : "$(SISPRG)\Carte472.prg"
+"$(OBJDIR)\Carte408.obj" : "$(SISPRG)\Carte408.prg"
+"$(OBJDIR)\Carte409.obj" : "$(SISPRG)\Carte409.prg"
+"$(OBJDIR)\Carte502.obj" : "$(SISPRG)\Carte502.prg"
+"$(OBJDIR)\Carte504.obj" : "$(SISPRG)\Carte504.prg"
+"$(OBJDIR)\Carte505.obj" : "$(SISPRG)\Carte505.prg"
+"$(OBJDIR)\Carte551.obj" : "$(SISPRG)\Carte551.prg"
+"$(OBJDIR)\Carte552.obj" : "$(SISPRG)\Carte552.prg"
+"$(OBJDIR)\Carte542.obj" : "$(SISPRG)\Carte542.prg"
+"$(OBJDIR)\Carte543.obj" : "$(SISPRG)\Carte543.prg"
+"$(OBJDIR)\Carte544.obj" : "$(SISPRG)\Carte544.prg"
+"$(OBJDIR)\Carte545.obj" : "$(SISPRG)\Carte545.prg"
+"$(OBJDIR)\Carte505.obj" : "$(SISPRG)\Carte505.prg"
+"$(OBJDIR)\Carte551.obj" : "$(SISPRG)\Carte551.prg"
+"$(OBJDIR)\Carte552.obj" : "$(SISPRG)\Carte552.prg"
+"$(OBJDIR)\Carte507.obj" : "$(SISPRG)\Carte507.prg"
+"$(OBJDIR)\Carte508.obj" : "$(SISPRG)\Carte508.prg"
+"$(OBJDIR)\Carte509.obj" : "$(SISPRG)\Carte509.prg"
+"$(OBJDIR)\Carte601.obj" : "$(SISPRG)\Carte601.prg"
+"$(OBJDIR)\Carte611.obj" : "$(SISPRG)\Carte611.prg"
+"$(OBJDIR)\Carte612.obj" : "$(SISPRG)\Carte612.prg"
+"$(OBJDIR)\Carte602.obj" : "$(SISPRG)\Carte602.prg"
+"$(OBJDIR)\Carte621.obj" : "$(SISPRG)\Carte621.prg"
+"$(OBJDIR)\Carte622.obj" : "$(SISPRG)\Carte622.prg"
+"$(OBJDIR)\Carte624.obj" : "$(SISPRG)\Carte624.prg"
+"$(OBJDIR)\Carte603.obj" : "$(SISPRG)\Carte603.prg"
+"$(OBJDIR)\Carte632.obj" : "$(SISPRG)\Carte632.prg"
+"$(OBJDIR)\Carte633.obj" : "$(SISPRG)\Carte633.prg"
+"$(OBJDIR)\Carte634.obj" : "$(SISPRG)\Carte634.prg"
+"$(OBJDIR)\Carte604.obj" : "$(SISPRG)\Carte604.prg"
+"$(OBJDIR)\Carte706.obj" : "$(SISPRG)\Carte706.prg"
+"$(OBJDIR)\Carte707.obj" : "$(SISPRG)\Carte707.prg"
+"$(OBJDIR)\Carte777.obj" : "$(SISPRG)\Carte777.prg"
+"$(OBJDIR)\Carte708.obj" : "$(SISPRG)\Carte708.prg"
+"$(OBJDIR)\Carte709.obj" : "$(SISPRG)\Carte709.prg"
+"$(OBJDIR)\Carte791.obj" : "$(SISPRG)\Carte791.prg"
+"$(OBJDIR)\Carte792.obj" : "$(SISPRG)\Carte792.prg"
+"$(OBJDIR)\Carte795.obj" : "$(SISPRG)\Carte795.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\FSimaCar.obj" :  "$(FUNPRG)\FSimaCar.prg"
+"$(OBJDIR)\FCartAno.obj" :  "$(FUNPRG)\FCartAno.prg"
+"$(OBJDIR)\FCartTbl.obj" :  "$(FUNPRG)\FCartTbl.prg"
+"$(OBJDIR)\CarteFun.obj" :  "$(FUNPRG)\CarteFun.prg"
+"$(OBJDIR)\FuncsAlu.obj" :  "$(FUNPRG)\FuncsAlu.prg"
+"$(OBJDIR)\FuncsGru.obj" :  "$(FUNPRG)\FuncsGru.prg"
+"$(OBJDIR)\FuncsRec.obj" :  "$(FUNPRG)\FuncsRec.prg"
+"$(OBJDIR)\FuncsAbo.obj" :  "$(FUNPRG)\FuncsAbo.prg"
+"$(OBJDIR)\FReciOtr.obj" :  "$(FUNPRG)\FReciOtr.prg"
+"$(OBJDIR)\FuncsCli.obj" :  "$(FUNPRG)\FuncsCli.prg"
+"$(OBJDIR)\FuncsPag.obj" :  "$(FUNPRG)\FuncsPag.prg"
+"$(OBJDIR)\FuncsBan.obj" :  "$(FUNPRG)\FuncsBan.prg"
+"$(OBJDIR)\FuncsCon.obj" :  "$(FUNPRG)\FuncsCon.prg"
+"$(OBJDIR)\FuncsTar.obj" :  "$(FUNPRG)\FuncsTar.prg"
+"$(OBJDIR)\FuncsDes.obj" :  "$(FUNPRG)\FuncsDes.prg"
+"$(OBJDIR)\FuncsTra.obj" :  "$(FUNPRG)\FuncsTra.prg"
+"$(OBJDIR)\OtrTra01.obj" :  "$(FUNPRG)\OtrTra01.prg"
+"$(OBJDIR)\OtrTra02.obj" :  "$(FUNPRG)\OtrTra02.prg"
+"$(OBJDIR)\OtrTra03.obj" :  "$(FUNPRG)\OtrTra03.prg"
+"$(OBJDIR)\OtrTra04.obj" :  "$(FUNPRG)\OtrTra04.prg"
+"$(OBJDIR)\OtrTra05.obj" :  "$(FUNPRG)\OtrTra05.prg"
+"$(OBJDIR)\OtrTra06.obj" :  "$(FUNPRG)\OtrTra06.prg"
+"$(OBJDIR)\OtrTra07.obj" :  "$(FUNPRG)\OtrTra07.prg"
+"$(OBJDIR)\OtrTra09.obj" :  "$(FUNPRG)\OtrTra09.prg"
+"$(OBJDIR)\FuncsTmv.obj" :  "$(FUNPRG)\FuncsTmv.prg"
+"$(OBJDIR)\FuncsCmv.obj" :  "$(FUNPRG)\FuncsCmv.prg"
+"$(OBJDIR)\FuncsExt.obj" :  "$(FUNPRG)\FuncsExt.prg"
+"$(OBJDIR)\FuncsFpg.obj" :  "$(FUNPRG)\FuncsFpg.prg"
+"$(OBJDIR)\FuncsPuc.obj" :  "$(FUNPRG)\FuncsPuc.prg"
+"$(OBJDIR)\FuncsRut.obj" :  "$(FUNPRG)\FuncsRut.prg"
+"$(OBJDIR)\FuncsFia.obj" :  "$(FUNPRG)\FuncsFia.prg"
+"$(OBJDIR)\OtrExt11.obj" :  "$(FUNPRG)\OtrExt11.prg"
+"$(OBJDIR)\OtrExt12.obj" :  "$(FUNPRG)\OtrExt12.prg"
+"$(OBJDIR)\OtrExt13.obj" :  "$(FUNPRG)\OtrExt13.prg"
+"$(OBJDIR)\OtrExt23.obj" :  "$(FUNPRG)\OtrExt23.prg"
+"$(OBJDIR)\OtrExt21.obj" :  "$(FUNPRG)\OtrExt21.prg"
+"$(OBJDIR)\OtExt211.obj" :  "$(FUNPRG)\OtExt211.prg"
+"$(OBJDIR)\OtExt212.obj" :  "$(FUNPRG)\OtExt212.prg"
+"$(OBJDIR)\OtExt213.obj" :  "$(FUNPRG)\OtExt213.prg"
+"$(OBJDIR)\OtExt214.obj" :  "$(FUNPRG)\OtExt214.prg"
+"$(OBJDIR)\OtrExt22.obj" :  "$(FUNPRG)\OtrExt22.prg"
+"$(OBJDIR)\OtrExt31.obj" :  "$(FUNPRG)\OtrExt31.prg"
+"$(OBJDIR)\OtrExt32.obj" :  "$(FUNPRG)\OtrExt32.prg"
+"$(OBJDIR)\OtrExt33.obj" :  "$(FUNPRG)\OtrExt33.prg"
+"$(OBJDIR)\OtrExt24.obj" :  "$(FUNPRG)\OtrExt24.prg"
+"$(OBJDIR)\OtrExt42.obj" :  "$(FUNPRG)\OtrExt42.prg"
+"$(OBJDIR)\OtrExt43.obj" :  "$(FUNPRG)\OtrExt43.prg"
+"$(OBJDIR)\FuncsMor.obj" :  "$(FUNPRG)\FuncsMor.prg"
+"$(OBJDIR)\OtrMor01.obj" :  "$(FUNPRG)\OtrMor01.prg"
+"$(OBJDIR)\OtrMor02.obj" :  "$(FUNPRG)\OtrMor02.prg"
+"$(OBJDIR)\OtrMor03.obj" :  "$(FUNPRG)\OtrMor03.prg"
+"$(OBJDIR)\OtrMor04.obj" :  "$(FUNPRG)\OtrMor04.prg"
+"$(OBJDIR)\OtrMor05.obj" :  "$(FUNPRG)\OtrMor05.prg"
+"$(OBJDIR)\OtrMor06.obj" :  "$(FUNPRG)\OtrMor06.prg"
+"$(OBJDIR)\OtrMor07.obj" :  "$(FUNPRG)\OtrMor07.prg"
+"$(OBJDIR)\OtMor071.obj" :  "$(FUNPRG)\OtMor071.prg"
+"$(OBJDIR)\OtMor072.obj" :  "$(FUNPRG)\OtMor072.prg"
+"$(OBJDIR)\OtMor073.obj" :  "$(FUNPRG)\OtMor073.prg"
+"$(OBJDIR)\OtrMor08.obj" : "$(FUNPRG)\OtrMor08.prg"
+"$(OBJDIR)\OtrMor09.obj" : "$(FUNPRG)\OtrMor09.prg"
+"$(OBJDIR)\Ot1Mor01.obj" : "$(FUNPRG)\Ot1Mor01.prg"
+"$(OBJDIR)\Ot1Mor02.obj" : "$(FUNPRG)\Ot1Mor02.prg"
+"$(OBJDIR)\Ot1Mor03.obj" : "$(FUNPRG)\Ot1Mor03.prg"
+"$(OBJDIR)\FuncsCob.obj" :  "$(FUNPRG)\FuncsCob.prg"
+"$(OBJDIR)\OtrCob01.obj" :  "$(FUNPRG)\OtrCob01.prg"
+"$(OBJDIR)\OtrCob02.obj" :  "$(FUNPRG)\OtrCob02.prg"
+"$(OBJDIR)\OtrCob03.obj" :  "$(FUNPRG)\OtrCob03.prg"
+"$(OBJDIR)\OtrCob04.obj" :  "$(FUNPRG)\OtrCob04.prg"
+"$(OBJDIR)\OtrCob05.obj" :  "$(FUNPRG)\OtrCob05.prg"
+"$(OBJDIR)\FuncsNiv.obj" :  "$(FUNPRG)\FuncsNiv.prg"
+"$(OBJDIR)\fTipoPaz.obj" :  "$(FUNPRG)\fTipoPaz.prg"
+"$(OBJDIR)\FuCtrRec.obj" :  "$(FUNPRG)\FuCtrRec.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Carinfor.obj"  : "$(FUNINF)\Carinfor.prg"
+"$(OBJDIR)\Car00100.obj"  : "$(FUNINF)\Car00100.prg"
+"$(OBJDIR)\Car00200.obj"  : "$(FUNINF)\Car00200.prg"
+"$(OBJDIR)\CarRec05.obj"  : "$(FUNINF)\CarRec05.prg"
+"$(OBJDIR)\CarAbo05.obj"  : "$(FUNINF)\CarAbo05.prg"
+"$(OBJDIR)\CarRec11.obj"  : "$(FUNINF)\CarRec11.prg"
+"$(OBJDIR)\CarAbo11.obj"  : "$(FUNINF)\CarAbo11.prg"
+"$(OBJDIR)\Car20900.obj"  : "$(FUNINF)\Car20900.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\pluscart.obj
+    $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

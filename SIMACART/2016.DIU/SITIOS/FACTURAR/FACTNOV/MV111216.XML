@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE NOVIEMBRE DIA:12. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "NOV 15/2016"
+   horaprn = "11:03:25"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">4,284.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0028      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">1071,000.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">215135111100</campo>
+    <campo url="no">1101 CASTRO LOBO JOSEPH FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216040111100</campo>
+    <campo url="no">0701 SANTIAGO RUIZ JOSE MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216098111100</campo>
+    <campo url="no">0201 GALLO BELLO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">215006111100</campo>
+    <campo url="no">0201 RUIZ FLOREZ JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">211001111100</campo>
+    <campo url="no">0602 CALVO CASTRO ANDREA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,853.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212144111100</campo>
+    <campo url="no">0401 CALVO CASTRO CARLOS FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">216056111100</campo>
+    <campo url="no">0901 STERLING DUARTE LAYLLA EVELITH</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1186,562.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215022111100</campo>
+    <campo url="no">0201 LEON DUARTE JESUS DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">212018111100</campo>
+    <campo url="no">1003 MARTINEZ MEDINA MAYRA ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">212055111100</campo>
+    <campo url="no">0402 RONDON RODRIGUEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">205023111100</campo>
+    <campo url="no">1101 ROJAS AGUILAR JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">211181111100</campo>
+    <campo url="no">1101 PE¥A GELVEZ BRANDON YAIR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2379,308.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">215015111100</campo>
+    <campo url="no">0102 CHAPARRO GOMEZ DIEGO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">212028111100</campo>
+    <campo url="no">1003 CHAPARRO GOMEZ SEBASTIAN CAMIL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">214169141100</campo>
+    <campo url="no">1103 FUENTES LOPEZ ANDRES ERNESTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3000,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">214141111100</campo>
+    <campo url="no">0301 GUERRERO PALACIOS DANIEL FELIP</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1356,724.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">210173111100</campo>
+    <campo url="no">0902 JAIMES VILLAMIZAR GEOFFRY FARI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">210119111100</campo>
+    <campo url="no">0601 ANAYA CABALLERO FREDY ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">207027111100</campo>
+    <campo url="no">1002 PARADA TARAZONA PEDRO ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">216001111100</campo>
+    <campo url="no">0102 MANOSALVA ARIZA JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">214060111100</campo>
+    <campo url="no">1102 MITCHELL POMBO BRAYAN ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214059111100</campo>
+    <campo url="no">1103 MITCHELL POMBO SERGIO DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">210058111100</campo>
+    <campo url="no">1101 TABORDA SIBAJA ANDRES FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">208079111100</campo>
+    <campo url="no">0902 VILLAMIZAR SIERRA JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 11/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">215113111100</campo>
+    <campo url="no">0201 CHAPARRO MOTTA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">216044111100</campo>
+    <campo url="no">0202 CELY FORERO JOSE DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1356,724.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">215167111100</campo>
+    <campo url="no">0902 PLATA CARDENAS JUAN FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">209237111100</campo>
+    <campo url="no">0701 OTALORA PEREZ ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">215020111100</campo>
+    <campo url="no">0602 BENITEZ QUIROZ YARIB DEL MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">213110111100</campo>
+    <campo url="no">1102 DIAZ CERON CRISTIAN JAVIER</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">215104111100</campo>
+    <campo url="no">0502 PINZON GORDILLO LAURA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">206027111100</campo>
+    <campo url="no">1001 SILGADO MEJIA WEINNER DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">215111111100</campo>
+    <campo url="no">0902 PRADA SANCHEZ CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">215106111100</campo>
+    <campo url="no">0701 PRADA SANCHEZ JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 12/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">216078111100</campo>
+    <campo url="no">0202 GUERRERO BALAGUERA THOMAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">215146111100</campo>
+    <campo url="no">1601 BOBADILLA SANCHEZ SAUL ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1394,064.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">215026111100</campo>
+    <campo url="no">0701 SILVA ACEVEDO JOSE DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">216028111100</campo>
+    <campo url="no">0002 SILVA ACEVEDO MARIA JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">214195111100</campo>
+    <campo url="no">0102 TRUJILLO MEDINA MARIA FERNANDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">214192111100</campo>
+    <campo url="no">0701 TRUJILLO MEDINA EDGAR FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">213135111100</campo>
+    <campo url="no">0101 OVALLE JAIMES JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2094,556.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">846000733800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">211087111100</campo>
+    <campo url="no">1102 ALVAREZ VERGEL JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">846000733800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">215030141100</campo>
+    <campo url="no">1002 MONSALVE GOMEZ FEYSARK SEBASTI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">600,315.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">214084111100</campo>
+    <campo url="no">0401 ARENAS PE¥UELA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">215038111100</campo>
+    <campo url="no">0802 IRIARTE FRANCO DANIEL ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">213081111100</campo>
+    <campo url="no">0402 BUELVAS PRADA JUAN MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">213036111100</campo>
+    <campo url="no">0601 LANDAZABAL SUAREZ JOSE LUIS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">215095111100</campo>
+    <campo url="no">0001 LOPEZ ANGARITA ANY SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">215138111100</campo>
+    <campo url="no">0202 CARRE¥O CABEZA DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">215094111100</campo>
+    <campo url="no">0601 LOPEZ ANGARITA CARLOS DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">215084111100</campo>
+    <campo url="no">1101 OREJARENA SERRANO ISABELLA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">215090111100</campo>
+    <campo url="no">0902 GARCIA ALVAREZ SEBASTIAN JAVIE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">216072111100</campo>
+    <campo url="no">1001 CHACON ROBAYO NATHALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">216093111100</campo>
+    <campo url="no">1601 RODRIGUEZ GALVIS MAXIMILIANO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">551,014.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">207056111100</campo>
+    <campo url="no">0902 FRANCO CORREDOR GUSTAVO ALBERT</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1186,562.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">216103111100</campo>
+    <campo url="no">0901 TAVERA CAMARGO CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">209029111100</campo>
+    <campo url="no">0802 ORDUZ BLANCO EMANUEL ANTONIO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">212074111100</campo>
+    <campo url="no">0901 HERNANDEZ OTERO CARLOS SANTIAG</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1186,562.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">208038111100</campo>
+    <campo url="no">0901 CASTRO VERA MIGUEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">211085141100</campo>
+    <campo url="no">1102 GONZALEZ QUINTERO DANIEL ANTON</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2433,417.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">NOV 15/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

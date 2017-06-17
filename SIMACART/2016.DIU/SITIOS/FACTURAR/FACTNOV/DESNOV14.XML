@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2014 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "ENE 20/2017"
+   horaprn = "13:21:21"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">208239</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">BUENO SARMIENTO JUAN CARLOS</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no">1,920,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211205</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">SARMIENTO MARTINEZ ANA SOFIA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">6,544,479</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211204</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">6,544,479</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">205169</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">FONSECA SANTAMARIA SAMUEL RICA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">FEB 22/2016</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214162</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">MU¥OZ ARMENTA SANTIAGO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">MAR 22/2016</campo>
+    <campo url="no">3,114,328</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214161</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">MU¥OS ARMENTA JHON WEST</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">MAR 22/2016</campo>
+    <campo url="no">3,196,255</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">205169</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">FONSECA SANTAMARIA SAMUEL RICA</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">JUN 27/2016</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211178</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">SOLIS PACHECO ADALBERTO</campo>
+    <campo url="no">NOV-OCT</campo>
+    <campo url="no">DIC  1/2016</campo>
+    <campo url="no">608,530</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$ 23,928,339</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

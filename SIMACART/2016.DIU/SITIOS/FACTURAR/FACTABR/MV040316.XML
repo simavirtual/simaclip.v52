@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:03. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR  5/2016"
+   horaprn = "10:18:49"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0024</campo>
+    <campo url="no">rendimientos financieros</campo>
+    <campo url="no">034</campo>
+    <campo url="no">11,825.82</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR 31/2016</campo>
+    <campo url="no">rendimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216098140400</campo>
+    <campo url="no">0201 GALLO BELLO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">684,864.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">210059140400</campo>
+    <campo url="no">0902 VELASQUEZ RODRIGUEZ JOSE DANIE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">598,968.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216050140400</campo>
+    <campo url="no">0301 PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">684,864.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">216051140400</campo>
+    <campo url="no">1601 PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">703,713.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">205169141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1600,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216019140400</campo>
+    <campo url="no">0001 LANCHEROS ROMERO LUCIANA</campo>
+    <campo url="no">034</campo>
+    <campo url="no">691,450.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212049140400</campo>
+    <campo url="no">0201 VILLAMIZAR HERNANDEZ JOSE MANU</campo>
+    <campo url="no">036</campo>
+    <campo url="no">684,864.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">206027140400</campo>
+    <campo url="no">1001 SILGADO MEJIA WEINNER DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">598,968.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216079140400</campo>
+    <campo url="no">0202 CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">713,755.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">209054140400</campo>
+    <campo url="no">1003 DELGADO ARIAS NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1210,481.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  2/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211073140400</campo>
+    <campo url="no">0701 RODRIGUEZ NORE¥A JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,344.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">216065140400</campo>
+    <campo url="no">0801 CRISTANCHO MU¥OZ VLADIMIR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">695,496.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">214086140400</campo>
+    <campo url="no">1103 NI¥O CAMACHO LEYAR DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,872.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">215078140400</campo>
+    <campo url="no">0001 CARRERO RUEDA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">720,619.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">216108140400</campo>
+    <campo url="no">0101 REYES DURAN JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">691,450.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">216079140400</campo>
+    <campo url="no">0202 CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">713,755.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">206052140400</campo>
+    <campo url="no">1001 VASQUEZ RUEDA MARIA JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">598,842.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">216117140400</campo>
+    <campo url="no">0801 PLATA CASTELLANOS JULIAN ANDRE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,344.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">211036041100</campo>
+    <campo url="no">0902 RUIZ SOSA HELEN YULITZA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,337.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">RECIBO DE ABR A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">215039041100</campo>
+    <campo url="no">0201 BARRETO VILLADIEGO SHEYLA MARG</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6368,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  1/2016</campo>
+    <campo url="no">RECIBO DE ABR A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">213230041100</campo>
+    <campo url="no">0902 OVIEDO RUEDA STANNLLY ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">4455,470.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2016</campo>
+    <campo url="no">RECIBO DE ABR A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

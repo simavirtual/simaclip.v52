@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE MAYO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUN  3/2016"
+   horaprn = "14:48:44"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0602-20</campo>
+    <campo url="no">210090</campo>
+    <campo url="no">RUIZ SOSA RICARDO ANDRS</campo>
+    <campo url="no">MAY/NOV: 6</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">3,919,020</campo>
+    <campo url="no">3,919,020</campo>
+    <campo url="no">6,389,701</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">1001-18</campo>
+    <campo url="no">209103</campo>
+    <campo url="no">PORRAS TRILLOS JUAN PABLO</campo>
+    <campo url="no">MAY/NOV: 6</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">3,517,476</campo>
+    <campo url="no">3,517,476</campo>
+    <campo url="no">3,898,536</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">7,436,496</campo>
+    <campo url="no">7,436,496</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{INFORMES}{ALUMNOS MOROSOS}{RELACION MOROSOS}"
+   titulo1 = "ESTUDIANTES MOROSOS. A¥O: 2012 JORNADA: DIURNA"
+   titulo2 = "RECIBOS MES DE NOVIEMBRE"
+   titulo3 = "SIN FECHA DE CORTE"
+   fechprn = "NOV  3/2016"
+   horaprn = "11:27:15"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>MORA</columna>
+    <columna>CONTACTO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">210172</campo>
+    <campo url="no">0301-24</campo>
+    <campo url="no">RICO CAMARGO DAVID ALEJANDRO</campo>
+    <campo url="no">1,475,364</campo>
+    <campo url="no">90</campo>
+    <campo url="no">GILBERTO:6362673,NIDIA ELIZABETH:3175047438</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">211157</campo>
+    <campo url="no">0702-20</campo>
+    <campo url="no">RUEDA TORRES JORGE ENRIQUE</campo>
+    <campo url="no">3,250,406</campo>
+    <campo url="no">210</campo>
+    <campo url="no">JORGE ENRIQUE:,LUCILA:3175890913</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RSFNOV12.XML">RESUMEN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">SALDO ACTUAL</campo>
+    <campo url="no">4,725,770</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

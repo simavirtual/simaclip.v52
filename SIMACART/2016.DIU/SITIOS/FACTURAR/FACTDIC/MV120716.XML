@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE DICIEMBRE DIA:07. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC  9/2016"
+   horaprn = "14:50:13"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">211075021100</campo>
+    <campo url="no">0601 DELGADO DUARTE DANIEL FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">211109021100</campo>
+    <campo url="no">0302 SIERRA ROJAS JHONATAN STIVEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6939,236.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">210034141100</campo>
+    <campo url="no">1103 ORTIZ MOJICA IVAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">588,193.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214029021100</campo>
+    <campo url="no">0301 GAMBOA MANTILLA JUAN ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6939,236.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">616999951600</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">38750,000.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216066021100</campo>
+    <campo url="no">0701 SILVA OSMA MATEO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6761,710.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">NO Tuvo que Cancelar Ning£n Valor</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">006198680000</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">14136,181.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  7/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">207036141100</campo>
+    <campo url="no">1003 ABRIL GUTIERREZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3225,053.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">214070141100</campo>
+    <campo url="no">0001 ABRIL GUTIERREZ DANIEL ALEJAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3723,010.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

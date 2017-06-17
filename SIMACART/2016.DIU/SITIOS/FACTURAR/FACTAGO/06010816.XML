@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A AGO 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE AGOSTO"
+   titulo3 = "GRUPO: 0601 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "SEP 12/2016"
+   horaprn = "08:51:30"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV081916.XML">1</campo>
+    <campo url="no">ADARME DAZA JOSE A</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no">6,532</campo>
+    <campo url="no">AGO 19/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211005</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV080916.XML">2</campo>
+    <campo url="no">ANAYA CABALLERO FR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO  9/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">210119</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV081216.XML">3</campo>
+    <campo url="no">ARIAS ARGUELLO MAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211081</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">ARIAS CUADROS KARE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">2,763,955</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">61,137</campo>
+    <campo url="no">2,702,818</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211212</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">AYALA JAIMES ANGEL</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">211043</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">BARON QUI¥ONEZ THA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">15,284</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213075</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">BAUTISTA GOMEZ JUA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">211009</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV080516.XML">8</campo>
+    <campo url="no">CELIS TAMARA BREND</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,321,624</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO  5/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216038</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">CHAPARRO PEDROZO S</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">15,284</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215108</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV081616.XML">10</campo>
+    <campo url="no">CRUZ SANTAMARIA NI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211025</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">DELGADO DUARTE DAN</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">211075</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">GOMEZ NAVARRO ANDR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">210046</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">GONZALEZ CHAVES DA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216018</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV080516.XML">14</campo>
+    <campo url="no">GONZALEZ SANCHEZ C</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO  5/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216039</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV081916.XML">15</campo>
+    <campo url="no">GUTIERREZ PORRAS W</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,321,624</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no">13,063</campo>
+    <campo url="no">AGO 19/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">211177</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">GUZMAN JAIMES JORG</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">15,284</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216073</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV082216.XML">17</campo>
+    <campo url="no">LANDAZABAL SUAREZ</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no">6,532</campo>
+    <campo url="no">AGO 22/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213036</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV080116.XML">18</campo>
+    <campo url="no">LANZZIANO RIVERA M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">6,532</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">SEP  1/2016:E  *</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216017</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV081616.XML">19</campo>
+    <campo url="no">LOPEZ ANGARITA CAR</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215094</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">MELO CEVERICHE DAV</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216085</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">MERCHAN NAVARRO MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211122</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">ORTEGA CARVAJAL JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">15,284</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211074</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV081616.XML">23</campo>
+    <campo url="no">PE¥A RUIZ KEVIN SA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no">AGO 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212009</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">PINZON GONZALEZ NI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">15,284</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216076</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">RAMIREZ ALBARRACIN</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">211045</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">SANCHEZ LOPEZ JULI</campo>
+    <campo url="no">NO FACTURADO->BECA</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214168</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">SERRANO GONZALEZ J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">AGOAGO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">211076</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">VALENCIA ALDANA JU</campo>
+    <campo url="no">OTRO GRUPO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216125</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACAGO16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,774,679</campo>
+    <campo url="no">13,063,400</campo>
+    <campo url="no">144,089</campo>
+    <campo url="no">6,621,838</campo>
+    <campo url="no"></campo>
+    <campo url="no">26,127</campo>
+    <campo url="no">7,868,608</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

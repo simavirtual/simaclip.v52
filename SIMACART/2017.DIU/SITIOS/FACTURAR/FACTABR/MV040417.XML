@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ABRIL DIA:04. A¥O: 2017"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "ABR  6/2017"
+   horaprn = "08:34:02"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">756.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3,978.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">18.93</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">211202140400</campo>
+    <campo url="no">0903 HERNANDEZ DURAN IAN ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">654,420.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no">0401 ROJAS DUARTE LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2000,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">217096140400</campo>
+    <campo url="no">0102 FORERO AMADO JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">755,463.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">208246140400</campo>
+    <campo url="no">1003 ROSALES FLOREZ HECTOR NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">662,213.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214071140400</campo>
+    <campo url="no">0402 DIAZ VANEGAS CARLOS LEONARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1514,359.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">215022140400</campo>
+    <campo url="no">0301 LEON DUARTE JESUS DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">748,268.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216055140400</campo>
+    <campo url="no">0201 LEON DUARTE JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">755,463.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">216056140400</campo>
+    <campo url="no">1003 STERLING DUARTE LAYLLA EVELITH</campo>
+    <campo url="no">036</campo>
+    <campo url="no">654,420.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">000000010000</campo>
+    <campo url="no">?</campo>
+    <campo url="no">034</campo>
+    <campo url="no">215,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">215019140400</campo>
+    <campo url="no">0101 GOMEZ NAVARRO ANA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">764,460.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">214017140400</campo>
+    <campo url="no">0401 CASTELLANOS ARIZA DAVID SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">748,268.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">210046140400</campo>
+    <campo url="no">0701 GOMEZ NAVARRO ANDRES FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">737,809.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ABR  4/2017</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE ENERO DIA:31. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB  1/2016"
+   horaprn = "14:32:39"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">27,879.00</campo>
+    <campo url="no">ENE  4/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0040</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">606.00</campo>
+    <campo url="no">ENE  5/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">2,722.16</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0041</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">808.49</campo>
+    <campo url="no">ENE  4/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0041</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">17.57</campo>
+    <campo url="no">ENE  5/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0041</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">316,873.75</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0024</campo>
+    <campo url="no"></campo>
+    <campo url="no">034</campo>
+    <campo url="no">4,945.81</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC 31/2015</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">0001</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3460,387.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">0001</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3460,387.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">0001</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3460,387.00</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">396769999683</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">79218,438.00</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">500013358600</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">3,788.00</campo>
+    <campo url="no">ENE  5/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">500013358600</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">174,245.00</campo>
+    <campo url="no">ENE  4/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6920,774.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 15/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">213044141100</campo>
+    <campo url="no">0901 JAIMES HERNANDEZ ANGY VALERIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170,938.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">209156141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">2957,466.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">208058141100</campo>
+    <campo url="no">0901 TAPIAS BARRAGAN JORGE ENRIQUE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">564,047.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">207158141100</campo>
+    <campo url="no">1003 GOMEZ ARIZA DIEGO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170,938.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">212037141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">5395,232.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 14/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">215068141100</campo>
+    <campo url="no">0801 GAITAN FONSECA CARLOS AUGUSTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1951,650.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">215144141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">628,436.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">209045141100</campo>
+    <campo url="no">0801 PALOMINO RUEDA SEBASTIAN ANDRE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">4674,815.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">215105141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1727,537.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">208239141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1920,268.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">214019141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">3359,423.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">210159141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">552,656.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">214155141100</campo>
+    <campo url="no">0501 PLATA URIBE DANIEL JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3637,343.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">215148141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1750,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">212045141100</campo>
+    <campo url="no">0402 PALOMINO RUEDA JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3273,477.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6920,774.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">215013141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1988,675.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">215148141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1023,465.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">215142141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1270,039.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">213226141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6875,385.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">213227141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">6170,938.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">213068141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">2005,320.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">215143141100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">1116,891.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">213123021100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">205223021100</campo>
+    <campo url="no">1101 FONSECA HERNANDEZ JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5169,665.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">210122021100</campo>
+    <campo url="no">0902 MOSQUERA DUARTE SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 27/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">213031021100</campo>
+    <campo url="no">1002 MERCHAN QUEVEDO HELMAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">215001021100</campo>
+    <campo url="no">0202 SALAMANCA ARDILA DIEGO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6368,025.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">213096021100</campo>
+    <campo url="no">1002 CASTILLO MEZA MARIA GABRIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">215009021100</campo>
+    <campo url="no">0602 SALAZAR LEON KAREN FERNANDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5878,527.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">212026021100</campo>
+    <campo url="no">0501 SALAZAR LEON FERNANDO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5878,527.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 26/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">215005021100</campo>
+    <campo url="no">0202 JEREZ MADRIGAL JOSE ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6368,025.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">213038021100</campo>
+    <campo url="no">0401 JEREZ MADRIGAL JUAN ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 28/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">215018021100</campo>
+    <campo url="no">0401 RODRIGUEZ BAUTISTA JOSE SANTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">211017021100</campo>
+    <campo url="no">0501 ACEVEDO PE¥UELA JUAN GUILLERMO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">207103021100</campo>
+    <campo url="no">1003 MORA SERRANO FRANCISCO JAVIER</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 19/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">447247101060</campo>
+    <campo url="no"></campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">680,542.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">214006021100</campo>
+    <campo url="no">0001 DIAZ JAIMES MATIAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6429,255.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">207037021100</campo>
+    <campo url="no">1001 CLAVIJO SANABRIA CATALINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">214194021100</campo>
+    <campo url="no">1003 SUAREZ RAMIREZ MAICOL SEBASTIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">212022021100</campo>
+    <campo url="no">0801 OCHOA GRANADOS RAUL DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6531,697.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">212023021100</campo>
+    <campo url="no">0402 OCHOA GRANADOS ANGIE LORENA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6531,697.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">212024021100</campo>
+    <campo url="no">1001 OCHOA GRANADOS DAYANA KATHERIN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2931,230.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 22/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">216084021100</campo>
+    <campo url="no">0600 MELO CEVERICHE ESTEBAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">214203021100</campo>
+    <campo url="no">0901 DONIS HUNG ANTONIO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 20/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">216018021100</campo>
+    <campo url="no">0600 GONZALEZ CHAVES DAVID ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 18/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">216085021100</campo>
+    <campo url="no">0600 MELO CEVERICHE DAVID EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6205,112.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">208195021100</campo>
+    <campo url="no"></campo>
+    <campo url="no">036</campo>
+    <campo url="no">5456,868.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 21/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">214038021100</campo>
+    <campo url="no">0501 SANCHEZ PATI¥O JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6531,697.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">214158021100</campo>
+    <campo url="no">0301 GALEANO VASQUEZ ALEXANDER OLEG</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6368,025.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">ENE 25/2016</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

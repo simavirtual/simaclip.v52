@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS RETIRADOS}"
+   titulo1 = "ESTUDIANTES RETIRADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE MAYO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "JUN  7/2017"
+   horaprn = "16:14:32"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>GRUPO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>RETIRO</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>ULTIMO RECIBO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">216078</campo>
+    <campo url="no">GUERRERO BALAGUERA THOMAS</campo>
+    <campo url="no">FEB  1/2017</campo>
+    <campo url="no">ABR  1/2017</campo>
+    <campo url="no">PA</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">217043</campo>
+    <campo url="no">OROZCO VALERO MIA ISABELLA</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABR  7/2017</campo>
+    <campo url="no">PP</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">217021</campo>
+    <campo url="no">ALVAREZ GUZMAN SANTIAGO</campo>
+    <campo url="no">DIC 12/2016</campo>
+    <campo url="no">ABR 25/2017</campo>
+    <campo url="no">ADA</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no">ABRIL</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">215030</campo>
+    <campo url="no">MONSALVE GOMEZ FEYSARK SEBASTIAN</campo>
+    <campo url="no">ENE 26/2017</campo>
+    <campo url="no">ABR  5/2017</campo>
+    <campo url="no">PP</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">**************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,27 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaProf\f\objs\FSimaPro
+       fi \SimaClip.v52\SimaProf\f\objs\FSprAno
+       fi \SimaClip.v52\SimaProf\f\objs\FProfTbl
+       fi \SimaClip.v52\SimaProf\f\objs\FProfLog
+       fi \SimaClip.v52\SimaProf\f\objs\ProfeFun
+       fi \SimaClip.v52\SimaProf\f\objs\ProfeFu1
+       fi \SimaClip.v52\SimaProf\f\objs\FuncsPro
+       fi \SimaClip.v52\SimaProf\f\objs\FuncsCaP
+       fi \SimaClip.v52\SimaProf\f\objs\FuncsMaP
+       fi \SimaClip.v52\SimaProf\f\objs\FuncsNoP
+       fi \SimaClip.v52\SimaProf\f\objs\FuJvfCal
+
+       fi \SimaClip.v52\simaprof\f\objs\gProfInd
+       fi \SimaClip.v52\simaprof\f\objs\eProfInd
+     #ÀFunciones Generadas
+#>>>>FIN ARCHIVOS DEL MODULO

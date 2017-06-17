@@ -1,0 +1,59 @@
+#  LINKEADOR: SIMA - SISTEMA DE CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>INFORMES DEL SISTEMA
+       fi \simaclip.v52\simacont\f\objs\ScoInfor
+     #ÀInformes de la aplicaci¢n.
+
+       fi \simaclip.v52\simacont\f\objs\Sco00100
+     #ÀInformes del Sistema.
+
+       fi \simaclip.v52\simacont\f\objs\Sco00200
+     #ÀInformes Controlados.
+
+       fi \simaclip.v52\simacont\f\objs\Sco25400
+     #ÀValidaci¢n del calculo de las  reas.
+
+       fi \simaclip.v52\simacont\f\objs\Sco50200
+     #ÀRelaci¢n de Reprobados
+
+       fi \simaclip.v52\simacont\f\objs\Sco76500
+     #ÀClase de Indicadores
+
+       fi \simaclip.v52\simacont\f\objs\Sco41200
+     #ÀIndicadores Pendientes
+
+       fi \simaclip.v52\simacont\f\objs\Sco40400
+     #ÀClasificaci¢n de Indicadores
+
+       fi \simaclip.v52\simacont\f\objs\Sco77300
+     #ÀN£mero de Indicadores
+
+       fi \simaclip.v52\simacont\f\objs\Sco77400
+     #ÀIndicadores finales
+#>>>>FIN INFORMES DEL SISTEMA
+
+#>>>>BOLETINES DEL SISTEMA
+       fi \simaclip.v52\simacont\f\objs\ScoBol11
+     #ÀBoletin Abreviado. Virrey.
+
+       fi \simaclip.v52\simacont\f\objs\ScoBol96
+     #ÀBoletin. Indice de Cumplimiento. SalleBga Periodos: 1-3
+
+       fi \simaclip.v52\simacont\f\objs\ScoBol97
+     #ÀBoletin. Indice de Cumplimiento. SalleBga Periodos: 5,5
+#>>>>FIN BOLETINES DEL SISTEMA
+
+#>>>>CERTIFICADOS DE NOTAS DEL SISTEMA
+       fi \simaclip.v52\simacont\f\objs\ScoCer02
+     #ÀCertificado de Notas. Juicio Valorativo, Nota Num‚rica y letras.
+#>>>>FIN CERTIFICADOS DE NOTAS DEL SISTEMA
+
+

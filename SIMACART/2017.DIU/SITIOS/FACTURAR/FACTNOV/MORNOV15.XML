@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{INFORMES}{ALUMNOS MOROSOS}{RELACION MOROSOS}"
+   titulo1 = "ESTUDIANTES MOROSOS. A¥O: 2015 JORNADA: DIURNA"
+   titulo2 = "RECIBOS MES DE NOVIEMBRE"
+   titulo3 = "SIN FECHA DE CORTE"
+   fechprn = "JUN  9/2017"
+   horaprn = "09:53:10"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>MORA</columna>
+    <columna>CONTACTO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">214161</campo>
+    <campo url="no">0101-10</campo>
+    <campo url="no">MU¥OS ARMENTA JHON WEST</campo>
+    <campo url="no">7,055,899</campo>
+    <campo url="no">300</campo>
+    <campo url="no">EDWIN WEST:6700684,YURLEY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214014</campo>
+    <campo url="no">0102-16</campo>
+    <campo url="no">CONTRERAS CABRERA NIKOLE DANIELA</campo>
+    <campo url="no">7,055,899</campo>
+    <campo url="no">300</campo>
+    <campo url="no">OSCAR ALBERTO:6800991,ERIKA JOHANNA:3176440005</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">211204</campo>
+    <campo url="no">0301-18</campo>
+    <campo url="no">SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">3,935,891</campo>
+    <campo url="no">180</campo>
+    <campo url="no">JERSON GIOVANNY:6997040,LUZ DARY:6711914</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214034</campo>
+    <campo url="no">0302-16</campo>
+    <campo url="no">CONTRERAS CABRERA OSCAR SANTIAGO</campo>
+    <campo url="no">6,875,385</campo>
+    <campo url="no">300</campo>
+    <campo url="no">OSCAR ALBERTO:6800991,ERIKA JOHANNA:6185766</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214162</campo>
+    <campo url="no">0401-16</campo>
+    <campo url="no">MU¥OZ ARMENTA SANTIAGO</campo>
+    <campo url="no">2,592,558</campo>
+    <campo url="no">120</campo>
+    <campo url="no">EDWIN WEST:6700684,YURLEY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214168</campo>
+    <campo url="no">0501-19</campo>
+    <campo url="no">SANCHEZ LOPEZ JULIAN DAVID</campo>
+    <campo url="no">3,380,762</campo>
+    <campo url="no">180</campo>
+    <campo url="no">CESAR AUGUSTO:3106748337,OLGA PATRICIA:3004601732</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">211162</campo>
+    <campo url="no">0501-21</campo>
+    <campo url="no">SANTOS DUARTE ADRIAN SANTIAGO</campo>
+    <campo url="no">628,436</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RAMON:6041836,LINA MARCELA:6833244</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215118</campo>
+    <campo url="no">0601-10</campo>
+    <campo url="no">GOMEZ BAUTISTA CAMILO ANDRES</campo>
+    <campo url="no">4,256,872</campo>
+    <campo url="no">210</campo>
+    <campo url="no">SERGIO ALBERTO:65500917,PAOLA ANDREA:6478888</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">208239</campo>
+    <campo url="no">0801- 6</campo>
+    <campo url="no">BUENO SARMIENTO JUAN CARLOS I</campo>
+    <campo url="no">5,983,534</campo>
+    <campo url="no">300</campo>
+    <campo url="no">JUAN CARLOS:6712374,JOSEFINA ESTHER:6413000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">209172</campo>
+    <campo url="no">0802- 8</campo>
+    <campo url="no">CONTRERAS HERNANDEZ OMAR ALEJANDRO</campo>
+    <campo url="no">6,170,938</campo>
+    <campo url="no">300</campo>
+    <campo url="no">OSCAR OMAR:6992692,HERNANDEZ CAMARGO:6903144</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">215147</campo>
+    <campo url="no">0901-11</campo>
+    <campo url="no">LEON CASTANEDA LAURA VANESA</campo>
+    <campo url="no">1,939,757</campo>
+    <campo url="no">270</campo>
+    <campo url="no">GIOVANNY ALEXANDER:3212322172,ADRIANA PAOLA:3138990977</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211178</campo>
+    <campo url="no">1003-28</campo>
+    <campo url="no">SOLIS PACHECO ADALBERTO</campo>
+    <campo url="no">4,744,650</campo>
+    <campo url="no">240</campo>
+    <campo url="no">ADALBERTO:,PRUDENCIA:6475643</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">212168</campo>
+    <campo url="no">1103-27</campo>
+    <campo url="no">VANEGAS RIVERA MATEO</campo>
+    <campo url="no">6,046,319</campo>
+    <campo url="no">300</campo>
+    <campo url="no">ALVARO FELIPE:,CLAUDIA ALEXANDRA:6956770</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">212158</campo>
+    <campo url="no">1104-18</campo>
+    <campo url="no">OBANDO NARI¥O CARLOS FELIPE</campo>
+    <campo url="no">4,744,650</campo>
+    <campo url="no">240</campo>
+    <campo url="no">CARLOS ALBERTO:3156566072,LUZ AMPARO:6041753</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RSFNOV15.XML">RESUMEN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">SALDO ACTUAL</campo>
+    <campo url="no">65,411,550</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE AGOSTO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "SEP  9/2016"
+   horaprn = "12:01:56"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>P PARCIALES</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTAGO16.XML">2016 AGO  01</campo>
+    <campo url="no">226,219,562</campo>
+    <campo url="no">45,020,539</campo>
+    <campo url="no">0</campo>
+    <campo url="no">271,240,101</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTSEP\EXTSEP16.XML">2016 SEP  01</campo>
+    <campo url="no">659,702</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">659,702</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTMAY\EXTMAY16.XML">2016 MAY  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">459,364</campo>
+    <campo url="no">459,364</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">226,879,264</campo>
+    <campo url="no">45,020,539</campo>
+    <campo url="no">459,364</campo>
+    <campo url="no">272,359,167</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,21 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD PROFESORES
+
+#*************************************************************************
+# MODULO..: FUNCIONES DESCARTADAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                    DECLARACION DE MODULOS EXCLUIDOS                    *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS EXCLUIDOS
+       DEFINE DetAreas,lLeeCodGru,cCodProMat
+       DEFINE aGrabarLog,lLocMatSuN,lLocMatSuG,VerSuGPlan,VerSuNPlan
+       DEFINE ProfsNivel,ProgrNivel
+       DEFINE PathConAno,lDetAreEst
+       DEFINE IndRecSiNo,Ajuicio
+       DEFINE MenuOtrJui,BuscarJui
+       DEFINE MenuOtrCla
+       DEFINE aTotConFac
+       DEFINE Sco_76500
+#>>>>FIN MODULOS EXCLUIDOS

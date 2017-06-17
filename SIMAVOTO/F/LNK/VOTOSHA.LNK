@@ -1,0 +1,30 @@
+#  LINKEADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\sima.fun\gSimaInf
+       fi \SimaClip.v52\sima.fun\eSimaInf
+
+       fi \SimaClip.v52\sima.fun\gSimaIso
+       fi \SimaClip.v52\sima.fun\eSimaIso
+     #ÀFucniones generales de SimaSoft
+
+       fi \simaclip.v52\sima.fun\SimaFun
+       fi \simaclip.v52\sima.fun\SimaAlu
+       fi \simaclip.v52\sima.fun\SimaPro
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsPro
+     #ÀFunciones de la contabilidad
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotVoto.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

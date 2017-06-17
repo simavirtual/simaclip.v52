@@ -1,0 +1,151 @@
+#  ENCADENADOR PARA EL SISTEMA DE LA CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# NOMBRE DEL ENCADENADOR...: PLUSCONT.LNK                                *
+# TITULO DEL PROGRAMA......: ENCADENADOR DEL SISTEMA                     *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAY 02/95 MAR A
+#	Colombia, Bucaramanga	     INICIO: 10:45      Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador del CLIPPER V52 Rtlink
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador "rtlink"
+
+#------------------------------------------------------------------------*
+#         ESPECIFICACIONES PARA EL ENCADENADOR RTLINK CLIPPER V52        *
+#------------------------------------------------------------------------*
+
+
+#>>>>GENERACION DEL ARCHIVO EJECUTABLE
+      output \SimaClip.v52\simacont\PlusCont
+#>>>>FIN GENERACION DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\simacont\f\objs\PlusCont
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS QUE SE MANEJAN COMO OVERLAYS DINAMICOS
+       dynamic into \SimaClip.v52\simacont\PlusCont
+
+#******MODULOS OBJETO GENERALES
+	 lib \aplica.dos\lenguaje\tools\lib\nt250
+	 fi \SimaClip.v52\clipper.fun\funcsdbf
+	 fi \SimaClip.v52\clipper.fun\funcsnel
+	 fi \SimaClip.v52\clipper.fun\classnel
+	 fi \SimaClip.v52\clipper.fun\archinel
+	 fi \SimaClip.v52\clipper.fun\funcsprn
+	 fi \SimaClip.v52\clipper.fun\usrcrypt
+	 fi \SimaClip.v52\clipper.fun\funcsErr
+	 fi \SimaClip.V52\clipper.fun\OtrErr01
+#******FIN MODULOS OBJETO GENERALES
+
+#******MODULOS OBJETOS PRINCIPALES DEL SISTEMA
+	 fi \SimaClip.v52\simacont\f\objs\Conta101
+	 fi \SimaClip.v52\simacont\f\objs\Conta104
+	 fi \SimaClip.v52\simacont\f\objs\Conta105
+	 fi \SimaClip.v52\simacont\f\objs\Conta106
+	 fi \SimaClip.v52\simacont\f\objs\Conta107
+	 fi \SimaClip.v52\simacont\f\objs\Conta108
+	 fi \SimaClip.v52\simacont\f\objs\Conta201
+	 fi \SimaClip.v52\simacont\f\objs\Conta202
+	 fi \SimaClip.v52\simacont\f\objs\Conta203
+	 fi \SimaClip.v52\simacont\f\objs\Conta204
+	 fi \SimaClip.v52\simacont\f\objs\Conta205
+	 fi \SimaClip.v52\simacont\f\objs\Conta206
+	 fi \SimaClip.v52\simacont\f\objs\Conta261
+	 fi \SimaClip.v52\simacont\f\objs\Conta262
+	 fi \SimaClip.v52\simacont\f\objs\Conta207
+	 fi \SimaClip.v52\simacont\f\objs\Conta208
+	 fi \SimaClip.v52\simacont\f\objs\Conta209
+	 fi \SimaClip.v52\simacont\f\objs\Conta301
+	 fi \SimaClip.v52\simacont\f\objs\Conta311
+	 fi \SimaClip.v52\simacont\f\objs\Conta312
+	 fi \SimaClip.v52\simacont\f\objs\Conta302
+	 fi \SimaClip.v52\simacont\f\objs\Conta321
+	 fi \SimaClip.v52\simacont\f\objs\Conta322
+	 fi \SimaClip.v52\simacont\f\objs\Conta303
+	 fi \SimaClip.v52\simacont\f\objs\Conta304
+	 fi \SimaClip.v52\simacont\f\objs\Conta341
+	 fi \SimaClip.v52\simacont\f\objs\Conta342
+	 fi \SimaClip.v52\simacont\f\objs\Conta343
+	 fi \SimaClip.v52\simacont\f\objs\Conta306
+	 fi \SimaClip.v52\simacont\f\objs\Conta307
+	 fi \SimaClip.v52\simacont\f\objs\Conta308
+	 fi \SimaClip.v52\simacont\f\objs\Conta309
+	 fi \SimaClip.v52\simacont\f\objs\Conta401
+	 fi \SimaClip.v52\simacont\f\objs\Conta407
+	 fi \SimaClip.v52\simacont\f\objs\Conta501
+	 fi \SimaClip.v52\simacont\f\objs\Conta511
+	 fi \SimaClip.v52\simacont\f\objs\Conta512
+	 fi \SimaClip.v52\simacont\f\objs\Conta513
+	 fi \SimaClip.v52\simacont\f\objs\Conta514
+	 fi \SimaClip.v52\simacont\f\objs\Conta515
+	 fi \SimaClip.v52\simacont\f\objs\Conta507
+	 fi \SimaClip.v52\simacont\f\objs\Conta508
+	 fi \SimaClip.v52\simacont\f\objs\Conta581
+	 fi \SimaClip.v52\simacont\f\objs\Conta582
+	 fi \SimaClip.v52\simacont\f\objs\Conta509
+	 fi \SimaClip.v52\simacont\f\objs\Conta591
+	 fi \SimaClip.v52\simacont\f\objs\Conta592
+	 fi \SimaClip.v52\simacont\f\objs\Conta593
+	 fi \SimaClip.v52\simacont\f\objs\Conta594
+	 fi \SimaClip.v52\simacont\f\objs\Conta601
+	 fi \SimaClip.v52\simacont\f\objs\Conta603
+	 fi \SimaClip.v52\simacont\f\objs\Conta706
+	 fi \SimaClip.v52\simacont\f\objs\Conta707
+	 fi \SimaClip.v52\simacont\f\objs\Conta708
+#******FIN MODULOS OBJETOS PRINCIPALES DEL SISTEMA
+
+#******MODULOS OBJETOS FUNCIONES DEL SISTEMA
+	 fi \SimaClip.v52\simacont\f\objs\FSimaCon
+	 fi \SimaClip.v52\simacont\f\objs\FContAno
+	 fi \SimaClip.v52\simacont\f\objs\FContTbl
+	 fi \SimaClip.v52\simacont\f\objs\ContaFun
+	 fi \SimaClip.v52\simacont\f\objs\FuncsAlu
+	 fi \SimaClip.v52\simacont\f\objs\FuncsGru
+	 fi \SimaClip.v52\simacont\f\objs\FuncsNiv
+	 fi \SimaClip.v52\simacont\f\objs\FuncsBol
+	 fi \SimaClip.v52\simacont\f\objs\FuncsLib
+	 fi \SimaClip.v52\simacont\f\objs\FuncsCer
+	 fi \SimaClip.v52\simacont\f\objs\FuncsCns
+	 fi \SimaClip.v52\simacont\f\objs\FuncsEmp
+	 fi \SimaClip.v52\simacont\f\objs\FuncsOrg
+	 fi \SimaClip.v52\simacont\f\objs\FuncsPro
+	 fi \SimaClip.v52\simacont\f\objs\FuncsMat
+	 fi \SimaClip.v52\simacont\f\objs\FuncsSel
+	 fi \SimaClip.v52\simacont\f\objs\FuncsPla
+	 fi \SimaClip.v52\simacont\f\objs\FuncsSuN
+	 fi \SimaClip.v52\simacont\f\objs\FuncsSuG
+	 fi \SimaClip.v52\simacont\f\objs\FuncsNot
+	 fi \SimaClip.v52\simacont\f\objs\FuncsJui
+	 fi \SimaClip.v52\simacont\f\objs\FuncsHab
+	 fi \SimaClip.v52\simacont\f\objs\FuncsCar
+	 fi \SimaClip.v52\simacont\f\objs\FuncsCla
+	 fi \SimaClip.v52\simacont\f\objs\FuncsNro
+	 fi \SimaClip.v52\simacont\f\objs\FuncsEva
+	 fi \SimaClip.v52\simacont\f\objs\FuncsApr
+	 fi \SimaClip.v52\simacont\f\objs\FuncsErr
+	 fi \SimaClip.v52\simacont\f\objs\FuncsHra
+	 fi \SimaClip.v52\simacont\f\objs\FuncsFun
+#******FIN MODULOS OBJETOS FUNCIONES DEL SISTEMA
+
+#******MODULOS OBJETOS FUNCIONES COMPARTIDAS DEL SISTEMA
+	 fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+       #ÀFunciones de la Cartera
+#******FIN MODULOS OBJETOS FUNCIONES COMPARTIDAS DEL SISTEMA
+
+#>>>>FIN MODULOS QUE SE MANEJAN COMO OVERLAYS DINAMICOS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

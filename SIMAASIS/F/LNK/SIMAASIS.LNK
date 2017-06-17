@@ -1,0 +1,66 @@
+#  LINKEADOR: SISTEMA CENTRAL DE RIESGOS
+
+#*************************************************************************
+# TITULO..: ENCADENADOR DEL SISTEMA                                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: ENE 16/2004 VIE A
+#	Colombia, Bucaramanga	     INICIO: 12:00 AM   ENE 16/2004 VIE
+
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador del CLIPPER V52 Rtlink
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador "rtlink"
+
+#------------------------------------------------------------------------*
+#                  ESPECIFICACIONES PARA EL ENCADENADOR                  *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES PARA EL ENCADENADOR
+#       VERBOSE
+#       MAP a,s
+#>>>>FIN OPCIONES PARA EL ENCADENADOR
+
+#>>>>GENERACION DEL ARCHIVO EJECUTABLE
+       output \SimaClip.V52\simacart\PlusCart
+#>>>>FIN GENERACION DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.V52\simacart\f\objs\PlusCart
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \SimaClip.V52\simacart\PlusCart
+
+       @lnk\Carte100.lnk
+       @lnk\Carte200.lnk
+       @lnk\Carte300.lnk
+       @lnk\Carte400.lnk
+       @lnk\Carte500.lnk
+       @lnk\Carte600.lnk
+       @lnk\Carte700.lnk
+
+       @lnk\DataFun.lnk
+       @lnk\CarteSha.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

@@ -1,0 +1,34 @@
+#  SIMASOFT
+
+#*************************************************************************
+# MODULO..: FUNCIONES GENERALES                                          *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS OBJETO GENERALES
+       fi \SimaClip.v52\clipper.fun\funcsdbf
+       fi \SimaClip.v52\clipper.fun\funcsnel
+       fi \SimaClip.v52\clipper.fun\classnel
+       fi \SimaClip.v52\clipper.fun\archinel
+       fi \SimaClip.v52\clipper.fun\funcsprn
+       fi \SimaClip.v52\clipper.fun\usrcrypt
+       fi \SimaClip.v52\clipper.fun\fwwwusr
+       fi \SimaClip.v52\clipper.fun\ftipousr
+       fi \SimaClip.v52\clipper.fun\funcsErr
+       fi \SimaClip.v52\clipper.fun\OtrErr01
+       fi \SimaClip.v52\clipper.fun\FunColor
+       fi \SimaClip.v52\clipper.fun\Printer
+       fi \SimaClip.v52\clipper.fun\FuncsXml
+       fi \SimaClip.v52\clipper.fun\FuncsCsv
+       fi \SimaClip.v52\clipper.fun\FileSys
+       fi \SimaClip.v52\clipper.fun\FileStr
+       fi \SimaClip.v52\clipper.fun\FilePrg
+       fi \SimaClip.v52\clipper.fun\PrintIso
+
+       fi \SimaClip.v52\clipper.fun\GFuncPer
+
+       fi \SimaClip.v52\clipper.fun\EFuncPer
+#>>>>FIN MODULOS OBJETO GENERALES

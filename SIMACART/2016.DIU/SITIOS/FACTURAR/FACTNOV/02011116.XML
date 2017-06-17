@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A NOV 30/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE NOVIEMBRE"
+   titulo3 = "GRUPO: 0201 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "DIC  6/2016"
+   horaprn = "14:00:43"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">ARCHILA COMBITA DA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">212111</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111616.XML">2</campo>
+    <campo url="no">AVILA CARRERO SAMU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,703</campo>
+    <campo url="no">NOV 16/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">213088</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">BARRETO VILLADIEGO</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215039</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">CARDENAS CHONLONG</campo>
+    <campo url="no">R E T I R A D O</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214172</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111516.XML">5</campo>
+    <campo url="no">CARPETA RAMIREZ JI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 15/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214127</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111516.XML">6</campo>
+    <campo url="no">CARPETA RAMIREZ JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 15/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214126</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111216.XML">7</campo>
+    <campo url="no">CHAPARRO MOTTA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215113</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111016.XML">8</campo>
+    <campo url="no">DAZA LOPEZ ALVARO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 10/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216063</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111116.XML">9</campo>
+    <campo url="no">GALLO BELLO ALEJAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 11/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216098</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110816.XML">10</campo>
+    <campo url="no">GARCIA MANTILLA LU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214085</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110816.XML">11</campo>
+    <campo url="no">GIL DIAZ SANTIAGO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214012</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111116.XML">12</campo>
+    <campo url="no">LEON DUARTE JESUS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 11/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215022</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112916.XML">13</campo>
+    <campo url="no">MARTINEZ CHEHAYEB</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,703</campo>
+    <campo url="no">NOV 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214178</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV110916.XML">14</campo>
+    <campo url="no">ORTIZ FIGUEROA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV  9/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216062</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111516.XML">15</campo>
+    <campo url="no">ORTIZ MARTINEZ AND</campo>
+    <campo url="no">PENSION->BECA  3.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,316,021</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 15/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215007</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">PE¥A PINZON GABRIE</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">215154</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">RUEDA TORRES DANIE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">7,563,468</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">160,876</campo>
+    <campo url="no">7,402,592</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">214135</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV111116.XML">18</campo>
+    <campo url="no">RUIZ FLOREZ JUAN M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no">NOV 11/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215006</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">TOVAR SANCHEZ SEBA</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">212041</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV112916.XML">20</campo>
+    <campo url="no">VILLAMIZAR HERNAND</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no">6,703</campo>
+    <campo url="no">NOV 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">212049</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">CONTRERAS CABRERA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">6,739,579</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no">144,789</campo>
+    <campo url="no">6,594,790</campo>
+    <campo url="no">NOVNOV</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">214014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACNOV16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">14,303,047</campo>
+    <campo url="no">10,725,088</campo>
+    <campo url="no">305,665</campo>
+    <campo url="no">13,997,382</campo>
+    <campo url="no"></campo>
+    <campo url="no">20,109</campo>
+    <campo url="no">10,030,155</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

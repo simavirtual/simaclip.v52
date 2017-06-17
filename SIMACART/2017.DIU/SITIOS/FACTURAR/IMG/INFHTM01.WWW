@@ -1,0 +1,100 @@
+
+<?xml version='1.0' encoding='iso-8859-1'?>
+<xsl:transform
+  xmlns:xsl='http://www.w3.org/1999/XSL/Transform'
+  version='1.0'
+  xmlns='http://www.w3.org./TR/REC-html40'
+>
+
+<xsl:template match='registros'>
+<html>
+   <title>SIMA.Informe:<xsl:value-of select='@codiinf'/></title>
+   <style type='text/css'>
+	  body {background-image: url(<xsl:value-of select='@pathweb'/>\IMG\fondoprn.jpg);}
+   </style>
+ 
+<body>
+ 
+<font size='1'>FECHA DE IMPRESION:
+  <xsl:value-of select='@fechprn'/><font size='1'>&#xa0;</font>
+  <xsl:value-of select='@fdiaprn'/>
+  HORA:<xsl:value-of select='@horaprn'/>
+</font>
+ 
+<table border='1' cellpadding='0' cellspacing='0'>
+  <tr><td width='138'>
+	     <img align='top' width='128' height='79'>
+	       <xsl:attribute name='src'>
+          <xsl:value-of select='@pathweb'/>\IMG\logoprn.jpg
+	       </xsl:attribute>
+	     </img>
+      </td>
+ 
+      <td width='800' align='center'><font size='3'>
+        <xsl:value-of select='@titulo1'/>
+        <br><xsl:value-of select='@titulo2'/></br>
+        <br><xsl:value-of select='@titulo3'/></br>
+        </font>
+      </td>
+ 
+      <td width='200'>
+         <table border='1' cellpadding='0' cellspacing='0'>
+	        <tr><td width='200'><font size='1'>C&#xF3;digo del Documento:
+		      <br><xsl:value-of select='@codiiso'/></br></font>
+	            </td>
+	        </tr>
+	        <tr><td width='200'><font size='1'>Versi&#xF3;n:
+                 <xsl:value-of select='@versiso'/></font>
+               </td>
+           </tr>
+	        <tr><td width='200'><font size='1'>Fecha de aprobaci&#xF3;n:
+		      <br><xsl:value-of select='@fechiso'/></br></font>
+	            </td>
+	        </tr>
+	      </table>
+      </td>
+ 
+  </tr>
+</table>
+ 
+
+<table border='1'>
+  <xsl:for-each select='cabecera'>
+  <tr>
+    <xsl:for-each select='columna'>
+      <th><strong>
+ 
+        <font size='1' ><xsl:value-of select='.'/></font>
+ 
+      </strong></th>
+    </xsl:for-each><!-- campo -->
+  </tr>
+  </xsl:for-each><!-- cabecera -->
+
+  <xsl:for-each select='registro'>
+  <tr>
+    <xsl:for-each select='campo'>
+      <td>
+	<xsl:if test="@url != 'no'">
+       <font size='1'>
+         <a href='{@url}' target='_blank'><xsl:value-of select='.'/></a>
+       </font>
+ 
+	</xsl:if>
+	<xsl:if test="@url = 'no'">
+ 
+        <font size='1'> 
+          <xsl:value-of select='.'/> 
+        </font> 
+  
+	</xsl:if>
+      </td>
+    </xsl:for-each><!-- campo -->
+  </tr>
+  </xsl:for-each><!-- registro -->
+
+</table>
+</body>
+</html>
+</xsl:template>
+</xsl:transform>

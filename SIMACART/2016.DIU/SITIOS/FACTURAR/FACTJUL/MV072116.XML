@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE JULIO DIA:21. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "JUL 22/2016"
+   horaprn = "07:43:38"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">046169999516</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">50000,000.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">214135141100</campo>
+    <campo url="no">0201 RUEDA TORRES DANIEL FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">400,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">208011141100</campo>
+    <campo url="no">0801 BOTERO BOADA ANDRES CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1501,134.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">213020070700</campo>
+    <campo url="no">0902 CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">592,108.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215099071100</campo>
+    <campo url="no">1001 GOMEZ HERNANDEZ JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6094,614.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">206183070700</campo>
+    <campo url="no">1002 ACEVEDO NI¥O DIEGO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2447,928.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">212116070700</campo>
+    <campo url="no">0502 RONDON TORRES SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214143070700</campo>
+    <campo url="no">0302 ACEVEDO GARNICA CARLOS ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">216044070700</campo>
+    <campo url="no">0202 CELY FORERO JOSE DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">JUL 21/2016</campo>
+    <campo url="no">RECIBO DE JUL PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

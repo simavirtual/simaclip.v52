@@ -1,0 +1,21 @@
+#  DBU
+
+#*************************************************************************
+# MODULO..: FUNCIONES DE DBU                                             *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS OBJETO GENERALES
+	   fi \SimaClip.v52\dbu\f\objs\dbu
+	   fi \SimaClip.v52\dbu\f\objs\dbuutil
+	   fi \SimaClip.v52\dbu\f\objs\dbuhelp
+	   fi \SimaClip.v52\dbu\f\objs\dbuview
+	   fi \SimaClip.v52\dbu\f\objs\dbuindx
+	   fi \SimaClip.v52\dbu\f\objs\dbuedit
+	   fi \SimaClip.v52\dbu\f\objs\dbucopy
+	   fi \SimaClip.v52\dbu\f\objs\dbustru
+	   fi \SimaClip.v52\dbu\f\objs\dbunet
+#>>>>FIN MODULOS OBJETO GENERALES

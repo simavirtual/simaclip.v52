@@ -1,0 +1,131 @@
+//  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 11/96 LUN A
+//	  Colombia, Bucaramanga	       INICIO: 11:30 AM   Pendiente
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaProf /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaProf
+      OBJDIR := \SimaClip.v52\SimaProf\f\objs
+      SISPRG := \SimaClip.v52\SimaProf\f
+      FUNPRG := \SimaClip.v52\SimaProf\f\funcions
+      FUNINF := \simaclip.v52\SimaProf\f\inforsys
+      OPTIONS := /w/b
+//     LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaProf\f\lnk\Depurar.lnk
+//     LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaProf\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaProf\f\lnk\Blink52P.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+///RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SimaProf.obj" : "$(SISPRG)\SimaProf.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Profe101.obj" : "$(SISPRG)\Profe101.prg"
+"$(OBJDIR)\Profe102.obj" : "$(SISPRG)\Profe102.prg"
+"$(OBJDIR)\Profe103.obj" : "$(SISPRG)\Profe103.prg"
+"$(OBJDIR)\Profe104.obj" : "$(SISPRG)\Profe104.prg"
+"$(OBJDIR)\Profe105.obj" : "$(SISPRG)\Profe105.prg"
+"$(OBJDIR)\Profe106.obj" : "$(SISPRG)\Profe106.prg"
+"$(OBJDIR)\Profe107.obj" : "$(SISPRG)\Profe107.prg"
+"$(OBJDIR)\Profe108.obj" : "$(SISPRG)\Profe108.prg"
+"$(OBJDIR)\Profe109.obj" : "$(SISPRG)\Profe109.prg"
+"$(OBJDIR)\Profe201.obj" : "$(SISPRG)\Profe201.prg"
+"$(OBJDIR)\Profe202.obj" : "$(SISPRG)\Profe202.prg"
+"$(OBJDIR)\Profe203.obj" : "$(SISPRG)\Profe203.prg"
+"$(OBJDIR)\Profe204.obj" : "$(SISPRG)\Profe204.prg"
+"$(OBJDIR)\Profe205.obj" : "$(SISPRG)\Profe205.prg"
+"$(OBJDIR)\Profe206.obj" : "$(SISPRG)\Profe206.prg"
+"$(OBJDIR)\Profe261.obj" : "$(SISPRG)\Profe261.prg"
+"$(OBJDIR)\Profe301.obj" : "$(SISPRG)\Profe301.prg"
+"$(OBJDIR)\Profe302.obj" : "$(SISPRG)\Profe302.prg"
+"$(OBJDIR)\Profe307.obj" : "$(SISPRG)\Profe307.prg"
+"$(OBJDIR)\Profe308.obj" : "$(SISPRG)\Profe308.prg"
+"$(OBJDIR)\Profe401.obj" : "$(SISPRG)\Profe401.prg"
+"$(OBJDIR)\Spr40199.obj" : "$(SISPRG)\Spr40199.prg"
+"$(OBJDIR)\Profe402.obj" : "$(SISPRG)\Profe402.prg"
+"$(OBJDIR)\Profe403.obj" : "$(SISPRG)\Profe403.prg"
+"$(OBJDIR)\Profe404.obj" : "$(SISPRG)\Profe404.prg"
+"$(OBJDIR)\Profe501.obj" : "$(SISPRG)\Profe501.prg"
+"$(OBJDIR)\Spr50101.obj" : "$(SISPRG)\Spr50101.prg"
+"$(OBJDIR)\Spr50102.obj" : "$(SISPRG)\Spr50102.prg"
+"$(OBJDIR)\Profe502.obj" : "$(SISPRG)\Profe502.prg"
+"$(OBJDIR)\Profe503.obj" : "$(SISPRG)\Profe503.prg"
+"$(OBJDIR)\Profe504.obj" : "$(SISPRG)\Profe504.prg"
+"$(OBJDIR)\Spr50401.obj" : "$(SISPRG)\Spr50401.prg"
+"$(OBJDIR)\Profe505.obj" : "$(SISPRG)\Profe505.prg"
+"$(OBJDIR)\Profe506.obj" : "$(SISPRG)\Profe506.prg"
+"$(OBJDIR)\Profe507.obj" : "$(SISPRG)\Profe507.prg"
+"$(OBJDIR)\Profe508.obj" : "$(SISPRG)\Profe508.prg"
+"$(OBJDIR)\Profe509.obj" : "$(SISPRG)\Profe509.prg"
+"$(OBJDIR)\Profe510.obj" : "$(SISPRG)\Profe510.prg"
+"$(OBJDIR)\Profe601.obj" : "$(SISPRG)\Profe601.prg"
+"$(OBJDIR)\Profe602.obj" : "$(SISPRG)\Profe602.prg"
+"$(OBJDIR)\Profe704.obj" : "$(SISPRG)\Profe704.prg"
+"$(OBJDIR)\Profe742.obj" : "$(SISPRG)\Profe742.prg"
+"$(OBJDIR)\Profe743.obj" : "$(SISPRG)\Profe743.prg"
+"$(OBJDIR)\Profe744.obj" : "$(SISPRG)\Profe744.prg"
+"$(OBJDIR)\Profe745.obj" : "$(SISPRG)\Profe745.prg"
+"$(OBJDIR)\Profe746.obj" : "$(SISPRG)\Profe746.prg"
+"$(OBJDIR)\Profe747.obj" : "$(SISPRG)\Profe747.prg"
+"$(OBJDIR)\Profe748.obj" : "$(SISPRG)\Profe748.prg"
+"$(OBJDIR)\Profe705.obj" : "$(SISPRG)\Profe705.prg"
+"$(OBJDIR)\Profe706.obj" : "$(SISPRG)\Profe706.prg"
+"$(OBJDIR)\Profe707.obj" : "$(SISPRG)\Profe707.prg"
+"$(OBJDIR)\Profe771.obj" : "$(SISPRG)\Profe771.prg"
+"$(OBJDIR)\Profe708.obj" : "$(SISPRG)\Profe708.prg"
+"$(OBJDIR)\Profe747.obj" : "$(SISPRG)\Profe747.prg"
+"$(OBJDIR)\Profe709.obj" : "$(SISPRG)\Profe709.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\FSimaPro.obj" : "$(FUNPRG)\FSimaPro.prg"
+"$(OBJDIR)\FSprAno.obj"  : "$(FUNPRG)\FSprAno.prg"
+"$(OBJDIR)\FProfTbl.obj" : "$(FUNPRG)\FProfTbl.prg"
+"$(OBJDIR)\FProfLog.obj" : "$(FUNPRG)\FProfLog.prg"
+"$(OBJDIR)\ProfeFun.obj" : "$(FUNPRG)\ProfeFun.prg"
+"$(OBJDIR)\ProfeFu1.obj" : "$(FUNPRG)\ProfeFu1.prg"
+"$(OBJDIR)\FuncsPro.obj" : "$(FUNPRG)\FuncsPro.prg"
+"$(OBJDIR)\FuncsCaP.obj" : "$(FUNPRG)\FuncsCaP.prg"
+"$(OBJDIR)\FuncsMaP.obj" : "$(FUNPRG)\FuncsMaP.prg"
+"$(OBJDIR)\FuncsNoP.obj" : "$(FUNPRG)\FuncsNoP.prg"
+"$(OBJDIR)\gProfInd.obj" : "$(FUNPRG)\gProfInd.prg"
+"$(OBJDIR)\eProfInd.obj" : "$(FUNPRG)\eProfInd.prg"
+"$(OBJDIR)\FuJvfCal.obj" : "$(FUNPRG)\FuJvfCal.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SprInfor.obj" : "$(FUNINF)\SprInfor.prg"
+"$(OBJDIR)\Spr00100.obj" : "$(FUNINF)\Spr00100.prg"
+"$(OBJDIR)\Spr00200.obj" : "$(FUNINF)\Spr00200.prg"
+"$(OBJDIR)\Spr10300.obj" : "$(FUNINF)\Spr10300.prg"
+"$(OBJDIR)\Spr26100.obj" : "$(FUNINF)\Spr26100.prg"
+"$(OBJDIR)\S5040100.obj" : "$(FUNINF)\S5040100.prg"
+"$(OBJDIR)\S5040200.obj" : "$(FUNINF)\S5040200.prg"
+"$(OBJDIR)\Spr75100.obj" : "$(FUNINF)\Spr75100.prg"
+///FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+     $(FILSCR).EXE: $(OBJDIR)\SimaProf.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE
+
+

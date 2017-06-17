@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE FEBRERO DIA:02. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "FEB  4/2016"
+   horaprn = "11:20:59"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">214030141100</campo>
+    <campo url="no">0300 ROJAS DUARTE LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">3460,400.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  2/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">210089141100</campo>
+    <campo url="no">1100 SALCEDO VARGAS LAURA VALENTINA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">2624,366.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  2/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">206129021100</campo>
+    <campo url="no">1003 MAY BRAVO PAUL ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  2/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">213128021100</campo>
+    <campo url="no">0900 NOSSA RUGELES JEAN PIERRE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5569,334.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">FEB  2/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

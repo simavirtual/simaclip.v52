@@ -1,0 +1,53 @@
+#  ENCADENADOR: SIMA - CUENTAS POR PAGAR
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: SEP 02/2004 JUE A
+#	Colombia, Bucaramanga	     INICIO: 04:45 PM   Pendiente
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaPark\SimaPark
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaPark\f\objs\SimaPark
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \SimaClip.v52\SimaPark\SimaPark
+
+       @lnk\Park100.lnk
+       @lnk\Park200.lnk
+       @lnk\Park700.lnk
+
+       @lnk\ParkFun.lnk
+       @lnk\ParkSha.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

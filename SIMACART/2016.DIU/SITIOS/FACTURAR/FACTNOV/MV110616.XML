@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE NOVIEMBRE DIA:06. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "DIC  7/2016"
+   horaprn = "07:38:52"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">44.80</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">208170021100</campo>
+    <campo url="no">0801 GOMEZ RIA¥O CARLOS FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">212133021100</campo>
+    <campo url="no">0802 DE LA HOZ CASTA¥EDA PAOLA ANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">208239141100</campo>
+    <campo url="no">0902 BUENO SARMIENTO JUAN CARLOS I</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">212143021100</campo>
+    <campo url="no">0802 LOZANO ARIZA DAVID SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6068,904.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211041021100</campo>
+    <campo url="no">1001 ESCAMILLA SALAS DIEGO JAVIER</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214075021100</campo>
+    <campo url="no">0301 SANCHEZ RINCON SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6866,191.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214001021100</campo>
+    <campo url="no">0001 BELTRAN ALMEIDA MARIA JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">7005,961.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">208246141100</campo>
+    <campo url="no">0902 ROSALES FLOREZ HECTOR NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">800,000.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">214024021100</campo>
+    <campo url="no">0301 RAMIREZ LOZANO JOSEPH CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6939,236.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">215159021100</campo>
+    <campo url="no">1003 CANO MERCHAN LAURA ALEJANDRA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5946,349.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">0230235921+0</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">11,200.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">216003021100</campo>
+    <campo url="no">0102 SANTOYO CONTRERAS TOMAS AUGUST</campo>
+    <campo url="no">036</campo>
+    <campo url="no">7005,961.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">206052141100</campo>
+    <campo url="no">1001 VASQUEZ RUEDA MARIA JOSE</campo>
+    <campo url="no">034</campo>
+    <campo url="no">5225,250.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">214028021100</campo>
+    <campo url="no">0302 ZAMBRANO TORRES SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6939,236.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">214076021100</campo>
+    <campo url="no">0802 SANCHEZ RINCON ALIRIO ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">6005,020.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">DIC  6/2016</campo>
+    <campo url="no">* NO le Coincide el Valor Pagado</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

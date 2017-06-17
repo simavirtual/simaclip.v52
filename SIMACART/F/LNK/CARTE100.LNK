@@ -1,0 +1,27 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: FACTURACION                                                  *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\simacart\f\objs\Carte101
+       fi \SimaClip.V52\simacart\f\objs\Carte102
+       fi \SimaClip.V52\simacart\f\objs\Carte103
+       fi \SimaClip.V52\simacart\f\objs\Carte104
+       fi \SimaClip.V52\simacart\f\objs\Carte105
+       fi \SimaClip.V52\simacart\f\objs\Carta151
+       fi \SimaClip.V52\simacart\f\objs\Carte151
+       fi \SimaClip.V52\simacart\f\objs\Carte152
+       fi \SimaClip.V52\simacart\f\objs\Carte106
+       fi \SimaClip.V52\simacart\f\objs\Carte107
+       fi \SimaClip.V52\simacart\f\objs\Carte108
+       fi \SimaClip.V52\simacart\f\objs\Carte181
+       fi \SimaClip.V52\simacart\f\objs\Carte182
+       fi \SimaClip.V52\simacart\f\objs\Carte109
+       fi \SimaClip.V52\simacart\f\objs\Carte193
+#>>>>ARCHIVOS DEL MODULO

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{TOTAL ALUMNOS FACTURADOS}"
+   titulo1 = "CONTROL DEL TOTAL DE ALUMNOS FACTURADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE MAYO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUN  3/2016"
+   horaprn = "14:52:19"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>NIVEL </columna>
+    <columna>MATRICULADOS  </columna>
+    <columna>RETIRADOS     </columna>
+    <columna>ESTUDIANTES   </columna>
+    <columna>FACTURADOS    </columna>
+    <columna>NO FACTURADOS </columna>
+    <columna>POR JUSTIFICAR</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1501</campo>
+    <campo url="no">7</campo>
+    <campo url="no">0</campo>
+    <campo url="no">7</campo>
+    <campo url="no">6</campo>
+    <campo url="no">1</campo>
+    <campo url="no">1</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1601</campo>
+    <campo url="no">9</campo>
+    <campo url="no">1</campo>
+    <campo url="no">8</campo>
+    <campo url="no">9</campo>
+    <campo url="no">0</campo>
+    <campo url="no">-1</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0001</campo>
+    <campo url="no">11</campo>
+    <campo url="no">0</campo>
+    <campo url="no">11</campo>
+    <campo url="no">8</campo>
+    <campo url="no">3</campo>
+    <campo url="no">3</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0002</campo>
+    <campo url="no">13</campo>
+    <campo url="no">0</campo>
+    <campo url="no">13</campo>
+    <campo url="no">12</campo>
+    <campo url="no">1</campo>
+    <campo url="no">1</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0101</campo>
+    <campo url="no">12</campo>
+    <campo url="no">0</campo>
+    <campo url="no">12</campo>
+    <campo url="no">10</campo>
+    <campo url="no">2</campo>
+    <campo url="no">2</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0102</campo>
+    <campo url="no">11</campo>
+    <campo url="no">0</campo>
+    <campo url="no">11</campo>
+    <campo url="no">9</campo>
+    <campo url="no">2</campo>
+    <campo url="no">2</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0201</campo>
+    <campo url="no">21</campo>
+    <campo url="no">1</campo>
+    <campo url="no">20</campo>
+    <campo url="no">16</campo>
+    <campo url="no">5</campo>
+    <campo url="no">4</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0202</campo>
+    <campo url="no">20</campo>
+    <campo url="no">0</campo>
+    <campo url="no">20</campo>
+    <campo url="no">17</campo>
+    <campo url="no">3</campo>
+    <campo url="no">3</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0301</campo>
+    <campo url="no">20</campo>
+    <campo url="no">0</campo>
+    <campo url="no">20</campo>
+    <campo url="no">15</campo>
+    <campo url="no">5</campo>
+    <campo url="no">5</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0302</campo>
+    <campo url="no">19</campo>
+    <campo url="no">0</campo>
+    <campo url="no">19</campo>
+    <campo url="no">16</campo>
+    <campo url="no">3</campo>
+    <campo url="no">3</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0401</campo>
+    <campo url="no">18</campo>
+    <campo url="no">1</campo>
+    <campo url="no">17</campo>
+    <campo url="no">15</campo>
+    <campo url="no">3</campo>
+    <campo url="no">2</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0402</campo>
+    <campo url="no">19</campo>
+    <campo url="no">0</campo>
+    <campo url="no">19</campo>
+    <campo url="no">14</campo>
+    <campo url="no">5</campo>
+    <campo url="no">5</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0501</campo>
+    <campo url="no">18</campo>
+    <campo url="no">0</campo>
+    <campo url="no">18</campo>
+    <campo url="no">12</campo>
+    <campo url="no">6</campo>
+    <campo url="no">6</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0502</campo>
+    <campo url="no">17</campo>
+    <campo url="no">0</campo>
+    <campo url="no">17</campo>
+    <campo url="no">12</campo>
+    <campo url="no">5</campo>
+    <campo url="no">5</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0601</campo>
+    <campo url="no">27</campo>
+    <campo url="no">0</campo>
+    <campo url="no">27</campo>
+    <campo url="no">19</campo>
+    <campo url="no">8</campo>
+    <campo url="no">8</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0602</campo>
+    <campo url="no">28</campo>
+    <campo url="no">0</campo>
+    <campo url="no">28</campo>
+    <campo url="no">21</campo>
+    <campo url="no">7</campo>
+    <campo url="no">7</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0701</campo>
+    <campo url="no">32</campo>
+    <campo url="no">1</campo>
+    <campo url="no">31</campo>
+    <campo url="no">29</campo>
+    <campo url="no">3</campo>
+    <campo url="no">2</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0801</campo>
+    <campo url="no">37</campo>
+    <campo url="no">0</campo>
+    <campo url="no">37</campo>
+    <campo url="no">30</campo>
+    <campo url="no">7</campo>
+    <campo url="no">7</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0802</campo>
+    <campo url="no">36</campo>
+    <campo url="no">0</campo>
+    <campo url="no">36</campo>
+    <campo url="no">28</campo>
+    <campo url="no">8</campo>
+    <campo url="no">8</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0901</campo>
+    <campo url="no">37</campo>
+    <campo url="no">1</campo>
+    <campo url="no">36</campo>
+    <campo url="no">32</campo>
+    <campo url="no">5</campo>
+    <campo url="no">4</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">0902</campo>
+    <campo url="no">37</campo>
+    <campo url="no">0</campo>
+    <campo url="no">37</campo>
+    <campo url="no">31</campo>
+    <campo url="no">6</campo>
+    <campo url="no">6</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1001</campo>
+    <campo url="no">29</campo>
+    <campo url="no">1</campo>
+    <campo url="no">28</campo>
+    <campo url="no">21</campo>
+    <campo url="no">8</campo>
+    <campo url="no">7</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1002</campo>
+    <campo url="no">30</campo>
+    <campo url="no">2</campo>
+    <campo url="no">28</campo>
+    <campo url="no">20</campo>
+    <campo url="no">10</campo>
+    <campo url="no">8</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1003</campo>
+    <campo url="no">29</campo>
+    <campo url="no">2</campo>
+    <campo url="no">27</campo>
+    <campo url="no">19</campo>
+    <campo url="no">10</campo>
+    <campo url="no">8</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1101</campo>
+    <campo url="no">32</campo>
+    <campo url="no">0</campo>
+    <campo url="no">32</campo>
+    <campo url="no">26</campo>
+    <campo url="no">6</campo>
+    <campo url="no">6</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1102</campo>
+    <campo url="no">32</campo>
+    <campo url="no">0</campo>
+    <campo url="no">32</campo>
+    <campo url="no">24</campo>
+    <campo url="no">8</campo>
+    <campo url="no">8</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">1103</campo>
+    <campo url="no">32</campo>
+    <campo url="no">0</campo>
+    <campo url="no">32</campo>
+    <campo url="no">27</campo>
+    <campo url="no">5</campo>
+    <campo url="no">5</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">==============</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">==============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTAL</campo>
+    <campo url="no">633</campo>
+    <campo url="no">10</campo>
+    <campo url="no">623</campo>
+    <campo url="no">498</campo>
+    <campo url="no">135</campo>
+    <campo url="no">127</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">****</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">SEGUIMIENTO</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RETMAY16.XML">RETIRADOS</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="ENFMAY16.XML">NO FACTURADOS</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="EPJMAY16.XML">POR JUSTIFICAR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

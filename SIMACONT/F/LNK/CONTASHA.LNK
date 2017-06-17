@@ -1,0 +1,59 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\sima.fun\gSimaFam
+       fi \SimaClip.v52\sima.fun\eSimaFam
+
+       fi \SimaClip.v52\sima.fun\gContJvf
+       fi \SimaClip.v52\sima.fun\eContJvf
+
+       fi \SimaClip.v52\sima.fun\eContStd
+       fi \SimaClip.v52\sima.fun\gContStd
+
+       fi \SimaClip.v52\sima.fun\gSimaInf
+       fi \SimaClip.v52\sima.fun\eSimaInf
+
+       fi \SimaClip.v52\sima.fun\eSimaIso
+       fi \SimaClip.v52\sima.fun\gSimaIso
+
+       fi \SimaClip.v52\sima.fun\gContHor
+       fi \SimaClip.v52\sima.fun\eContHor
+
+       fi \SimaClip.v52\sima.fun\gContStI
+       fi \SimaClip.v52\sima.fun\eContStI
+
+       fi \SimaClip.v52\sima.fun\gColePro
+     #ÀFunciones Generadas
+
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaInd
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaPro
+       fi \SimaClip.v52\sima.fun\SimaGru
+       fi \SimaClip.v52\sima.fun\SimaMat
+       fi \SimaClip.v52\sima.fun\SimaFam
+       fi \SimaClip.v52\sima.fun\SimaHra
+       fi \SimaClip.v52\sima.fun\SimaNiv
+       fi \SimaClip.v52\sima.fun\SimaPla
+       fi \SimaClip.v52\sima.fun\SimaPag
+       fi \SimaClip.v52\sima.fun\SimaNot
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+     #ÀFunciones de la Cartera
+
+       fi \SimaClip.V52\simaprof\f\objs\FuJvfCal
+     #ÀFunciones de SimaProf
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotConta.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

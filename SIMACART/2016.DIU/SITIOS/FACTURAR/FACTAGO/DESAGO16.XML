@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "SEP  9/2016"
+   horaprn = "13:07:07"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">214106</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">CAMACHO GARCIA JUAN MANUEL</campo>
+    <campo url="no">AGO</campo>
+    <campo url="no">MAY  4/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no">459,364</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">AUX.EDUCATIVO TESORONAL.CONSIG.MAY 4/16</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214017</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">CASTELLANOS ARIZA DAVID SANTIA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213093</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">ZAFRA OTERO FELIPE</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214141</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">GUERRERO PALACIOS DANIEL FELIP</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208094</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">612,812</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216050</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216051</campo>
+    <campo url="no">1601</campo>
+    <campo url="no">PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">704,884</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211154</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">ALFONSO HERNANDEZ ANDRES FELIP</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  1/2016</campo>
+    <campo url="no">587,848</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215014</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">TORRES CORREA ISABEL SOFIA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213169</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">691,469</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215170</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">SUAREZ AVAUNZA JUAN CAMILO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216045</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">ANGULO SANABRIA SHARON SAYREE</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">3,564,579</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209059</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">205248</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">BARRERA ROJAS DANNY SEBASTIAN</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">587,848</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">205042</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">ADARME HERNANDEZ ANDRES RODRIG</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">1,010,376</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215056</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">ADARME VALDERRAMA JUAN CAMILO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">1,387,156</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215057</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">ADARME VALDERRAMA DANIEL ALEJA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  2/2016</campo>
+    <campo url="no">1,351,670</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211181</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">PE¥A GELVEZ BRANDON YAIR</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  3/2016</campo>
+    <campo url="no">1,188,678</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211193</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">ORTIZ SERRANO JUAN ESTEBAN</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  3/2016</campo>
+    <campo url="no">2,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215052</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">OLARTE PUENTES YURLEY TATIANA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  3/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211122</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">MERCHAN NAVARRO MARIA DANIELA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  4/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214055</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  4/2016</campo>
+    <campo url="no">599,495</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215108</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">CHAPARRO PEDROZO SUSANA CRISTI</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  4/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212115</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">VARGAS ROJAS GERMAN DAVID</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  4/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215125</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">CHAPARRO PEDROZO EDUARDO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  4/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214079</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">SILVA VEGA PAULA ANDREA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  5/2016</campo>
+    <campo url="no">1,175,926</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215030</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">MONSALVE GOMEZ FEYSARK SEBASTI</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  5/2016</campo>
+    <campo url="no">599,495</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213086</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">RINCON PLAZAS JUAN SEBASTIAN</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  5/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214144</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">RINCON PLAZAS JOEL SANTIAGO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  5/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215131</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">SANCHEZ FLOREZ MARIA CAMILA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  5/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216104</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">DIAZ RIVERA DIEGO ALEJANDRO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  6/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214016</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">SANCHEZ GONZALEZ OSCAR JULIAN</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  8/2016</campo>
+    <campo url="no">2,054,391</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215047</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  9/2016</campo>
+    <campo url="no">701,268</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211074</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">ORTEGA CARVAJAL JUAN DIEGO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO  9/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214205</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN FELIPE</campo>
+    <campo url="no">AGO</campo>
+    <campo url="no">AGO 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no">CARTA RETIRO A JUNIO 13/2016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214019</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">SARMIENTO LOPEZ JUAN CAMILO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 16/2016</campo>
+    <campo url="no">670,318</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212016</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">SANCHEZ SIMANCAS LAURA SOFIA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 16/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211006</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SANCHEZ MURILLO HELI SANTIAGO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 17/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214055</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 17/2016</campo>
+    <campo url="no">613,682</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211191</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">CAMACHO RODRIGUEZ DAVID JOSUE</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 18/2016</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215081</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">TORRES LUNA SAMUEL ALEJANDRO</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 24/2016</campo>
+    <campo url="no">2,862,171</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216082</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">QUI¥ONEZ LUNA SARAH</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 24/2016</campo>
+    <campo url="no">2,762,387</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215142</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">HERNANDEZ ZAMBRANO VALERIA MAR</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">667,932</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215143</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">HERNANDEZ ZAMBRANO VALENTINA E</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">587,389</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216138</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">LOPEZ JARAMILLO MIGUEL ANGEL</campo>
+    <campo url="no">AGO</campo>
+    <campo url="no">AGO 26/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">ING.JUL 5/2016 PTE MATRICULA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216145</campo>
+    <campo url="no">1601</campo>
+    <campo url="no">FLOREZ VARGAS JUAN FELIPE</campo>
+    <campo url="no">AGO</campo>
+    <campo url="no">AGO 29/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">219,147</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X INGRESO AGO 10/16</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208168</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">BARON CRISTANCHO MARIA DANIELA</campo>
+    <campo url="no">AGO</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">306,841</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO X BECA OTORGADA A PARTIR DE JUL/16</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214198</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">HERNANDEZ JARAMILLO MARIANA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">1,213,177</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216024</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SAAVEDRA TRIANA ERWIN OMAR</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">675,835</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214021</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">CALDERON SOTO SEBASTIAN</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">1,355,785</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208094</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">613,752</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216019</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">LANCHEROS ROMERO LUCIANA</campo>
+    <campo url="no">AGO-JUL</campo>
+    <campo url="no">AGO 30/2016</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$ 45,020,539</campo>
+    <campo url="no">$    459,364</campo>
+    <campo url="no">$  1,196,306</campo>
+    <campo url="no">$    653,170</campo>
+
+  </registro>
+
+</registros>

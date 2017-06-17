@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS RETIRADOS}"
+   titulo1 = "ESTUDIANTES RETIRADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE NOVIEMBRE"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2015"
+   fechprn = "FEB  5/2016"
+   horaprn = "15:58:25"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>GRUPO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>RETIRO</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>ULTIMO RECIBO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">213041</campo>
+    <campo url="no">SERRANO MANCILLA MARCO ANDRES</campo>
+    <campo url="no">DIC  4/2014</campo>
+    <campo url="no">MAR 30/2015</campo>
+    <campo url="no">PA</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">215132</campo>
+    <campo url="no">SERRANO JIMENEZ GUILLERMO</campo>
+    <campo url="no">ENE 26/2015</campo>
+    <campo url="no">MAR 30/2015</campo>
+    <campo url="no">DA</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">212096</campo>
+    <campo url="no">QUEVEDO OTERO LUIS DAVID</campo>
+    <campo url="no">DIC  4/2014</campo>
+    <campo url="no">SEP 16/2015</campo>
+    <campo url="no">PAADAAAPDP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">213040</campo>
+    <campo url="no">SERRANO MANCILLA SANTIAGO FELIPE</campo>
+    <campo url="no">DIC  5/2014</campo>
+    <campo url="no">MAR 30/2015</campo>
+    <campo url="no">PA</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">215140</campo>
+    <campo url="no">DOMINGUEZ MONTES REYNELL DAVID</campo>
+    <campo url="no">ENE 27/2015</campo>
+    <campo url="no">JUN 12/2015</campo>
+    <campo url="no">DADDDDDDDD</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Deudor</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">212097</campo>
+    <campo url="no">QUEVEDO OTERO MARIA FERNANDA</campo>
+    <campo url="no">DIC  4/2014</campo>
+    <campo url="no">SEP 16/2015</campo>
+    <campo url="no">PAADAAAPDP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">0702</campo>
+    <campo url="no">215130</campo>
+    <campo url="no">RANGEL PEREZ DILAN JOSE</campo>
+    <campo url="no">ENE 29/2015</campo>
+    <campo url="no">JUL 31/2015</campo>
+    <campo url="no">ADADAA</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no">JULIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">214115</campo>
+    <campo url="no">ABRIL SANABRIA LUISA FERNANDA</campo>
+    <campo url="no">ENE 27/2015</campo>
+    <campo url="no">JUN 12/2015</campo>
+    <campo url="no">PPPPP</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">213199</campo>
+    <campo url="no">GUZMAN ORTEGA AXELL ALBERTO</campo>
+    <campo url="no">ENE 26/2015</campo>
+    <campo url="no">MAR 30/2015</campo>
+    <campo url="no">PA</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">215080</campo>
+    <campo url="no">ROJAS QUINTERO JUAN CAMILO</campo>
+    <campo url="no">FEB  9/2015</campo>
+    <campo url="no">AGO 13/2015</campo>
+    <campo url="no">PPADAPDDDP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">215147</campo>
+    <campo url="no">LEON CASTANEDA LAURA VANESA</campo>
+    <campo url="no">FEB 11/2015</campo>
+    <campo url="no">JUN 12/2015</campo>
+    <campo url="no">PDDDDDDDDD</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">Deudor</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">215037</campo>
+    <campo url="no">IRIARTE FRANCO ANA SOFIA</campo>
+    <campo url="no">DIC  9/2014</campo>
+    <campo url="no">JUL 10/2015</campo>
+    <campo url="no">DAPAP</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">212017</campo>
+    <campo url="no">URBINA GUTIERREZ ANDRES FELIPE</campo>
+    <campo url="no">DIC  5/2014</campo>
+    <campo url="no">MAR 10/2015</campo>
+    <campo url="no">DP</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">206169</campo>
+    <campo url="no">MESA BOHORQUEZ JUAN ESTEBAN</campo>
+    <campo url="no">DIC  5/2014</campo>
+    <campo url="no">JUN  1/2015</campo>
+    <campo url="no">PPPP</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no">MAYO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">0903</campo>
+    <campo url="no">214151</campo>
+    <campo url="no">HERNANDEZ PEREZ JUAN DAVID</campo>
+    <campo url="no">FEB 24/2015</campo>
+    <campo url="no">JUN 18/2015</campo>
+    <campo url="no">DPPDP</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no">JUNIO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">213032</campo>
+    <campo url="no">PICON PARADA ROQUE SANTIAGO</campo>
+    <campo url="no">DIC  5/2014</campo>
+    <campo url="no">SEP  3/2015</campo>
+    <campo url="no">AAAAAAA</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">215155</campo>
+    <campo url="no">SUAREZ BELTRAN FABIO ANDRES</campo>
+    <campo url="no">ABR  9/2015</campo>
+    <campo url="no">AGO 27/2015</campo>
+    <campo url="no">PAAAA</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">208231</campo>
+    <campo url="no">PERDOMO SANCHEZ LINA SORAYA</campo>
+    <campo url="no">FEB  5/2015</campo>
+    <campo url="no">AGO 24/2015</campo>
+    <campo url="no">DDDDDDDDDP</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no">NOVIEMBRE</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">1104</campo>
+    <campo url="no">214149</campo>
+    <campo url="no">RODRIGUEZ BERMUDEZ ALEXANDRA</campo>
+    <campo url="no">ENE 31/2015</campo>
+    <campo url="no">SEP  4/2015</campo>
+    <campo url="no">DDDDPDA</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no">AGOSTO</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">**************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

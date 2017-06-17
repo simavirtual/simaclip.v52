@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A ABR 30/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE ABRIL"
+   titulo3 = "GRUPO: TR02 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "MAY  6/2016"
+   horaprn = "22:01:41"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV042716.XML">1</campo>
+    <campo url="no">ACEVEDO SANCHEZ MA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,368,214</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">13,535</campo>
+    <campo url="no">ABR 27/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215035</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV040916.XML">2</campo>
+    <campo url="no">BAUTISTA ARGUELLO</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,368,214</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR  9/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215043</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042916.XML">3</campo>
+    <campo url="no">BLANCO VEGA JOSE A</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">ABR 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214002</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041516.XML">4</campo>
+    <campo url="no">CORONEL DAZA ALEJA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 15/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215044</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">GOMEZ NAVARRO ANA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215019</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041216.XML">6</campo>
+    <campo url="no">MELO ARIAS JUAN SE</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215177</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041216.XML">7</campo>
+    <campo url="no">SIERRA AGUILAR LAU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214003</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV041816.XML">8</campo>
+    <campo url="no">SILVA ACEVEDO MARI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">ABR 18/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216028</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV042116.XML">9</campo>
+    <campo url="no">SUAREZ AVAUNZA JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">ABR 21/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215170</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">LOPEZ BARRAGAN MOI</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">692,059</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">15,295</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">ABRABR</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216118</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">SUAREZ PEREZ DANIE</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">216127</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV040716.XML">12</campo>
+    <campo url="no">PATI¥O CAMACHO JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,030,292</campo>
+    <campo url="no">ABRABR+</campo>
+    <campo url="no"></campo>
+    <campo url="no">ABR  7/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214180</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACABR16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">692,059</campo>
+    <campo url="no">7,444,404</campo>
+    <campo url="no">15,295</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">33,839</campo>
+    <campo url="no">8,827,304</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

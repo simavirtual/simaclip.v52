@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS NO FACTURADOS}"
+   titulo1 = "ESTUDIANTES NO FACTURADOS"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE FEBRERO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAR  7/2017"
+   horaprn = "12:36:25"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No. </columna>
+    <columna>GRUPO</columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>MOTIVO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">217096</campo>
+    <campo url="no">FORERO AMADO JUAN DIEGO</campo>
+    <campo url="no">MAR  6/2017</campo>
+    <campo url="no">P</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de FEBRERO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">216039</campo>
+    <campo url="no">GONZALEZ SANCHEZ CARLOS SANTIAGO</campo>
+    <campo url="no">DIC  9/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">Retirado</campo>
+    <campo url="no">EN FEB  8/2017</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE AGOSTO DIA:23. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "AGO 25/2016"
+   horaprn = "09:45:17"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">214180080800</campo>
+    <campo url="no">0002 PATI¥O CAMACHO JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">683,532.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 23/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216093080800</campo>
+    <campo url="no">1601 RODRIGUEZ GALVIS MAXIMILIANO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">556,524.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 23/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">209092080800</campo>
+    <campo url="no">1102 REYES BARCENAS JHOAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1173,743.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 23/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">209168080800</campo>
+    <campo url="no">0802 VILLAMIZAR CARVAJAL DIEGO MART</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 23/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215144080800</campo>
+    <campo url="no">0701 VARGAS BARAJAS NATHALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334,687.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 23/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE MARZO DIA:03. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "MAR  4/2016"
+   horaprn = "07:54:38"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040</campo>
+    <campo url="no">iva por servicios</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">323.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">iva por servicios</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0041</campo>
+    <campo url="no">gravamen a los movimientos fin</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">9.36</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">gravamen a los movimientos financieros</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">500013358600</campo>
+    <campo url="no">descuento transferencia</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">2,017.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">descuento transferencia</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">216066140300</campo>
+    <campo url="no">0701 SILVA OSMA MATEO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,148.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">209124140300</campo>
+    <campo url="no">0701 ANAYA NI¥O JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,148.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216001140300</campo>
+    <campo url="no">0102 MANOSALVA ARIZA JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">691,247.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">211076140300</campo>
+    <campo url="no">0601 SERRANO GONZALEZ JUAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,148.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">211095140300</campo>
+    <campo url="no">1102 BLANCO VARGAS JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,699.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">211181140300</campo>
+    <campo url="no">1101 PE¥A GELVEZ BRANDON YAIR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,699.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">211039140300</campo>
+    <campo url="no">0602 VARGAS BONILLA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,148.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">214129140300</campo>
+    <campo url="no">0001 REYES HERNANDEZ SARA GABRIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">518,435.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">214130140300</campo>
+    <campo url="no">0202 REYES HERNANDEZ JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">513,497.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">213085140300</campo>
+    <campo url="no">1103 PARRA HERRERA JULIETH PATRICIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,699.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">208168140300</campo>
+    <campo url="no">0902 BARON CRISTANCHO MARIA DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">598,792.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">205097021100</campo>
+    <campo url="no">1101 DELGADO PACHECO MARIA JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">5459,739.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">MAR  3/2016</campo>
+    <campo url="no">RECIBO DE FEB A NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

@@ -1,0 +1,103 @@
+//  ENCADENADOR: SISTEMA DE CENTRAL DE RIESGOS
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAY 26/2004 MIE A
+//        Colombia, Bucaramanga        INICIO: 05:15 PM   MAY 26/2004 MIE
+
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente los archivos .LNK correspondientes
+
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+
+// SINTAXIS:
+//          Rmake SimaAsis /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaAsis
+      OBJDIR := \SimaClip.v52\SimaAsis\f\objs
+      SISPRG := \SimaClip.v52\SimaAsis\f
+      FUNPRG := \SimaClip.v52\SimaAsis\f\funcions
+
+      SCOPRG := \SimaClip.v52\SimaCont\f
+      SCOOBJ := \SimaClip.v52\SimaCont\f\objs
+
+      FUNSIM := \SimaClip.v52\Sima.Fun\f
+      OBJSIM := \SimaClip.v52\Sima.Fun
+
+      OPTIONS := /w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaAsis\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker6\Bin\Blinker @\SimaClip.v52\SimaAsis\f\lnk\Blink52p.lnk
+//    LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaAsis\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SimaAsis.obj" : "$(SISPRG)\SimaAsis.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Asist101.obj" : "$(SISPRG)\Asist101.prg"
+"$(OBJDIR)\Asist102.obj" : "$(SISPRG)\Asist102.prg"
+"$(OBJDIR)\Asist103.obj" : "$(SISPRG)\Asist103.prg"
+"$(OBJDIR)\Asist301.obj" : "$(SISPRG)\Asist301.prg"
+"$(OBJDIR)\Asist302.obj" : "$(SISPRG)\Asist302.prg"
+"$(OBJDIR)\Asist401.obj" : "$(SISPRG)\Asist401.prg"
+"$(OBJDIR)\Asist402.obj" : "$(SISPRG)\Asist402.prg"
+"$(OBJDIR)\Asist403.obj" : "$(SISPRG)\Asist403.prg"
+"$(OBJDIR)\Asist404.obj" : "$(SISPRG)\Asist404.prg"
+"$(OBJDIR)\Asist405.obj" : "$(SISPRG)\Asist405.prg"
+"$(OBJDIR)\Asist406.obj" : "$(SISPRG)\Asist406.prg"
+"$(OBJDIR)\Asist707.obj" : "$(SISPRG)\Asist707.prg"
+"$(OBJDIR)\Asist708.obj" : "$(SISPRG)\Asist708.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\AsistFun.obj" :  "$(FUNPRG)\AsistFun.prg"
+"$(OBJDIR)\fSimaAsi.obj" :  "$(FUNPRG)\fSimaAsi.prg"
+"$(OBJDIR)\fAsisAno.obj" :  "$(FUNPRG)\fAsisAno.prg"
+"$(OBJDIR)\fCtrAsis.obj" :  "$(FUNPRG)\fCtrAsis.prg"
+"$(OBJDIR)\fTipoAus.obj" :  "$(FUNPRG)\fTipoAus.prg"
+.prg.obj:
+	 clipper $(SCOPRG)\funcions\$* $(OPTIONS)/o$(SCOOBJ)\$
+"$(SCOOBJ)\fSimaCon.obj" : "$(SCOPRG)\funcions\fSimaCon.prg"
+.prg.obj:
+	 clipper $(FUNSIM)\$* $(OPTIONS)/o$(OBJSIM)\$
+"$(OBJSIM)\SimaFun.obj" : "$(FUNSIM)\SimaFun.prg"
+"$(OBJSIM)\SimaAlu.obj" : "$(FUNSIM)\SimaAlu.prg"
+"$(OBJSIM)\SimaNiv.obj" : "$(FUNSIM)\SimaNiv.prg"
+"$(OBJSIM)\SimaPro.obj" : "$(FUNSIM)\SimaPro.prg"
+"$(OBJSIM)\SimaGru.obj" : "$(FUNSIM)\SimaGru.prg"
+"$(OBJSIM)\SimaMat.obj" : "$(FUNSIM)\SimaMat.prg"
+"$(OBJSIM)\SimaPla.obj" : "$(FUNSIM)\SimaPla.prg"
+"$(OBJSIM)\SimaHra.obj" : "$(FUNSIM)\SimaHra.prg"
+"$(OBJSIM)\gContPnl.obj" : "$(FUNSIM)\gContPnl.prg"
+"$(OBJSIM)\eContPnl.obj" : "$(FUNSIM)\eContPnl.prg"
+"$(OBJSIM)\gContTpe.obj" : "$(FUNSIM)\gContTpe.prg"
+"$(OBJSIM)\eContTpe.obj" : "$(FUNSIM)\eContTpe.prg"
+"$(OBJSIM)\gContHor.obj" : "$(FUNSIM)\gContHor.prg"
+"$(OBJSIM)\eContHor.obj" : "$(FUNSIM)\eContHor.prg"
+"$(OBJSIM)\gSimaInf.obj" : "$(FUNSIM)\gSimaInf.prg"
+"$(OBJSIM)\eSimaInf.obj" : "$(FUNSIM)\eSimaInf.prg"
+"$(OBJSIM)\gSimaIso.obj" : "$(FUNSIM)\gSimaIso.prg"
+"$(OBJSIM)\eSimaIso.obj" : "$(FUNSIM)\eSimaIso.prg"
+"$(OBJSIM)\gAsisNov.obj" : "$(FUNSIM)\gAsisNov.prg"
+"$(OBJSIM)\eAsisNov.obj" : "$(FUNSIM)\eAsisNov.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\simaasis.obj
+    $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

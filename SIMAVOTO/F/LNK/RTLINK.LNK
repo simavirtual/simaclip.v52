@@ -1,0 +1,58 @@
+#  ENCADENADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: feb 16/2009 DIA A
+#       Colombia, Bucaramanga        INICIO:  08:36 AM
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \simaclip.v52\simavoto\simavoto
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \simaclip.v52\simavoto\f\objs\simavoto
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \simaclip.v52\simavoto\simavoto
+
+       @lnk\Vot100.lnk
+       @lnk\Vot200.lnk
+       @lnk\Vot300.lnk
+       @lnk\Vot400.lnk
+       @lnk\Vot500.lnk
+       @lnk\Vot600.lnk
+       @lnk\Vot700.lnk
+
+       @lnk\VotFun.lnk
+       @lnk\VotInf.lnk
+       @lnk\VotSha.lnk
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+       @\simaclip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\simaclip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

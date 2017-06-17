@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02.{PAGOS}{INFORMES FACTURACION}{CONTROL TOTAL ESTUDIANTES}{ALUMNOS POR JUSTIFICAR}"
+   titulo1 = "ESTUDIANTES POR JUSTIFICAR"
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE FEBRERO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "MAR  4/2016"
+   horaprn = "10:30:53"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No. </columna>
+    <columna>GRUPO</columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MATRICULA</columna>
+    <columna>123456789012</columna>
+    <columna>MES FACTURADO</columna>
+    <columna>MOTIVO</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">214014</campo>
+    <campo url="no">CONTRERAS CABRERA NIKOLE DANIELA</campo>
+    <campo url="no">MAR  2/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de FEBRERO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">214034</campo>
+    <campo url="no">CONTRERAS CABRERA OSCAR SANTIAGO</campo>
+    <campo url="no">MAR  2/2016</campo>
+    <campo url="no">P</campo>
+    <campo url="no">MARZO</campo>
+    <campo url="no">Matr¡cula</campo>
+    <campo url="no">Despu‚s de recibos de FEBRERO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">216116</campo>
+    <campo url="no">HSU LEE ALEJANDRO</campo>
+    <campo url="no">FEB  3/2016</campo>
+    <campo url="no">A</campo>
+    <campo url="no">FEBRERO</campo>
+    <campo url="no">Con Recibo</campo>
+    <campo url="no">RETIRADO EN MAR  1/2016</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+
+  </registro>
+
+</registros>

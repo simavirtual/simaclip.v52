@@ -1,0 +1,38 @@
+#  LINKEADOR: SIMA - CONTABILIDAD ACADEMICA PROFESORES
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>INFORMES DEL SISTEMA
+       fi \simaclip.v52\simaprof\f\objs\SprInfor
+     #ÀInformes de la aplicaci¢n
+
+       fi \simaclip.v52\simaprof\f\objs\Spr00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simaprof\f\objs\Spr00200
+     #ÀInformes Controlados
+
+       fi \simaclip.v52\simaprof\f\objs\Spr10300
+     #ÀResumen de Indicadores Aplicados
+
+       fi \simaclip.v52\simaprof\f\objs\Spr26100
+     #ÀErrores en la grabaci¢n por grupos.
+
+       fi \simaclip.v52\simaprof\f\objs\S5040100
+       fi \simaclip.v52\simaprof\f\objs\S5040200
+     #ÀClasificaci¢n de Indicadores
+
+       fi \simaclip.v52\simaprof\f\objs\Spr75100
+     #ÀIndicadores Provisionales
+#>>>>FIN INFORMES DEL SISTEMA
+
+#>>>>INFORMES COMPARTIDOS
+       fi \simaclip.v52\simacont\f\objs\Sco40400
+     #ÀClasificaci¢n de Indicadores
+#>>>>INFORMES COMPARTIDOS

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE OCTUBRE DIA:06. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "OCT  7/2016"
+   horaprn = "10:18:35"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0040      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">263.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">500013358605</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">1,645.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">32,912.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">7.63</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211122141000</campo>
+    <campo url="no">0601 MERCHAN NAVARRO MARIA DANIELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">668,454.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">211205141000</campo>
+    <campo url="no">0701 SARMIENTO MARTINEZ ANA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1352,192.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216033141000</campo>
+    <campo url="no">0101 SARMIENTO GOMEZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">692,600.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">211204141000</campo>
+    <campo url="no">0401 SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">668,454.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">213169141000</campo>
+    <campo url="no">0701 BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1375,482.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">209059141000</campo>
+    <campo url="no">0802 PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">668,454.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">211095141000</campo>
+    <campo url="no">1102 BLANCO VARGAS JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">588,192.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">630000619800</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">8228,000.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">216138111100</campo>
+    <campo url="no">0701 LOPEZ JARAMILLO MIGUEL ANGEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">378,078.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">RECIBO DE NOV PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">216144101000</campo>
+    <campo url="no">1001 VALERO GARCIA LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">216079141000</campo>
+    <campo url="no">0202 CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">697,730.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">213159141000</campo>
+    <campo url="no">0902 RAMOS MONROY ALEJANDRA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1213,177.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">212087141000</campo>
+    <campo url="no">1003 RUEDA CHACON DAVID ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">599,964.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  6/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">214152101000</campo>
+    <campo url="no">0102 HERNANDEZ CARRILLO DANA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369,364.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  6/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">212043101000</campo>
+    <campo url="no">0701 OLARTE GOMEZ MATTIAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  6/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">212084101000</campo>
+    <campo url="no">1103 BARBOSA NI¥O NATALIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  7/2016</campo>
+    <campo url="no">RECIBO DE OCT PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">215140141100</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">960,500.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">OCT  7/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

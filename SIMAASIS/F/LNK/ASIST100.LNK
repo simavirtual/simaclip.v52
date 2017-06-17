@@ -1,0 +1,15 @@
+#  ENCADENADOR PARA SIMA - CONTROL DE ASISTENCIA
+
+#*************************************************************************
+# MODULO..: ASISTENCIA                                                   *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist101
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist102
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist103
+#>>>>FIN ARCHIVOS DEL MODULO

@@ -1,0 +1,18 @@
+#  ENCADENADOR PARA SIMA - CONTROL DE ASISTENCIA
+
+#*************************************************************************
+# MODULO..: INFOREMES                                                    *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist401
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist402
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist403
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist404
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist405
+       fi \SimaClip.V52\SimaAsis\f\objs\Asist406
+#>>>>FIN ARCHIVOS DEL MODULO

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE AGOSTO DIA:25. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "AGO 26/2016"
+   horaprn = "08:49:56"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215142140800</campo>
+    <campo url="no">0701 HERNANDEZ ZAMBRANO VALERIA MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,932.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">215143140800</campo>
+    <campo url="no">1103 HERNANDEZ ZAMBRANO VALENTINA E</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,389.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">207126080800</campo>
+    <campo url="no">1101 GAONA OSORIO CESAR FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">209037080800</campo>
+    <campo url="no">0801 MONTAGUTH DURAN SEBASTIAN CAMI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">214178080800</campo>
+    <campo url="no">0201 MARTINEZ CHEHAYEB SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369,727.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214177080800</campo>
+    <campo url="no">0001 MARTINEZ CHEHAYEB NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1382,899.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214179080800</campo>
+    <campo url="no">0501 MARTINEZ CHEHAYEB PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1001,017.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">215011080800</campo>
+    <campo url="no">0401 DUQUE CHAPARRO JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">659,702.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">211206080800</campo>
+    <campo url="no">0502 PAEZ BARON SAMI JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1334,687.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">215114080800</campo>
+    <campo url="no">1102 CARRASCAL LEMUS LUIS FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">580,151.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 25/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">216098080800</campo>
+    <campo url="no">0201 GALLO BELLO ALEJANDRO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">677,021.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">AGO 26/2016</campo>
+    <campo url="no">RECIBO DE AGO PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

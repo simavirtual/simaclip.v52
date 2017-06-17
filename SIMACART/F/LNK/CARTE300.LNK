@@ -1,0 +1,18 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: CONSULTAS                                                    *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\simacart\f\objs\Carte301
+       fi \SimaClip.V52\simacart\f\objs\Carte304
+       fi \SimaClip.V52\simacart\f\objs\Carte342
+       fi \SimaClip.V52\simacart\f\objs\Carte305
+       fi \SimaClip.V52\simacart\f\objs\Carte306
+       fi \SimaClip.V52\simacart\f\objs\Carte307
+#>>>>FIN ARCHIVOS DEL MODULO

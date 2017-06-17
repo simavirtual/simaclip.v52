@@ -1,0 +1,14 @@
+#  ENCADENADOR: SIMA - SISTEMA PARA INTRANET E INTERNET
+
+#*************************************************************************
+# MODULO..: MYSQL                                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.V52\SimaPark\f\objs\Park101
+       fi \SimaClip.V52\SimaPark\f\objs\Park102
+#>>>>FIN ARCHIVOS DEL MODULO

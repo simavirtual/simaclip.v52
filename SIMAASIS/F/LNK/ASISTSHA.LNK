@@ -1,0 +1,55 @@
+#  ENCADENADOR PARA SIMA - CONTROL DE ASISTENCIA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaNiv
+       fi \SimaClip.v52\sima.fun\SimaPro
+       fi \SimaClip.v52\sima.fun\SimaGru
+       fi \SimaClip.v52\sima.fun\SimaMat
+       fi \SimaClip.v52\sima.fun\SimaPla
+       fi \SimaClip.v52\sima.fun\SimaHra
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.v52\sima.fun\gContPnl
+       fi \SimaClip.v52\sima.fun\eContPnl
+     #ÀPersonal de la empresa
+
+       fi \SimaClip.v52\sima.fun\gContTpe
+       fi \SimaClip.v52\sima.fun\eContTpe
+     #ÀTipo Personal de la empresa
+
+       fi \SimaClip.v52\sima.fun\gContHor
+       fi \SimaClip.v52\sima.fun\eContHor
+     #ÀHorario de Clase
+
+       fi \SimaClip.v52\sima.fun\gSimaInf
+       fi \SimaClip.v52\sima.fun\eSimaInf
+     #ÀDocumentos Iso
+
+       fi \SimaClip.v52\sima.fun\gSimaIso
+       fi \SimaClip.v52\sima.fun\eSimaIso
+     #ÀDocumentos Iso
+
+       fi \SimaClip.v52\sima.fun\gAsisNov
+       fi \SimaClip.v52\sima.fun\eAsisNov
+     #ÀNovedades de Asistencia.
+
+
+       fi \SimaClip.v52\SimaCont\f\objs\FSimaCon
+     #ÀFunciones de la contabilidad
+
+
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotAsist.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

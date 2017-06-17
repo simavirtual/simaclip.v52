@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{PAGOS DEL MES}"
+   titulo1 = "PAGOS DEL MES."
+   titulo2 = "CORRESPONDIENTE A RECIBOS DE ABRIL"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAY  5/2017"
+   horaprn = "17:11:32"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>GRANDES/TOTALES</columna>
+    <columna>RECIBOS</columna>
+    <columna>ABONOS</columna>
+    <columna>P PARCIALES</columna>
+    <columna>TOTALES</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="EXTABR17.XML">2017 ABR  01</campo>
+    <campo url="no">239,412,420</campo>
+    <campo url="no">27,012,221</campo>
+    <campo url="no">0</campo>
+    <campo url="no">266,424,641</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\0000.DIU\sitios\facturar\FACT   EXT   00.XML">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTMAR\EXTMAR17.XML">2017 MAR  01</campo>
+    <campo url="no">1,350,591</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">1,350,591</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\..\..\sitios\facturar\FACTFEB\EXTFEB17.XML">2017 FEB  01</campo>
+    <campo url="no">0</campo>
+    <campo url="no">0</campo>
+    <campo url="no">638,944</campo>
+    <campo url="no">638,944</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">SIN FECHA =    1</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+    <campo url="no">================</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES</campo>
+    <campo url="no">240,763,011</campo>
+    <campo url="no">27,012,221</campo>
+    <campo url="no">638,944</campo>
+    <campo url="no">268,414,176</campo>
+
+  </registro>
+
+</registros>

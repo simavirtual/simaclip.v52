@@ -1,0 +1,23 @@
+
+D:\simaclip.v52\SIMACART\F>clipper \simaclip.v52\simacart\f\funcions\otrext43 /w/m/b 
+337K available
+Compiling \simaclip.v52\simacart\f\funcions\OTREXT43.PRG
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(478)    Warning C1004  Ambiguous reference, assuming memvar: 'LSUMAR'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(482)    Warning C1004  Ambiguous reference, assuming memvar: 'LSUMAR'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(488)    Warning C1003  Ambiguous reference: 'LSHARED'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(494)    Warning C1003  Ambiguous reference: 'CNROMES'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(497)    Warning C1003  Ambiguous reference: 'LSUMAR'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(509)    Warning C1003  Ambiguous reference: 'LSHARED'
+\simaclip.v52\simacart\f\funcions\OTREXT43.PRG(510)    Warning C1007  Function does not end with RETURN
+7 warnings                
+Code size 5129, Symbols 3792, Constants 1575
+
+D:\simaclip.v52\SIMACART\F>copy *.obj \simaclip.v52\simacart\f\objs 
+OTREXT43.OBJ
+        1 archivo(s) copiado(s).
+
+D:\simaclip.v52\SIMACART\F>del  *.obj 
+
+D:\simaclip.v52\SIMACART\F>del \simaclip.v52\simacart\f\funcions\*.bak 
+
+D:\simaclip.v52\SIMACART\F>del \simaclip.v52\simacart\f\funcions\tc*.* 

@@ -1,0 +1,215 @@
+//  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+//*************************************************************************
+// NOMBRE DEL ENCADENADOR..: PLUSCONT.RMK                                 *
+// TITULO DEL PROGRAMA.....: UTILIDAD DE CONTRUCCION DEL SISTEMA          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+//	  Colombia, Bucaramanga	       INICIO: 09:05 AM   Pendiente
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaMatr /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaCont
+      OBJDIR := \SimaClip.v52\SimaCont\f\objs
+      SISPRG := \SimaClip.v52\SimaCont\f
+      FUNPRG := \SimaClip.v52\SimaCont\f\funcions
+      FUNINF := \SimaClip.v52\SimaCont\f\inforsys
+      OPTIONS := /w/b
+      LINKER  := Rtlink @$(FILSCR).lnk
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaCont\f\lnk\Depurar.lnk
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaCont\f\lnk\Rtlink.lnk
+    LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaCont\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* /w/b/o$(OBJDIR)\$
+"$(OBJDIR)\Pluscont.obj" : "$(SISPRG)\PlusCont.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\conta101.obj" : "$(SISPRG)\conta101.prg"
+"$(OBJDIR)\conta104.obj" : "$(SISPRG)\conta104.prg"
+"$(OBJDIR)\conta105.obj" : "$(SISPRG)\conta105.prg"
+"$(OBJDIR)\conta106.obj" : "$(SISPRG)\conta106.prg"
+"$(OBJDIR)\conta107.obj" : "$(SISPRG)\conta107.prg"
+"$(OBJDIR)\conta108.obj" : "$(SISPRG)\conta108.prg"
+"$(OBJDIR)\conta201.obj" : "$(SISPRG)\conta201.prg"
+"$(OBJDIR)\conta202.obj" : "$(SISPRG)\conta202.prg"
+"$(OBJDIR)\conta203.obj" : "$(SISPRG)\conta203.prg"
+"$(OBJDIR)\conta204.obj" : "$(SISPRG)\conta204.prg"
+"$(OBJDIR)\conta205.obj" : "$(SISPRG)\conta205.prg"
+"$(OBJDIR)\conta251.obj" : "$(SISPRG)\conta251.prg"
+"$(OBJDIR)\conta252.obj" : "$(SISPRG)\conta252.prg"
+"$(OBJDIR)\conta253.obj" : "$(SISPRG)\conta253.prg"
+"$(OBJDIR)\conta254.obj" : "$(SISPRG)\conta254.prg"
+"$(OBJDIR)\conta255.obj" : "$(SISPRG)\conta255.prg"
+"$(OBJDIR)\conta206.obj" : "$(SISPRG)\conta206.prg"
+"$(OBJDIR)\conta261.obj" : "$(SISPRG)\conta261.prg"
+"$(OBJDIR)\contE261.obj" : "$(SISPRG)\contE261.prg"
+"$(OBJDIR)\conta262.obj" : "$(SISPRG)\conta262.prg"
+"$(OBJDIR)\contE262.obj" : "$(SISPRG)\contE262.prg"
+"$(OBJDIR)\conta207.obj" : "$(SISPRG)\conta207.prg"
+"$(OBJDIR)\conta208.obj" : "$(SISPRG)\conta208.prg"
+"$(OBJDIR)\conta209.obj" : "$(SISPRG)\conta209.prg"
+"$(OBJDIR)\conta291.obj" : "$(SISPRG)\conta291.prg"
+"$(OBJDIR)\conta292.obj" : "$(SISPRG)\conta292.prg"
+"$(OBJDIR)\conta301.obj" : "$(SISPRG)\conta301.prg"
+"$(OBJDIR)\conta311.obj" : "$(SISPRG)\conta311.prg"
+"$(OBJDIR)\cont3111.obj" : "$(SISPRG)\cont3111.prg"
+"$(OBJDIR)\cont3112.obj" : "$(SISPRG)\cont3112.prg"
+"$(OBJDIR)\cont3113.obj" : "$(SISPRG)\cont3113.prg"
+"$(OBJDIR)\conta312.obj" : "$(SISPRG)\conta312.prg"
+"$(OBJDIR)\cont3121.obj" : "$(SISPRG)\cont3121.prg"
+"$(OBJDIR)\cont3122.obj" : "$(SISPRG)\cont3122.prg"
+"$(OBJDIR)\conta317.obj" : "$(SISPRG)\conta317.prg"
+"$(OBJDIR)\conta318.obj" : "$(SISPRG)\conta318.prg"
+"$(OBJDIR)\conta319.obj" : "$(SISPRG)\conta319.prg"
+"$(OBJDIR)\conta302.obj" : "$(SISPRG)\conta302.prg"
+"$(OBJDIR)\conta303.obj" : "$(SISPRG)\conta303.prg"
+"$(OBJDIR)\conta331.obj" : "$(SISPRG)\conta331.prg"
+"$(OBJDIR)\conta332.obj" : "$(SISPRG)\conta332.prg"
+"$(OBJDIR)\conta333.obj" : "$(SISPRG)\conta333.prg"
+"$(OBJDIR)\conta334.obj" : "$(SISPRG)\conta334.prg"
+"$(OBJDIR)\conta335.obj" : "$(SISPRG)\conta335.prg"
+"$(OBJDIR)\conta305.obj" : "$(SISPRG)\conta305.prg"
+"$(OBJDIR)\conta306.obj" : "$(SISPRG)\conta306.prg"
+"$(OBJDIR)\conta307.obj" : "$(SISPRG)\conta307.prg"
+"$(OBJDIR)\conta308.obj" : "$(SISPRG)\conta308.prg"
+"$(OBJDIR)\conta401.obj" : "$(SISPRG)\conta401.prg"
+"$(OBJDIR)\conta411.obj" : "$(SISPRG)\conta411.prg"
+"$(OBJDIR)\conta412.obj" : "$(SISPRG)\conta412.prg"
+"$(OBJDIR)\conta414.obj" : "$(SISPRG)\conta414.prg"
+"$(OBJDIR)\conta415.obj" : "$(SISPRG)\conta415.prg"
+"$(OBJDIR)\conta416.obj" : "$(SISPRG)\conta416.prg"
+"$(OBJDIR)\conta402.obj" : "$(SISPRG)\conta402.prg"
+"$(OBJDIR)\conta403.obj" : "$(SISPRG)\conta403.prg"
+"$(OBJDIR)\conta407.obj" : "$(SISPRG)\conta407.prg"
+"$(OBJDIR)\conta501.obj" : "$(SISPRG)\conta501.prg"
+"$(OBJDIR)\conta511.obj" : "$(SISPRG)\conta511.prg"
+"$(OBJDIR)\conta512.obj" : "$(SISPRG)\conta512.prg"
+"$(OBJDIR)\cont513.obj" : "$(SISPRG)\cont513.prg"
+"$(OBJDIR)\cont514.obj" : "$(SISPRG)\cont514.prg"
+"$(OBJDIR)\conta513.obj" : "$(SISPRG)\conta513.prg"
+"$(OBJDIR)\conta514.obj" : "$(SISPRG)\conta514.prg"
+"$(OBJDIR)\conta515.obj" : "$(SISPRG)\conta515.prg"
+"$(OBJDIR)\conta502.obj" : "$(SISPRG)\conta502.prg"
+"$(OBJDIR)\conta503.obj" : "$(SISPRG)\conta503.prg"
+"$(OBJDIR)\conta504.obj" : "$(SISPRG)\conta504.prg"
+"$(OBJDIR)\conta541.obj" : "$(SISPRG)\conta541.prg"
+"$(OBJDIR)\conta542.obj" : "$(SISPRG)\conta542.prg"
+"$(OBJDIR)\conta505.obj" : "$(SISPRG)\conta505.prg"
+"$(OBJDIR)\conta551.obj" : "$(SISPRG)\conta551.prg"
+"$(OBJDIR)\conta552.obj" : "$(SISPRG)\conta552.prg"
+"$(OBJDIR)\conta553.obj" : "$(SISPRG)\conta553.prg"
+"$(OBJDIR)\conta554.obj" : "$(SISPRG)\conta554.prg"
+"$(OBJDIR)\conta601.obj" : "$(SISPRG)\conta601.prg"
+"$(OBJDIR)\conta602.obj" : "$(SISPRG)\conta602.prg"
+"$(OBJDIR)\conta621.obj" : "$(SISPRG)\conta621.prg"
+"$(OBJDIR)\conta622.obj" : "$(SISPRG)\conta622.prg"
+"$(OBJDIR)\conta623.obj" : "$(SISPRG)\conta623.prg"
+"$(OBJDIR)\conta624.obj" : "$(SISPRG)\conta624.prg"
+"$(OBJDIR)\conta603.obj" : "$(SISPRG)\conta603.prg"
+"$(OBJDIR)\conta704.obj" : "$(SISPRG)\conta704.prg"
+"$(OBJDIR)\conta705.obj" : "$(SISPRG)\conta705.prg"
+"$(OBJDIR)\conta756.obj" : "$(SISPRG)\conta756.prg"
+"$(OBJDIR)\cont7561.obj" : "$(SISPRG)\cont7561.prg"
+"$(OBJDIR)\cont7562.obj" : "$(SISPRG)\cont7562.prg"
+"$(OBJDIR)\conta758.obj" : "$(SISPRG)\conta758.prg"
+"$(OBJDIR)\conta706.obj" : "$(SISPRG)\conta706.prg"
+"$(OBJDIR)\conta769.obj" : "$(SISPRG)\conta769.prg"
+"$(OBJDIR)\conta707.obj" : "$(SISPRG)\conta707.prg"
+"$(OBJDIR)\conta775.obj" : "$(SISPRG)\conta775.prg"
+"$(OBJDIR)\conta708.obj" : "$(SISPRG)\conta708.prg"
+"$(OBJDIR)\conta709.obj" : "$(SISPRG)\conta709.prg"
+"$(OBJDIR)\conta791.obj" : "$(SISPRG)\conta791.prg"
+"$(OBJDIR)\conta792.obj" : "$(SISPRG)\conta792.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\FSimaCon.obj" : "$(FUNPRG)\FSimaCon.prg"
+"$(OBJDIR)\FContAno.obj" : "$(FUNPRG)\FContAno.prg"
+"$(OBJDIR)\FContTbl.obj" : "$(FUNPRG)\FContTbl.prg"
+"$(OBJDIR)\FContLog.obj" : "$(FUNPRG)\FContLog.prg"
+"$(OBJDIR)\ContaFun.obj" : "$(FUNPRG)\ContaFun.prg"
+"$(OBJDIR)\ContaFu1.obj" : "$(FUNPRG)\ContaFu1.prg"
+"$(OBJDIR)\FuncsAlu.obj" : "$(FUNPRG)\FuncsAlu.prg"
+"$(OBJDIR)\FuncsGru.obj" : "$(FUNPRG)\FuncsGru.prg"
+"$(OBJDIR)\FuncsNiv.obj" : "$(FUNPRG)\FuncsNiv.prg"
+"$(OBJDIR)\FuncsBol.obj" : "$(FUNPRG)\FuncsBol.prg"
+"$(OBJDIR)\FuncsLib.obj" : "$(FUNPRG)\FuncsLib.prg"
+"$(OBJDIR)\FuncsCer.obj" : "$(FUNPRG)\FuncsCer.prg"
+"$(OBJDIR)\FuncsCns.obj" : "$(FUNPRG)\FuncsCns.prg"
+"$(OBJDIR)\FuncsEmp.obj" : "$(FUNPRG)\FuncsEmp.prg"
+"$(OBJDIR)\FuncsPro.obj" : "$(FUNPRG)\FuncsPro.prg"
+"$(OBJDIR)\FuncsOrg.obj" : "$(FUNPRG)\FuncsOrg.prg"
+"$(OBJDIR)\FuncsMat.obj" : "$(FUNPRG)\FuncsMat.prg"
+"$(OBJDIR)\FuncsSel.obj" : "$(FUNPRG)\FuncsSel.prg"
+"$(OBJDIR)\FuncsPla.obj" : "$(FUNPRG)\FuncsPla.prg"
+"$(OBJDIR)\FuncsSuN.obj" : "$(FUNPRG)\FuncsSuN.prg"
+"$(OBJDIR)\FuncsSuG.obj" : "$(FUNPRG)\FuncsSuG.prg"
+"$(OBJDIR)\FuncsNot.obj" : "$(FUNPRG)\FuncsNot.prg"
+"$(OBJDIR)\FuncsHab.obj" : "$(FUNPRG)\FuncsHab.prg"
+"$(OBJDIR)\FuncsCar.obj" : "$(FUNPRG)\FuncsCar.prg"
+"$(OBJDIR)\FuncsPaz.obj" : "$(FUNPRG)\FuncsPaz.prg"
+"$(OBJDIR)\gContJui.obj" : "$(FUNPRG)\gContJui.prg"
+"$(OBJDIR)\eContJui.obj" : "$(FUNPRG)\eContJui.prg"
+"$(OBJDIR)\FuncsEva.obj" : "$(FUNPRG)\FuncsEva.prg"
+"$(OBJDIR)\FuncsApr.obj" : "$(FUNPRG)\FuncsApr.prg"
+"$(OBJDIR)\FuncsFun.obj" : "$(FUNPRG)\FuncsFun.prg"
+"$(OBJDIR)\FCorrBol.obj" : "$(FUNPRG)\FCorrBol.prg"
+"$(OBJDIR)\fDeudaPz.obj" : "$(FUNPRG)\fDeudaPz.prg"
+"$(OBJDIR)\FBoleXml.obj" : "$(FUNPRG)\FBoleXml.prg"
+"$(OBJDIR)\FBoleXsl.obj" : "$(FUNPRG)\FBoleXsl.prg"
+"$(OBJDIR)\FBoleSql.obj" : "$(FUNPRG)\FBoleSql.prg"
+"$(OBJDIR)\FuCal000.obj" : "$(FUNPRG)\FuCal000.prg"
+"$(OBJDIR)\FuCal001.obj" : "$(FUNPRG)\FuCal001.prg"
+"$(OBJDIR)\FuCal102.obj" : "$(FUNPRG)\FuCal102.prg"
+"$(OBJDIR)\FuCal103.obj" : "$(FUNPRG)\FuCal103.prg"
+"$(OBJDIR)\FuCal301.obj" : "$(FUNPRG)\FuCal301.prg"
+"$(OBJDIR)\FuCal302.obj" : "$(FUNPRG)\FuCal302.prg"
+"$(OBJDIR)\FuCal099.obj" : "$(FUNPRG)\FuCal099.prg"
+"$(OBJDIR)\FuCalAnt.obj" : "$(FUNPRG)\FuCalAnt.prg"
+"$(OBJDIR)\gContCla.obj" : "$(FUNPRG)\gContCla.prg"
+"$(OBJDIR)\eContCla.obj" : "$(FUNPRG)\eContCla.prg"
+"$(OBJDIR)\gSubIndi.obj" : "$(FUNPRG)\gSubIndi.prg"
+"$(OBJDIR)\eSubIndi.obj" : "$(FUNPRG)\eSubIndi.prg"
+"$(OBJDIR)\gContNro.obj" : "$(FUNPRG)\gContNro.prg"
+"$(OBJDIR)\eContNro.obj" : "$(FUNPRG)\eContNro.prg"
+.prg.obj:
+	 clipper inforsys\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Scoinfor.obj" : "$(FUNINF)\Scoinfor.prg"
+"$(OBJDIR)\Sco00100.obj" : "$(FUNINF)\Sco00100.prg"
+"$(OBJDIR)\Sco00200.obj" : "$(FUNINF)\Sco00200.prg"
+"$(OBJDIR)\Sco25400.obj" : "$(FUNINF)\Sco25400.prg"
+"$(OBJDIR)\Sco50200.obj" : "$(FUNINF)\Sco50200.prg"
+"$(OBJDIR)\Sco41200.obj" : "$(FUNINF)\Sco41200.prg"
+"$(OBJDIR)\Sco40400.obj" : "$(FUNINF)\Sco40400.prg"
+"$(OBJDIR)\Sco76500.obj" : "$(FUNINF)\Sco76500.prg"
+"$(OBJDIR)\Sco77300.obj" : "$(FUNINF)\Sco77300.prg"
+"$(OBJDIR)\Sco77400.obj" : "$(FUNINF)\Sco77400.prg"
+"$(OBJDIR)\Sco77400.obj" : "$(FUNINF)\Sco77400.prg"
+"$(OBJDIR)\ScoBol11.obj" : "$(FUNINF)\ScoBol11.prg"
+"$(OBJDIR)\ScoBol96.obj" : "$(FUNINF)\ScoBol96.prg"
+"$(OBJDIR)\ScoBol97.obj" : "$(FUNINF)\ScoBol97.prg"
+"$(OBJDIR)\ScoCer02.obj" : "$(FUNINF)\ScoCer02.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+     $(FILSCR).EXE: $(OBJDIR)\pluscont.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

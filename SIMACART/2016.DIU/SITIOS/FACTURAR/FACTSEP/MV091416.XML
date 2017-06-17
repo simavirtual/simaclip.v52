@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{MOVIMIENTO DIARIO}"
+   titulo1 = "MOVIMIENTOS DEL MES DE SEPTIEMBRE DIA:14. A¥O: 2016"
+   titulo2 = "RELACION POR CODIGO DEL ESTUDIANTE"
+   titulo3 = "Nota: La confiabilidad depende del Banco"
+   fechprn = "SEP 15/2016"
+   horaprn = "08:53:05"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>Nro.</columna>
+    <columna>REFERENCIA</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>FECHA.PAGO</columna>
+    <columna>OBSERVACION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0041      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">5,425.77</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0028      02</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">917,343.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">213021090900</campo>
+    <campo url="no">0401 SUAREZ PINZON MARIA LUCIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214201090900</campo>
+    <campo url="no">0802 ARGUELLO GOMEZ DYLAN DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">210044090900</campo>
+    <campo url="no">0602 SALAZAR VILLAMIZAR JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">215043090900</campo>
+    <campo url="no">0002 BAUTISTA ARGUELLO EMANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1369,364.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">216094090900</campo>
+    <campo url="no">0101 AYALA GARCIA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">212038090900</campo>
+    <campo url="no">1102 MEJIA PARADA MONICA MARCELA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">216119090900</campo>
+    <campo url="no">0902 DELGADO ALFONSO KEYNER STEVEN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">208099090900</campo>
+    <campo url="no">0901 SUAREZ PINZON JORGE EDUARDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">0217360949+0</campo>
+    <campo url="no">?</campo>
+    <campo url="no">055</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">439,100.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">?</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">211134090900</campo>
+    <campo url="no">0502 PEREZ SANCHEZ ANA LUCIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">215160090900</campo>
+    <campo url="no">1001 GARCIA TORRES JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">216035090900</campo>
+    <campo url="no">0302 RENGIFO PULIDO JUAN JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">214033090900</campo>
+    <campo url="no">0402 MANTILLA GUTIERREZ SARAH SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">214048090900</campo>
+    <campo url="no">0801 BUSTOS HERNANDEZ JULIAN ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">216057090900</campo>
+    <campo url="no">0501 LOPEZ DUARTE LUNA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1321,624.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">212050090900</campo>
+    <campo url="no">0802 SANTOS ORTIZ CARLOS ALBERTO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">212051090900</campo>
+    <campo url="no">1001 SANTOS ORTIZ CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">212003090900</campo>
+    <campo url="no">0502 VALERO RUEDA SAMUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">213085090900</campo>
+    <campo url="no">1103 PARRA HERRERA JULIETH PATRICIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">216015090900</campo>
+    <campo url="no">0602 RODRIGUEZ JAIMES MARIA JULIANA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">215103090900</campo>
+    <campo url="no">0801 RODRIGUEZ AGUSTIN ANGIE YULIET</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">216054090900</campo>
+    <campo url="no">0002 CACERES VELASQUEZ DANNA VALERI</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">215124090900</campo>
+    <campo url="no">0501 FLOREZ MANTILLA DAVID ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">211064090900</campo>
+    <campo url="no">0901 DIAZ ARANGO JUAN ESTEBAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 14/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">213036090900</campo>
+    <campo url="no">0601 LANDAZABAL SUAREZ JOSE LUIS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">215006090900</campo>
+    <campo url="no">0201 RUIZ FLOREZ JUAN MANUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">211093090900</campo>
+    <campo url="no">0502 ESTUPI¥AN MOJICA MARÖA ALEJAND</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">215163090900</campo>
+    <campo url="no">0701 MARTINEZ FORERO KEVIN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">215164090900</campo>
+    <campo url="no">0802 MARTINEZ FORERO CYNTHIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">216100090900</campo>
+    <campo url="no">0301 PARRA MARTINEZ CAMILO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">209162090900</campo>
+    <campo url="no">0801 GONZALEZ BARAJAS ARTURO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">215040090900</campo>
+    <campo url="no">0602 GABANZO MORALES NICOLAS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">214195090900</campo>
+    <campo url="no">0102 TRUJILLO MEDINA MARIA FERNANDA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">209020090900</campo>
+    <campo url="no">0801 SERRANO MENDOZA ALEXANDRA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">207017090900</campo>
+    <campo url="no">1002 SERRANO MENDOZA DIEGO FRANCISC</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">209036090900</campo>
+    <campo url="no">0801 MALDONADO BAYONA JUAN DIEGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">214060090900</campo>
+    <campo url="no">1102 MITCHELL POMBO BRAYAN ORLANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">214059090900</campo>
+    <campo url="no">1103 MITCHELL POMBO SERGIO DANIEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">208079090900</campo>
+    <campo url="no">0902 VILLAMIZAR SIERRA JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">208038090900</campo>
+    <campo url="no">0901 CASTRO VERA MIGUEL SANTIAGO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">213043090900</campo>
+    <campo url="no">0401 PARRA RODRIGUEZ JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">214101090900</campo>
+    <campo url="no">1001 REMOLINA OLIVEROS CAMILO ERNES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">207019090900</campo>
+    <campo url="no">1002 ORTIZ CALDERON JUAN CAMILO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">215072090900</campo>
+    <campo url="no">0101 GOMEZ GOMEZ JULIANA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1163,959.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">216140090900</campo>
+    <campo url="no">0302 MONTOYA SANABRIA SANTIAGO JOSE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">216141090900</campo>
+    <campo url="no">0502 MONTOYA SANABRIA JUAN FELIPE</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">216062090900</campo>
+    <campo url="no">0201 ORTIZ FIGUEROA JUAN PABLO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">670,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">216064090900</campo>
+    <campo url="no">0801 ORTIZ FIGUEROA DANIELA ORTIZ</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">211177090900</campo>
+    <campo url="no">0601 GUTIERREZ PORRAS WILSON ARLEY</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">216004090900</campo>
+    <campo url="no">1501 AGUILAR SIERRA JOSE DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">688,767.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">206183090900</campo>
+    <campo url="no">1002 ACEVEDO NI¥O DIEGO ANDRES</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">215167090900</campo>
+    <campo url="no">0902 PLATA CARDENAS JUAN FERNANDO</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">216134090900</campo>
+    <campo url="no">0901 CELIS SUESCUN JUAN SEBASTIAN</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">208047090900</campo>
+    <campo url="no">0901 PRADA CARVAJAL DANIEL JESUS</campo>
+    <campo url="no">036</campo>
+    <campo url="no">527,621.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">209077090900</campo>
+    <campo url="no">1003 SIERRA AGUILAR MARIA PAULA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">586,246.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">214003090900</campo>
+    <campo url="no">0002 SIERRA AGUILAR LAURA SOFIA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">676,764.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">215051090900</campo>
+    <campo url="no">0401 CASTRO PLAZAS JOSE MIGUEL</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">215050090900</campo>
+    <campo url="no">0701 CASTRO PLAZAS JUAN DAVID</campo>
+    <campo url="no">036</campo>
+    <campo url="no">653,170.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">215142140900</campo>
+    <campo url="no">0701 HERNANDEZ ZAMBRANO VALERIA MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,932.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">215143140900</campo>
+    <campo url="no">1103 HERNANDEZ ZAMBRANO VALENTINA E</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,389.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">215143140900</campo>
+    <campo url="no">1103 HERNANDEZ ZAMBRANO VALENTINA E</campo>
+    <campo url="no">036</campo>
+    <campo url="no">587,389.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">215142140900</campo>
+    <campo url="no">0701 HERNANDEZ ZAMBRANO VALERIA MAR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">667,932.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 12/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">65</campo>
+    <campo url="no">209089090900</campo>
+    <campo url="no">1103 ESTUPI¥AN MOJICA ANDRES FELIPE</campo>
+    <campo url="no">034</campo>
+    <campo url="no">574,407.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">RECIBO DE SEP PROCESADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">66</campo>
+    <campo url="no">215122140900</campo>
+    <campo url="no">1002 CUBILLOS LUENGAS ANGIE VANESSA</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1185,038.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">67</campo>
+    <campo url="no">215121140900</campo>
+    <campo url="no">0802 CUBILLOS GARCIA MAYRA ALEJANDR</campo>
+    <campo url="no">036</campo>
+    <campo url="no">1320,318.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no">SEP 13/2016</campo>
+    <campo url="no">ABONO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">**********************************************</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+
+  </registro>
+
+</registros>

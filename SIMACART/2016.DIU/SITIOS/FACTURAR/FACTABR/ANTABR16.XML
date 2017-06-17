@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE ABRIL"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "MAY  6/2016"
+   horaprn = "21:58:07"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0201- 3</campo>
+    <campo url="no">215039</campo>
+    <campo url="no">BARRETO VILLADIEGO SHEYLA MARGARITA</campo>
+    <campo url="no">ABR/NOV: 7</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">4,692,226</campo>
+    <campo url="no">4,692,226</campo>
+    <campo url="no">6,368,021</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0902-26</campo>
+    <campo url="no">213230</campo>
+    <campo url="no">OVIEDO RUEDA STANNLLY ANDRES</campo>
+    <campo url="no">ABR/NOV: 7</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">4,103,722</campo>
+    <campo url="no">4,103,722</campo>
+    <campo url="no">4,455,470</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0902-33</campo>
+    <campo url="no">211036</campo>
+    <campo url="no">RUIZ SOSA HELEN YULITZA</campo>
+    <campo url="no">ABR/NOV: 7</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">4,103,722</campo>
+    <campo url="no">4,103,722</campo>
+    <campo url="no">5,569,337</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">12,899,670</campo>
+    <campo url="no">12,899,670</campo>
+
+  </registro>
+
+</registros>

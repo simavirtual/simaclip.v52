@@ -1,0 +1,44 @@
+#  ENCADENADOR PARA SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: FUNCIONES COMPARTIDAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+#       fi \SimaClip.v52\sima.fun\gSimaInf
+#       fi \SimaClip.v52\sima.fun\eSimaInf
+
+       fi \SimaClip.v52\sima.fun\gSimaIso
+       fi \SimaClip.v52\sima.fun\eSimaIso
+     #ÀFunciones Generadas
+
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaGru
+       fi \SimaClip.v52\sima.fun\SimaNiv
+       fi \SimaClip.v52\sima.fun\SimaCli
+       fi \SimaClip.v52\sima.fun\SimaPag
+       fi \SimaClip.v52\sima.fun\SimaCon
+       fi \SimaClip.v52\sima.fun\SimaDes
+       fi \SimaClip.v52\sima.fun\SimaCnt
+     #ÀFunciones generales del sima
+
+       fi \SimaClip.v52\SimaCont\f\objs\FSimaCon
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsNiv
+     #ÀFunciones de la contabilidad
+
+       fi \SimaClip.V52\simacart\f\objs\FuncsAlu
+       fi \SimaClip.V52\simacart\f\objs\FuncsGru
+       fi \SimaClip.V52\simacart\f\objs\FuncsTar
+       fi \SimaClip.V52\simacart\f\objs\FuncsCli
+       fi \SimaClip.V52\simacart\f\objs\FuncsPag
+     #ÀFunciones de la Cartera
+#>>>>FIN ARCHIVOS DEL MODULO
+
+#>>>>EXCLUSION DE FUNCIONES
+       @lnk\NotData.lnk
+#>>>>FIN EXCLUSION DE FUNCIONES

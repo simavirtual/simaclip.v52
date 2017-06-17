@@ -1,0 +1,558 @@
+/*SISTEMA DE CONTABILIDAD ACADEMICA
+
+MODULO      : FIN DE A¥O
+SUBMODULO...: HABILITACIONES         MODULO No. 615
+
+**************************************************************************
+* NOMBRE DEL PROGRAMA..: CONTA615.PRG                                    *
+* TITULO DEL PROGRAMA..: ORDENES DE HABILITACION                         *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: OCT 20/95 VIE A
+       Colombia, Bucaramanga        INICIO: 12:35 PM   OCT 20/95 VIE
+
+
+REQUERIMIENTOS:
+
+1- Para ejecutar la funci¢n tener presente la sintaxis
+
+OBJETIVOS:
+
+1- Imprime las ¢rdenes de habilitaci¢n de todos los habilitantes o del
+   estudiante especificado.
+
+2- Retorna NIL
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION Conta_615(nOpcPal,nFilInf,nColInf,nFilPal,cNomEmp,cNomSis,cAnoSys,;
+		   cMaeAlu,cMaeAct,cPatSis,cPatInt,lSisInt,cNomUsr,cJorTxt)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     nOpcPal                              // Opci¢n Principal
+       nFilInf                              // Fila Inferior del SubMen£
+       nColInf                              // Columna Inferior del SubMen£
+       nFilPal                              // Fila Inferior del Men£
+       cNomEmp                              // Nombre de la Empresa
+       cNomSis                              // Nombre del sistema
+       cAnoSys			            // A¤o del sistema
+       cMaeAlu                              // Maestros habilitados
+       cMaeAct                              // Maestro habilitado
+       cPatSis                              // Path del sistema
+       cPatInt                              // Path de integraci¢n
+       lSisInt                              // .T. Sistema Integrado
+       cNomUsr                              // Nombre del Usuario
+       cJorTxt                              // Jornada escogida */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE CONSTANTES
+       #INCLUDE "\APLICA.CLI\CLIPPER.FUN\EPSONFX.PRG"  // Impresora EPSON FX
+       #INCLUDE "CAMPOS\ARC-CONT.PRG"       // Archivos del Sistema
+       #DEFINE  TAMPAGE CHR(27)+'C'+CHR(22) // P gina de 22 l¡neas
+*>>>>FIN DECLARACION DE CONSTANTES
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL lShared := .T.                 // .T. Archivo compartido
+       LOCAL lHayErr := .F.                 // .T. Hay Error
+       LOCAL cAnoSis := SUBS(cAnoSys,3,2)   // Path del sistemas
+       LOCAL cSavPan := ''                  // Salvar Pantalla
+
+       LOCAL nCopias := 1                   // N£meros de copias a imprimir
+       LOCAL nNroCop := 1                   // N£mero de copia
+
+       LOCAL nRegIni := 0                   // Registro inicial del grupo
+       LOCAL nRegFin := 0                   // Registro Final del grupo
+       LOCAL nAvance := 0                   // Avance de registros
+       LOCAL nNroRec := 0                   // N£mero de recibos
+
+       LOCAL GetList := {}                  // Variable del Sistema
+
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>SELECCION DEL PATH DEL SISTEMA
+       DO CASE
+       CASE 'JAR' $ cMaeAct
+	    cPatSis := cPatSis+'\JAR'
+       CASE 'PRI' $ cMaeAct
+	    cPatSis := cPatSis+'\PRI'
+       CASE 'BTO' $ cMaeAct
+	    cPatSis := cPatSis+'\BTO'
+       ENDCASE
+*>>>>FIN SELECCION DEL PATH DEL SISTEMA
+
+*>>>>SELECION DE LAS AREAS DE TRABAJO
+       IF !lUseDbf(.T.,cPatSis+'\'+;
+		       FileMat+ExtFile,'MAT',NIL,lShared) .OR.;
+	  !lUseDbf(.T.,cPatSis+'\'+;
+		       FilePro+cAnoSis+ExtFile,'PRO',NIL,lShared) .OR.;
+	  !lUseDbf(.T.,cPatSis+'\'+;
+		       FileAlu+cMaeAct+cAnoSis+ExtFile,'ALU',;
+		       cPatSis+'\'+;
+		       fNtxAlu+cMaeAct+cAnoSis+cExtNtx,lShared) .OR.;
+	  !lUseDbf(.T.,cPatSis+'\'+;
+		       FileGru+cMaeAct+cAnoSis+ExtFile,'GRU',NIL,lShared)
+	  cError('ABRIENDO LOS ARCHIVOS DE ALUMNOS Y GRUPOS '+cPatSis)
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN SELECION DE LAS AREAS DE TRABAJO
+
+*>>>>VALIDACION DE CONTENIDOS DE ARCHIVOS
+       lHayErr := .T.
+       DO CASE
+       CASE MAT->(RECCOUNT()) == 0
+	    cError('NO EXISTEN MATERIAS GRABADAS')
+
+       CASE ALU->(RECCOUNT()) == 0
+	    cError('NO EXISTEN ALUMNOS GRABADOS')
+
+       CASE GRU->(RECCOUNT()) == 0
+	    cError('NO EXISTEN GRUPOS GRABADOS')
+
+       OTHERWISE
+	    lHayErr :=.F.
+       ENDCASE
+
+       IF lHayErr
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE CONTENIDOS DE ARCHIVOS
+
+*>>>>CAPTURA DE LOS GRUPOS POR INTERVALO
+       IF !lIntervGru(nFilInf+1,nColInf,@nRegIni,@nRegFin)
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN CAPTURA DE LOS GRUPOS POR INTERVALO
+
+*>>>>LECTURA DEL NUMERO DE COPIA
+       nCopias := 1
+       @ nFilInf+3,nColInf SAY 'NRO COPIAS:' GET nCopias PICT '99'
+       READ
+       IF nCopias == 0
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN LECTURA DEL NUMERO DE COPIA
+
+*>>>>CREACION DE ARCHIVO TEMPORAL DE HABILITANTES
+       GraHabTem(cNomSis,cNomUsr,cPatSis,cAnoSis,nRegIni,nRegFin)
+*>>>>FIN CREACION DE ARCHIVO TEMPORAL DE HABILITANTES
+
+*>>>>SELECION DE LAS AREAS DE TRABAJO
+       IF !lUseDbf(.T.,FileTem+SUBS(cNomUsr,1,3)+'.UNO','UNO',NIL,lShared) .OR.;
+	  !lUseDbf(.T.,FileTem+SUBS(cNomUsr,1,3)+'.DOS','DOS',NIL,lShared)
+	  cError('ABRIENDO ARCHIVOS TEMPORALES')
+	  RETURN NIL
+       ENDIF
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>VALIDACION DE CONTENIDOS DE ARCHIVOS
+       lHayErr := .T.
+       DO CASE
+       CASE UNO->(RECCOUNT()) == 0
+	    cError('NO HAY HABILITANTES')
+
+       CASE DOS->(RECCOUNT()) == 0
+	    cError('NO EXISTEN MATERIAS A HABILITAR. POR FAVOR REVISAR')
+
+       OTHERWISE
+	    lHayErr :=.F.
+       ENDCASE
+
+       IF lHayErr
+	  CLOSE ALL
+	  RETURN NIL
+       ENDIF
+*>>>>FIN VALIDACION DE CONTENIDOS DE ARCHIVOS
+
+*>>>>ACTIVACION DE LA IMPRESORA
+       IF !Printer_on()
+	   RETURN NIL
+       ENDIF
+       @ PROW(),00 SAY INICIALIZA+PROPOR_OF+CONDEN_ON+TAMPAGE
+*>>>>FIN ACTIVACION DE LA IMPRESORA
+
+*>>>>IMPRESION DE N COPIAS
+       DO WHILE nNroCop <= nCopias
+
+***********IMPRESION DEL TERMOMETRO
+	     SET DEVICE TO SCREEN
+	     Termometro(0,'IMPRIMIENDO LOS HABILITANTES COPIA No.'+;
+			  STR(nNroCop,2)+'\'+STR(nCopias,2))
+	     Termometro(10)
+	     SET DEVICE TO PRINT
+***********FIN IMPRESION DEL TERMOMETRO
+
+***********IMPRESION DEL INFORME
+	     SELECT DOS
+	     GO TOP
+	     nNroRec := 0
+	     aDetHab := {}
+	     DO WHILE .NOT. DOS->(EOF())
+
+*---------------PREPARCION DE LA IMPRESION
+		  nNroRec++
+		  IF nNroRec <= 2
+		     AADD(aDetHab,{DOS->cCodigoGru,;
+				   DOS->cCodigoEst,;
+				   DOS->cNombreEst,;
+				   DOS->cNombreMat})
+		  ENDIF
+*---------------FIN PREPARCION DE LA IMPRESION
+
+*---------------IMPRESION DE LA ORDENES DE HABILITACION
+		  IF nNroRec == 2
+		     OrdenHab(cNomEmp,cAnoSys,cMaeAct,cJorTxt,aDetHab)
+		     EJECT
+		     nNroRec := 0
+		     aDetHab := {}
+		  ENDIF
+*---------------FIN IMPRESION DE LA ORDENES DE HABILITACION
+
+*---------------AVANCE DEL SIGUIENTE REGISTRO
+		  nAvance := INT(( DOS->(RECNO()) / DOS->(RECCOUNT()) )*100)
+
+		  IF STR(nAvance,3) $ '25 50 75100'
+		     SET DEVICE TO SCREEN
+		     Termometro(nAvance)
+		     SET DEVICE TO PRINT
+		  ENDIF
+
+		  DOS->(DBSKIP())
+*---------------FIN AVANCE DEL SIGUIENTE REGISTRO
+
+	     ENDDO
+***********IMPRESION DEL INFORME
+
+	  nNroCop++
+
+       ENDDO
+*>>>>FIN IMPRESION DE N COPIAS
+
+*>>>>IMPRESION DE LA ULTIMA ORDEN DE HABILITACION
+       IF LEN(aDetHab) # 0
+	  OrdenHab(cNomEmp,cAnoSys,cMaeAct,cJorTxt,aDetHab)
+       ENDIF
+
+       CLOSE ALL
+       DELETEFILE(FileTem+SUBS(cNomUsr,1,3)+'.UNO')
+       DELETEFILE(FileTem+SUBS(cNomUsr,1,3)+'.DOS')
+       DELETEFILE(FileTem+SUBS(cNomUsr,1,3)+cNtxTem)
+       SET DEVICE TO SCREEN
+       RETURN NIL
+*>>>>FIN IMPRESION DE LA ULTIMA ORDEN DE HABILITACION
+
+
+/*************************************************************************
+* TITULO DE LA FUNCION..: IMPRESION DE ORDENES DE HABILITACION           *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: OCT 20/95 VIE A
+       Colombia, Bucaramanga        INICIO: 12:40 PM   OCT 20/95 VIE
+
+OBJETIVOS:
+
+1- Imprime las ¢rdenes de habilitaci¢n para el estudiante especificado
+
+2- Retorna por referencia los param‚tros de la funci¢n marcados con @
+
+3- Retorna Nil
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION OrdenHab(cNomEmp,cAnoSys,cMaeAct,cJorTxt,aDetHab)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     cNomEmp                              // Nombre de la empresa
+       cAnoSys			            // A¤o del sistema
+       cMaeAct                              // Maestro habilitado
+       cJorTxt                              // Jornada escogida
+       aDetHab			            // Detalles habilitaci¢n */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>ANALISIS DEL NIVEL ESCOGIDO
+       DO CASE
+       CASE 'JAR' $ cMaeAct
+	    cNomNiv := 'JARDIN'
+       CASE 'PRI' $ cMaeAct
+	    cNomNiv := 'PRIMARIA'
+       CASE 'BTO' $ cMaeAct
+	    cNomNiv := 'BACHILLERATO'
+       ENDCASE
+*>>>>FIN ANALISIS DEL NIVEL ESCOGIDO
+
+*>>>>IMPRESION DEL NOMBRE DE LA EMPRESA
+       nNroRec := LEN(aDetHab)
+
+       IF nNroRec >= 1
+	   @ PROW()+00,003 SAY cNomEmp
+       ENDIF
+
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cNomEmp
+       ENDIF
+
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cNomEmp
+       ENDIF
+*>>>>FIN IMPRESION DEL NOMBRE DE LA EMPRESA
+
+*>>>>IMPRESION DEL NIVEL JORNADA Y A¥O
+       cTxtPrn := cNomNiv+' '+cJorTxt+' DE '+cAnoSys
+       IF nNroRec >= 1
+	   @ PROW()+01,003 SAY cTxtPrn
+       ENDIF
+
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cTxtPrn
+       ENDIF
+
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cTxtPrn
+       ENDIF
+*>>>>FIN IMPRESION DEL NIVEL JORNADA Y A¥O
+
+
+*>>>>IMPRESION DE LA ORDEN DE HABILITACION
+       cTxtPrn := 'ORDEN DE HABILITACION'
+       IF nNroRec >= 1
+	   @ PROW()+02,003 SAY cTxtPrn
+       ENDIF
+
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cTxtPrn
+       ENDIF
+
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cTxtPrn
+       ENDIF
+*>>>>FIN IMPRESION DE LA ORDEN DE HABILITACION
+
+*>>>>IMPRESION DE LA MATERIA A HABILITAR
+       cTxtPrn := 'PARA '
+       IF nNroRec >= 1
+	   @ PROW()+01,003 SAY cTxtPrn+aDetHab[1,4]
+       ENDIF
+
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cTxtPrn+aDetHab[2,4]
+       ENDIF
+
+       IF nNroRec >= 3
+	   @ PROW()+00,113 SAY cTxtPrn+aDetHab[3,4]
+       ENDIF
+*>>>>FIN IMPRESION DE LA MATERIA A HABILITAR
+
+*>>>>IMPRESION DEL GRUPO
+       cTxtPrn := 'GRUPO: '
+       IF nNroRec >= 1
+	  cCodigoTgr := aDetHab[1,1]
+	  @ PROW()+02,003 SAY cTxtPrn+cCodigoTgr
+       ENDIF
+
+       IF nNroRec >= 2
+	  cCodigoTgr := aDetHab[2,1]
+	  @ PROW()+00,058 SAY cTxtPrn+cCodigoTgr
+       ENDIF
+
+       IF nNroRec == 3
+	  cCodigoTgr := aDetHab[3,1]
+	  @ PROW()+00,113 SAY cTxtPrn+cCodigoTgr
+       ENDIF
+*>>>>FIN IMPRESION DEL GRUPO
+
+*>>>>IMPRESION DEL CODIGO
+       cTxtPrn := 'CODIGO: '
+       IF nNroRec >= 1
+	  cCodigoTes := aDetHab[1,2]
+	  @ PROW()+00,003+25 SAY cTxtPrn+cCodigoTes
+       ENDIF
+
+       IF nNroRec >= 2
+	  cCodigoTes := aDetHab[2,2]
+	  @ PROW()+00,058+25 SAY cTxtPrn+cCodigoTes
+       ENDIF
+
+       IF nNroRec == 3
+	  cCodigoTes := aDetHab[3,2]
+	  @ PROW()+00,113+25 SAY cTxtPrn+cCodigoTes
+       ENDIF
+*>>>>FIN IMPRESION DEL CODIGO
+
+*>>>>IMPRESION DEL NOMBRE DE ESTUDIANTE
+       cTxtPrn := 'NOMBRE: '
+       IF nNroRec >= 1
+	  @ PROW()+01,003 SAY cTxtPrn+aDetHab[1,3]
+       ENDIF
+
+       IF nNroRec >= 2
+	  @ PROW()+00,058 SAY cTxtPrn+aDetHab[2,3]
+       ENDIF
+
+       IF nNroRec == 3
+	  @ PROW()+00,113 SAY cTxtPrn+aDetHab[3,3]
+       ENDIF
+*>>>>FIN IMPRESION DEL NOMBRE DE ESTUDIANTE
+
+*>>>>IMPRESION DE LAS OBSERVACIONES
+*      Centrar Cond 04-50,64-100
+*      Columnas 1=>003 2=>58 3=>113
+*      Columnas 1=>001 2=>
+*                           1         2         3         4         5
+*      Escala  := '12345678901234567890123456789012345678901234567890'
+
+       cLinea1 := 'Debe presentarse puntualmente en la fecha 1234567'
+       cLinea2 := 'de la habilitaci¢n con los elementos '
+       cLinea3 := 'necesarios para presentar la prueba.'
+
+       IF nNroRec >= 1
+	   @ PROW()+02,003 SAY cLinea1
+       ENDIF
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cLinea1
+       ENDIF
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cLinea1
+       ENDIF
+
+       IF nNroRec >= 1
+	   @ PROW()+01,003 SAY cLinea2
+       ENDIF
+       IF nNroRec >= 2
+	   @ PROW()+00,058 SAY cLinea2
+       ENDIF
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cLinea2
+       ENDIF
+
+       IF nNroRec >= 1
+	   @ PROW()+01,003 SAY cLinea3
+       ENDIF
+       IF nNroRec>= 2
+	   @ PROW()+00,058 SAY cLinea3
+       ENDIF
+       IF nNroRec == 3
+	   @ PROW()+00,113 SAY cLinea3
+       ENDIF
+
+/*@ PROW()+01,03 SAY REPL('1',65)
+@ PROW()+00,71 SAY '|'
+@ PROW()+00,75 SAY REPL('1',65)
+@ PROW()+02,02 SAY REPL('1',38)
+@ PROW()+00,42 SAY '|'
+@ PROW()+00,44 SAY REPL('1',38) */
+
+
+@ PROW()+01,00 SAY REPL('1',70)
+@ PROW()+00,73 SAY REPL('1',70)
+@ PROW()+01,nColCen('CODIGO',00,70) SAY 'CODIGO'
+@ PROW()+00,nColCen('CODIGO',74,140) SAY 'CODIGO'
+
+@ PROW()+00,003 SAY CONDEN_OF
+
+@ PROW()+02,00 SAY REPL('1',42)
+@ PROW()+00,43 SAY REPL('1',42)
+@ PROW()+01,nColCen('CODIGO',00,42) SAY 'CODIGO'
+@ PROW()+00,nColCen('CODIGO',44,84) SAY 'CODIGO'
+
+       RETURN NIL
+*>>>>FIN IMPRESION DE LAS OBSERVACIONES
+
+
+
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION nColCen(cMsgTxt,nColIni,nColFin)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     cMsgTxt                              // Texto a centrar
+       cColIni                              // Columna Inicial a Centrar
+       nColFin                              // Columna Inicial a Centrar */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL nLenTxt := 0                   // Longitud del texto
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>ANALISIS DE LOS PARAMETROS
+       nLenTxt := LEN(cMsgTxt)
+       nColIni := IF(nColIni == NIL,0,nColIni)        // Defecto Columna 0
+       nColFin := IF(nColFin == NIL,MAXCOL(),nColFin) // Defecto Columna 79
+*>>>>FIN ANALISIS DE LOS PARAMETROS
+
+*>>>>CALCULO DE LA COLUMNA DEL CENTRO
+       nLenTxt := MIN(nLenTxt,(nColFin-nColIni+1))
+      *Maximo de espacio disponible
+
+       RETURN INT(nColIni+INT(nColFin-nColIni+1-nLenTxt)/2)
+*>>>>FIN CALCULO DE LA COLUMNA DEL CENTRO
+
+
+FUNCTION nColRec(nNroRec,lPapSta,lConden,cMsgTxt)
+
+*>>>>VALIDACION DE PARAMETROS
+       lPapSta := IF(lPapSta == NIL,.T.,lPapSta)
+       lConden := IF(lConden == NIL,.T.,lConden)
+*>>>>FIN VALIDACION DE PARAMETROS
+
+*>>>>COLUMNA INICIAL DEL RECIBO PARA PAPEL ESPECIAL
+       IF cMsgTxt == NIL .AND. !lPapSta
+
+	  nColCen := IF(lConden,;
+			VAL(SUBS('003058113',nNroRec*3-2,3)),;
+			VAL(SUBS('001033065',nNroRec*3-2,3)))
+       ENDIF
+*>>>>FIN COLUMNA INICIAL DEL RECIBO
+
+*>>>>COLUMNAS PARA CENTRAR EN PAPEL ESPECIAL
+       IF !lPapSta .AND. cMsgTxt # NIL
+
+	  nColIni := IF(lConden,;
+			VAL(SUBS('004064124',nNroRec*3-2,3)),;
+			VAL(SUBS('001036070',nNroRec*3-2,3)))
+
+	  nColFin := IF(lConden,;
+			VAL(SUBS('050100150',nNroRec*3-2,3)),;
+			VAL(SUBS('030060090',nNroRec*3-2,3)))
+
+	  nColCen := nColCen(cMsgTxt,nColIni,nColFin)
+       ENDIF
+*>>>>FIN COLUMNAS PARA CENTRAR EN PAPEL ESPECIAL
+
+*>>>>COLUMNA INICIAL DEL RECIBO PARA PAPEL ESPECIAL
+       IF cMsgTxt == NIL .AND. lPapSta
+	  nColCen := IF(lConden,;
+			VAL(SUBS('003075',nNroRec*3-2,3)),;
+			VAL(SUBS('002044',nNroRec*3-2,3)))
+       ENDIF
+*>>>>FIN COLUMNA INICIAL DEL RECIBO PARA PAPEL ESPECIAL
+
+*>>>>COLUMNAS PARA CENTRAR EN PAPEL ESTANDAR
+       IF lPapSta .AND. cMsgTxt # NIL
+
+	  nColIni := IF(lConden,;
+			VAL(SUBS('0074',nNroRec*2-1,2)),;
+			VAL(SUBS('0044',nNroRec*2-1,2)))
+
+	  nColFin := IF(lConden,;
+			VAL(SUBS('070140',nNroRec*3-2,3)),;
+			VAL(SUBS('042084',nNroRec*3-2,3)))
+	  nColCen := nColCen(cMsgTxt,nColIni,nColFin)
+       ENDIF
+       RETURN nColCen
+*>>>>FIN COLUMNAS PARA CENTRAR EN PAPEL ESTANDAR
+
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE FEBRERO. A¥O: 2017"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "MAR  7/2017"
+   horaprn = "11:55:01"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTFEB\PAGFEB17.XML">RECIBOS DE FEB 2017</campo>
+    <campo url="no">409,735,650.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">409,735,650.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTMAR\PAGMAR17.XML">RECIBOS DE MAR 2017</campo>
+    <campo url="no">711,759.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">711,759.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTMAR\PAGMAR17.XML">RECIBOS DE MAR 2017</campo>
+    <campo url="no">638,832.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">638,832.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTABR\PAGABR17.XML">RECIBOS DE ABR 2017</campo>
+    <campo url="no">638,944.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">638,944.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">POR MATRICULAR</campo>
+    <campo url="no">1,166,459.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,166,459.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV17.XML">ABONOS 2014 NOV</campo>
+    <campo url="no">8,042,400.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">8,042,400.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV17.XML">ABONOS 2015 NOV</campo>
+    <campo url="no">6,091,241.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,091,241.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV17.XML">ABONOS 2016 NOV</campo>
+    <campo url="no">58,853,869.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">58,853,869.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RECIBOS DE RESTAURANTE</campo>
+    <campo url="no">1,205,550.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,205,550.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no"></campo>
+    <campo url="no">359,466,518.00</campo>
+    <campo url="no">-359,466,518.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">12,344.22</campo>
+    <campo url="no"></campo>
+    <campo url="no">12,344.22</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">DESCUENTO PARA PAGO DE NOMINA</campo>
+    <campo url="no"></campo>
+    <campo url="no">206,669,986.00</campo>
+    <campo url="no">-206,669,986.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,074,792.87</campo>
+    <campo url="no">-1,074,792.87</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIA ENVIADA A TRAVES DE ACH</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,058.00</campo>
+    <campo url="no">-2,058.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,186.00</campo>
+    <campo url="no">-6,186.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">487,097,048.22</campo>
+    <campo url="no">567,219,540.87</campo>
+    <campo url="no">-80,122,492.65</campo>
+
+  </registro>
+
+</registros>

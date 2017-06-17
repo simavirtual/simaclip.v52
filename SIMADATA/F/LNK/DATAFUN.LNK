@@ -1,0 +1,19 @@
+#  LINKEADOR: SIMA - SISTEMA CENTRAL DE RIESGOS
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaData\f\objs\DataFun
+       fi \SimaClip.v52\SimaData\f\objs\FSimaDat
+       fi \SimaClip.v52\SimaData\f\objs\FuncsEmp
+       fi \SimaClip.v52\SimaData\f\objs\FDataAno
+       fi \SimaClip.v52\SimaData\f\objs\FuncsRep
+       fi \SimaClip.v52\SimaData\f\objs\FuncsTxt
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A SEP 30/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE SEPTIEMBRE"
+   titulo3 = "GRUPO: 0101 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "OCT  7/2016"
+   horaprn = "11:53:07"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV090816.XML">1</campo>
+    <campo url="no">APARICIO BELTRAN I</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no">SEP  8/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216032</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV091316.XML">2</campo>
+    <campo url="no">AYALA GARCIA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no">SEP 13/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216094</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV092916.XML">3</campo>
+    <campo url="no">CAMARGO TOLOZA SIM</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,369,364</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no">13,535</campo>
+    <campo url="no">SEP 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214009</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV091216.XML">4</campo>
+    <campo url="no">GOMEZ GOMEZ JULIAN</campo>
+    <campo url="no">PENSION->BECA 15.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,163,959</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no">SEP 12/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215072</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV092816.XML">5</campo>
+    <campo url="no">IBA¥EZ SAAD RONALD</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">SEP 28/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215128</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">LEON DUARTE JUAN J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">15,836</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216055</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV092916.XML">7</campo>
+    <campo url="no">MORALES VALENCIA F</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">SEP 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">OVALLE JAIMES JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">1,401,037</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">31,673</campo>
+    <campo url="no">1,369,364</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213135</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">RAMIREZ ALBARRACIN</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV092916.XML">10</campo>
+    <campo url="no">REYES DURAN JUAN M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">SEP 29/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216108</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">SANCHEZ AMADO JUAN</campo>
+    <campo url="no">NO FACTURADO->BECA</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214103</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">SARMIENTO GOMEZ JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">SEPSEP</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216033</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACSEP16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,093,637</campo>
+    <campo url="no">6,767,640</campo>
+    <campo url="no">47,509</campo>
+    <campo url="no">2,046,128</campo>
+    <campo url="no"></campo>
+    <campo url="no">33,839</campo>
+    <campo url="no">5,917,143</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

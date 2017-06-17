@@ -1,0 +1,46 @@
+PRG
+git clone https://github.com/simavirtual/prg.git
+
+ZIP
+git clone https://github.com/simavirtual/zip.git
+
+APLICA.DOS
+https://github.com/simavirtual/aplicados.git
+
+SIMACLIP
+git clone https://github.com/simavirtual/SIMACLIP.git
+
+CLIPPER.FUN
+git clone https://github.com/simavirtual/clipper.fun.git
+SIMA.FUN
+git clone https://github.com/simavirtual/sima.fun.git
+SIMADAT
+git clone https://github.com/simavirtual/simadat.git
+SIMAMATR
+git clone https://github.com/simavirtual/SIMAMATR.git
+SIMACONT
+git clone https://github.com/simavirtual/simacont.git
+SIMACART
+git clone https://github.com/simavirtual/SIMACART.git
+SIMAPROF
+git clone https://github.com/simavirtual/simaprof.git
+SIMADATA
+git clone https://github.com/simavirtual/simadata.git
+
+SIMACAFE
+git clone https://github.com/simavirtual/simacafe.git
+SIMAASIS
+git clone https://github.com/simavirtual/simaasis.git
+SIMATOOL
+git clone https://github.com/simavirtual/simatool.git
+SIMASOFT
+git clone https://github.com/simavirtual/simasoft.git
+SIMA-DOC
+git clone https://github.com/simavirtual/sima-doc.git
+SIMAVOTO
+git clone https://github.com/simavirtual/simavoto.git
+SIMAPARK
+git clone https://github.com/simavirtual/simapark.git
+
+
+

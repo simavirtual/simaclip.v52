@@ -1,0 +1,16 @@
+#  LINKEADOR: SIMA - COLEGIOS
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simacole\f\objs\ColeFun
+       fi \simaclip.v52\simacole\f\objs\fSimaCol
+       fi \simaclip.v52\simacole\f\objs\fColAno
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

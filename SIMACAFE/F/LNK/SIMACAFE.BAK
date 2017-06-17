@@ -1,0 +1,69 @@
+//  ENCADENADOR PARA SIMA - SISTEMA DE CAFETERIA
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAY 20/2002 LUN A
+//        Colombia, Bucaramanga        INICIO: 03:30 PM   MAY 20/2002 LUN
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente el archivo con extensi¢n .LNK correspondiente
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+// SINTAXIS:
+//          Rmake SimaCafe /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaCafe
+      OBJDIR := \SimaClip.v52\SimaCafe\f\objs
+      SISPRG := \SimaClip.v52\SimaCafe\f
+      FUNPRG := \SimaClip.v52\SimaCafe\f\funcions
+
+      OPTIONS := /w/b
+      LINKER  := \Aplica.dos\Lenguaje\Blinker4\Blinker @\SimaClip.v52\SimaCafe\f\lnk\Blinker4.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SimaCafe.obj" : "$(SISPRG)\SimaCafe.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Cafe101.obj" : "$(SISPRG)\Cafe101.prg"
+"$(OBJDIR)\Cafe301.obj" : "$(SISPRG)\Cafe301.prg"
+"$(OBJDIR)\Cafe311.obj" : "$(SISPRG)\Cafe311.prg"
+"$(OBJDIR)\Cafe312.obj" : "$(SISPRG)\Cafe312.prg"
+"$(OBJDIR)\Cafe302.obj" : "$(SISPRG)\Cafe302.prg"
+"$(OBJDIR)\Cafe321.obj" : "$(SISPRG)\Cafe321.prg"
+"$(OBJDIR)\Cafe322.obj" : "$(SISPRG)\Cafe322.prg"
+"$(OBJDIR)\Cafe408.obj" : "$(SISPRG)\Cafe408.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\CafeFun.obj"  :  "$(FUNPRG)\CafeFun.prg"
+"$(OBJDIR)\FSimaCaF.obj" :  "$(FUNPRG)\FSimaCaF.prg"
+"$(OBJDIR)\FCafeAno.obj" :  "$(FUNPRG)\FCafeAno.prg"
+"$(OBJDIR)\FuncsAlu.obj" :  "$(FUNPRG)\FuncsAlu.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\SimaCafe.obj \\
+		   $(OBJDIR)\Cafe101.obj  \\
+		   $(OBJDIR)\Cafe301.obj  $(OBJDIR)\Cafe311.obj  \\
+		   $(OBJDIR)\Cafe312.obj  \\
+		   $(OBJDIR)\Cafe302.obj  $(OBJDIR)\Cafe321.obj  \\
+		   $(OBJDIR)\Cafe322.obj  \\
+		   $(OBJDIR)\Cafe408.obj  \\
+		   $(OBJDIR)\CafeFun.obj  $(OBJDIR)\FSimaCaF.obj \\
+		   $(OBJDIR)\FCafeAno.obj $(OBJDIR)\FuncsAlu.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

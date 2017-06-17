@@ -1,0 +1,4 @@
+@ECHO OFF
+
+ECHO RMAKE SIMAPROF. BLINKER VERSION 4.0
+rmake \SimaClip.v52\SimaProf\f\Lnk\SimaProf /dBLINKER4 /XW5000

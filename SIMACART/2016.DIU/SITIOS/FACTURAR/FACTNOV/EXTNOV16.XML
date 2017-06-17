@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE NOVIEMBRE. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "DIC  6/2016"
+   horaprn = "13:21:51"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">RECIBOS DE NOV 2016</campo>
+    <campo url="no">363,280,930.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">363,280,930.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS DE NOV 2016</campo>
+    <campo url="no">35,888,158.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">35,888,158.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2015 NOV</campo>
+    <campo url="no">2,109,208.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,109,208.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no">13,000,000.00</campo>
+    <campo url="no">270,207,986.00</campo>
+    <campo url="no">-257,207,986.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">7,016.42</campo>
+    <campo url="no"></campo>
+    <campo url="no">7,016.42</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">DESCUENTO PARA PAGO DE NOMINA</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,071,000.00</campo>
+    <campo url="no">-1,071,000.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">665,770.40</campo>
+    <campo url="no">-665,770.40</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">23,356.00</campo>
+    <campo url="no">-23,356.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">414,285,312.42</campo>
+    <campo url="no">271,968,112.40</campo>
+    <campo url="no">142,317,200.02</campo>
+
+  </registro>
+
+</registros>

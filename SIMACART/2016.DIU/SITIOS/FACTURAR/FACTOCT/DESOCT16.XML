@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "NOV 10/2016"
+   horaprn = "15:27:47"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">216115</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">PEREZ GONZALEZ JUAN DAVID</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209168</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">VILLAMIZAR CARVAJAL DIEGO MART</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215115</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">BELLO SILVA JUAN DANIEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">1,213,646</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216050</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">686,003</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208094</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213020</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">CAMACHO MENDOZA RAFAEL ORLANDO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">1,213,646</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215047</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">1,372,811</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216051</campo>
+    <campo url="no">1601</campo>
+    <campo url="no">PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  3/2016</campo>
+    <campo url="no">704,884</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213169</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">1,375,482</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216033</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">SARMIENTO GOMEZ JUAN FELIPE</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211122</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">MERCHAN NAVARRO MARIA DANIELA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211205</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">SARMIENTO MARTINEZ ANA SOFIA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">1,352,192</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211204</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209059</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211095</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">BLANCO VARGAS JUAN DIEGO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  4/2016</campo>
+    <campo url="no">588,192</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216079</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">697,730</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213159</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">RAMOS MONROY ALEJANDRA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  5/2016</campo>
+    <campo url="no">1,213,177</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212087</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">RUEDA CHACON DAVID ANDRES</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  6/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211006</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SANCHEZ MURILLO HELI SANTIAGO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  7/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216065</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">CRISTANCHO MU¥OZ VLADIMIR</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT  8/2016</campo>
+    <campo url="no">676,096</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215131</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">SANCHEZ FLOREZ MARIA CAMILA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 13/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216019</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">LANCHEROS ROMERO LUCIANA</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 13/2016</campo>
+    <campo url="no">717,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214036</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">BLANCO VEGA SANTIAGO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 18/2016</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214002</campo>
+    <campo url="no">0002</campo>
+    <campo url="no">BLANCO VEGA JOSE ALEJANDRO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 18/2016</campo>
+    <campo url="no">693,006</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212136</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">HERNANDEZ HIGUERA FELIPE ANDRE</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 19/2016</campo>
+    <campo url="no">1,387,692</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213140</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">BELLO RINCON JUAN SEBASTIAN</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 24/2016</campo>
+    <campo url="no">ABONO</campo>
+    <campo url="no"></campo>
+    <campo url="no">554,623</campo>
+    <campo url="no"></campo>
+    <campo url="no">DESCUENTO INTERESES DE MORA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215108</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">CHAPARRO PEDROZO SUSANA CRISTI</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 20/2016</campo>
+    <campo url="no">668,454</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215125</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">CHAPARRO PEDROZO EDUARDO</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 20/2016</campo>
+    <campo url="no">599,964</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215100</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">REY CABANZO JOSE GABRIEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 21/2016</campo>
+    <campo url="no">1,000,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215047</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 21/2016</campo>
+    <campo url="no">747,706</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213135</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">OVALLE JAIMES JUAN MANUEL</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 24/2016</campo>
+    <campo url="no">692,600</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216089</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">CELIS VILLAMIZAR DANIELA VALEN</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 24/2016</campo>
+    <campo url="no">400,000</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213140</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">BELLO RINCON JUAN SEBASTIAN</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 24/2016</campo>
+    <campo url="no">5,362,544</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208239</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">BUENO SARMIENTO JUAN CARLOS I</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 27/2016</campo>
+    <campo url="no">1,172,500</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209054</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">DELGADO ARIAS NICOLAS</campo>
+    <campo url="no">OCT-SEP</campo>
+    <campo url="no">OCT 28/2016</campo>
+    <campo url="no">1,172,492</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">ABONO AL SALDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$ 32,904,025</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$    554,623</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

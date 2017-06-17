@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project name="simabak-otros" default="." basedir=".">
+
+   <property name="simabak-otros.v" value="simabak-otros-GA-1.0.0"/>
+
+   <property name="transporte"      value="trans"/>
+   <property name="restaurante"     value="resta"/>
+
+<!--INICIALIZACION -->
+    <target name="otros-init">
+
+      <condition property="transporte-dato0101.dat">
+         <and>
+            <available file="${transporte}/${simamatr}/${bases}/dato0101.dat"/>
+            <available file="${transporte}/${simamatr}/${ano}${jornada}/matr${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="transporte-dato0102.dat">
+         <and>
+            <available file="${transporte}/${simacont}/${bases}/dato0102.dat"/>
+            <available file="${transporte}/${simacont}/${ano}${jornada}/cont${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="transporte-dato0104.dat">
+         <and>
+            <available file="${transporte}/${simacart}/${bases}/dato0104.dat"/>
+            <available file="${transporte}/${simacart}/${ano}${jornada}/cart${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="restaurante-dato0101.dat">
+         <and>
+            <available file="${restaurante}/${simamatr}/${bases}/dato0101.dat"/>
+            <available file="${restaurante}/${simamatr}/${ano}${jornada}/matr${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="restaurante-dato0102.dat">
+         <and>
+            <available file="${restaurante}/${simacont}/${bases}/dato0102.dat"/>
+            <available file="${restaurante}/${simacont}/${ano}${jornada}/cont${ano}.dat"/>
+         </and>
+      </condition>
+
+      <condition property="restaurante-dato0104.dat">
+         <and>
+            <available file="${restaurante}/${simacart}/${bases}/dato0104.dat"/>
+            <available file="${restaurante}/${simacart}/${ano}${jornada}/cart${ano}.dat"/>
+         </and>
+      </condition>
+
+    </target>
+<!--FIN INICIALIZACION -->
+
+<!--SIMA OTROS-->
+    <target name="sima-otros" depends="otros-init,transporte-simamatr,transporte-simacont,transporte-simacart,restaurante-simamatr,restaurante-simacont,restaurante-simacart">
+    </target>
+<!--SIMA  OTROS -->
+
+<!--SISTEMA DE TRANSPORTE -->
+    <target name="transporte-simamatr" if="transporte-dato0101.dat">
+
+       <echo message="transporte-${simamatr}/${ano}${jornada} = ${transporte-dato0101.dat}"/>
+
+       <property name="transporte-simamatr_bases" value="${transporte}/${simamatr}/${bases}"/>
+       <copy todir="${bak}/${transporte-simamatr_bases}">
+             <fileset dir="${transporte-simamatr_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simamatr_ano" value="${transporte}/${simamatr}/${ano}${jornada}"/>
+       <copy todir="${bak}/${transporte-simamatr_ano}">
+             <fileset dir="${transporte-simamatr_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simamatr_sys" value="${transporte}/${simamatr}"/>
+       <copy todir="${bak}/${transporte-simamatr_sys}">
+             <fileset dir="${transporte-simamatr_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+
+    <target name="transporte-simacont" if="transporte-dato0102.dat">
+
+       <echo message="transporte-${simacont}/${ano}${jornada} = ${transporte-dato0102.dat}"/>
+
+       <property name="transporte-simacont_bases" value="${transporte}/${simacont}/${bases}"/>
+       <copy todir="${bak}/${transporte-simacont_bases}">
+             <fileset dir="${transporte-simacont_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simacont_ano" value="${transporte}/${simacont}/${ano}${jornada}"/>
+       <copy todir="${bak}/${transporte-simacont_ano}">
+             <fileset dir="${transporte-simacont_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simacont_sys" value="${transporte}/${simacont}"/>
+       <copy todir="${bak}/${transporte-simacont_sys}">
+             <fileset dir="${transporte-simacont_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+
+    <target name="transporte-simacart" if="transporte-dato0104.dat">
+
+       <echo message="transporte-${simacart}/${ano}${jornada} = ${transporte-dato0104.dat}"/>
+
+       <property name="transporte-simacart_bases" value="${transporte}/${simacart}/${bases}"/>
+       <copy todir="${bak}/${transporte-simacart_bases}">
+             <fileset dir="${transporte-simacart_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simacart_ano" value="${transporte}/${simacart}/${ano}${jornada}"/>
+       <copy todir="${bak}/${transporte-simacart_ano}">
+             <fileset dir="${transporte-simacart_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="transporte-simacart_sys" value="${transporte}/${simacart}"/>
+       <copy todir="${bak}/${transporte-simacart_sys}">
+             <fileset dir="${transporte-simacart_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE TRANSPORTE -->
+
+<!--SISTEMA DE RESTAURANTE -->
+    <target name="restaurante-simamatr" if="restaurante-dato0101.dat">
+
+       <echo message="restaurante-${simamatr}/${ano}${jornada} = ${restaurante-dato0101.dat}"/>
+
+       <property name="restaurante-simamatr_bases" value="${restaurante}/${simamatr}/${bases}"/>
+       <copy todir="${bak}/${restaurante-simamatr_bases}">
+             <fileset dir="${restaurante-simamatr_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simamatr_ano" value="${restaurante}/${simamatr}/${ano}${jornada}"/>
+       <copy todir="${bak}/${restaurante-simamatr_ano}">
+             <fileset dir="${restaurante-simamatr_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simamatr_sys" value="${restaurante}/${simamatr}"/>
+       <copy todir="${bak}/${restaurante-simamatr_sys}">
+             <fileset dir="${restaurante-simamatr_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+
+    <target name="restaurante-simacont" if="restaurante-dato0102.dat">
+
+       <echo message="restaurante-${simacont}/${ano}${jornada} = ${restaurante-dato0102.dat}"/>
+
+       <property name="restaurante-simacont_bases" value="${restaurante}/${simacont}/${bases}"/>
+       <copy todir="${bak}/${restaurante-simacont_bases}">
+             <fileset dir="${restaurante-simacont_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simacont_ano" value="${restaurante}/${simacont}/${ano}${jornada}"/>
+       <copy todir="${bak}/${restaurante-simacont_ano}">
+             <fileset dir="${restaurante-simacont_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simacont_sys" value="${restaurante}/${simacont}"/>
+       <copy todir="${bak}/${restaurante-simacont_sys}">
+             <fileset dir="${restaurante-simacont_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+
+    <target name="restaurante-simacart" if="restaurante-dato0104.dat">
+
+       <echo message="restaurante-${simacart}/${ano}${jornada} = ${restaurante-dato0104.dat}"/>
+
+       <property name="restaurante-simacart_bases" value="${restaurante}/${simacart}/${bases}"/>
+       <copy todir="${bak}/${restaurante-simacart_bases}">
+             <fileset dir="${restaurante-simacart_bases}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simacart_ano" value="${restaurante}/${simacart}/${ano}${jornada}"/>
+       <copy todir="${bak}/${restaurante-simacart_ano}">
+             <fileset dir="${restaurante-simacart_ano}">
+                <include name="**/*.*"/>
+                <exclude name="**/*.nel"/>
+                <exclude name="**/*.NEL"/>
+             </fileset>
+       </copy>
+
+       <property name="restaurante-simacart_sys" value="${restaurante}/${simacart}"/>
+       <copy todir="${bak}/${restaurante-simacart_sys}">
+             <fileset dir="${restaurante-simacart_sys}">
+                 <include name="**/*.exe"/>
+                 <include name="**/*.EXE"/>
+             </fileset>
+       </copy>
+
+    </target>
+<!--FIN SISTEMA DE RESTAURANTE -->
+
+
+</project>

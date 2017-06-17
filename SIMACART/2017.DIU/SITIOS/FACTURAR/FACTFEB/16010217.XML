@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS"
+   titulo2 = "CORRESPONDIENTE AL MES DE FEBRERO"
+   titulo3 = "GRUPO: JA01 JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "MAR  7/2017"
+   horaprn = "12:37:27"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV021517.XML">1</campo>
+    <campo url="no">AGUILAR SIERRA JOS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 15/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216004</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022217.XML">2</campo>
+    <campo url="no">BELTRAN FRANCO SOF</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">7,505</campo>
+    <campo url="no">FEB 22/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216005</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022117.XML">3</campo>
+    <campo url="no">CORONEL DAZA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">7,505</campo>
+    <campo url="no">FEB 21/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">217049</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022017.XML">4</campo>
+    <campo url="no">LOAIZA RAMIREZ JUA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no">7,505</campo>
+    <campo url="no">FEB 20/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216026</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">MONSALVE ESTUPI¥AN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">768,862</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">18,313</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">216058</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV020717.XML">6</campo>
+    <campo url="no">OTEO LOPEZ CANDELA</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">7,505,490</campo>
+    <campo url="no"></campo>
+    <campo url="no">7,130,220</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no"></campo>
+    <campo url="no">DIC  7/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216149</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV022017.XML">7</campo>
+    <campo url="no">PARRA MANTILLA NIC</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">7,505,490</campo>
+    <campo url="no"></campo>
+    <campo url="no">7,130,215</campo>
+    <campo url="no">FEBNOV-</campo>
+    <campo url="no">3,753</campo>
+    <campo url="no">FEB 20/2017:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216053</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV021617.XML">8</campo>
+    <campo url="no">RUEDA VERA CARLOS</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">750,549</campo>
+    <campo url="no">FEBFEB</campo>
+    <campo url="no"></campo>
+    <campo url="no">FEB 16/2017:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">217047</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACFEB17.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">768,862</campo>
+    <campo url="no">19,514,274</campo>
+    <campo url="no">18,313</campo>
+    <campo url="no">750,549</campo>
+    <campo url="no"></campo>
+    <campo url="no">26,268</campo>
+    <campo url="no">18,013,180</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

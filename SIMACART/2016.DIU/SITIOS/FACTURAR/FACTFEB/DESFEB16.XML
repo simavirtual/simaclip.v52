@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{ACTUALIZAR}{DESCUENTOS/RECARGOS}{ACTIVAR INDIVIDUALES}{F9}{IMPRIMIR DESCUENTOS/RECARGOS}"
+   titulo1 = "A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "RELACION DE ABONOS, DESCUENTOS, RECARGOS"
+   titulo3 = ""
+   fechprn = "OCT 31/2016"
+   horaprn = "15:56:44"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>MES </columna>
+    <columna>FECHA</columna>
+    <columna>VLR ABONOS</columna>
+    <columna>PAGO PARCIAL</columna>
+    <columna>DESCUENTOS</columna>
+    <columna>RECARGOS</columna>
+    <columna>DESCRIPCION </columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">213009</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">MARTINEZ ARROYO DAVID ALEJANDR</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213204</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">VILLAMIZAR HURTADO JUAN PABLO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213034</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">GARCIA MOGOLLON DAVID SAID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212031</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">BAYONA CORDERO OLGER ERNESTO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212021</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">BAYONA CORDERO JACKY JOHANNA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210041</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">AYALA LOPEZ SEBASTIAN EDUARDO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212013</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">VEGA MEJIA DANIEL FELIPE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212127</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">CACUA GAMBOA PAULA CATALINA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214035</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">BERBESI PINZON JONATHAN DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212143</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">LOZANO ARIZA DAVID SANTIAGO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212029</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">VASQUEZ DAVILA ROBERTO JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211075</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">DELGADO DUARTE DANIEL FELIPE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213242</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">PLAZAS GARRIDO JOSE ALEJANDRO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212128</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">GONZALEZ PRADA MARIA PAULA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211015</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">GOMEZ VEGA IVAN DARIO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211041</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">ESCAMILLA SALAS DIEGO JAVIER</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214202</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">DONIS HUNG JUAN PABLO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213191</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">BERNAL GONZALEZ VALENTINA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214024</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">RAMIREZ LOZANO JOSEPH CAMILO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214076</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">SANCHEZ RINCON ALIRIO ESTEBAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">206046</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">ANGARITA DIAZ MARIA CAMILA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208170</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">GOMEZ RIA¥O CARLOS FERNANDO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207183</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">MANTILLA PEREZ ANGIE VANESSA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212061</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">LOPEZ ARRIETA OSCAR DANIEL</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210015</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">CELY MONTA¥EZ YOHAN ANDRES</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214058</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">GOMEZ SARMIENTO ISMAEL</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212004</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">MEDINA GALVIS SANTIAGO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212133</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">DE LA HOZ CASTA¥EDA PAOLA ANDR</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210155</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">PEREZ JURADO IVAN ANDRES</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211009</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">BAUTISTA GOMEZ JUAN DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,173</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214029</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">GAMBOA MANTILLA JUAN ESTEBAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211100</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">ABRIL SARMIENTO MARTIN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214028</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">ZAMBRANO TORRES SANTIAGO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214122</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">RODRIGUEZ ARGUELLO VALERIA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211109</campo>
+    <campo url="no">0302</campo>
+    <campo url="no">SIERRA ROJAS JHONATAN STIVEN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214001</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">BELTRAN ALMEIDA MARIA JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,385</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215159</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">CANO MERCHAN LAURA ALEJANDRA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207090</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">JAIMES BAYONA CESAR AUGUSTO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">574,407</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212060</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">BAUTISTA ORDUZ EDWIN DANIEL</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216013</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">ROMERO JOYA JUAN DIEGO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207148</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">PINZON QUI¥ONEZ ANGEL DE JESUS</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207005</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">RINCON LEMUS MARIA XIMENA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214075</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">SANCHEZ RINCON SEBASTIAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216074</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">MORALES PU¥UELA VALENTINA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216003</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">SANTOYO CONTRERAS TOMAS AUGUST</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,385</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211186</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">MILLAN TELLEZ LUIS FELIPE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216091</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">LUNA RUEDA LAURA CRISTINA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212042</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">TOVAR SANCHEZ GABRIELA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212041</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">TOVAR SANCHEZ SEBASTIAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215154</campo>
+    <campo url="no">0201</campo>
+    <campo url="no">PE¥A PINZON GABRIEL FERNANDO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211043</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">AYALA JAIMES ANGEL DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,173</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215002</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">VEGA HIGUERA LUIS CARLOS</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215016</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">VEGA HIGUERA MARIA CAMILA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215073</campo>
+    <campo url="no">0802</campo>
+    <campo url="no">LEON DIAZ SILVIA JULIANA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">457,222</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214006</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">DIAZ JAIMES MATIAS</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,385</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216018</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">GONZALEZ CHAVES DAVID ALEJANDR</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207103</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">MORA SERRANO FRANCISCO JAVIER</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADP</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211017</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">ACEVEDO PE¥UELA JUAN GUILLERMO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">207037</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">CLAVIJO SANABRIA CATALINA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214203</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">DONIS HUNG ANTONIO JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216085</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">MELO CEVERICHE DAVID EDUARDO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216084</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">MELO CEVERICHE ESTEBAN FELIPE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214194</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">SUAREZ RAMIREZ MAICOL SEBASTIA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212024</campo>
+    <campo url="no">1001</campo>
+    <campo url="no">OCHOA GRANADOS DAYANA KATHERIN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 10/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">2,931,230</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214158</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">GALEANO VASQUEZ ALEXANDER OLEG</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215018</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">RODRIGUEZ BAUTISTA JOSE SANTIA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215009</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">SALAZAR LEON KAREN FERNANDA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,173</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212026</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">SALAZAR LEON FERNANDO JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,173</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">205223</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">FONSECA HERNANDEZ JUAN DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">574,405</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210122</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">MOSQUERA DUARTE SANTIAGO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213123</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">SARMIENTO GUALDRON NICOLAS</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213031</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">MERCHAN QUEVEDO HELMAN ANDRES</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213038</campo>
+    <campo url="no">0401</campo>
+    <campo url="no">JEREZ MADRIGAL JUAN ESTEBAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215001</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">SALAMANCA ARDILA DIEGO JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">215005</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">JEREZ MADRIGAL JOSE ALEJANDRO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,155</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIAPDO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213096</campo>
+    <campo url="no">1002</campo>
+    <campo url="no">CASTILLO MEZA MARIA GABRIELA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213128</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">NOSSA RUGELES JEAN PIERRE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">206129</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">MAY BRAVO PAUL ESTEBAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213220</campo>
+    <campo url="no">1003</campo>
+    <campo url="no">NARANJO HERRERA JUAN DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213109</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">GOMEZ TOSCANO NICOLLE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">522,536</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213138</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">BLANCO OLARTE ANDRES MAURICIO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 11/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,126</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214004</campo>
+    <campo url="no">0001</campo>
+    <campo url="no">ESTEBAN BUENO MANUEL JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,382</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212027</campo>
+    <campo url="no">0501</campo>
+    <campo url="no">ESTEBAN BUENO JUAN DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">216053</campo>
+    <campo url="no">1501</campo>
+    <campo url="no">PARRA MANTILLA NICOLAS SANTIAG</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">344,384</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214145</campo>
+    <campo url="no">0102</campo>
+    <campo url="no">RODRIGUEZ DIAZ OMAR DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,382</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214155</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">PLATA URIBE DANIEL JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 15/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,588</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213120</campo>
+    <campo url="no">0202</campo>
+    <campo url="no">AVILA CAMPO JOSSI RAFAEL</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,159</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213119</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">AVILA CAMPO JANNY JULIETH</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213118</campo>
+    <campo url="no">0701</campo>
+    <campo url="no">AVILA CAMPO JUAN JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 16/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214050</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">CASTRO SUAREZ DANIEL ALEJANDRO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 17/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">653,170</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209188</campo>
+    <campo url="no">1101</campo>
+    <campo url="no">BUENO CARRIZALES BRYAN RICARDO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 18/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,203</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213014</campo>
+    <campo url="no">0101</campo>
+    <campo url="no">RAMIREZ ALBARRACIN ANA SOFIA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 18/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">338,382</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211045</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">RAMIREZ ALBARRACIN MANUEL ESTE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 18/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208083</campo>
+    <campo url="no">0901</campo>
+    <campo url="no">ANAYA CABALLERO EMILY PAOLA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 19/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,123</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">210119</campo>
+    <campo url="no">0601</campo>
+    <campo url="no">ANAYA CABALLERO FREDY ALEJANDR</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 19/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214027</campo>
+    <campo url="no">0301</campo>
+    <campo url="no">PEREZ TAMAYO DIEGO JOSE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 22/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">335,159</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">211040</campo>
+    <campo url="no">0602</campo>
+    <campo url="no">PEREZ TAMAYO MOISES ANDRES</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 22/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214137</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">TORRES RUEDA JAIR ESTEBAN</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 22/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,203</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">208195</campo>
+    <campo url="no">1102</campo>
+    <campo url="no">VERA QUINTERO CAMILO ALBERTO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">MAR  1/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,202</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213130</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">MONCADA MORALES JUAN ANDRES</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 26/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">326,585</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">209003</campo>
+    <campo url="no">1103</campo>
+    <campo url="no">GOMEZ AYALA LAURA ALEXANDRA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 29/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">287,205</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">213101</campo>
+    <campo url="no">0902</campo>
+    <campo url="no">GOMEZ CHAUX ANDRES FELIPE</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">FEB 29/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">293,120</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO.X PAGO POR ANTICIPO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212022</campo>
+    <campo url="no">0801</campo>
+    <campo url="no">OCHOA GRANADOS RAUL DAVID</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">MAR  1/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">3</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">212023</campo>
+    <campo url="no">0402</campo>
+    <campo url="no">OCHOA GRANADOS ANGIE LORENA</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">MAR  1/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">3</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">214038</campo>
+    <campo url="no">0502</campo>
+    <campo url="no">SANCHEZ PATI¥O JUAN CAMILO</campo>
+    <campo url="no">FEB</campo>
+    <campo url="no">MAR  1/2016</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">3</campo>
+    <campo url="no"></campo>
+    <campo url="no">DTO. X PAGO ANTICIPADO</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+    <campo url="no">********************</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$          0</campo>
+    <campo url="no">$ 37,080,707</campo>
+    <campo url="no">$          0</campo>
+
+  </registro>
+
+</registros>

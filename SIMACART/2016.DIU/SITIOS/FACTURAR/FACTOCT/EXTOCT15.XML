@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE OCTUBRE. A¥O: 2015"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "MAR  1/2016"
+   horaprn = "16:39:45"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTOCT\PAGOCT15.XML">RECIBOS DE OCT 2015</campo>
+    <campo url="no">237,008,725.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">237,008,725.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV15.XML">RECIBOS DE NOV 2015</campo>
+    <campo url="no">1,179,173.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,179,173.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTOCT\PAGOCT15.XML">ABONOS DE OCT 2015</campo>
+    <campo url="no">27,916,205.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">27,916,205.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV15.XML">ABONOS 2014 NOV</campo>
+    <campo url="no">5,755,206.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">5,755,206.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no">38,000,000.00</campo>
+    <campo url="no">278,261,543.00</campo>
+    <campo url="no">-240,261,543.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">2,214.58</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,214.58</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">DESCUENTO PARA PAGO DE NOMINA</campo>
+    <campo url="no"></campo>
+    <campo url="no">3,105,594.00</campo>
+    <campo url="no">-3,105,594.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">238,618.16</campo>
+    <campo url="no">-238,618.16</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">AJUSTE COBRO TRANSFERENCIA CUENTAS DAVIV</campo>
+    <campo url="no"></campo>
+    <campo url="no">16,548.00</campo>
+    <campo url="no">-16,548.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">277,694.00</campo>
+    <campo url="no">-277,694.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">309,861,523.58</campo>
+    <campo url="no">281,899,997.16</campo>
+    <campo url="no">27,961,526.42</campo>
+
+  </registro>
+
+</registros>

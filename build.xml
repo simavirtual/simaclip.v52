@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project name="sima" default="all" basedir=".">
+
+<!--DECLARACIONES-->
+    <import file="simabak-otros.xml"/>
+    <import file="simabak.xml"/>
+    <property name="simabak-build.v"      value="build-GA-1.0.0"/>
+    <property name="version"              value="version:${simabak-build.v},${simabak.v},${simabak-otros.v}"/>
+<!--FIN DECLARACIONES-->
+
+<!--COPIA DE SEGURIDAD DATOS DE PRUEBA-->
+      <target name="datos" depends="delbak,2011">
+
+         <delete verbose="true">
+            <fileset dir="${bak}">
+               <include name="**/*.exe"/>
+               <include name="**/*.EXE"/>
+            </fileset>
+         </delete>
+
+         <echo message="Comprimiendo.Por favor espere..."/>
+         <jar jarfile="/${simabak}/${anohoy}/sima-datos-${fechasys}.zip" basedir="${bak}"/>
+         <echo message="COPIA PARA DATOS DE PRUEBAS.${version}"/>
+      </target>
+<!--FIN COPIA DE SEGURIDAD DATOS DE PRUEBA-->
+
+<!--COPIA DE SEGURIDAD DIARIA-->
+      <target name="dia" depends="delbak,2011">
+         <echo message="Comprimiendo.Por favor espere..."/>
+         <jar jarfile="/${simabak}/${anohoy}/sima-${fechasys}.zip" basedir="${bak}"/>
+         <echo message="COPIA DIARIA.${version}"/>
+      </target>
+<!--FIN COPIA DE SEGURIDAD DIARIA-->
+
+<!--COPIA DE SEGURIDAD TOTAL -->
+      <target name="all" depends="delbak,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995">
+         <echo message="Comprimiendo.Por favor espere..."/>
+         <jar jarfile="/${simabak}/${anohoy}/simaall-${fechasys}.zip" basedir="${bak}"/>
+         <echo message="COPIA TOTAL.${version}"/>
+      </target>
+<!--FIN COPIA DE SEGURIDAD TOTAL -->
+
+<!--AÑOS HABILITADOS-->
+    <target name="2011">
+       <antcall target="sima">
+          <param name="param_ano" value="2011"/>
+       </antcall>
+    </target>
+
+    <target name="2010">
+       <antcall target="sima">
+          <param name="param_ano" value="2010"/>
+       </antcall>
+    </target>
+
+    <target name="2009">
+       <antcall target="sima">
+          <param name="param_ano" value="2009"/>
+       </antcall>
+    </target>
+
+    <target name="2008">
+       <antcall target="sima">
+          <param name="param_ano" value="2008"/>
+       </antcall>
+    </target>
+    
+    <target name="2007">
+       <antcall target="sima">
+          <param name="param_ano" value="2007"/>
+       </antcall>
+    </target>
+    
+    <target name="2006">
+       <antcall target="sima">
+          <param name="param_ano" value="2006"/>
+       </antcall>
+    </target>
+    
+    <target name="2005">
+       <antcall target="sima">
+          <param name="param_ano" value="2005"/>
+       </antcall>
+    </target>
+    
+    <target name="2004">
+       <antcall target="sima">
+          <param name="param_ano" value="2004"/>
+       </antcall>
+    </target>
+    
+    <target name="2003">
+       <antcall target="sima">
+          <param name="param_ano" value="2003"/>
+       </antcall>
+    </target>
+
+    <target name="2002">
+       <antcall target="sima">
+          <param name="param_ano" value="2002"/>
+       </antcall>
+    </target>
+    
+    <target name="2001">
+       <antcall target="sima">
+          <param name="param_ano" value="2001"/>
+       </antcall>
+    </target>
+
+    <target name="2000">
+       <antcall target="sima">
+          <param name="param_ano" value="2000"/>
+       </antcall>
+    </target>
+
+    <target name="1999">
+       <antcall target="sima">
+          <param name="param_ano" value="1999"/>
+       </antcall>
+    </target>
+    
+    <target name="1998">
+       <antcall target="sima">
+          <param name="param_ano" value="1998"/>
+       </antcall>
+    </target>
+
+    <target name="1997">
+       <antcall target="sima">
+          <param name="param_ano" value="1997"/>
+       </antcall>
+    </target>
+
+    <target name="1996">
+       <antcall target="sima">
+          <param name="param_ano" value="1996"/>
+       </antcall>
+    </target>
+
+    <target name="1995">
+       <antcall target="sima">
+          <param name="param_ano" value="1995"/>
+       </antcall>
+    </target>
+<!--AÑOS HABILITADOS-->
+
+
+</project>

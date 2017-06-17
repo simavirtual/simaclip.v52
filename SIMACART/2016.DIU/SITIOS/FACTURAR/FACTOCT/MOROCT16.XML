@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{INFORMES}{ALUMNOS MOROSOS}{RELACION MOROSOS}"
+   titulo1 = "ESTUDIANTES MOROSOS. A¥O: 2016 JORNADA: DIURNA"
+   titulo2 = "RECIBOS MES DE OCTUBRE"
+   titulo3 = " A OCT 31/2016"
+   fechprn = "NOV 10/2016"
+   horaprn = "15:29:05"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>MORA</columna>
+    <columna>CONTACTO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">215146</campo>
+    <campo url="no">1601- 2</campo>
+    <campo url="no">BOBADILLA SANCHEZ SAUL ANDRES</campo>
+    <campo url="no">705,297</campo>
+    <campo url="no">30</campo>
+    <campo url="no">SAUL ENRIQUE:3107998881,YURY ESTEFANIA:321421538</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">216111</campo>
+    <campo url="no">1601- 3</campo>
+    <campo url="no">FRANCO RUEDA JUAN JOSE</campo>
+    <campo url="no">705,297</campo>
+    <campo url="no">60</campo>
+    <campo url="no">GUSTAVO:3203064361,SANDRA MILENA:3123162958</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">216051</campo>
+    <campo url="no">1601- 6</campo>
+    <campo url="no">PEREZ GONZALEZ ANA MARIA</campo>
+    <campo url="no">705,297</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ROGER ALEXANDER:3185470282,IVONNE JOHANA:3178499773</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">214070</campo>
+    <campo url="no">0001- 1</campo>
+    <campo url="no">ABRIL GUTIERREZ DANIEL ALEJANDRO</campo>
+    <campo url="no">2,963,671</campo>
+    <campo url="no">150</campo>
+    <campo url="no">OTONIEL FELIPE:6430133,OLGA LUCIA:6430133</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">215078</campo>
+    <campo url="no">0001- 4</campo>
+    <campo url="no">CARRERO RUEDA JUAN PABLO</campo>
+    <campo url="no">2,867,043</campo>
+    <campo url="no">120</campo>
+    <campo url="no">SEBASTIAN:3007701907,LINA MARITZA:6571515NA</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">216019</campo>
+    <campo url="no">0001- 7</campo>
+    <campo url="no">LANCHEROS ROMERO LUCIANA</campo>
+    <campo url="no">1,392,829</campo>
+    <campo url="no">60</campo>
+    <campo url="no">JHON FREDY:6970236,SANDRA MILENA:3162295042</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">214129</campo>
+    <campo url="no">0001-11</campo>
+    <campo url="no">REYES HERNANDEZ SARA GABRIELA</campo>
+    <campo url="no">2,150,282</campo>
+    <campo url="no">120</campo>
+    <campo url="no">GUSTAVO ADOLFO:6437535,YISHNEY:6339593</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">214002</campo>
+    <campo url="no">0002- 3</campo>
+    <campo url="no">BLANCO VEGA JOSE ALEJANDRO</campo>
+    <campo url="no">1,425,402</campo>
+    <campo url="no">90</campo>
+    <campo url="no">WILLIAM MAURICIO:6960538,NELFY LEANA:6960538</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">215019</campo>
+    <campo url="no">0002- 5</campo>
+    <campo url="no">GOMEZ NAVARRO ANA SOFIA</campo>
+    <campo url="no">1,821,164</campo>
+    <campo url="no">90</campo>
+    <campo url="no">SERGIO FERNANDO:6339663,LIDA VIVIANA:6342220EXT123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">216118</campo>
+    <campo url="no">0002-10</campo>
+    <campo url="no">LOPEZ BARRAGAN MOISES DAVID</campo>
+    <campo url="no">5,180,358</campo>
+    <campo url="no">210</campo>
+    <campo url="no">:,YENNY XIOMARA:3175000534</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">213135</campo>
+    <campo url="no">0101- 8</campo>
+    <campo url="no">OVALLE JAIMES JUAN MANUEL</campo>
+    <campo url="no">1,417,792</campo>
+    <campo url="no">90</campo>
+    <campo url="no">EFRAIN ADOLFO`:6036721,SILVIA JULIANA:6425132</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">12</campo>
+    <campo url="no">215081</campo>
+    <campo url="no">0102-10</campo>
+    <campo url="no">TORRES LUNA SAMUEL ALEJANDRO</campo>
+    <campo url="no">2,126,528</campo>
+    <campo url="no">90</campo>
+    <campo url="no">JOSE RUBEN:6948537,LINA MARCELA:6578422</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">13</campo>
+    <campo url="no">216121</campo>
+    <campo url="no">0102-12</campo>
+    <campo url="no">RUEDA NAVARRO JORGE IGNACIO</campo>
+    <campo url="no">6,569,619</campo>
+    <campo url="no">120</campo>
+    <campo url="no">JORGE HUMBERTO:6239714,DANIELLY:6039410</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">14</campo>
+    <campo url="no">215007</campo>
+    <campo url="no">0201-15</campo>
+    <campo url="no">ORTIZ MARTINEZ ANDRES FERNANDO</campo>
+    <campo url="no">665,813</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JORGE ELIECER:6344607,LINA MARIA:6343680</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">15</campo>
+    <campo url="no">214135</campo>
+    <campo url="no">0201-17</campo>
+    <campo url="no">RUEDA TORRES DANIEL FELIPE</campo>
+    <campo url="no">6,732,274</campo>
+    <campo url="no">270</campo>
+    <campo url="no">DANIEL FELIPE:,LUCILA:3172441806</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">16</campo>
+    <campo url="no">214014</campo>
+    <campo url="no">0201-21</campo>
+    <campo url="no">CONTRERAS CABRERA NIKOLE DANIELA</campo>
+    <campo url="no">5,924,472</campo>
+    <campo url="no">240</campo>
+    <campo url="no">OSCAR ALBERTO:6800991,ERIKA JOHANNA:3176440005</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">17</campo>
+    <campo url="no">216079</campo>
+    <campo url="no">0202- 4</campo>
+    <campo url="no">CARO SARMIENTO SAMUEL FERNANDO</campo>
+    <campo url="no">1,400,238</campo>
+    <campo url="no">90</campo>
+    <campo url="no">LUIS FERNANDO:,MARIA CAROLINA:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">18</campo>
+    <campo url="no">216044</campo>
+    <campo url="no">0202- 7</campo>
+    <campo url="no">CELY FORERO JOSE DANIEL</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">EDWIN GIOVANNY:6480696,NANCY JOHANA:3153463431</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">19</campo>
+    <campo url="no">216104</campo>
+    <campo url="no">0202- 8</campo>
+    <campo url="no">DIAZ RIVERA DIEGO ALEJANDRO</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ALVARO:6327280,LEIDY CATHERINE:6327280</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">20</campo>
+    <campo url="no">215047</campo>
+    <campo url="no">0202- 9</campo>
+    <campo url="no">GRANADOS RUA IAN EMMANUEL</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JEAN MAURICIO:6342220,MARIA VICTORIA:6337000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">21</campo>
+    <campo url="no">212089</campo>
+    <campo url="no">0202-13</campo>
+    <campo url="no">MONSALVE ESTUPI¥AN LUIS FELIPE</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">90</campo>
+    <campo url="no">LUIS CARLOS:6914277,ANGIE CAROLINA:6574949</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">22</campo>
+    <campo url="no">214132</campo>
+    <campo url="no">0202-14</campo>
+    <campo url="no">OSPINA PRADA GABRIELA</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">60</campo>
+    <campo url="no">NAPOLEON:55-22-27739701,LUDY KARINE:6453131</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">23</campo>
+    <campo url="no">214130</campo>
+    <campo url="no">0202-15</campo>
+    <campo url="no">REYES HERNANDEZ JUAN DIEGO</campo>
+    <campo url="no">2,129,799</campo>
+    <campo url="no">120</campo>
+    <campo url="no">GUSTAVO ADOLFO:6437535,YISHNEY:6339593</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">24</campo>
+    <campo url="no">214161</campo>
+    <campo url="no">0202-19</campo>
+    <campo url="no">MU¥OS ARMENTA JHON WEST</campo>
+    <campo url="no">5,131,016</campo>
+    <campo url="no">210</campo>
+    <campo url="no">EDWIN WEST:6700684,YURLEY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">25</campo>
+    <campo url="no">216130</campo>
+    <campo url="no">0202-20</campo>
+    <campo url="no">REYES PEREZ PABLO ALEJANDRO</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HERNAN:6067203,SANDRA:6067203</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">26</campo>
+    <campo url="no">214021</campo>
+    <campo url="no">0301- 2</campo>
+    <campo url="no">CALDERON SOTO SEBASTIAN</campo>
+    <campo url="no">3,684,191</campo>
+    <campo url="no">180</campo>
+    <campo url="no">JUAN SEBASTIAN:6715358,ANDREA:6045154</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">27</campo>
+    <campo url="no">214018</campo>
+    <campo url="no">0301- 5</campo>
+    <campo url="no">CUELLAR ESTUPI¥AN DANNA VALENTINA</campo>
+    <campo url="no">1,579,703</campo>
+    <campo url="no">90</campo>
+    <campo url="no">EFRAIN:,LEIDY TATIANA:6337000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">28</campo>
+    <campo url="no">216110</campo>
+    <campo url="no">0301- 6</campo>
+    <campo url="no">FRANCO RUEDA JUAN DIEGO</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">60</campo>
+    <campo url="no">GUSTAVO:6197418,SANDRA MILENA:6197418</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">29</campo>
+    <campo url="no">214141</campo>
+    <campo url="no">0301- 9</campo>
+    <campo url="no">GUERRERO PALACIOS DANIEL FELIPE</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JIMY ALBERTO:,IVON ADRIANA:3102690032</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">30</campo>
+    <campo url="no">212136</campo>
+    <campo url="no">0301-10</campo>
+    <campo url="no">HERNANDEZ HIGUERA FELIPE ANDRES</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">EDILBERTO DE JESUS:7430972,ELDA  LILIANA:6382828EXT5217</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">31</campo>
+    <campo url="no">216050</campo>
+    <campo url="no">0301-12</campo>
+    <campo url="no">PEREZ GONZALEZ JUAN DANIEL</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ROGER ALEXANDER:3185470282,IVONNE JOHANA:3178499773</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">32</campo>
+    <campo url="no">214026</campo>
+    <campo url="no">0301-13</campo>
+    <campo url="no">PEREZ GUERRERO MIGUEL FABIAN</campo>
+    <campo url="no">5,196,806</campo>
+    <campo url="no">240</campo>
+    <campo url="no">JAVIER ENRIQUE:6515704,NANCY STELLA:6515704</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">33</campo>
+    <campo url="no">214030</campo>
+    <campo url="no">0301-17</campo>
+    <campo url="no">ROJAS DUARTE LUIS FELIPE</campo>
+    <campo url="no">6,732,274</campo>
+    <campo url="no">270</campo>
+    <campo url="no">LUIS ALBERTO:3152249689,MARCELA:3152908500</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">34</campo>
+    <campo url="no">214019</campo>
+    <campo url="no">0301-19</campo>
+    <campo url="no">SARMIENTO LOPEZ JUAN CAMILO</campo>
+    <campo url="no">2,722,239</campo>
+    <campo url="no">120</campo>
+    <campo url="no">CAMILO JOSE:3154467668,YAHEL VANESSA:3162298244</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">35</campo>
+    <campo url="no">214205</campo>
+    <campo url="no">0301-20</campo>
+    <campo url="no">VIZCAYA NI¥O JUAN FELIPE</campo>
+    <campo url="no">3,864,786</campo>
+    <campo url="no">210</campo>
+    <campo url="no">:,RUFINA:3132591231</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">36</campo>
+    <campo url="no">215056</campo>
+    <campo url="no">0302- 2</campo>
+    <campo url="no">ADARME VALDERRAMA JUAN CAMILO</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RODRIGO:6304883,ERIKA JASBEIDY:6578171</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">37</campo>
+    <campo url="no">216045</campo>
+    <campo url="no">0302- 3</campo>
+    <campo url="no">ANGULO SANABRIA SHARON SAYREE</campo>
+    <campo url="no">2,106,273</campo>
+    <campo url="no">90</campo>
+    <campo url="no">EDSON YESID:3135990282,ADRIANA ROCIO:3103449272</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">38</campo>
+    <campo url="no">213140</campo>
+    <campo url="no">0302- 4</campo>
+    <campo url="no">BELLO RINCON JUAN SEBASTIAN</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">MAXIMINO:6375265,ROSA RUBIELA:6375265</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">39</campo>
+    <campo url="no">214096</campo>
+    <campo url="no">0302- 5</campo>
+    <campo url="no">CARRE¥O GONZALEZ JUAN PABLO</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ZUAN:8039831,GLADYS MARINA:6434545</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">40</campo>
+    <campo url="no">214095</campo>
+    <campo url="no">0302- 6</campo>
+    <campo url="no">COBOS MONTES MANUELA</campo>
+    <campo url="no">686,406</campo>
+    <campo url="no">30</campo>
+    <campo url="no">SERGIO ANTONIO:6684006,JAQUELINE:6684006</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">41</campo>
+    <campo url="no">214071</campo>
+    <campo url="no">0302- 7</campo>
+    <campo url="no">DIAZ VANEGAS CARLOS LEONARDO</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">90</campo>
+    <campo url="no">HENRY:6468613,ELIZABETH:3209018722\</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">42</campo>
+    <campo url="no">214098</campo>
+    <campo url="no">0302-10</campo>
+    <campo url="no">REY AMAYA SANTIAGO</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">90</campo>
+    <campo url="no">OSCAR FERNANDO:6960665,SANDRA MILENA:6350112</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">43</campo>
+    <campo url="no">214144</campo>
+    <campo url="no">0302-11</campo>
+    <campo url="no">RINCON PLAZAS JOEL SANTIAGO</campo>
+    <campo url="no">1,388,496</campo>
+    <campo url="no">90</campo>
+    <campo url="no">ALBEIRO:6337173,JENNY MARITZA:6337173</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">44</campo>
+    <campo url="no">214016</campo>
+    <campo url="no">0302-12</campo>
+    <campo url="no">SANCHEZ GONZALEZ OSCAR JULIAN</campo>
+    <campo url="no">4,543,047</campo>
+    <campo url="no">210</campo>
+    <campo url="no">OSCAR AURELIO:6368422,SANDARA MILENA:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">45</campo>
+    <campo url="no">214022</campo>
+    <campo url="no">0302-18</campo>
+    <campo url="no">TORRES REBOLLEDO JUAN ANDRES</campo>
+    <campo url="no">6,732,274</campo>
+    <campo url="no">270</campo>
+    <campo url="no">CESAR AUGUSTO:3153802794,ISABEL CRISTINA:3152064852</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">46</campo>
+    <campo url="no">211192</campo>
+    <campo url="no">0401- 4</campo>
+    <campo url="no">CAMACHO JARAMILLO JUAN ANDRES</campo>
+    <campo url="no">2,767,089</campo>
+    <campo url="no">120</campo>
+    <campo url="no">ANDRES MAURICIO:6432801,DIANA:3012878122</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">47</campo>
+    <campo url="no">212066</campo>
+    <campo url="no">0401- 6</campo>
+    <campo url="no">CARVAJAL QUINTERO ISABELA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">EDGAR JOSE:4484005,OLGA DEL ROCIO:6522222EXT2529</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">48</campo>
+    <campo url="no">212037</campo>
+    <campo url="no">0401-14</campo>
+    <campo url="no">SALCEDO VARGAS SARA MARIA</campo>
+    <campo url="no">3,496,550</campo>
+    <campo url="no">150</campo>
+    <campo url="no">LUIS LEONARDO:,JANETH YAMILE:3208039564</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">49</campo>
+    <campo url="no">211204</campo>
+    <campo url="no">0401-15</campo>
+    <campo url="no">SARMIENTO MARTINEZ JUAN FELIPE</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JERSON GIOVANNY:6997040,LUZ DARY:6711914</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">50</campo>
+    <campo url="no">211191</campo>
+    <campo url="no">0402- 5</campo>
+    <campo url="no">CAMACHO RODRIGUEZ DAVID JOSUE</campo>
+    <campo url="no">3,932,492</campo>
+    <campo url="no">180</campo>
+    <campo url="no">CAMPO ANIBAL:3102064821,ROSALIDA:3102064830</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">51</campo>
+    <campo url="no">213068</campo>
+    <campo url="no">0402- 9</campo>
+    <campo url="no">JIMENEZ PEREZ JUAN SEBASTIAN</campo>
+    <campo url="no">5,772,913</campo>
+    <campo url="no">240</campo>
+    <campo url="no">RICARDO FABIAN:3203541244,ALEXANDRA:6915460</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">52</campo>
+    <campo url="no">212045</campo>
+    <campo url="no">0402-12</campo>
+    <campo url="no">PALOMINO RUEDA JUAN JOSE</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">JUAN CARLOS:6464343,DIANA MILENA:6805299</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">53</campo>
+    <campo url="no">216087</campo>
+    <campo url="no">0402-14</campo>
+    <campo url="no">TAPIAS QUIROZ PIETRO ALEJANDRO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">DIEGO SAIN:3323700 EX1721,KAREN CECILIA:6991545</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">54</campo>
+    <campo url="no">214034</campo>
+    <campo url="no">0402-17</campo>
+    <campo url="no">CONTRERAS CABRERA OSCAR SANTIAGO</campo>
+    <campo url="no">5,772,913</campo>
+    <campo url="no">240</campo>
+    <campo url="no">OSCAR ALBERTO:6800991,ERIKA JOHANNA:6185766</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">55</campo>
+    <campo url="no">216122</campo>
+    <campo url="no">0402-18</campo>
+    <campo url="no">RUEDA NAVARRO SOFIA</campo>
+    <campo url="no">6,546,070</campo>
+    <campo url="no">240</campo>
+    <campo url="no">JORGE HUMBERTO:6239714,DANIELLY:6039410</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">56</campo>
+    <campo url="no">213226</campo>
+    <campo url="no">0402-19</campo>
+    <campo url="no">MORENO CASTRO ADID SANTIAGO</campo>
+    <campo url="no">6,545,987</campo>
+    <campo url="no">240</campo>
+    <campo url="no">GUSTAVO:6959941,FALLON VANESSA:6895718</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">57</campo>
+    <campo url="no">215057</campo>
+    <campo url="no">0501- 2</campo>
+    <campo url="no">ADARME VALDERRAMA DANIEL ALEJANDRO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RODRIGO:6304883,ERIKA JASBEIDY:6578171</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">58</campo>
+    <campo url="no">214036</campo>
+    <campo url="no">0501- 4</campo>
+    <campo url="no">BLANCO VEGA SANTIAGO</campo>
+    <campo url="no">1,375,706</campo>
+    <campo url="no">90</campo>
+    <campo url="no">WILLIAM MAURICIO:6960538,NEIFY LEANA:6960538</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">59</campo>
+    <campo url="no">213037</campo>
+    <campo url="no">0501- 9</campo>
+    <campo url="no">FRANCO RODRIGUEZ MARIA PAULA</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">FABIAN ERNESTO:2366459,KAREN SLENY:3105583775</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">60</campo>
+    <campo url="no">216057</campo>
+    <campo url="no">0501-10</campo>
+    <campo url="no">LOPEZ DUARTE LUNA SOFIA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HELIO HERNESTO:6962276,LAUDITH:6962276</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">61</campo>
+    <campo url="no">214162</campo>
+    <campo url="no">0501-17</campo>
+    <campo url="no">MU¥OZ ARMENTA SANTIAGO</campo>
+    <campo url="no">4,999,756</campo>
+    <campo url="no">210</campo>
+    <campo url="no">EDWIN WEST:6700684,YURLEY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">62</campo>
+    <campo url="no">212102</campo>
+    <campo url="no">0502- 1</campo>
+    <campo url="no">BOTERO BOADA JULIANA</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">CAMILO AUGUSTO:3223614111,SARA:6970692EX4004</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">63</campo>
+    <campo url="no">212016</campo>
+    <campo url="no">0502-16</campo>
+    <campo url="no">SANCHEZ SIMANCAS LAURA SOFIA</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">90</campo>
+    <campo url="no">JORGE LUIS:3168765927,INGRID PAOLA:6394358</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">64</campo>
+    <campo url="no">211212</campo>
+    <campo url="no">0601- 4</campo>
+    <campo url="no">ARIAS CUADROS KAREN VANESSA</campo>
+    <campo url="no">4,240,772</campo>
+    <campo url="no">180</campo>
+    <campo url="no">YOVANNY ALONSO:3102101984,LYDA MARCELA:6338058</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">65</campo>
+    <campo url="no">213075</campo>
+    <campo url="no">0601- 6</campo>
+    <campo url="no">BARON QUI¥ONEZ THAYLA VALERIA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">MOISES:6209933,ANA MILENA:3188031369</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">66</campo>
+    <campo url="no">215108</campo>
+    <campo url="no">0601- 9</campo>
+    <campo url="no">CHAPARRO PEDROZO SUSANA CRISTINA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">EDUARDO:6310979,LEYDIS CRISTINA:6310979</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">67</campo>
+    <campo url="no">210046</campo>
+    <campo url="no">0601-12</campo>
+    <campo url="no">GOMEZ NAVARRO ANDRES FELIPE</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">60</campo>
+    <campo url="no">SERGIO FERNANDO:6339663,LIDA VIVIANA:6342220EXT121</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">68</campo>
+    <campo url="no">216073</campo>
+    <campo url="no">0601-16</campo>
+    <campo url="no">GUZMAN JAIMES JORGE STEVEN</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JORGE ALBERTO:6483939,EDDY:6783939</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">69</campo>
+    <campo url="no">211122</campo>
+    <campo url="no">0601-21</campo>
+    <campo url="no">MERCHAN NAVARRO MARIA DANIELA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">JOSE ANUNCIACION:3156483359,YOLIMA DEL CARMEN:3162292802</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">70</campo>
+    <campo url="no">211074</campo>
+    <campo url="no">0601-22</campo>
+    <campo url="no">ORTEGA CARVAJAL JUAN DIEGO</campo>
+    <campo url="no">2,052,390</campo>
+    <campo url="no">90</campo>
+    <campo url="no">GERMAN ORLANDO:6854500,MARIA CRISTINA:3112233876</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">71</campo>
+    <campo url="no">212141</campo>
+    <campo url="no">0602-12</campo>
+    <campo url="no">MORELLI HIGUERA NICOLAS ANDRES</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ANDRES ENRRIQUE:6521210,INGRID CAROLINA:6980806</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">72</campo>
+    <campo url="no">216024</campo>
+    <campo url="no">0602-21</campo>
+    <campo url="no">SAAVEDRA TRIANA ERWIN OMAR</campo>
+    <campo url="no">2,774,681</campo>
+    <campo url="no">150</campo>
+    <campo url="no">ERWIN JHON:6909907,OMAIRA PATRICIA:6909907</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">73</campo>
+    <campo url="no">211006</campo>
+    <campo url="no">0602-24</campo>
+    <campo url="no">SANCHEZ MURILLO HELI SANTIAGO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HELI:6808647,ALEXANDRA:6943319</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">74</campo>
+    <campo url="no">215133</campo>
+    <campo url="no">0602-26</campo>
+    <campo url="no">TORRES ORTIZ MARIA FERNANDA</campo>
+    <campo url="no">648,780</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HERNANDO JOSE:,LINA MARIA:6365928</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">75</campo>
+    <campo url="no">211039</campo>
+    <campo url="no">0602-27</campo>
+    <campo url="no">VARGAS BONILLA JUAN PABLO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ELVER RAUL:6444076,LINA JUDITH:6418293</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">76</campo>
+    <campo url="no">216125</campo>
+    <campo url="no">0602-28</campo>
+    <campo url="no">VALENCIA ALDANA JUAN DAVID</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">:,MAGDA GISELLA:6411698</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">77</campo>
+    <campo url="no">211211</campo>
+    <campo url="no">0701- 2</campo>
+    <campo url="no">ARIAS CUADROS BRAYAN ALONSO</campo>
+    <campo url="no">4,240,772</campo>
+    <campo url="no">180</campo>
+    <campo url="no">YOVANNY ALONSO:3102101984,LYDA MARCELA:3102101984</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">78</campo>
+    <campo url="no">213169</campo>
+    <campo url="no">0701- 4</campo>
+    <campo url="no">BARRIOS PICO JOSE ALEJANDRO</campo>
+    <campo url="no">1,384,126</campo>
+    <campo url="no">90</campo>
+    <campo url="no">:,PILAR ROCIO:3043459368</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">79</campo>
+    <campo url="no">215031</campo>
+    <campo url="no">0701- 5</campo>
+    <campo url="no">CARDOZO PARADA GIOVANNI ALEXANDER</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">:,GIOVANNA:6840989</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">80</campo>
+    <campo url="no">211205</campo>
+    <campo url="no">0701-22</campo>
+    <campo url="no">SARMIENTO MARTINEZ ANA SOFIA</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JERSON GIOVANNY:6997040,LUZ DARY:6427775</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">81</campo>
+    <campo url="no">215069</campo>
+    <campo url="no">0701-25</campo>
+    <campo url="no">SILVA TARAZONA MANUEL FERNANDO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">YESID FERNANDO:3192707777,DENYS JOHANNA:6704481</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">82</campo>
+    <campo url="no">209022</campo>
+    <campo url="no">0701-26</campo>
+    <campo url="no">TRILLOS PEINADO BALDINI</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ALVARO ANTONIO:3183077229,GLADYS EDILMA:3224667145</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">83</campo>
+    <campo url="no">215144</campo>
+    <campo url="no">0701-30</campo>
+    <campo url="no">VARGAS BARAJAS NATHALIA</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">60</campo>
+    <campo url="no">HUMBERTO:,MARLENE:3186126385</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">84</campo>
+    <campo url="no">215142</campo>
+    <campo url="no">0701-32</campo>
+    <campo url="no">HERNANDEZ ZAMBRANO VALERIA MARIA</campo>
+    <campo url="no">2,162,816</campo>
+    <campo url="no">120</campo>
+    <campo url="no">HELMAN JOSE:6395133,MARTA PATRICIA:6395133</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">85</campo>
+    <campo url="no">208011</campo>
+    <campo url="no">0801- 4</campo>
+    <campo url="no">BOTERO BOADA ANDRES CAMILO</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">CAMILO AUGUSTO:6531312,SARA:6970692</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">86</campo>
+    <campo url="no">216065</campo>
+    <campo url="no">0801- 7</campo>
+    <campo url="no">CRISTANCHO MU¥OZ VLADIMIR</campo>
+    <campo url="no">1,360,544</campo>
+    <campo url="no">60</campo>
+    <campo url="no">JORGE ARMANDO:,VICTORIA EUGENIA:6978361</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">87</campo>
+    <campo url="no">215068</campo>
+    <campo url="no">0801-11</campo>
+    <campo url="no">GAITAN FONSECA CARLOS AUGUSTO</campo>
+    <campo url="no">2,914,928</campo>
+    <campo url="no">150</campo>
+    <campo url="no">CARLOS AUGUSTO:3007796952,MARIA TERESA:6959632</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">88</campo>
+    <campo url="no">209039</campo>
+    <campo url="no">0801-17</campo>
+    <campo url="no">LACHE CHAPARRO WILLIAM CAMILO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">WILLIAM:6414257,ADRIANA:6414257</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">89</campo>
+    <campo url="no">215097</campo>
+    <campo url="no">0801-20</campo>
+    <campo url="no">MARTINEZ VARGAS JUAN CARLOS</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JUAN CARLOS:3219711457,SHIRLEY JOHANNY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">90</campo>
+    <campo url="no">211115</campo>
+    <campo url="no">0801-21</campo>
+    <campo url="no">MOLANO CALIXTO ANDRES FELIPE</campo>
+    <campo url="no">4,304,822</campo>
+    <campo url="no">210</campo>
+    <campo url="no">NELSON WILLIAN:6608429EXT140,LILIANA MARIA:6428833EXT213</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">91</campo>
+    <campo url="no">209037</campo>
+    <campo url="no">0801-22</campo>
+    <campo url="no">MONTAGUTH DURAN SEBASTIAN CAMILO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HERNAN:6803037,HERMENCIA:6940829</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">92</campo>
+    <campo url="no">209045</campo>
+    <campo url="no">0801-26</campo>
+    <campo url="no">PALOMINO RUEDA SEBASTIAN ANDRES</campo>
+    <campo url="no">6,560,048</campo>
+    <campo url="no">270</campo>
+    <campo url="no">JUAN CARLOS:6805299,RUEDA RUEDA:3175387462</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">93</campo>
+    <campo url="no">216128</campo>
+    <campo url="no">0801-37</campo>
+    <campo url="no">VELASQUEZ VILLABONA JUAN ANDRES</campo>
+    <campo url="no">4,999,756</campo>
+    <campo url="no">210</campo>
+    <campo url="no">DIEGO ANDRES:3185743494,ANA CAROLINA:6574807</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">94</campo>
+    <campo url="no">216089</campo>
+    <campo url="no">0802- 6</campo>
+    <campo url="no">CELIS VILLAMIZAR DANIELA VALENTINA</campo>
+    <campo url="no">2,357,803</campo>
+    <campo url="no">120</campo>
+    <campo url="no">LUIS ANTONIO:,ESLENDY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">95</campo>
+    <campo url="no">214134</campo>
+    <campo url="no">0802-13</campo>
+    <campo url="no">LOPEZ MADIEDO CAMILO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JAIME EDUARDO:3162987999,JOHANA ELISA:6425196</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">96</campo>
+    <campo url="no">216048</campo>
+    <campo url="no">0802-17</campo>
+    <campo url="no">MOLANO GARCIA SANTIAGO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RICARDO ALBERTO:6497871,MILENA:6365639</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">97</campo>
+    <campo url="no">208149</campo>
+    <campo url="no">0802-18</campo>
+    <campo url="no">MORALES CASTELLON JULIAN ALBERTO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">ALBERTO:3173001267,MARIA PAOLA:6719562</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">98</campo>
+    <campo url="no">211193</campo>
+    <campo url="no">0802-21</campo>
+    <campo url="no">ORTIZ SERRANO JUAN ESTEBAN</campo>
+    <campo url="no">2,703,136</campo>
+    <campo url="no">120</campo>
+    <campo url="no">CRISTIAN EDUARDO:3132956819,SONIA:6314593</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">99</campo>
+    <campo url="no">209059</campo>
+    <campo url="no">0802-23</campo>
+    <campo url="no">PEREZ LEAL JULIAN ALBERTO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">OSWALDO:6530150,MARTHA CECILIA:6761147</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">100</campo>
+    <campo url="no">216082</campo>
+    <campo url="no">0802-24</campo>
+    <campo url="no">QUI¥ONEZ LUNA SARAH</campo>
+    <campo url="no">2,052,390</campo>
+    <campo url="no">90</campo>
+    <campo url="no">JOSE RUBEN:6948537,LINA MARCELA:6368424</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">101</campo>
+    <campo url="no">214041</campo>
+    <campo url="no">0802-27</campo>
+    <campo url="no">SANCHEZ LOPEZ JUAN SEBASTIAN</campo>
+    <campo url="no">5,561,586</campo>
+    <campo url="no">270</campo>
+    <campo url="no">MAURICIO IVAN:3166286314,LUZ STELLA:6357000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">102</campo>
+    <campo url="no">215082</campo>
+    <campo url="no">0802-32</campo>
+    <campo url="no">VARGAS NEIRA OSCAR EDGAR</campo>
+    <campo url="no">1,444,158</campo>
+    <campo url="no">150</campo>
+    <campo url="no">OSCAR EDGAR:4851212,LUZ FLOR:3118448722</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">103</campo>
+    <campo url="no">209168</campo>
+    <campo url="no">0802-33</campo>
+    <campo url="no">VILLAMIZAR CARVAJAL DIEGO MARTIN</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">60</campo>
+    <campo url="no">MARTIN ALONSO:6703730,MONICA ALEXANDRA:6928254</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">104</campo>
+    <campo url="no">215121</campo>
+    <campo url="no">0802-35</campo>
+    <campo url="no">CUBILLOS GARCIA MAYRA ALEJANDRA</campo>
+    <campo url="no">5,182,604</campo>
+    <campo url="no">240</campo>
+    <campo url="no">ORLANDO:6838084,DIANA MILENA:6838084</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">105</campo>
+    <campo url="no">216114</campo>
+    <campo url="no">0802-36</campo>
+    <campo url="no">PE¥A PE¥ARANDA ISABELLA</campo>
+    <campo url="no">1,352,976</campo>
+    <campo url="no">60</campo>
+    <campo url="no">LEONEL GERARDO:6456681,ELVIA JEANNETTE:6837112</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">106</campo>
+    <campo url="no">216143</campo>
+    <campo url="no">0802-38</campo>
+    <campo url="no">GARCIA CORREA JUAN CAMILO</campo>
+    <campo url="no">668,846</campo>
+    <campo url="no">30</campo>
+    <campo url="no">ANDRES FELIPE:6396160,YULIET:6396160</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">107</campo>
+    <campo url="no">215105</campo>
+    <campo url="no">0901- 4</campo>
+    <campo url="no">BARRAGAN ARCINIEGAS MARIA VALENTINA</campo>
+    <campo url="no">1,214,350</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ALFREDO:3176465241,SONIA YAMILE:6454185</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">108</campo>
+    <campo url="no">215115</campo>
+    <campo url="no">0901- 5</campo>
+    <campo url="no">BELLO SILVA JUAN DANIEL</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">ISAIAS:6471374,OLGA LUCIA:6976215</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">109</campo>
+    <campo url="no">208094</campo>
+    <campo url="no">0901-14</campo>
+    <campo url="no">GALVIS GUERRERO JULIO CESAR</campo>
+    <campo url="no">1,228,160</campo>
+    <campo url="no">90</campo>
+    <campo url="no">JULIO CESAR:6708090,TATIANA PAOLA:6950330</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">110</campo>
+    <campo url="no">212074</campo>
+    <campo url="no">0901-17</campo>
+    <campo url="no">HERNANDEZ OTERO CARLOS SANTIAGO</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">EDGAR:6809100,MARTHA EUGENIA:6809100</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">111</campo>
+    <campo url="no">213044</campo>
+    <campo url="no">0901-18</campo>
+    <campo url="no">JAIMES HERNANDEZ ANGY VALERIA</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">SAMUEL:6421385,NUBIA ESTHER:6434444 EX4257</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">112</campo>
+    <campo url="no">211011</campo>
+    <campo url="no">0901-22</campo>
+    <campo url="no">LOZANO CELIS KAREN MARCELA</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">ROBERTO:6574635,ESPERANZA:6416688</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">113</campo>
+    <campo url="no">215100</campo>
+    <campo url="no">0901-27</campo>
+    <campo url="no">REY CABANZO JOSE GABRIEL</campo>
+    <campo url="no">4,866,435</campo>
+    <campo url="no">240</campo>
+    <campo url="no">PEDRO JOSE:3164365777,XIOMARA:3184365777</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">114</campo>
+    <campo url="no">215131</campo>
+    <campo url="no">0901-28</campo>
+    <campo url="no">SANCHEZ FLOREZ MARIA CAMILA</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">60</campo>
+    <campo url="no">OSCAR JAVIER:,MILLIE JOHANNA:3005185674</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">115</campo>
+    <campo url="no">216056</campo>
+    <campo url="no">0901-29</campo>
+    <campo url="no">STERLING DUARTE LAYLLA EVELITH</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">HELIO ERNESTO:,LAUDITH:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">116</campo>
+    <campo url="no">216107</campo>
+    <campo url="no">0901-35</campo>
+    <campo url="no">RINCON RINCON MARIA PAULA</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">LUIS CARLOS:,JURLEY VANESSA:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">117</campo>
+    <campo url="no">216126</campo>
+    <campo url="no">0901-37</campo>
+    <campo url="no">SALAZAR ARANGO JULIANNA</campo>
+    <campo url="no">5,875,357</campo>
+    <campo url="no">240</campo>
+    <campo url="no">JOSE ROBERTO:6915304,ADRIANA JANETH:6915304</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">118</campo>
+    <campo url="no">208168</campo>
+    <campo url="no">0902- 2</campo>
+    <campo url="no">BARON CRISTANCHO MARIA DANIELA</campo>
+    <campo url="no">1,233,956</campo>
+    <campo url="no">120</campo>
+    <campo url="no">WILSON:6702351,CLAUDIA ELIZABETH:6701680</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">119</campo>
+    <campo url="no">216046</campo>
+    <campo url="no">0902- 4</campo>
+    <campo url="no">BLANCO MOJICA DIEGO ALEXANDER</campo>
+    <campo url="no">2,483,572</campo>
+    <campo url="no">120</campo>
+    <campo url="no">ROBIN DAVID:6346166,CLAUDIA MARCELA:6346166</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">120</campo>
+    <campo url="no">208239</campo>
+    <campo url="no">0902- 6</campo>
+    <campo url="no">BUENO SARMIENTO JUAN CARLOS I</campo>
+    <campo url="no">4,690,172</campo>
+    <campo url="no">240</campo>
+    <campo url="no">JUAN CARLOS:6712374,JOSEFINA ESTHER:6413000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">121</campo>
+    <campo url="no">215125</campo>
+    <campo url="no">0902- 8</campo>
+    <campo url="no">CHAPARRO PEDROZO EDUARDO</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">60</campo>
+    <campo url="no">EDUARDO:6458903,LEYDIS CRISTINA:6458903</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">122</campo>
+    <campo url="no">207056</campo>
+    <campo url="no">0902-11</campo>
+    <campo url="no">FRANCO CORREDOR GUSTAVO ALBERTO</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">FRANCO TORRES:6479011,DORA:6479011</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">123</campo>
+    <campo url="no">207141</campo>
+    <campo url="no">0902-17</campo>
+    <campo url="no">GUERRERO ROMERO CARLOS ANDRES</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">CARLOS HUMBERTO:6427123,LEIDY CAROLINA:6427123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">124</campo>
+    <campo url="no">213087</campo>
+    <campo url="no">0902-18</campo>
+    <campo url="no">HERNANDEZ MORENO CARLOS EDUARDO</campo>
+    <campo url="no">3,194,602</campo>
+    <campo url="no">180</campo>
+    <campo url="no">CARLOS SAUL:6358049,YOLANDA:6944006</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">125</campo>
+    <campo url="no">214053</campo>
+    <campo url="no">0902-20</campo>
+    <campo url="no">JIMENEZ CARRIELLO RICARDO</campo>
+    <campo url="no">1,214,350</campo>
+    <campo url="no">60</campo>
+    <campo url="no">JAIR YAMID:3123667304,GINA MILENA:6947586</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">126</campo>
+    <campo url="no">213159</campo>
+    <campo url="no">0902-30</campo>
+    <campo url="no">RAMOS MONROY ALEJANDRA</campo>
+    <campo url="no">1,897,556</campo>
+    <campo url="no">120</campo>
+    <campo url="no">LEONEL FRANCISCO:6457632,ADRIANA:6963364</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">127</campo>
+    <campo url="no">208246</campo>
+    <campo url="no">0902-32</campo>
+    <campo url="no">ROSALES FLOREZ HECTOR NICOLAS</campo>
+    <campo url="no">2,010,536</campo>
+    <campo url="no">120</campo>
+    <campo url="no">HECTOR:3157417078,ZORAIDA:6473909</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">128</campo>
+    <campo url="no">210059</campo>
+    <campo url="no">0902-34</campo>
+    <campo url="no">VELASQUEZ RODRIGUEZ JOSE DANIEL</campo>
+    <campo url="no">4,487,478</campo>
+    <campo url="no">210</campo>
+    <campo url="no">CARLOS OMAR:3107911773,MARIA STELLA:3124617395</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">129</campo>
+    <campo url="no">213227</campo>
+    <campo url="no">0902-37</campo>
+    <campo url="no">MORENO CASTRO JOSE MAURICIO</campo>
+    <campo url="no">5,875,357</campo>
+    <campo url="no">240</campo>
+    <campo url="no">GUSTAVO:3153773192,FALLON VANESSA:6895718</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">130</campo>
+    <campo url="no">207224</campo>
+    <campo url="no">1001- 5</campo>
+    <campo url="no">BUITRAGO PINTO JAVIER EDUARDO</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">CARLOS ARTURO:3186346422,YAMILE:6436111EXT190</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">131</campo>
+    <campo url="no">214154</campo>
+    <campo url="no">1001-12</campo>
+    <campo url="no">LOBO PATERNINA SEBASTIAN</campo>
+    <campo url="no">1,848,830</campo>
+    <campo url="no">90</campo>
+    <campo url="no">SIXTO TEOFILO:3184113789,LEYLA DEL CARMEN:3165782654</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">132</campo>
+    <campo url="no">209222</campo>
+    <campo url="no">1001-14</campo>
+    <campo url="no">MONSALVE TAPIAS RAUL ANDRES</campo>
+    <campo url="no">2,483,572</campo>
+    <campo url="no">120</campo>
+    <campo url="no">RAUL:6209671,SANDRA MARIA:6344000EXT1288</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">133</campo>
+    <campo url="no">211053</campo>
+    <campo url="no">1001-22</campo>
+    <campo url="no">RIVERA TRASLAVI¥A CESAR IVAN</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">:,OLGA LUCIA:6850054</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">134</campo>
+    <campo url="no">215112</campo>
+    <campo url="no">1001-25</campo>
+    <campo url="no">SIACHOQUE PE¥A ANDRES CAMILO</campo>
+    <campo url="no">1,842,102</campo>
+    <campo url="no">120</campo>
+    <campo url="no">JOSE ALVARO:6367035,MARTHA CECILIA:6367035</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">135</campo>
+    <campo url="no">206052</campo>
+    <campo url="no">1001-28</campo>
+    <campo url="no">VASQUEZ RUEDA MARIA JOSE</campo>
+    <campo url="no">4,525,871</campo>
+    <campo url="no">240</campo>
+    <campo url="no">OSCAR ALFONSO:9146330591,LUZ STELLA:3003883939</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">136</campo>
+    <campo url="no">215148</campo>
+    <campo url="no">1001-29</campo>
+    <campo url="no">ALBA RODRIGUEZ SILVIA FERNANDA</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">:,ELGA LISSETH:6377766</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">137</campo>
+    <campo url="no">206183</campo>
+    <campo url="no">1002- 1</campo>
+    <campo url="no">ACEVEDO NI¥O DIEGO ANDRES</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RODOLFO EDMUNDO:6374401,MARLENE:6317362</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">138</campo>
+    <campo url="no">215030</campo>
+    <campo url="no">1002-17</campo>
+    <campo url="no">MONSALVE GOMEZ FEYSARK SEBASTIAN</campo>
+    <campo url="no">2,538,823</campo>
+    <campo url="no">150</campo>
+    <campo url="no">FEYSARK EDUARDO:3203995437,NIDIA JANETH:6610357</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">139</campo>
+    <campo url="no">215049</campo>
+    <campo url="no">1002-18</campo>
+    <campo url="no">MORENO BECERRA JESUS ANDRES</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">LUIS HUMBERTO:3156373476,KATY LILIANA:6762556</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">140</campo>
+    <campo url="no">211157</campo>
+    <campo url="no">1002-25</campo>
+    <campo url="no">RUEDA TORRES JORGE ENRIQUE</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">JORGE ENRIQUE:,LUCILA:3175890913</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">141</campo>
+    <campo url="no">212083</campo>
+    <campo url="no">1002-26</campo>
+    <campo url="no">SAAVEDRA BLANCO MARIA ISABEL</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">LUIS EDUARDO:6334233,ISABEL:6706544</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">142</campo>
+    <campo url="no">208051</campo>
+    <campo url="no">1002-28</campo>
+    <campo url="no">VALDERRAMA DIAZ RODRIGO</campo>
+    <campo url="no">5,887,903</campo>
+    <campo url="no">270</campo>
+    <campo url="no">HERRERA:3114905838,MONICA:3114905838</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">143</campo>
+    <campo url="no">215122</campo>
+    <campo url="no">1002-30</campo>
+    <campo url="no">CUBILLOS LUENGAS ANGIE VANESSA</campo>
+    <campo url="no">4,651,592</campo>
+    <campo url="no">240</campo>
+    <campo url="no">ORLANDO:6914147,DIANA MILENA:6838084</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">144</campo>
+    <campo url="no">207036</campo>
+    <campo url="no">1003- 1</campo>
+    <campo url="no">ABRIL GUTIERREZ JUAN FELIPE</campo>
+    <campo url="no">2,567,276</campo>
+    <campo url="no">150</campo>
+    <campo url="no">OTONIEL FELIPE:6430133,OLGA LUCIA:6430133</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">145</campo>
+    <campo url="no">213074</campo>
+    <campo url="no">1003- 2</campo>
+    <campo url="no">BARON QUI¥ONES JEAN PIERRE</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">MOISES:6209933,ANA MILENA:3188031369</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">146</campo>
+    <campo url="no">214055</campo>
+    <campo url="no">1003- 6</campo>
+    <campo url="no">CALA VIRVIESCAS DIEGO ARMANDO</campo>
+    <campo url="no">1,214,350</campo>
+    <campo url="no">60</campo>
+    <campo url="no">ALIRIO:7275493,SANDRA MILENA:6950717</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">147</campo>
+    <campo url="no">209054</campo>
+    <campo url="no">1003- 9</campo>
+    <campo url="no">DELGADO ARIAS NICOLAS</campo>
+    <campo url="no">1,284,151</campo>
+    <campo url="no">90</campo>
+    <campo url="no">GUILLERMO MARTIN:6961121,ALEJANDRA:6961121</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">148</campo>
+    <campo url="no">207158</campo>
+    <campo url="no">1003-10</campo>
+    <campo url="no">GOMEZ ARIZA DIEGO ANDRES</campo>
+    <campo url="no">4,487,478</campo>
+    <campo url="no">210</campo>
+    <campo url="no">CESAR AUGUSTO:6998801,NUBIA CECILIA:6998801</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">149</campo>
+    <campo url="no">214198</campo>
+    <campo url="no">1003-12</campo>
+    <campo url="no">HERNANDEZ JARAMILLO MARIANA</campo>
+    <campo url="no">1,842,102</campo>
+    <campo url="no">90</campo>
+    <campo url="no">MICHAEL EDUARDO:7610717,ANDREA:4329100EXT5014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">150</campo>
+    <campo url="no">210165</campo>
+    <campo url="no">1003-14</campo>
+    <campo url="no">HURTADO QUINTERO JUAN CAMILO</campo>
+    <campo url="no">3,806,260</campo>
+    <campo url="no">180</campo>
+    <campo url="no">JUAN CARLOS:6349445,GLORIA NANCY:6426469</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">151</campo>
+    <campo url="no">216092</campo>
+    <campo url="no">1003-23</campo>
+    <campo url="no">RAMIREZ ACU¥A CARLOS ANDRES</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">GABRIEL ENRIQUE:,MONICA:6955937</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">152</campo>
+    <campo url="no">212087</campo>
+    <campo url="no">1003-24</campo>
+    <campo url="no">RUEDA CHACON DAVID ANDRES</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">NESTOR JOSE:6800801EXT2291,MARTHA ROCIO:3152981808</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">153</campo>
+    <campo url="no">216086</campo>
+    <campo url="no">1003-29</campo>
+    <campo url="no">VANEGAS QUIROZ MARIA LAURA</campo>
+    <campo url="no">600,316</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JOSE GREGORIO:,KAREN CECILIA:6991545</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">154</campo>
+    <campo url="no">205248</campo>
+    <campo url="no">1101- 3</campo>
+    <campo url="no">BARRERA ROJAS DANNY SEBASTIAN</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">60</campo>
+    <campo url="no">MARIO:6578000,LIGIA AZUCENA DE LA TRINIDAD:6578000</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">155</campo>
+    <campo url="no">211052</campo>
+    <campo url="no">1101- 5</campo>
+    <campo url="no">BUITRAGO DIAZ MIGUEL ANGEL</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">30</campo>
+    <campo url="no">RICARDO:6425361,MADY NORELA:6976182</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">156</campo>
+    <campo url="no">211082</campo>
+    <campo url="no">1101- 7</campo>
+    <campo url="no">CARVAJAL PICON MARIA DANIELA</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">30</campo>
+    <campo url="no">NELSON GUILLERMO:3115004331,ALBA LUCIA:3125224878</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">157</campo>
+    <campo url="no">206068</campo>
+    <campo url="no">1101-12</campo>
+    <campo url="no">DURAN PARADA OSCAR FERNANDO</campo>
+    <campo url="no">1,189,827</campo>
+    <campo url="no">90</campo>
+    <campo url="no">OSCAR MAURICIO:6433861,CLAUDIA:6715050</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">158</campo>
+    <campo url="no">209130</campo>
+    <campo url="no">1101-15</campo>
+    <campo url="no">MARTINEZ ACU¥A JUAN FELIPE</campo>
+    <campo url="no">2,433,417</campo>
+    <campo url="no">120</campo>
+    <campo url="no">MANUEL:6184010,MARTINEZ:6184010</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">159</campo>
+    <campo url="no">208249</campo>
+    <campo url="no">1101-17</campo>
+    <campo url="no">MUSKUS GARCIA ALEJANDRO</campo>
+    <campo url="no">1,189,827</campo>
+    <campo url="no">60</campo>
+    <campo url="no">PEDRO FRANCISCO:6804285,MONICA MARIA:3182386254</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">160</campo>
+    <campo url="no">211181</campo>
+    <campo url="no">1101-19</campo>
+    <campo url="no">PE¥A GELVEZ BRANDON YAIR</campo>
+    <campo url="no">1,804,901</campo>
+    <campo url="no">90</campo>
+    <campo url="no">RUBEN DARIO:3212025037,GLADYS AMPARO:3143349374</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">161</campo>
+    <campo url="no">207207</campo>
+    <campo url="no">1101-25</campo>
+    <campo url="no">RUEDA BLANCO NICOLAS GIOVANNY</campo>
+    <campo url="no">3,813,501</campo>
+    <campo url="no">210</campo>
+    <campo url="no">WILLIAM GIOVANNY:3203178313,CLARA INES:3224596843</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">162</campo>
+    <campo url="no">210089</campo>
+    <campo url="no">1101-27</campo>
+    <campo url="no">SALCEDO VARGAS LAURA VALENTINA</campo>
+    <campo url="no">3,074,915</campo>
+    <campo url="no">150</campo>
+    <campo url="no">LUIS LEONARDO:64770949,JANETH YAMILE:3208039564</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">163</campo>
+    <campo url="no">208175</campo>
+    <campo url="no">1101-31</campo>
+    <campo url="no">GONZALEZ RINCON DANIELA ALEXANDRA</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">GONZALEZ BECERRA:6366378,ALEXANDRA:6515974</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">164</campo>
+    <campo url="no">211095</campo>
+    <campo url="no">1102- 3</campo>
+    <campo url="no">BLANCO VARGAS JUAN DIEGO</campo>
+    <campo url="no">1,209,817</campo>
+    <campo url="no">90</campo>
+    <campo url="no">EDWIN MAURICIO:6343575,YOMAIRA:6970312EXT8040</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">165</campo>
+    <campo url="no">211085</campo>
+    <campo url="no">1102-11</campo>
+    <campo url="no">GONZALEZ QUINTERO DANIEL ANTONIO</campo>
+    <campo url="no">2,433,417</campo>
+    <campo url="no">120</campo>
+    <campo url="no">JOSE ANTONIO:3102385723,RUDY ZULEIMA:6342549</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">166</campo>
+    <campo url="no">215098</campo>
+    <campo url="no">1102-15</campo>
+    <campo url="no">MARTINEZ VARGAS DANIELA ANDREA</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JUAN CARLOS:,SHIRLEY JOHANNY:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">167</campo>
+    <campo url="no">208252</campo>
+    <campo url="no">1102-25</campo>
+    <campo url="no">TOBON DE CASTRO MARIA LUCIA</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">JOAQUIN AUGUSTO:6943019,OLGA LUCIA:6943019</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">168</campo>
+    <campo url="no">208032</campo>
+    <campo url="no">1102-26</campo>
+    <campo url="no">TORRES APONTE JUAN DAVID ALBERTO</campo>
+    <campo url="no">2,558,200</campo>
+    <campo url="no">150</campo>
+    <campo url="no">JORGE ALBERTO:6420011,MARTHA LUCIA:3132629523</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">169</campo>
+    <campo url="no">211174</campo>
+    <campo url="no">1102-30</campo>
+    <campo url="no">CASTELLANOS NIEVES JUAN FELIPE</campo>
+    <campo url="no">3,292,232</campo>
+    <campo url="no">180</campo>
+    <campo url="no">JOSE ORLANDO:3157844734,BLANCA JANETH:6976849</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">170</campo>
+    <campo url="no">214169</campo>
+    <campo url="no">1103- 9</campo>
+    <campo url="no">FUENTES LOPEZ ANDRES ERNESTO</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">ERNESTO:3002745244,PATRICIA:3106748337</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">171</campo>
+    <campo url="no">211012</campo>
+    <campo url="no">1103-16</campo>
+    <campo url="no">LOZANO CELIS ROBERTO CARLOS</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">ROBERTO:6574635,ESPERANZA:3174041261</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">172</campo>
+    <campo url="no">206176</campo>
+    <campo url="no">1103-17</campo>
+    <campo url="no">MANTILLA ARIZA MARIA CAMILA</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">ALIRIO:6445957,AMPARO:6445957</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">173</campo>
+    <campo url="no">213234</campo>
+    <campo url="no">1103-26</campo>
+    <campo url="no">SANTAMARIA RUEDA JAIME ALEJANDRO</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JAIME ALBERTO:6468060,YAZMIN ROCIO:6709600</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">174</campo>
+    <campo url="no">210071</campo>
+    <campo url="no">1103-27</campo>
+    <campo url="no">SILVA ORDO¥EZ LUZ ANGLICA</campo>
+    <campo url="no">588,193</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JUAN CARLOS:6239839,BETTY CECILIA:6423725</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">175</campo>
+    <campo url="no">211178</campo>
+    <campo url="no">1103-28</campo>
+    <campo url="no">SOLIS PACHECO ADALBERTO</campo>
+    <campo url="no">5,768,999</campo>
+    <campo url="no">270</campo>
+    <campo url="no">ADALBERTO:,PRUDENCIA:6475643</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">176</campo>
+    <campo url="no">215143</campo>
+    <campo url="no">1103-33</campo>
+    <campo url="no">HERNANDEZ ZAMBRANO VALENTINA ELISA</campo>
+    <campo url="no">1,902,011</campo>
+    <campo url="no">120</campo>
+    <campo url="no">HELMAN JOSE:6395133,MARTA PATRICIA:6395133</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RSFOCT16.XML">RESUMEN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">SALDO ACTUAL</campo>
+    <campo url="no">458,024,813</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

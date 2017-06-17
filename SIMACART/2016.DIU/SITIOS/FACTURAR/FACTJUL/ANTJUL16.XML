@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE JULIO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "AGO  5/2016"
+   horaprn = "15:10:03"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0501-18</campo>
+    <campo url="no">216136</campo>
+    <campo url="no">TOBON RUEDA DANIELA</campo>
+    <campo url="no">JUL/NOV: 4</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">3,107,456</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0701- 7</campo>
+    <campo url="no">210020</campo>
+    <campo url="no">CASTRO SANDOVAL EDGAR DAVID</campo>
+    <campo url="no">JUL/AGO: 1</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">1,306,340</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0801-38</campo>
+    <campo url="no">216137</campo>
+    <campo url="no">TOBON RUEDA MARCOS</campo>
+    <campo url="no">JUL/NOV: 4</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">2,612,680</campo>
+    <campo url="no">3,107,456</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">0901- 7</campo>
+    <campo url="no">208133</campo>
+    <campo url="no">CASTRO SANDOVAL EDGAR MAURICIO</campo>
+    <campo url="no">JUL/AGO: 1</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">586,246</campo>
+    <campo url="no">586,246</campo>
+    <campo url="no">1,172,492</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">1001-11</campo>
+    <campo url="no">215099</campo>
+    <campo url="no">GOMEZ HERNANDEZ JUAN PABLO</campo>
+    <campo url="no">JUL/NOV: 4</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">2,344,984</campo>
+    <campo url="no">2,344,984</campo>
+    <campo url="no">6,094,614</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">8,809,760</campo>
+    <campo url="no">8,809,760</campo>
+
+  </registro>
+
+</registros>

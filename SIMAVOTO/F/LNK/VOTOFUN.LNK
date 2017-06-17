@@ -1,0 +1,28 @@
+#  LINKEADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simavoto\f\objs\VotoFun
+       fi \simaclip.v52\simavoto\f\objs\fSimaVot
+       fi \simaclip.v52\simavoto\f\objs\fVotAno
+       fi \simaclip.v52\simavoto\f\objs\FuncsV01
+       fi \simaclip.v52\simavoto\f\objs\FuncsV02
+
+       fi \SimaClip.V52\SimaVoto\f\objs\FuncsAlu
+       fi \SimaClip.V52\SimaVoto\f\objs\FuncsPro
+
+       fi \SimaClip.V52\SimaVoto\f\objs\gVotoCnd
+       fi \SimaClip.V52\SimaVoto\f\objs\eVotoCnd
+
+       fi \SimaClip.V52\SimaVoto\f\objs\gVotoEle
+       fi \SimaClip.V52\SimaVoto\f\objs\eVotoEle
+
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

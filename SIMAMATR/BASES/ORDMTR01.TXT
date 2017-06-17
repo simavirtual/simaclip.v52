@@ -1,0 +1,136 @@
+<GRAPHION><CONDENOF><PROPOROF><DRAFTON><NEGRAON><ELITE><DOBANCON><DOBALTON>  ç
+        COLEGIO LA SALLE. BUCARAMANGA.
+
+          PREMATRICULA.CODIGO:(CODIGO)<DOBANCOF><DOBALTOF>
+                         PARA EL GRADO (NIVEL). A•O:2005
+
+ NOMBRE: (ESTUDIANTE)
+
+ NACIDO EN: ______________________________ ______________________________ EL ç
+____ ____ ____
+                       CIUDAD                     DEPARTAMENTO               ç
+MES  DIA  A•O
+ IDENTIFICACION:  ____ No ______________________________ DE ç
+_______________________________
+ DIRECCION: _________________________________________________ BARRIO: ç
+_____________________
+ CIUDAD: ____________________ TEL: __________ CEL: __________ E-MAIL: ç
+_____________________
+
+ APELLIDOS PADRE: ______________________________ NOMBRES PADRE: ç
+___________________________
+ IDENTIFICACION: ____ No.: _____________________ DE: ___________________ ç
+TEL: _____________
+ EMPRESA: ______________________________________ CARGO: ç
+___________________________________
+ DIRECCION: _________________________________________________ BARRIO: ç
+_____________________
+ CIUDAD: ____________________ PROFESION: ____________________ E-MAIL: ç
+_____________________
+ FAX: _______________________ CELULAR: ______________________ BIPPER: ç
+_____________________
+
+ APELLIDOS MADRE: ______________________________ NOMBRES MADRE: ç
+___________________________
+ IDENTIFICACION: ____ No.: _____________________ DE: ___________________ ç
+TEL: _____________
+ EMPRESA: ______________________________________ CARGO: ç
+___________________________________
+ DIRECCION: _________________________________________________ BARRIO: ç
+_____________________
+ CIUDAD: ____________________ PROFESION: ____________________ E-MAIL: ç
+_____________________
+ FAX: _______________________ CELULAR: ______________________ BIPPER: ç
+_____________________
+
+ APELLIDOS ACUDIENTE: __________________________ NOMBRES ACUDIENTE: ç
+_______________________
+ IDENTI: ____ No.: _____________________ DE: ___________________ PARENTESCO: ç
+______________
+ EMPRESA: ______________________________________ CARGO: ç
+___________________________________
+ DIRECCION: ____________________________ BARRIO: __________________ TEL ç
+CASA: _____________
+ CIUDAD: ____________________ TEL OFI: ________________ E-MAIL: ç
+___________________________
+ FAX: _______________________ CELULAR: ______________________ BIPPER: ç
+_____________________
+
+ APELLIDOS CODEUDOR1: __________________________ NOMBRES CODEUDOR1: ç
+_______________________
+ IDENTI: ____ No.: _____________________ DE: ___________________ PARENTESCO: ç
+______________
+ EMPRESA: ______________________________________ CARGO: ç
+___________________________________
+ DIRECCION: ____________________________ BARRIO: __________________ TEL ç
+CASA: _____________
+ CIUDAD: ____________________ TEL OFI: ________________ E-MAIL: ç
+___________________________
+ FAX: _______________________ CELULAR: ______________________ BIPPER: ç
+_____________________
+
+ APELLIDOS CODEUDOR2: __________________________ NOMBRES CODEUDOR2: ç
+_______________________
+ IDENTI: ____ No.: _____________________ DE: ___________________ PARENTESCO: ç
+______________
+ EMPRESA: ______________________________________ CARGO: ç
+___________________________________
+ DIRECCION: ____________________________ BARRIO: __________________ TEL ç
+CASA: _____________
+ CIUDAD: ____________________ TEL OFI: ________________ E-MAIL: ç
+___________________________
+ FAX: _______________________ CELULAR: ______________________ BIPPER: ç
+_____________________
+
+TODOS LOS ITEM SON DE OBLIGATORIO DILIGENCIAMIENTO<CONDENON>
+
+<JI>OBSERVACIONES:
+
+1. Favor ACTUALIZAR los datos de este formato y entregarlo al titular del ç
+curso, encontr†ndose a Paz y Salvo hasta el mes de Octubre, a mas tardar el ç
+20 de Octubre. Favor anexar recibo de pago.
+
+2. Favor adjuntar a este formato fotocopia de un recibo de servicios ç
+p£blicos.
+
+3. La PREMATRICULA no da derecho al cupo para el a§o 2005. Este depende de ç
+los resultados finales de la Comisi¢n de Evaluaci¢n y Promoci¢n y del ç
+cumplimiento del contrato de cooperaci¢n educativa con el Colegio.
+
+4. En el presente a§o, el comportamiento de pago de los contratantes ser† ç
+informado a DATACREDITO mensualmente.
+
+5. Si usted cancela por adelantado el valor total del a§o escolar,    ç
+recibir† un descuento del 10%.
+
+6. Adjuntar fotocopia de cÇdula de padres (contrantes) y ç
+codeudores.<CONDENOF>
+
+ACEPTAMOS EL PROYECTO INSTITUCIONAL, EL CONTRATO DE COOPERACION EDUCATIVA Y ç
+EL MANUAL DE CONVIVENCIA.
+
+
+
+
+_________________________         ____________________________
+  FIRMA CONTRATANTE(1)                FIRMA CONTRANTE(2) 
+Nombre:                           Nombre:
+
+CÇdula:                           CÇdula:
+
+
+
+_________________________         ____________________________
+  FIRMA CODEUDOR(1)                    FIRMA CODEUDOR(2) 
+Nombre:                           Nombre:
+
+CÇdula:                           CÇdula:
+
+
+
+_________________________
+   FIRMA DEL ALUMNO
+
+
+NOTA: Los contratantes no pueden ser codeudores.
+

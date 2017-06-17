@@ -1,0 +1,56 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaMatr\f\objs\MtrInfor
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simamatr\f\objs\Mtr00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simamatr\f\objs\Mtr00200
+     #ÀInformes Controlados
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00101
+     #ÀSolicitud de Cupo No. 1
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00102
+     #ÀSolicitud de Cupo No. 2
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00103
+     #ÀSolicitud de Cupo No. 3
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00104
+     #ÀSolicitud de Cupo No. 4
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00105
+     #ÀSolicitud de Cupo No. 5
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00106
+     #ÀSolicitud de Cupo No. 6
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00107
+     #ÀSolicitud de Cupo No. 7
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00108
+     #ÀSolicitud de Cupo No. 8
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00109
+     #ÀSolicitud de Cupo No. 9
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00110
+     #ÀSolicitud de Cupo No. 10
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00199
+     #ÀSolicitud de Cupo No. 99
+
+       fi \SimaClip.v52\SimaMatr\f\objs\Mtr00201
+     #ÀImpresi¢n por C‚dulas de los inscriptos
+#>>>>FIN ARCHIVOS DEL MODULO

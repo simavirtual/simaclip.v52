@@ -1,0 +1,131 @@
+#  ENCADENADOR PARA SIMA - CONTABILIDAD ACADEMICA
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 17/2006 VIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+#      VERBOSE
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>NOMBRE DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaCont\Pluscont
+#>>>>FIN NOMBRE DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaCont\f\objs\Depurar
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>MODULOS OBJETOS DEL SISTEMA
+       dynamic into \SimaClip.v52\SimaCont\Pluscont
+
+       fi \SimaClip.v52\simacont\f\objs\Conta205
+
+#       fi \SimaClip.v52\simacont\f\objs\Conta261
+#       fi \SimaClip.v52\simacont\f\objs\Conta262
+
+       fi \SimaClip.v52\simacont\f\objs\FSimaCon
+       fi \SimaClip.v52\simacont\f\objs\FContAno
+       fi \SimaClip.v52\simacont\f\objs\FContTbl
+#       fi \SimaClip.v52\simacont\f\objs\FContLog
+       fi \SimaClip.v52\simacont\f\objs\ContaFun
+       fi \SimaClip.v52\simacont\f\objs\FuncsAlu
+       fi \SimaClip.v52\simacont\f\objs\FuncsGru
+#       fi \SimaClip.v52\simacont\f\objs\FuncsNiv
+#       fi \SimaClip.v52\simacont\f\objs\FuncsBol
+#       fi \SimaClip.v52\simacont\f\objs\FuncsLib
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCer
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCns
+#       fi \SimaClip.v52\simacont\f\objs\FuncsEmp
+#       fi \SimaClip.v52\simacont\f\objs\FuncsOrg
+#       fi \SimaClip.v52\simacont\f\objs\FuncsPro
+#       fi \SimaClip.v52\simacont\f\objs\FuncsMat
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSel
+       fi \SimaClip.v52\simacont\f\objs\FuncsPla
+#Desmarcado
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSuN
+#       fi \SimaClip.v52\simacont\f\objs\FuncsSuG
+       fi \SimaClip.v52\simacont\f\objs\FuncsNot
+#Desmarcado
+#       fi \SimaClip.v52\simacont\f\objs\FuncsJui
+#       fi \SimaClip.v52\simacont\f\objs\FuncsHab
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCar
+#       fi \SimaClip.v52\simacont\f\objs\FuncsCla
+#       fi \SimaClip.v52\simacont\f\objs\FuncsNro
+#       fi \SimaClip.v52\simacont\f\objs\FuncsEva
+#       fi \SimaClip.v52\simacont\f\objs\FuncsApr
+#       fi \SimaClip.v52\simacont\f\objs\FuncsFun
+#       fi \SimaClip.v52\simacont\f\objs\FCorrBol
+#       fi \SimaClip.v52\simacont\f\objs\FuncsPaz
+#       fi \SimaClip.v52\simacont\f\objs\fDeudaPz
+#>>>>FIN MODULOS OBJETOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+#       fi \SimaClip.v52\sima.fun\eSimaFam
+       fi \SimaClip.v52\sima.fun\eContJvf
+#Desmarcado
+#       fi \SimaClip.v52\sima.fun\eContStd
+     #ÀFunciones Extendidas
+
+#       fi \SimaClip.v52\sima.fun\gSimaFam
+#       fi \SimaClip.v52\sima.fun\gContJvf
+#       fi \SimaClip.v52\sima.fun\gContStd
+     #ÀFunciones Generadas
+
+       fi \SimaClip.v52\sima.fun\SimaFun
+       fi \SimaClip.v52\sima.fun\SimaAlu
+       fi \SimaClip.v52\sima.fun\SimaGru
+#       fi \SimaClip.v52\sima.fun\SimaFam
+#       fi \SimaClip.v52\sima.fun\SimaHra
+       fi \SimaClip.v52\sima.fun\SimaNiv
+     #ÀFunciones generales del sima
+
+#       fi \SimaClip.V52\simacart\f\objs\FuCtrRec
+     #ÀFunciones de la Cartera
+
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>MODULOS DE SIMASOFT
+       fi \SimaClip.v52\clipper.fun\funcsdbf
+       fi \SimaClip.v52\clipper.fun\funcsnel
+       fi \SimaClip.v52\clipper.fun\classnel
+       fi \SimaClip.v52\clipper.fun\archinel
+       fi \SimaClip.v52\clipper.fun\funcsprn
+       fi \SimaClip.v52\clipper.fun\usrcrypt
+#       fi \SimaClip.v52\clipper.fun\fwwwusr
+#       fi \SimaClip.v52\clipper.fun\ftipousr
+#       fi \SimaClip.v52\clipper.fun\funcsErr
+#       fi \SimaClip.v52\clipper.fun\OtrErr01
+       fi \SimaClip.v52\clipper.fun\FunColor
+       fi \SimaClip.v52\clipper.fun\Printer
+#Desmarcado
+#       fi \SimaClip.v52\clipper.fun\FuncsXml
+       fi \SimaClip.v52\clipper.fun\FileSys
+#       fi \SimaClip.v52\clipper.fun\FileStr
+#       fi \SimaClip.v52\clipper.fun\FilePrg
+
+#       fi \SimaClip.v52\clipper.fun\GFuncPer
+
+#       fi \SimaClip.v52\clipper.fun\EFuncPer
+#>>>>FIN MODULOS DE SIMASOFT
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#      incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE SEPTIEMBRE"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "OCT  7/2016"
+   horaprn = "11:47:27"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0502-10</campo>
+    <campo url="no">213166</campo>
+    <campo url="no">REYES PRINCE LADER ALEN</campo>
+    <campo url="no">SEP/NOV: 2</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">1,306,340</campo>
+    <campo url="no">1,306,340</campo>
+    <campo url="no">1,966,042</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0701-24</campo>
+    <campo url="no">216066</campo>
+    <campo url="no">SILVA OSMA MATEO</campo>
+    <campo url="no">SEP/OCT: 1</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">1,987,857</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">0701-33</campo>
+    <campo url="no">216138</campo>
+    <campo url="no">LOPEZ JARAMILLO MIGUEL ANGEL</campo>
+    <campo url="no">SEP/OCT: 1</campo>
+    <campo url="no">PAGO OPO</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">653,170</campo>
+    <campo url="no">1,035,154</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">1102-21</campo>
+    <campo url="no">212046</campo>
+    <campo url="no">RODRIGUEZ OTERO SILVIA JULIANA</campo>
+    <campo url="no">SEP/NOV: 2</campo>
+    <campo url="no">PAGO EXT</campo>
+    <campo url="no">1,148,814</campo>
+    <campo url="no">1,148,814</campo>
+    <campo url="no">1,728,965</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">3,761,494</campo>
+    <campo url="no">3,761,494</campo>
+
+  </registro>
+
+</registros>

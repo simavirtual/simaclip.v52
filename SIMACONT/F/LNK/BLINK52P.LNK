@@ -1,0 +1,81 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# NOMBRE DEL ENCADENADOR..: PLUSMATR.LNK                                 *
+# TITULO DEL PROGRAMA.....: ENCADENADOR DEL SISTEMA                      *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#REQUERIMIENTOS:
+
+#1- Debe estar presente el linkiador del CLIPPER V52 Rtlink
+
+#OBJETIVOS:
+
+#1- Especificaciones para el encadenador "rtlink"
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>OPCIONES DEL ENCADENADOR
+       BLI INC OF
+       BLI EXE CLI //F:60
+       BLI EXE EXT
+#>>>>FIN OPCIONES DEL ENCADENADOR
+
+#>>>>OPCIONES OPCIONALES
+#      BLI EXE NODELETE
+#      BLI DEM DAT 2001/01/30
+       BLI EXE COM 9
+#      VERBOSE
+#      MAP A,S
+#>>>>FIN OPCIONES OPCIONALES
+
+#>>>>OPCIONES DE PRUEBAS
+#      BLI MEM CLEAR 0
+#      BLI OVE UMB ON
+#      BLI EXE DUA
+#>>>>FIN OPCIONES DE PRUEBAS
+
+#>>>>NOMBRE DEL ARCHIVO EXECUTABLE
+       output \SimaClip.v52\SimaCont\Pluscont
+       section into \SimaClip.v52\SimaCont\Pluscont
+#>>>>FIN NOMBRE DEL ARCHIVO EXECUTABLE
+
+#>>>>MODULOS DEL SISTEMA
+       fi \SimaClip.v52\SimaCont\f\objs\PlusCont
+       BEGINAREA
+	 @lnk\Conta100.lnk
+	 @lnk\Conta200.lnk
+	 @lnk\Conta300.lnk
+	 @lnk\Conta400.lnk
+	 @lnk\Conta500.lnk
+	 @lnk\Conta600.lnk
+	 @lnk\Conta700.lnk
+
+	 @lnk\ContaFun.lnk
+	 @lnk\ContaInf.lnk
+	 @lnk\ContaSha.lnk
+
+	 @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+	 Lib extend
+       ENDAREA
+#>>>>FIN MODULOS DEL SISTEMA
+
+#>>>>MODULOS DE SIMASOFT
+#       @\SimaClip.v52\clipper.fun\lnk\SimaSoft.lnk
+#>>>>FIN MODULOS OBJETO GENERALES
+
+#>>>>LIBRERIAS DE TERCEROS
+       @\SimaClip.v52\clipper.fun\lnk\Tools52p.lnk
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+#>>>>LIBRERIAS DE TERCEROS
+	search \aplica.dos\lenguaje\blinker7\lib\blxclp52
+#	lib \aplica.dos\lenguaje\clipper.v52\lib\cld
+#>>>>FIN LIBRERIAS DE TERCEROS
+
+

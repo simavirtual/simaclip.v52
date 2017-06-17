@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{INFORMES FACTURACION}{ALUMNOS PAGOS ANTICIPADOS}"
+   titulo1 = "ESTUDIANTES CON PAGOS POR ANTICIPADOS"
+   titulo2 = "FACTURADOS EN LOS RECIBOS DE MAYO"
+   titulo3 = "JORNADA: DIURNA. A¥O: 2017"
+   fechprn = "JUN  7/2017"
+   horaprn = "16:15:08"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>CURSO </columna>
+    <columna>CODIGO</columna>
+    <columna>NOMBRE DEL ESTUDIANTE</columna>
+    <columna>MESES</columna>
+    <columna>ESTADO</columna>
+    <columna>PENSION     </columna>
+    <columna>TOTALES</columna>
+    <columna>PAGOS</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">0502- 8</campo>
+    <campo url="no">215032</campo>
+    <campo url="no">HERNANDEZ RIVERA DIEGO ANDRES</campo>
+    <campo url="no">MAY/JUN: 1</campo>
+    <campo url="no">O:05/08/2017</campo>
+    <campo url="no">711,759</campo>
+    <campo url="no">711,759</campo>
+    <campo url="no">2,898,994</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">0602- 1</campo>
+    <campo url="no">213075</campo>
+    <campo url="no">BARON QUI¥ONEZ THAYLA VALERIA</campo>
+    <campo url="no">MAY/JUN: 1</campo>
+    <campo url="no">O:05/02/2017</campo>
+    <campo url="no">711,759</campo>
+    <campo url="no">711,759</campo>
+    <campo url="no">1,423,518</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">1102- 3</campo>
+    <campo url="no">213074</campo>
+    <campo url="no">BARON QUI¥ONES JEAN PIERRE</campo>
+    <campo url="no">MAY/JUN: 1</campo>
+    <campo url="no">O:05/02/2017</campo>
+    <campo url="no">625,931</campo>
+    <campo url="no">625,931</campo>
+    <campo url="no">1,251,862</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">****************************************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">************</campo>
+    <campo url="no">============</campo>
+    <campo url="no">============</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">2,049,449</campo>
+    <campo url="no">2,049,449</campo>
+
+  </registro>
+
+</registros>

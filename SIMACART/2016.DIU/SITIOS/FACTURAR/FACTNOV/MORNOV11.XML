@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{INFORMES}{ALUMNOS MOROSOS}{RELACION MOROSOS}"
+   titulo1 = "ESTUDIANTES MOROSOS. A¥O: 2011 JORNADA: DIURNA"
+   titulo2 = "RECIBOS MES DE NOVIEMBRE"
+   titulo3 = " A MAY 31/2016"
+   fechprn = "JUN  2/2016"
+   horaprn = "15:39:37"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>MORA</columna>
+    <columna>CONTACTO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">210035</campo>
+    <campo url="no">0102- 5</campo>
+    <campo url="no">CARRE¥O RANGEL SANTIAGO</campo>
+    <campo url="no">60,551</campo>
+    <campo url="no">30</campo>
+    <campo url="no">FERNANDO:6599817,MONICA CECILIA:6599817</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">209199</campo>
+    <campo url="no">0301- 8</campo>
+    <campo url="no">MANCILLA DIAZ MIGUEL ANGEL</campo>
+    <campo url="no">45,877</campo>
+    <campo url="no">30</campo>
+    <campo url="no">MAURICIO:6485255,SAYDA MILENA:6485255</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">207224</campo>
+    <campo url="no">0501-24</campo>
+    <campo url="no">BUITRAGO PINTO JAVIER EDUARDO</campo>
+    <campo url="no">53,237</campo>
+    <campo url="no">30</campo>
+    <campo url="no">CARLOS ARTURO:6760613,YAMILE:6319959</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">207206</campo>
+    <campo url="no">0502-24</campo>
+    <campo url="no">LOPEZ HERRERA MARIANA</campo>
+    <campo url="no">5,131,023</campo>
+    <campo url="no">240</campo>
+    <campo url="no">PABLO JOSU:6432634,ANA ISABEL:6432634</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">206017</campo>
+    <campo url="no">0601-15</campo>
+    <campo url="no">MANCILLA DIAZ SEBASTIAN</campo>
+    <campo url="no">40,168</campo>
+    <campo url="no">30</campo>
+    <campo url="no">MAURICIO:6485255,SAYDA MILENA:6485255</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">208231</campo>
+    <campo url="no">0701-17</campo>
+    <campo url="no">PERDOMO SANCHEZ LINA SORAYA</campo>
+    <campo url="no">3,117</campo>
+    <campo url="no">30</campo>
+    <campo url="no">LUIS HERNAN:,MARLENY:6942768</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">205068</campo>
+    <campo url="no">0702- 6</campo>
+    <campo url="no">DONADO ABREO NATHALIE JULIANA</campo>
+    <campo url="no">4,820,851</campo>
+    <campo url="no">300</campo>
+    <campo url="no">MARCO TULIO:6340542,SILENE DEL PILAR:6340542</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">211157</campo>
+    <campo url="no">0702-23</campo>
+    <campo url="no">RUEDA TORRES JORGE ENRIQUE</campo>
+    <campo url="no">10,630</campo>
+    <campo url="no">30</campo>
+    <campo url="no">JORGE ENRIQUE:,LUCILA:3175890913</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">209056</campo>
+    <campo url="no">0801-28</campo>
+    <campo url="no">ALVAREZ RAMIREZ JUAN DANIEL</campo>
+    <campo url="no">4,664,611</campo>
+    <campo url="no">240</campo>
+    <campo url="no">ALBERTO:3143135838,ISABEL CRISTINA:3143135838</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">10</campo>
+    <campo url="no">202203</campo>
+    <campo url="no">0902-18</campo>
+    <campo url="no">MENDEZ TAMAYO SILVIA NATHALIA</campo>
+    <campo url="no">6,432</campo>
+    <campo url="no">30</campo>
+    <campo url="no">ISRAEL:6471925,BERTHA:6471925</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">204258</campo>
+    <campo url="no">0903-33</campo>
+    <campo url="no">LOPEZ HERRERA JUAN PABLO</campo>
+    <campo url="no">4,824,611</campo>
+    <campo url="no">240</campo>
+    <campo url="no">PABLO JOSU:6421828,ANA ISABEL:6421828</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RSFNOV11.XML">RESUMEN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">SALDO ACTUAL</campo>
+    <campo url="no">19,661,108</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

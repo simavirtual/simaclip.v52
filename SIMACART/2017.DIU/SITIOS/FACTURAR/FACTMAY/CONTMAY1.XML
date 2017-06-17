@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE MAYO. A¥O: 2017"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = "RESTAURANTE PSE"
+   fechprn = "JUN  6/2017"
+   horaprn = "09:08:21"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>FECHA</columna>
+    <columna>TRAN</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>REFERENCIA</columna>
+    <columna>COMPROBANTE</columna>
+    <columna>OBSERVACION</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">MAY  6/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">138600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216051050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  6/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216050050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY  9/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">295200</campo>
+    <campo url="no"></campo>
+    <campo url="no">216048050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216062050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216064050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216062050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 11/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">216064050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 15/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">217077050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 15/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">214095050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">215056050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">MAY 30/2017</campo>
+    <campo url="no">PSE</campo>
+    <campo url="no">147600</campo>
+    <campo url="no"></campo>
+    <campo url="no">215057050503</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,762,200.00</campo>
+    <campo url="no">0.00</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

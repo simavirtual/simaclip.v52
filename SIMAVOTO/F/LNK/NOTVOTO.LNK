@@ -1,0 +1,15 @@
+#  ENCADENADOR: SIMA - SIMA - SISTEMA DE VOTACION DEL GOBIERNO ESCOLAR
+
+#*************************************************************************
+# MODULO..: FUNCIONES DESCARTADAS                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                    DECLARACION DE MODULOS EXCLUIDOS                    *
+#------------------------------------------------------------------------*
+
+#>>>>MODULOS EXCLUIDOS
+      DEFINE PathConAno
+      DEFINE aTotConFac,lValCodFun,lValCodHra,cCampoPrn
+      DEFINE lValMateri,cSekNomMat,cSekNomMat
+#>>>>FIN MODULOS EXCLUIDOS

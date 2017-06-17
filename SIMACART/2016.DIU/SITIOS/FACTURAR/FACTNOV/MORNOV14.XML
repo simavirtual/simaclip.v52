@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{INFORMES}{ALUMNOS MOROSOS}{RELACION MOROSOS}"
+   titulo1 = "ESTUDIANTES MOROSOS. A¥O: 2014 JORNADA: DIURNA"
+   titulo2 = "RECIBOS MES DE NOVIEMBRE"
+   titulo3 = "SIN FECHA DE CORTE"
+   fechprn = "ENE 25/2017"
+   horaprn = "11:00:21"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No.</columna>
+    <columna>CODIGO</columna>
+    <columna>GRUPO </columna>
+    <columna>NOMBRE DEL ESTUDIANTE </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>MORA</columna>
+    <columna>CONTACTO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="no">1</campo>
+    <campo url="no">213002</campo>
+    <campo url="no">0202-15</campo>
+    <campo url="no">RANGEL MENDOZA JESUS SANTIAGO</campo>
+    <campo url="no">3,366,636</campo>
+    <campo url="no">270</campo>
+    <campo url="no">JESUS DARIO:6900955,TATIANA MARCERLA:6900955</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">2</campo>
+    <campo url="no">213055</campo>
+    <campo url="no">0202-16</campo>
+    <campo url="no">ROJAS PATI¥O JUAN DAVID</campo>
+    <campo url="no">5,134,309</campo>
+    <campo url="no">240</campo>
+    <campo url="no">JUAN CARLOS:3188275812,NINI JOHANA:3138081424</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">3</campo>
+    <campo url="no">210090</campo>
+    <campo url="no">0402-18</campo>
+    <campo url="no">RUIZ SOSA RICARDO ANDRS</campo>
+    <campo url="no">6,544,479</campo>
+    <campo url="no">300</campo>
+    <campo url="no">RICARDO:,ESTHER:6392622</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">4</campo>
+    <campo url="no">208030</campo>
+    <campo url="no">0701-26</campo>
+    <campo url="no">RODRIGUEZ BRAVO JENNIFER TATIANA</campo>
+    <campo url="no">5,874,268</campo>
+    <campo url="no">300</campo>
+    <campo url="no">DARIO:6199932,BERTHA ISABEL:6769333</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">5</campo>
+    <campo url="no">211036</campo>
+    <campo url="no">0702-29</campo>
+    <campo url="no">RUIZ SOSA HELEN YULITZA</campo>
+    <campo url="no">5,874,268</campo>
+    <campo url="no">300</campo>
+    <campo url="no">DIAZ:6996631-315341,ESTHER MARÖA:6844917</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">6</campo>
+    <campo url="no">214054</campo>
+    <campo url="no">1002-24</campo>
+    <campo url="no">PATI¥O ACU¥A JUAN DIEGO</campo>
+    <campo url="no">1,610,191</campo>
+    <campo url="no">90</campo>
+    <campo url="no">LUIS ALBERTO:0414+7057422,AMPARO:</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">213155</campo>
+    <campo url="no">1002-40</campo>
+    <campo url="no">RODRIGUEZ AMAYA CARLOS SANTIAGO</campo>
+    <campo url="no">5,755,206</campo>
+    <campo url="no">300</campo>
+    <campo url="no">CARLOS ARIEL:3188770289,MARIA NANCY:6927591</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">==============</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+    <campo url="no">**********</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="RSFNOV14.XML">RESUMEN</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">SALDO ACTUAL</campo>
+    <campo url="no">34,159,357</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

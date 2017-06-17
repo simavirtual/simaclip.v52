@@ -1,0 +1,1537 @@
+/*                    SIMA - CONTABILIDAD ACADEMICA
+	    BIBLIOTECAS DE FUNCIONES PARA EL DISE¥O DE BOLETINES EN XML
+
+***************************************************************************
+*-------------------- DECLARACION DE LAS FUNCIONES -----------------------*
+**************************************************************************/
+
+/*************************************************************************
+* TITULO..: GENERACION DEL BOLETIN EN XML                                *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: JUN 10/2004 JUE A
+       Colombia, Bucaramanga        INICIO: 02:00 PM   JUN 10/2004 JUE
+
+OBJETIVOS:
+
+1- Genera el boletin para un estudiante con solo indicadores con el
+   control de las recuperaciones en cada asignatura en Xml
+
+2- Retorna Nil
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION BoleXml01(cNomEmp,cNomSis,cAnoSys,cNomEst,cTitUno,cTitDos,;
+		   nNroBis,cPorcen,nPorAcu,cJorTxt,aNotAre,aNotMat,;
+		   aFirmas)
+
+*>>>>PARAMETROS DE LA FUNCION
+/*     cNomEmp                              // Nombre de la empresa
+       cNomSis                              // Nombre del sistema
+       cAnoSys                              // A¤o del sistema
+       cNomEst                              // Nombre del estudiante
+       cTitUno			            // Nombre del titular Uno
+       cTitDos                              // Nombre del titular Dos
+       nNroBis                              // N£mero del bimestre
+       cPorcen                              // Porcentajes aplicados
+       nPorAcu                              // Porcentaje acumulado
+       cJorTxt                              // Jornada escogida
+       aNotAre                              // Detalles de las areas
+       aNotMat                              // Detalles de las materias
+       aFirmas                              // Firmas para el libro final */
+*>>>>FIN PARAMETROS DE LA FUNCION
+
+*>>>>DECLARACION DE VARIABLES
+       #INCLUDE "EPSONFX.PRG"
+       #INCLUDE "CAMPOS\ARC-CONT.PRG"       // Archivos del Sistema
+
+       LOCAL i,j,k,x,y,p := 0                 // Contadores
+
+       LOCAL aNroCol := {}                  // Columnas de los titulos
+       LOCAL aTitulo := {}                  // T¡tulos para el informe
+       LOCAL aRegPrn := {}                  // Registro de impresion
+
+       LOCAL cTx1Top := ''                  // Texto para el Encabezado
+       LOCAL nMarSup := 0                   // Margen Superior
+       LOCAL nLinCab := 0                   // L¡neas del Encabezado
+       LOCAL nLinCol := 0                   // L¡neas de Columnas
+       LOCAL nLenTxt := 0                   // Longitud del Texto
+       LOCAL lPagina := .T.                 // .T. Cambio de p gina
+       LOCAL nNroPag := 1                   // N£mero de p gina
+       LOCAL nTotCab := 0                   // Total l¡neas del encabezado
+       LOCAL nTotReg := 0                   // Total registros a imprimir
+       LOCAL nTotImp := 0                   // Totales de impresion
+       LOCAL cTxtPrn := ''                  // Texto de impresion
+       LOCAL nLenPrn := n17Stan             // Longitud de impresi¢n
+       LOCAL aMatHab := {}                  // Detalles de la Recuperaci¢n
+       LOCAL aNroLin := {}                  // N£mero de l¡neas
+       LOCAL cNroFol := NIL                 // N£mero de Folio
+
+       LOCAL cNroCol := ''                  // N£mero de columnas
+       LOCAL cNotDef := ''                  // Nota Definitiva
+       LOCAL cNotRec := ''                  // Nota de Recuperaci¢n
+       LOCAL   cNota := ''                  // Nota de area o materia
+
+       LOCAL cCamAcu := ''                  // Campo del acumulado
+       LOCAL cCamPro := ''                  // Campo del promedio
+       LOCAL cCamFal := ''                  // Campo de las fallas
+
+       LOCAL lOficio := .F.                 // .F. Tama¤o carta
+       LOCAL lPrnEmp := .F.                 // .T. Imprimir la Empresa
+       LOCAL lPrnAre := .F.                 // .T. Imprimir el  rea
+       LOCAL lNegAre := .F.                 // .T. Imprimir en negrilla el  rea
+       LOCAL lPrnNot := .F.                 // .T. Imprimir la nota
+       LOCAL cNotAcu := ''                  // Notas Acumuladas
+       LOCAL lRecNot := .F.                 // .T. Recuperar el Juicio Valorativo
+       LOCAL lIndNiv := .F.                 // .T. Indicadores por nivel
+       LOCAL lEvaInd := .F.                 // .T. Evaluar el indicador
+       LOCAL lPrnEva := .F.                 // .T. Imprimir el Nombre de la Evaluaci¢n del Nombre del Indicador. .F. Imprime el c¢digo de Evaluaci¢n.
+       LOCAL nLenEva := 0                   // Longitud del Nombre de la Evaluaci¢n del Indicador
+       LOCAL lHayNot := .F.                 // .T. Hay Notas
+       LOCAL lPrnCod := .F.                 // .T. Imprimir el C¢digo .F. Imprimir la Descripci¢n del Juicio
+       LOCAL lNotNum := .F.                 // .T. Nota Numerica .F. Nota Cualitativa
+       LOCAL cMsgBol := ''                  // Mensaje para el boletin
+       LOCAL nLinObs := 0                   // L¡neas de Observaci¢n
+       LOCAL bDerPrn := NIL                 // Derechos de Impresi¢n
+       LOCAL bCabBol := NIL                 // Encabezados del Boletin
+
+       LOCAL nTotPer := 0                   // Total de periodos
+       LOCAL cJuicio := ''                  // Juicios para el periodo
+       LOCAL aJuicio := {}                  // Juicios para el periodo
+       LOCAL cCodLog := ''                  // C¢digo del logro
+       LOCAL cCodAre := ''                  // C¢digo del area
+       LOCAL cNomAre := ''                  // Nombre del area
+       LOCAL cNomMat := ''                  // Nombre de la materia
+       LOCAL cAcuAre := ''                  // Acumulado del area
+       LOCAL cProAre := ''                  // Promedio del area
+       LOCAL cEvalua := ''                  // Evaluaci¢n conceptual
+       LOCAL cCodJui := ''                  // C¢digo del juicio
+       LOCAL cEstado := ''                  // Estado final de aprobaci¢n
+       LOCAL cClaInd := ''                  // Clase de Indicador de Configuraci¢n
+       LOCAL cIntens := ''                  // Intensidad Horaria
+       LOCAL cNroFal := ''                  // N£mero de Ausencias
+       LOCAL cSiRecu := ''                  // Logros SI Recuperados
+       LOCAL cNoRecu := ''                  // Logros NO Recuperados
+       LOCAL cNomCla := ''                  // Nombre de la Clase
+       LOCAL lSiPaso := .F.                 // .T. Control de Flujo
+       LOCAL cCodAnt := ''                  // C¢digo Anterior
+       LOCAL cMatRec := ''                  // Materia de las Recuperaciones
+       LOCAL cTitReN := ''                  // T¡tulo Indicadores NO Recuperados
+       LOCAL cTitReS := ''                  // T¡tulo Indicadores SI Recuperados
+       LOCAL cIndAnt := ''                  // Indicadores Periodos Anteriores
+       LOCAL cChrIni := ''                  // C¢digo Inicial de Impresi¢n
+       LOCAL cChrFin := ''                  // C¢digo Final de Impresi¢n
+       LOCAL cChrLin := ''                  // Caracter separador de l¡nea
+       LOCAL nNroPos := 0                   // N£mero de la Posici¢n
+       LOCAL lPiePag := .T.                 // .T. Imprimir el Pie de P gina
+       LOCAL cIndExt := ''                  // Indicador Extra
+
+       LOCAL cCodigoTju := ''               // C¢digo del juicio
+       LOCAL cNombreTju := ''               // Nombre del juicio
+       LOCAL cCodigoTma := ''               // C¢digo de la materia
+       LOCAL cNombreTma := ''               // Nombre de la materia
+       LOCAL cNotHabTno := ''               // Nota de la habilitaci¢n
+       LOCAL cFecHabTno := ''               // Fecha de la habilitaci¢n
+       LOCAL cCodigoTni := ''               // C¢digo del nivel
+       LOCAL cCodigoTcl := ''               // C¢digo de la clase
+       LOCAL cCodigoTev := ''               // C¢digo de la Evaluaci¢n
+       LOCAL cCamNotDef := ''               // Campo de Notas Definitivas
+       LOCAL cCamNotRec := ''               // Campo de Notas de Recuperaci¢n
+       LOCAL cCamJuiNot := ''               // Campo de Indicadores
+       LOCAL cTxtObsTap := ''               // Texto de Observaci¢n de Promoci¢n.
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>ANALISIS DEL LIBRO FINAL
+       IF aFirmas == NIL
+	  cNroFol := NIL
+       ELSE
+	  cNroFol := 'Folio No.'
+       ENDIF
+*>>>>FIN ANALISIS DEL LIBRO FINAL
+
+*>>>>LECTURA DE LA CONFIGURACION DEL NIVEL DE LA CONTABILIDAD
+       cTx1Top := ALLTRIM(SCO->cTxtLibCon)+;
+		  ALLTRIM(SCO->cTxtLi1Con)
+       cCodigoTni := SUBS(GRU->cCodigoGru,1,2)
+       nTotPer := TCO->nTotPerTbl
+       lOficio := TCO->lOficioTbl
+       lPrnEmp := TCO->lPrnEmpTbl
+       lPrnAre := TCO->lPrnAreTbl
+       lNegAre := TCO->lNegAreTbl
+       lPrnNot := IF(SUBS(TCO->cPrnNotTbl,nNroBis,1)='1',.T.,.F.)
+       cNotAcu := TCO->cNotAcuTbl
+       lRecNot := TCO->lRecNotTbl
+       lIndNiv := TCO->lIndNivTbl
+       cClaInd := TCO->cClaIndTbl
+       lEvaInd := IF(SUBS(TCO->cEvaIndTbl,nNroBis,1)='1',.T.,.F.)
+       lPrnEva := IF(SUBS(TCO->cEvaIndTbl,6,2)='00',.F.,.T.)
+       nLenEva := VAL(SUBS(TCO->cEvaIndTbl,6,2))
+       nLenEva := IF(nLenEva > 16,16,nLenEva)
+       lHayNot := IF(SUBS(TCO->cHayNotTbl,nNroBis,1)='1',.T.,.F.)
+       lPrnCod := TCO->lPrnCodTbl
+       lNotNum := IF(SUBS(TCO->cNotNumTbl,nNroBis,1)='1',.T.,.F.)
+       cMsgBol := ALLTRIM(TCO->cMsgBolTbl)
+
+       IF !lPrnNot
+	  lHayNot := .F.
+       ENDIF
+       IF !lHayNot .AND. lEvaInd
+	  lNotNum := .F.
+       ENDIF
+*>>>>FIN LECTURA DE LA CONFIGURACION DEL NIVEL DE LA CONTABILIDAD
+
+*>>>>CALCULO DEL TOTAL DE REGISTROS A IMPRIMIR
+       IF lPrnEmp
+	  nTotImp := IF(nNroBis==nTotPer,15,08)
+       ELSE
+	  nTotImp := IF(nNroBis==nTotPer,15,11)
+       ENDIF
+      *L¡neas de los totales de impresi¢n
+
+	nMarSup := TCO->nLinEspTbl
+	nLinCab := 9
+	nTotCab := IIF(nMarSup > nLinCab, nMarSup - nLinCab, 0)
+      *Encabezado de columna
+*>>>>FIN CALCULO DEL TOTAL DE REGISTROS A IMPRIMIR
+
+*>>>>ENCABEZADOS DE COLUMNA
+       CabColXml(lHayNot,lNotNum,lEvaInd,lPrnEva,nLenEva,lPrnCod,;
+		 cMsgBol,@aNroCol,@aTitulo,nNroBis,cNotAcu)
+*>>>>FIN ENCABEZADOS DE COLUMNA
+
+FileXml := 'printer\p'+STR(nNroBis,1)+NOT->cCodigoEst+'.xml'
+nHanXml := nOpenXml(FileXml)
+lSaveTxt('<?xml-stylesheet type="text/xsl" href="boletin2.xsl"?>',nHanXml,FileXml)
+
+*>>>>CREACION DEL ENCABEZADO
+       lSaveTxt('<boletin'+CHR(13)+CHR(10)+SPACE(02)+;
+		    'codigo="'+NOT->cCodigoEst+'"'+;
+			       CHR(13)+CHR(10)+SPACE(02)+;
+		    'logo="logo.gif"'+;
+			       CHR(13)+CHR(10)+SPACE(02)+;
+		    'nombre="'+cNomEst+'"'+;
+			       CHR(13)+CHR(10)+SPACE(02)+;
+		    'periodo="'+STR(nNroBis,1)+'"'+;
+				CHR(13)+CHR(10)+SPACE(02)+;
+		    'grupo="'+GRU->cCodigoGru+'"'+;
+			      CHR(13)+CHR(10)+SPACE(02)+;
+		    'lista="'+ALLTRIM(STR(NOT->(RECNO()),2))+'"'+;
+			      CHR(13)+CHR(10)+SPACE(02)+;
+		    'year="'+cAnoSys+'"'+;
+			     CHR(13)+CHR(10)+SPACE(02)+;
+		    'jornada="'+cJorTxt+'"'+;
+				CHR(13)+CHR(10)+SPACE(02)+;
+		    'titulo="'+ALLTRIM(TCO->cTitBolTbl)+'"'+;
+			       CHR(13)+CHR(10)+;
+		'>',nHanXml,FileXml)
+*>>>>CREACION DEL ENCABEZADO
+
+
+*>>>>IMPRESION DE LAS NOTAS
+       FOR i:=1 TO LEN(aNotAre)
+
+**********IMPRESION DE LAS NOTAS DEL AREA
+	    IF SUBS(aNotAre[i][4],7,4) == 'AREN'
+
+*--------------ANALISIS DE LA IMPRESION DEL AREA
+		 IF aNotAre[i][12]  // .T. No Imprimir
+		    lPagina := .F.
+		    LOOP
+		 ENDIF
+*--------------FIN ANALISIS DE LA IMPRESION AREA
+
+*--------------ANALISIS DE LA IMPRESION DE LA MODALIDAD
+		 IF aNotAre[i][13]  // .T. Modalidad
+		    cJuicio := ALLTRIM(&(aNotAre[i,6]))+SPACE(01)
+		    IF EMPTY(cJuicio)
+		       LOOP
+		    ENDIF
+		    cJuicio := ''
+		 ENDIF
+*--------------FIN ANALISIS DE LA IMPRESION DE LA MODALIDAD
+
+*--------------LECTURA DE LA NOTA DEL AREA
+		 cNota := ''
+		 IF EMPTY(cNotAcu)
+
+		    cNota := SUBS(&(aNotAre[i,4]),nNroBis*4-3,4)
+		    cNota := ALLTRIM(cNota)
+		   *Nota de la materia
+
+		 ELSE
+		    cCamNotDef := aNotAre[i,4]
+		    cCamNotRec := STUFF(cCamNotDef,13,3,'Rec')
+
+		    FOR p := 1 TO nNroBis
+
+			cNotDef := SUBS(&cCamNotDef,p*4-3,4)
+			cNotRec := SUBS(&cCamNotRec,p*4-3,4)
+			IF lRecNot
+			   IF !EMPTY(cNotRec)
+			      cNota += ALLTRIM(cNotDef)+;
+				       LOWER(ALLTRIM(cNotRec))+SPACE(02)
+			   ELSE
+			      cNota += cNotDef
+			   ENDIF
+			ELSE
+			   cNota += cNotDef
+			ENDIF
+
+		    ENDFOR
+		 ENDIF
+*--------------FIN LECTURA DE LA NOTA DEL AREA
+
+*--------------CONTEO DE LAS FALLAS
+		 cCamFal := 'NOT->cFa'+SUBS(aNotAre[i,6],9,4)+'Not'
+		 cNroFal := 0
+		 IF nNroBis == nTotPer
+		    FOR k := 1 TO nNroBis
+		       cNroFal += VAL(SUBS(&cCamFal,k*2-1,2))
+		    NEXT
+		 ELSE
+		    cNroFal := VAL(SUBS(&cCamFal,nNroBis*2-1,2))
+		 ENDIF
+		 cNroFal := IF(EMPTY(cNroFal),SPACE(04),STR(cNroFal,4,0))
+*--------------FIN CONTEO DE LAS FALLAS
+
+*--------------IMPRESION DEL REGISTRO DEL AREA
+		 IF VAL(aNotAre[i,11]) == 0
+		    cIntens := SPACE(02)
+		 ELSE
+		    cIntens := aNotAre[i,11]
+		 ENDIF
+	       *ÀLectura de la Intensidad horaria
+
+		 cNomAre := aNotAre[i,3]
+		 IF lNegAre
+*		    cNomAre := PCL("NegraOn")+cNomAre+PCL("NegraOf")
+		 ENDIF
+
+		 IF lHayNot .OR. lEvaInd
+		    aRegPrn := aNotMatXml(lHayNot,lEvaInd,lPrnEva,nLenEva,;
+					  lPrnCod,nNroBis,cNotAcu,;
+					  cIntens,;
+					  cNomAre+SPACE(108-LEN(aNotAre[i,3])),;
+					  cNota,;
+					  cNroFal,;
+					  nHanXml,FileXml)
+
+
+		 ELSE
+		    aRegPrn := {}
+		    AADD(aRegPrn,cIntens)
+		    AADD(aRegPrn,cNomAre+SPACE(108-LEN(aNotAre[i,3])))
+		    AADD(aRegPrn,cNroFal)
+		 ENDIF
+		@ PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+*--------------FIN IMPRESION DEL REGISTRO DEL AREA
+
+*--------------IMPRESION DE LOS JUICIOS
+		 cJuicio := ALLTRIM(&(aNotAre[i,6]))+SPACE(02)
+		 aJuicio := aJuicio(@cJuicio,TCO->lNoSortTbl)
+		 IF TCO->nRecPerTbl==1
+		    aJuicio := aJuicio1(aJuicio,lEvaInd,.T.)
+		 ENDIF
+
+		 lSiPaso := .F.
+		 FOR j:= 1 TO LEN(aJuicio)
+
+*   	      	    VALIDACION DEL JUICIO
+		      cCodJui    := aJuicio[j]
+		      cCodLog    := SUBS(cCodJui,1,4)
+		      cCodigoTev := SUBS(cCodJui,5,1)
+		      IF EMPTY(cCodJui)
+			 LOOP
+		      ENDIF
+*   		    FIN VALIDACION DEL JUICIO
+
+*                   BUSQUEDA DEL CODIGO DE EVALUACION DEL INDICADOR
+		      IF lEvaInd .AND. lPrnEva
+			 IF lLocCodigo('cCodigoEva','EVA',;
+				       SUBS(cCodigoTev,1,1),;
+				       'DE LA EVALUACION '+cCodJui)
+			    cCodigoTev := SUBS(EVA->cNombreEva,1,nLenEva)
+			 ELSE
+			    cCodigoTev := 'NO EXISTE'
+			 ENDIF
+		      ELSE
+			 cCodigoTev += SPACE(03)
+		      ENDIF
+*                   FIN BUSQUEDA DEL CODIGO DE EVALUACION DEL INDICADOR
+
+*                   BUSQUEDA DE LA CLASE DE INDICADOR
+		      cCodigoTni := SUBS(GRU->cCodigoGru,1,2)
+		      cCodigoTma := SUBS(aNotAre[i,6],9,4)
+
+		      IF cCodLog # SPACE(04)
+
+			 cCodigoTcl := UPPER(SUBS(cCodLog,1,1))
+			 IF lLocCodigo('cCodigoCla','CLA',cCodigoTcl,;
+				       'DE LA CLASE')
+
+			    cNomCla := IF(EMPTY(CLA->cNomBolCla),;
+					  "**INDICADORES**",CLA->cNomBolCla)
+
+			    nLenTxt := LEN(ALLTRIM(cNomCla))
+
+			    IF EMPTY(CLA->cCodigoMat)
+			       cCodigoTni := SUBS(GRU->cCodigoGru,1,2)
+			       cCodigoTma := SUBS(aNotAre[i,6],9,4)
+			    ELSE
+			       cCodigoTni := SPACE(02)
+			       cCodigoTma := CLA->cCodigoMat
+			    ENDIF
+			  *ÀAsignaci¢n del nivel para usar indicador nivel o materia
+
+			 ENDIF
+		      ENDIF
+*                   FIN BUSQUEDA DE LA CLASE DE INDICADOR
+
+*   		    BUSQUEDA DEL JUICIO
+		      cCodigoTju := IF(lIndNiv,;
+				       cCodigoTni+cCodigoTma+cCodLog,;
+				       cCodigoTma+cCodLog)
+
+		      cNombreTju := 'NO EXISTE EL CODIGO '+cCodJui
+		      cNombreTju := SUBS(cNombreTju+SPACE(106),1,106)
+		      IF lSekCodigo(cCodigoTju,'JUI')
+			 cNombreTju := cNomInd(JUI->cNombreJui,;
+					       CLA->lMinuscCla,;
+					       CLA->cTipPrnCla,.T.)
+		      ENDIF
+*   		    FIN BUSQUEDA DEL JUICIO
+
+*                   IMPRESION CLASE DE INDICADOR
+		      IF lHayNot .AND. !lEvaInd
+
+			 IF !lSiPaso
+			    cCodAnt := cCodigoTcl
+			 ENDIF
+
+			 IF cCodAnt $ CLA->cCodClaCla
+			    IF !lSiPaso
+			       aRegPrn := {}
+			       AADD(aRegPrn,SPACE(02))
+			      *Espacio de Intensidad
+
+			       AADD(aRegPrn,cNomCla)
+			      *Espacio de Juicio
+
+lSaveTxt('<clase>'+cNomCla,nHanXml,FileXml)
+
+			       IF EMPTY(cNotAcu)
+				  AADD(aRegPrn,SPACE(04))
+			       ELSE
+				  FOR p := 1 TO nNroBis
+				     AADD(aRegPrn,SPACE(02))
+				  ENDFOR
+			       ENDIF
+			     *ÀEspacio de la Nota
+
+			       AADD(aRegPrn,SPACE(02))
+			      *Espacio de la Ausencia
+
+			       @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+			    ENDIF
+
+			    IF j < LEN(aJuicio)
+			       IF SUBS(aJuicio[j+1],1,1) == cCodAnt
+				  lSiPaso := .T.
+			       ELSE
+				  lSiPaso := .F.
+			       ENDIF
+			    ENDIF
+
+			 ELSE
+lSaveTxt('<clase>'+cNomCla,nHanXml,FileXml)
+			 ENDIF
+		      ENDIF
+*                   FIN IMPRESION CLASE DE INDICADOR
+
+*                   IMPRESION DEL JUICIO
+		      IF lHayNot .OR. lEvaInd
+
+			 aRegPrn := {}
+			 AADD(aRegPrn,cClaInd(cClaInd,cCodigoTcl))
+			 AADD(aRegPrn,'- '+cNombreTju)
+
+			 IF EMPTY(cNotAcu)
+			    AADD(aRegPrn,IF(lEvaInd,cCodigoTev,SPACE(04)))
+			 ELSE
+			    FOR p := 1 TO nNroBis
+				AADD(aRegPrn,SPACE(02))
+			    ENDFOR
+			 ENDIF
+			 AADD(aRegPrn,SPACE(04))
+
+		      ELSE
+			 aRegPrn := {cClaInd(cClaInd,cCodigoTcl),;
+				     '- '+cNombreTju,;
+				     SPACE(04)}
+		      ENDIF
+		      @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+*                   FIN IMPRESION DEL JUICIO
+
+*lSaveTxt('<ind>'+aRegPrn[2]+'</ind>',nHanXml,FileXml)
+
+*                   IMPRESION DE LOS INDICADORES EXTRAS
+		      FOR x := 1 TO TCO->nJuiExtTbl
+
+			  cIndExt := &('JUI->cExtra'+STR(x,1)+'Jui')
+			  cIndExt := cNomInd(cIndExt,;
+						CLA->lMinuscCla,;
+						CLA->cTipPrnCla,.T.)
+
+			  cNombreTju += ' '+cIndExt
+
+
+			  IF lHayNot .OR. lEvaInd
+			     aRegPrn := {}
+			     AADD(aRegPrn,SPACE(02))
+			     AADD(aRegPrn,'  '+cIndExt)
+
+			     IF EMPTY(cNotAcu)
+				AADD(aRegPrn,SPACE(04))
+			     ELSE
+				FOR p := 1 TO nNroBis
+				    AADD(aRegPrn,SPACE(02))
+				ENDFOR
+			     ENDIF
+			     AADD(aRegPrn,SPACE(04))
+
+			  ELSE
+			      aRegPrn := {SPACE(02),;
+					  '  '+cIndExt,;
+					  SPACE(04)}
+			  ENDIF
+
+			  IF !EMPTY(cIndExt)
+			     @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+			  ENDIF
+
+		      ENDFOR
+*                   FIN IMPRESION DE LOS INDICADORES EXTRAS
+
+lSaveTxt('<ind>'+'- '+cNombreTju+'</ind>',nHanXml,FileXml)
+
+		 ENDFOR
+lSaveTxt('</clase>',nHanXml,FileXml)
+*--------------FIN IMPRESION DE LOS JUICIOS
+
+*--------------ANALISIS DE LOS INDICADORES RECUPERADOS DEL AREA
+		 IF nNroBis > 1
+
+
+*:::::::::::::::::::ANALISIS RECUPERACIONES PERIODOS ANTERIORES AREA
+		      FOR y := 1 TO IF(TCO->nRecPerTbl==0,nNroBis-1,nNroBis)
+
+*.........................INDICADORES POR SI/NO RECUPERAR AREA
+			    cCamJuiNot := aNotAre[i,6]
+			    cCamJuiNot := STUFF(cCamJuiNot,8,1,STR(y,1))
+			       cIndAnt := &cCamJuiNot
+			       cSiRecu := ''
+			       cNoRecu := ''
+			    IndRecSiNo(cIndAnt,lEvaInd,@cSiRecu,@cNoRecu,.T.)
+*.........................FIN INDICADORES POR SI/NO RECUPERAR AREA
+
+*.........................IMPRESION DE LOS INDICADORES RECUPERADOS AREA
+			    IF EMPTY(SUBS(TCO->cCfgBolTbl,4,1)) .AND.;
+			       !EMPTY(cSiRecu)
+			       cTitReS := ALLTRIM(TCO->cTitReSTbl)
+			       IF EMPTY(cTitReS)
+				  cTitReS := '** INDICADORES RECUPERADOS '+;
+					     'PERIODO NO.# **'
+			       ENDIF
+			       cTitReS := PCL("NegraOn")+cTitReS+PCL("NegraOf")
+			       cTitReS := cTitReS+SPACE(108-LEN(cTitReS))
+
+			       nNroPos := AT('NO.#',cTitReS)
+			       IF nNroPos # 0
+				  cTitReS := STUFF(cTitReS,;
+						   nNroPos,4,'No.'+STR(y,1))
+			       ENDIF
+
+			       IF lHayNot .OR. lEvaInd
+
+				  aRegPrn := {}
+				  AADD(aRegPrn,SPACE(02))
+				  AADD(aRegPrn,cTitReS)
+
+				  IF EMPTY(cNotAcu)
+				     AADD(aRegPrn,SPACE(04))
+				  ELSE
+				     FOR p := 1 TO nNroBis
+					 AADD(aRegPrn,SPACE(02))
+				     ENDFOR
+				  ENDIF
+				  AADD(aRegPrn,SPACE(04))
+
+			       ELSE
+				  aRegPrn := {SPACE(02),;
+					      cTitReS,;
+					      SPACE(02)}
+			       ENDIF
+			       @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+
+			       PrnIndica(aNroCol,aTitulo,;
+					 SUBS(aNotAre[i,6],9,4),;
+					 cSiRecu,lIndNiv,lOficio,;
+					 lHayNot,SPACE(09),lEvaInd,;
+					 lPrnEva,nLenEva,;
+					 cCodigoTni,bDerPrn,;
+					 bCabBol,cNotAcu,nNroBis)
+			    ENDIF
+*.........................FIN IMPRESION DE LOS INDICADORES RECUPERADOS AREA
+
+*.........................IMPRESION DE LOS INDICADORES POR RECUPERAR AREA
+			    IF EMPTY(SUBS(TCO->cCfgBolTbl,5,1)) .AND.;
+			       !EMPTY(cNoRecu) .AND. y < nNroBis
+			       cTitReN := ALLTRIM(TCO->cTitReNTbl)
+			       IF EMPTY(cTitReN)
+				  cTitReN := '** INDICADORES POR RECUPERAR '+;
+					     'PERIODO NO.# **'
+			       ENDIF
+			       cTitReN := PCL("NegraOn")+cTitReN+PCL("NegraOf")
+			       cTitReN := cTitReN+SPACE(108-LEN(cTitReN))
+
+			       nNroPos := AT('NO.#',cTitReN)
+			       IF nNroPos # 0
+				  cTitReN := STUFF(cTitReN,;
+						   nNroPos,4,'No.'+STR(y,1))
+			       ENDIF
+
+			       IF lHayNot .OR. lEvaInd
+
+				  aRegPrn := {}
+				  AADD(aRegPrn,SPACE(02))
+				  AADD(aRegPrn,cTitReN)
+
+				  IF EMPTY(cNotAcu)
+				     AADD(aRegPrn,SPACE(04))
+				  ELSE
+				     FOR p := 1 TO nNroBis
+					 AADD(aRegPrn,SPACE(02))
+				     ENDFOR
+				  ENDIF
+				  AADD(aRegPrn,SPACE(04))
+
+			       ELSE
+				  aRegPrn := {SPACE(02),;
+					      cTitReN,;
+					      SPACE(02)}
+			       ENDIF
+			       @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+
+			       PrnIndica(aNroCol,aTitulo,;
+					 SUBS(aNotAre[i,6],9,4),;
+					 cNoRecu,lIndNiv,lOficio,;
+					 lHayNot,cClaInd,lEvaInd,;
+					 lPrnEva,nLenEva,;
+					 cCodigoTni,bDerPrn,;
+					 bCabBol,cNotAcu,nNroBis)
+			    ENDIF
+*.........................FIN IMPRESION DE LOS INDICADORES POR RECUPERAR AREA
+
+		      NEXT
+*:::::::::::::::::::FIN ANALISIS RECUPERACIONES PERIODOS ANTERIORES AREA
+
+		 ENDIF
+*--------------FIN ANALISIS DE LOS INDICADORES RECUPERADOS DEL AREA
+
+lSaveTxt('</materia>',nHanXml,FileXml)
+
+	    ENDIF
+**********FIN IMPRESION DE LAS NOTAS DEL AREA
+
+**********IMPRESION DE LAS NOTAS DE LA MATERIA
+	    FOR j:=1 TO LEN(aNotMat)
+
+	       IF aNotAre[i,2] == aNotMat[j,1]
+
+*-----------------ANALISIS DE LA IMPRESION DE LA MATERIA
+		    IF aNotMat[j][12]   // .T. No Imprimir
+		       LOOP
+		    ENDIF
+*-----------------FIN ANALISIS DE LA IMPRESION DE LA MATERIA
+
+*-----------------ANALISIS DE LA IMPRESION DE LA MODALIDAD
+		    IF aNotMat[j][13]  // .T. Modalidad
+		       cJuicio := ALLTRIM(&(aNotMat[j,5]))+SPACE(01)
+		       IF EMPTY(cJuicio)
+			  LOOP
+		       ENDIF
+		    ENDIF
+*-----------------FIN ANALISIS DE LA IMPRESION DE LA MODALIDAD
+
+*-----------------LECTURA DE LA NOTAS DE LA MATERIA
+		    cNota := ''
+		    IF EMPTY(cNotAcu)
+
+		       cNota := SUBS(&(aNotMat[j,4]),nNroBis*4-3,4)
+		       cNota := ALLTRIM(cNota)
+		      *Nota de la materia
+
+		    ELSE
+		       cCamNotDef := aNotMat[j,4]
+		       cCamNotRec := STUFF(cCamNotDef,13,3,'Rec')
+
+		       FOR p := 1 TO nNroBis
+			   cNotDef := SUBS(&cCamNotDef,p*4-3,4)
+			   cNotRec := SUBS(&cCamNotRec,p*4-3,4)
+			   IF lRecNot
+			      IF !EMPTY(cNotRec)
+				 cNota += ALLTRIM(cNotDef)+;
+					  LOWER(ALLTRIM(cNotRec))+SPACE(02)
+			      ELSE
+				 cNota += cNotDef
+			      ENDIF
+			   ELSE
+			      cNota += cNotDef
+			   ENDIF
+		       ENDFOR
+		    ENDIF
+*-----------------FIN LECTURA DE LA NOTAS DE LA MATERIA
+
+*-----------------CONTEO DE LAS FALLAS
+		    cCamFal := aNotMat[j,6]
+		    cNroFal := 0
+		    IF nNroBis == nTotPer
+		       FOR k := 1 TO nNroBis
+			  cNroFal += VAL(SUBS(&cCamFal,k*2-1,2))
+		       NEXT
+		    ELSE
+		       cNroFal := VAL(SUBS(&cCamFal,nNroBis*2-1,2))
+		    ENDIF
+		    cNroFal := IF(EMPTY(cNroFal),SPACE(04),STR(cNroFal,4,0))
+*-----------------FIN CONTEO DE LAS FALLAS
+
+*-----------------IMPRESION DEL REGISTRO DEL AREA
+		    IF VAL(aNotMat[j,3]) == 0
+		       cIntens := SPACE(02)
+		    ELSE
+		       cIntens := aNotMat[j,3]
+		    ENDIF
+		  *ÀLectura de la Intensidad horaria
+
+		    IF lPrnAre
+		       cNomMat := ALLTRIM(aNotAre[i,3])+' : '+;
+				  ALLTRIM(aNotMat[j,2])
+		       nLenTxt := LEN(cNomMat)
+		       cNomMat := cNomMat+SPACE(108-nLenTxt)
+		       cNomMat := SUBS(cNomMat,1,108)
+		    ELSE
+		       cNomMat := aNotMat[j,2]+SPACE(108-LEN(aNotMat[j,2]))
+		    ENDIF
+
+		    IF lNegAre
+*		       cNomMat := PCL("NegraOn")+cNomMat+PCL("NegraOf")
+		    ENDIF
+
+		    IF lHayNot .OR. lEvaInd
+		       aRegPrn := aNotMatXml(lHayNot,lEvaInd,;
+					     lPrnEva,nLenEva,;
+					     lPrnCod,nNroBis,cNotAcu,;
+					     cIntens,;
+					     cNomMat,;
+					     cNota,;
+					     cNroFal,;
+					     nHanXml,FileXml)
+		    ELSE
+		       aRegPrn := {cIntens,;
+				   cNomMat,;
+				   cNroFal}
+		    ENDIF
+		    @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+*-----------------FIN IMPRESION DEL REGISTRO DEL AREA
+
+ALTD()
+
+*-----------------IMPRESION DE LOS JUICIOS
+		    cJuicio := ALLTRIM(&(aNotMat[j,5]))+SPACE(02)
+		    aJuicio := aJuicio(@cJuicio,TCO->lNoSortTbl)
+
+		    IF TCO->nRecPerTbl==1
+		       aJuicio := aJuicio1(aJuicio,lEvaInd,.T.)
+		    ENDIF
+
+		    lSiPaso := .F.
+		    FOR k:= 1 TO LEN(aJuicio)
+
+*			VALIDACION DEL JUICIO
+			  cCodJui    := aJuicio[k]
+			  cCodLog    := SUBS(cCodJui,1,4)
+			  cCodigoTev := SUBS(cCodJui,5,1)
+			  IF EMPTY(cCodJui)
+			     LOOP
+			  ENDIF
+*			FIN VALIDACION DEL JUICIO
+
+*                       BUSQUEDA DEL CODIGO DE EVALUACION DEL INDICADOR
+			  IF lEvaInd .AND. lPrnEva
+			     IF lLocCodigo('cCodigoEva','EVA',;
+					   SUBS(cCodigoTev,1,1),;
+					   'DE LA EVALUACION '+cCodJui)
+				cCodigoTev := SUBS(EVA->cNombreEva,1,nLenEva)
+			     ELSE
+				cCodigoTev := 'NO EXISTE'
+			     ENDIF
+			  ELSE
+			     cCodigoTev += SPACE(03)
+			  ENDIF
+*                       FIN BUSQUEDA DEL CODIGO DE EVALUACION DEL INDICADOR
+
+*                       BUSQUEDA DE LA CLASE DE INDICADOR
+			  cCodigoTni := SUBS(GRU->cCodigoGru,1,2)
+			  cCodigoTma := SUBS(aNotMat[j,11],3,4)
+
+			  IF cCodLog # SPACE(04)
+			     cCodigoTcl := UPPER(SUBS(cCodLog,1,1))
+			     IF lLocCodigo('cCodigoCla','CLA',cCodigoTcl,;
+					   'DE LA CLASE')
+
+				cNomCla := IF(EMPTY(CLA->cNomBolCla),;
+					      "**INDICADORES**",CLA->cNomBolCla)
+
+				nLenTxt := LEN(ALLTRIM(cNomCla))
+
+				IF EMPTY(CLA->cCodigoMat)
+				   IF EMPTY(SUBS(aNotMat[j,11],1,2))
+				      cCodigoTni := SUBS(GRU->cCodigoGru,1,2)
+				     *Por nivel
+				   ELSE
+				      cCodigoTni := SUBS(aNotMat[j,11],1,2)
+				     *Por Niveles
+				   ENDIF
+				ELSE
+				   cCodigoTni := SPACE(02)
+				   cCodigoTma := CLA->cCodigoMat
+				ENDIF
+			      *ÀAsignaci¢n del nivel para usar indicador nivel o materia
+
+			     ENDIF
+			  ENDIF
+*                       FIN BUSQUEDA DE LA CLASE DE INDICADOR
+
+*			BUSQUEDA DEL JUICIO
+			  cCodigoTju := IF(lIndNiv,;
+					   cCodigoTni+cCodigoTma+cCodLog,;
+					   cCodigoTma+cCodLog)
+			  cNombreTju := 'NO EXISTE EL CODIGO '+cCodJui
+			  cNombreTju := SUBS(cNombreTju+SPACE(106),1,106)
+			  IF lSekCodigo(cCodigoTju,'JUI')
+			     cNombreTju := cNomInd(JUI->cNombreJui,;
+						   CLA->lMinuscCla,;
+						   CLA->cTipPrnCla,.T.)
+			  ENDIF
+*			FIN BUSQUEDA DEL JUICIO
+
+*                       IMPRESION CLASE DE INDICADOR
+			  IF lHayNot .AND. !lEvaInd
+
+			     IF !lSiPaso
+				cCodAnt := cCodigoTcl
+			     ENDIF
+
+			     IF cCodAnt $ CLA->cCodClaCla
+				IF !lSiPaso
+				   aRegPrn := {}
+				   AADD(aRegPrn,SPACE(02))
+				   AADD(aRegPrn,cNomCla)
+
+lSaveTxt('<clase>'+cNomCla,nHanXml,FileXml)
+
+				   IF EMPTY(cNotAcu)
+				      AADD(aRegPrn,SPACE(04))
+				   ELSE
+				      FOR p := 1 TO nNroBis
+					 AADD(aRegPrn,SPACE(02))
+				      ENDFOR
+				   ENDIF
+				   AADD(aRegPrn,SPACE(02))
+
+				   @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+				ENDIF
+
+				IF k < LEN(aJuicio)
+				   IF SUBS(aJuicio[k+1],1,1) == cCodAnt
+				      lSiPaso := .T.
+				   ELSE
+				      lSiPaso := .F.
+				   ENDIF
+				ENDIF
+			     ENDIF
+			  ENDIF
+*                       FIN IMPRESION CLASE DE INDICADOR
+
+*                       IMPRESION DEL JUICIO
+			  IF lHayNot .OR. lEvaInd
+
+			     aRegPrn := {}
+			     AADD(aRegPrn,cClaInd(cClaInd,cCodigoTcl))
+			     AADD(aRegPrn,'- '+cNombreTju)
+
+			     IF EMPTY(cNotAcu)
+				AADD(aRegPrn,IF(lEvaInd,cCodigoTev,SPACE(04)))
+			     ELSE
+				FOR p := 1 TO nNroBis
+				    AADD(aRegPrn,SPACE(02))
+				ENDFOR
+			     ENDIF
+			     AADD(aRegPrn,SPACE(04))
+
+			  ELSE
+			     aRegPrn := {cClaInd(cClaInd,cCodigoTcl),;
+					 '- '+cNombreTju,;
+					 SPACE(04)}
+			  ENDIF
+			  @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+*lSaveTxt('<ind>'+aRegPrn[2]+'</ind>',nHanXml,FileXml)
+*                       FIN IMPRESION DEL JUICIO
+
+*                       IMPRESION DE LOS INDICADORES EXTRAS
+			  FOR x := 1 TO TCO->nJuiExtTbl
+
+			      cIndExt := &('JUI->cExtra'+STR(x,1)+'Jui')
+			      cIndExt := cNomInd(cIndExt,;
+						    CLA->lMinuscCla,;
+						    CLA->cTipPrnCla,.T.)
+			      cNombreTju += ' '+cIndExt
+
+			      IF lHayNot .OR. lEvaInd
+
+				 aRegPrn := {}
+				 AADD(aRegPrn,SPACE(02))
+				 AADD(aRegPrn,'  '+cIndExt)
+
+				 IF EMPTY(cNotAcu)
+				    AADD(aRegPrn,SPACE(04))
+				 ELSE
+				    FOR p := 1 TO nNroBis
+					AADD(aRegPrn,SPACE(02))
+				    ENDFOR
+				 ENDIF
+				 AADD(aRegPrn,SPACE(04))
+
+			      ELSE
+				  aRegPrn := {SPACE(02),;
+					      '  '+cIndExt,;
+					      SPACE(04)}
+			      ENDIF
+
+			      IF !EMPTY(cIndExt)
+				 @PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+
+			      ENDIF
+
+lSaveTxt('<ind>'+cNombreTju+'</ind>',nHanXml,FileXml)
+
+IF !lSiPaso
+lSaveTxt('</clase>',nHanXml,FileXml)
+ENDIF
+
+			  ENDFOR
+*                       FIN IMPRESION DE LOS INDICADORES EXTRAS
+
+		    ENDFOR
+IF lSiPaso
+  lSaveTxt('</clase>',nHanXml,FileXml)
+ENDIF
+*-----------------FIN IMPRESION DE LOS JUICIOS
+
+*-----------------ANALISIS DE LOS INDICADORES RECUPERADOS MATERIA
+		    IF nNroBis > 1
+
+*::::::::::::::::::::::ANALISIS RECUPERACIONES PERIODOS ANTERIORES. MATERIA
+		       FOR y := 1 TO IF(TCO->nRecPerTbl==0,nNroBis-1,nNroBis)
+
+*..........................INDICADORES POR SI/NO RECUPERAR. MATERIA
+			     cCamJuiNot := aNotMat[j,5]
+			     cCamJuiNot := STUFF(cCamJuiNot,8,1,STR(y,1))
+				cIndAnt := &cCamJuiNot
+				cSiRecu := ''
+				cNoRecu := ''
+			     IndRecSiNo(cIndAnt,lEvaInd,@cSiRecu,@cNoRecu,.T.)
+*..........................FIN INDICADORES POR SI/NO RECUPERAR. MATERIA
+
+*..........................IMPRESION DE LOS INDICADORES RECUPERADOS. MATERIA
+			     IF EMPTY(SUBS(TCO->cCfgBolTbl,4,1)) .AND.;
+				!EMPTY(cSiRecu)
+
+				cTitReS := ALLTRIM(TCO->cTitReSTbl)
+				IF EMPTY(cTitReS)
+				   cTitReS := '** INDICADORES RECUPERADOS '+;
+					      'PERIODO NO.# **'
+				ENDIF
+				cTitReS := PCL("NegraOn")+cTitReS+PCL("NegraOf")
+				cTitReS := cTitReS+SPACE(108-LEN(cTitReS))
+
+				nNroPos := AT('NO.#',cTitReS)
+				IF nNroPos # 0
+				   cTitReS := STUFF(cTitReS,;
+						    nNroPos,4,'No.'+STR(y,1))
+				ENDIF
+
+				IF lHayNot .OR. lEvaInd
+
+				   aRegPrn := {}
+				   AADD(aRegPrn,SPACE(02))
+				   AADD(aRegPrn,cTitReS)
+
+				   IF EMPTY(cNotAcu)
+				      AADD(aRegPrn,SPACE(04))
+				   ELSE
+				      FOR p := 1 TO nNroBis
+					  AADD(aRegPrn,SPACE(02))
+				      ENDFOR
+				   ENDIF
+				   AADD(aRegPrn,SPACE(04))
+
+				ELSE
+				   aRegPrn := {SPACE(02),;
+					       cTitReS,;
+					       SPACE(02)}
+				ENDIF
+				@PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+
+				IF EMPTY(aNotMat[j,14]) // Materias Selectivas
+				   cMatRec := SUBS(aNotMat[j,11],3,4)
+				ELSE
+				   cMatRec := SUBS(aNotMat[j,14],y*4-3,4)
+				ENDIF
+
+				PrnIndica(aNroCol,aTitulo,cMatRec,;
+					  cSiRecu,lIndNiv,lOficio,;
+					  lHayNot,SPACE(09),lEvaInd,;
+					  lPrnEva,nLenEva,;
+					  SUBS(aNotMat[j,11],1,2),;
+					  bDerPrn,bCabBol,cNotAcu,nNroBis)
+			     ENDIF
+*..........................FIN IMPRESION DE LOS INDICADORES RECUPERADOS. MATERIA
+
+*..........................IMPRESION DE LOS INDICADORES POR RECUPERAR. MATERIA
+			     IF EMPTY(SUBS(TCO->cCfgBolTbl,5,1)) .AND.;
+				!EMPTY(cNoRecu) .AND. y < nNroBis
+				cTitReN := ALLTRIM(TCO->cTitReNTbl)
+				IF EMPTY(cTitReN)
+				   cTitReN := '** INDICADORES POR RECUPERAR '+;
+					      'PERIODO NO.# **'
+				ENDIF
+				cTitReN := PCL("NegraOn")+cTitReN+PCL("NegraOf")
+				cTitReN := cTitReN+SPACE(108-LEN(cTitReN))
+
+				nNroPos := AT('NO.#',cTitReN)
+				IF nNroPos # 0
+				   cTitReN := STUFF(cTitReN,;
+						    nNroPos,4,'No.'+STR(y,1))
+				ENDIF
+
+				IF lHayNot .OR. lEvaInd
+
+				   aRegPrn := {}
+				   AADD(aRegPrn,SPACE(02))
+				   AADD(aRegPrn,cTitReN)
+
+				   IF EMPTY(cNotAcu)
+				      AADD(aRegPrn,SPACE(04))
+				   ELSE
+				      FOR p := 1 TO nNroBis
+					  AADD(aRegPrn,SPACE(02))
+				      ENDFOR
+				   ENDIF
+				   AADD(aRegPrn,SPACE(04))
+
+				ELSE
+				   aRegPrn := {SPACE(02),;
+					       cTitReN,;
+					       SPACE(02)}
+				ENDIF
+				@PROW()+1,00 SAY cRegPrint(aRegPrn,aNroCol)
+
+				IF EMPTY(aNotMat[j,14]) // Materias Selectivas
+				   cMatRec := SUBS(aNotMat[j,11],3,4)
+				ELSE
+				   cMatRec := SUBS(aNotMat[j,14],y*4-3,4)
+				ENDIF
+
+				PrnIndica(aNroCol,aTitulo,cMatRec,;
+					  cNoRecu,lIndNiv,lOficio,;
+					  lHayNot,cClaInd,lEvaInd,;
+					  lPrnEva,nLenEva,;
+					  SUBS(aNotMat[j,11],1,2),;
+					  bDerPrn,bCabBol,cNotAcu,nNroBis)
+
+			     ENDIF
+*..........................FIN IMPRESION DE LOS INDICADORES POR RECUPERAR. MATERIA
+
+		       NEXT
+*::::::::::::::::::::::FIN ANALISIS RECUPERACIONES PERIODOS ANTERIORES. MATERIA
+
+		    ENDIF
+*-----------------FIN ANALISIS DE LOS INDICADORES RECUPERADOS. MATERIA
+
+lSaveTxt('</materia>',nHanXml,FileXml)
+
+	       ENDIF
+	    ENDFOR
+**********FIN IMPRESION DE LAS NOTAS DE LA MATERIA
+
+       ENDFOR
+*>>>>FIN IMPRESION DE LAS NOTAS
+
+*>>>>IMPRESION DE LAS AREAS HABILITAR
+       IF nNroBis == nTotPer .AND. !EMPTY(NOT->cMatHabNot)
+
+**********IMPRESION DE LOS DETALLES DE LA HABILITACION
+	    @PROW()+2,00 SAY 'HABILITACIONES'
+	    @PROW()  ,32 SAY 'NOTA  ACTA  FECHA'
+	    FOR k := 1 TO LEN(ALLTRIM(NOT->cMatHabNot))/4
+
+*--------------LOCALIZACION DE LA MATERIAS A HABILITAR
+		 cCodigoTma := SUBS(NOT->cMatHabNot,k*4-3,4)
+		 cNombreTma := 'FAVOR VERIFICAR'
+		 IF lLocCodigo('cCodigoMat','MAT',cCodigoTma,;
+				     'DEL AREA')
+		    cNombreTma := MAT->cNombreMat
+		 ENDIF
+*--------------FIN LOCALIZACION DE LA MATERIAS A HABILITAR
+
+*--------------IMPRESION DE LA HABILITACION
+		 cNotHabTno := SUBS(NOT->cNotHabNot,k*4-3,4)
+		 cFecHabTno := cFecha(NOT->dFecHa1Not)
+		 @PROW()+1,00 SAY cNombreTma     +SPACE(02)+;
+				  cNotHabTno     +SPACE(02)+;
+				  NOT->cActHabNot+SPACE(02)+;
+				  cFecHabTno
+*--------------FIN IMPRESION DE LA HABILITACION
+
+	    ENDFOR
+**********FIN IMPRESION DE LOS DETALLES DE LA HABILITACION
+
+       ENDIF
+*>>>>FIN IMPRESION DE LAS AREAS HABILITAR
+
+*>>>>IMPRESION DE LA PROMOCION FINAL
+	  cEstado := ''
+       cTxtObsTap := ''
+       IF nNroBis == nTotPer
+	  cEstado := cAproboJui(NOT->nAproboNot,;
+				SUBS(GRU->cCodigoGru,1,2),;
+				     @cTxtObsTap)
+	  cEstado := ALLTRIM(cEstado)
+       ENDIF
+
+       aNroLin := aDivLin(ALLTRIM('OBSERVACION: '+cEstado),110)
+       FOR i := 1 TO LEN(aNroLin)
+	   @ PROW()+1,00 SAY aNroLin[i]
+       NEXT
+*>>>>FIN IMPRESION DE LA PROMOCION FINAL
+
+*>>>>IMPRESION DE LAS RECUPERACIONES COMO OBSERVACIONES
+       aMatHab := {}
+       IF nNroBis == nTotPer .AND. EMPTY(SUBS(TCO->cCfgBolTbl,6,1))
+	  aMatHab := aMatHabPla(NOT->nAproboNot,aNotAre,;
+				aNotMat,nTotPer,lNotNum)
+	 *Materias de las Recuperaciones
+       ENDIF
+
+       IF nNroBis == nTotPer .AND. !EMPTY(aMatHab)
+	  @ PROW()+1,00 SAY ''
+
+	  cTxtPrn := IF(EMPTY(TCO->cTitRecTbl),;
+		       'ACTIVIDADES DE RECUPERACION DE',;
+			ALLTRIM(TCO->cTitRecTbl))
+
+	  FOR i := 1 TO LEN(aMatHab)
+	      cTxtPrn += ALLTRIM(aMatHab[i,5])+': '
+	      IF ALLTRIM(cTxtNota(aMatHab[i,4])) == 'SIN NOTA'
+		 cTxtPrn += 'PENDIENTE. '
+
+	      ELSE
+		 cTxtPrn += ALLTRIM(cTxtNota(aMatHab[i,4]))+;
+			    ' - ACTA No.'+ALLTRIM(aMatHab[i,3])+;
+			    ' DE '+aMatHab[i,2]+'. '
+	      ENDIF
+	  NEXT
+	  aNroLin := aDivLin(ALLTRIM(cTxtPrn),110)
+	  FOR i := 1 TO LEN(aNroLin)
+	      @ PROW()+1,00 SAY aNroLin[i]
+	  NEXT
+       ENDIF
+*>>>>FIN IMPRESION DE LAS RECUPERACIONES COMO OBSERVACIONES
+
+*>>>>IMPRESION DE LA OBSERVACION
+       IF !EMPTY(cTxtObsTap)
+	  aNroLin := aDivLin(ALLTRIM(cTxtObsTap),110)
+	  FOR i := 1 TO LEN(aNroLin)
+	      @ PROW()+1,00 SAY aNroLin[i]
+	  NEXT
+       ENDIF
+     *ÀObservaci¢n de Recuperacion.
+
+       IF !EMPTY(TCO->cObsBolTbl)
+	  aNroLin := aDivLin(ALLTRIM(TCO->cObsBolTbl),110)
+	  FOR i := 1 TO LEN(aNroLin)
+	      @ PROW()+1,00 SAY aNroLin[i]
+	  NEXT
+       ENDIF
+     *ÀObservaci¢n General del Boletin
+
+       nLinObs := IF(EMPTY(VAL(SUBS(TCO->cCfgBolTbl,1,1))),2,;
+		     VAL(SUBS(TCO->cCfgBolTbl,1,1)))
+       FOR p := 1 TO nLinObs
+	   @ PROW()+2,00 SAY REPL('-',LEN(cTxtPrn))
+       ENDFOR
+     *ÀImpresi¢n l¡neas de la observaci¢n
+*>>>>FIN IMPRESION DE LA OBSERVACION
+
+*>>>>FIRMANTES DEL BOLETIN
+       IF aFirmas == NIL
+	  aFirmas := {}
+	  DO CASE
+	  CASE EMPTY(SUBS(TCO->cCfgBolTbl,7,1)) .OR.;
+	       SUBS(TCO->cCfgBolTbl,7,1) == '1'
+
+	       cTxtPrn := 'Dir. '+cTitUno
+	       @ PROW()+2,(nLenPrn-LEN(cTxtPrn))/2 SAY REPL('-',LEN(cTxtPrn)+4)
+	       @ PROW()+1,((nLenPrn-LEN(cTxtPrn))/2)+2 SAY cTxtPrn
+
+	  CASE SUBS(TCO->cCfgBolTbl,7,1) == '2'
+	       aFirmas := {{ALLTRIM(SCO->cGerentCon),NIL,ALLTRIM(SCO->cCarGerCon)},;
+			   {cTitUno,NIL,'Dir.'}}
+	       Firmas(PCL('n17Stan'),4,aFirmas)
+
+	  CASE SUBS(TCO->cCfgBolTbl,7,1) == '3'
+
+	       aFirmas := {{cTitUno,NIL,'Dir.'},;
+			   {cTitDos,NIL,'Dir.'}}
+	       Firmas(PCL('n17Stan'),4,aFirmas)
+
+	  OTHERWISE
+	       cTxtPrn := 'Dir. '+cTitUno
+	       @ PROW()+2,(nLenPrn-LEN(cTxtPrn))/2 SAY REPL('-',LEN(cTxtPrn)+4)
+	       @ PROW()+1,((nLenPrn-LEN(cTxtPrn))/2)+2 SAY cTxtPrn
+	  ENDCASE
+
+       ELSE
+	  Firmas(PCL('n17Stan'),6,aFirmas,.F.)
+       ENDIF
+
+       DerechosPrn(cNomSis,cNomEmp,nLenPrn,lOficio,lPiePag)
+       EJECT
+       lSaveTxt('</boletin>',nHanXml,FileXml)
+       CloseXml(FileXml,nHanXml)
+       RETURN NIL
+*>>>>FIN FIRMANTES DEL BOLETIN
+
+/*************************************************************************
+* TITULO..: COLUMNAS Y ENCABEZADOS DEL BOLETIN EN XML                    *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: JUN 10/2004 JUE A
+       Colombia, Bucaramanga        INICIO: 02:00 PM   JUN 10/2004 JUE
+
+OBJETIVOS:
+
+1- Define las columnas y t¡tulos del encabezado de columna del Boletin
+
+2- Retorna Nil
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION CabColXml(lHayNot,lNotNum,lEvaInd,lPrnEva,nLenEva,;
+		   lPrnCod,cMsgBol,aNroCol,aTitulo,nNroPer,;
+		   cNotAcu)
+
+*>>>>DESCRIPCION DE PARAMETROS
+/*     lHayNot                              // .T. Hay Notas
+       lNotNum                              // .T. Nota Numerica .F. Nota Cualitativa
+       lEvaInd                              // .T. Evaluar el indicador
+       lPrnEva                              // .T. Imprimir el Nombre de la Evaluaci¢n del Nombre del Indicador. .F. Imprime el c¢digo de Evaluaci¢n.
+       nLenEva                              // Longitud del Nombre de la Evaluaci¢n del Indicador
+       lPrnCod                              // .T. Imprimir el C¢digo .F. Imprimir la Descripci¢n del Juicio
+       cMsgBol                              // Mensaje para el boletin
+       aNroCol                              // @Columnas de los titulos
+       aTitulo                              // @T¡tulos para el informe
+       nNroPer			            // N£mero del Periodo
+       cNotAcu                              // Notas Acumuladas */
+*>>>>FIN DESCRIPCION DE PARAMETROS
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL i := 0                         // Contador
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>NUMEROS DE COLUMNAS
+       aNroCol := {}
+       AADD(aNroCol,02)
+      *Columna para la Intensidad Horaria
+
+       AADD(aNroCol,108)
+      *Columna para el Nombre del Indicador o Mensaje del Boletin
+
+       IF lPrnEva
+	  IF nLenEva > 4
+	     AADD(aNroCol,nLenEva)
+	  ELSE
+	     AADD(aNroCol,06)
+	  ENDIF
+       ELSE
+	  IF EMPTY(cNotAcu)
+	     IF lHayNot
+		IF lPrnCod
+		   AADD(aNroCol,04)
+		ELSE
+		   AADD(aNroCol,18)
+		ENDIF
+	     ENDIF
+	  ELSE
+	     FOR i := 1 TO nNroPer
+		 AADD(aNroCol,2)
+	     ENDFOR
+	  ENDIF
+       ENDIF
+     *ÀColumna para la Evaluaci¢n
+
+       AADD(aNroCol,04)
+      *Columna para las Ausencias
+*>>>>FIN NUMEROS DE COLUMNAS
+
+*>>>>TITULOS DE COLUMNA
+       aTitulo := {}
+
+       AADD(aTitulo,'IH')
+      *Intensidad Horaria
+
+       AADD(aTitulo,cMsgBol)
+      *Mensaje Boletin
+
+       IF lHayNot .OR. lEvaInd
+	  IF lNotNum
+	     AADD(aTitulo,'NOTA')
+	  ELSE
+	     IF lPrnEva
+		AADD(aTitulo,'JUICIO')
+	     ELSE
+		IF EMPTY(cNotAcu)
+		   IF lHayNot
+		      IF lPrnCod
+			AADD(aTitulo,'JUIC')
+		      ELSE
+			AADD(aTitulo,'JUICIO VALORATIVO')
+		      ENDIF
+		   ENDIF
+		ELSE
+		   FOR i := 1 TO nNroPer
+		       AADD(aTitulo,SUBS(cNotAcu,i*2-1,2))
+		   ENDFOR
+		ENDIF
+	     ENDIF
+	  ENDIF
+       ENDIF
+       AADD(aTitulo,'AUS.')
+       RETURN NIL
+*>>>>FIN TITULOS DE COLUMNA
+
+
+/*************************************************************************
+* TITULO..: APERTURA DEL ARCHIVO XML                                     *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 01/2003 LUN A
+       Colombia, Bucaramanga        INICIO: 01:00 PM   MAR 01/2003 LUN
+
+OBJETIVOS:
+
+1- Apertura del Archivo para xml
+
+2- Retorna el manejador del archivo
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION nOpenXml(fArchvo,lValida)
+
+*>>>>DESCRIPCION DE PARAMETROS
+/*     fArchvo                              // Archivo a Crear
+       lValida                              // .T. Validar la Existencia del Archivo */
+*>>>>FIN DESCRIPCION DE PARAMETROS
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL     i,j := 0                   // Contadores
+       LOCAL nHandle := 0                   // Manejador Archivo Binario
+       LOCAL cCampo  := ''                  // Campo del Registro
+       LOCAL cRegXml := ''                  // Registro Xml
+       LOCAL nAvance := 0                   // Control de Avance
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>CREACION DEL ARCHIVO
+       lValida := IF(EMPTY(lValida),.F.,lValida)
+       IF lValida .AND. File(fArchvo)
+	  cError(fArchvo,'EL ARCHIVO','YA EXISTE')
+	  IF !lPregunta('DESEA REESCRIBIR EL ARCHIVO? No Si')
+	     RETURN 0
+	  ENDIF
+       ENDIF
+       IF FCREATE(fArchvo,0) == -1
+	   cError(fArchvo,'EL ARCHIVO','NO SE PUEDE CREAR')
+	   RETURN 0
+       ENDIF
+*>>>>FIN CREACION DEL ARCHIVO
+
+*>>>>APERTURA DEL ARCHIVO EN MODO LECTURA Y ESCRITURA
+       IF (nHandle := FOPEN(fArchvo,2)) = -1 .AND. lFHayErr(fArchvo)
+	  cError(fArchvo,'EL ARCHIVO','NO SE PUDO ABRIR')
+	  RETURN 0
+       ENDIF
+*>>>>FIN APERTURA DEL ARCHIVO EN MODO LECTURA Y ESCRITURA
+
+*>>>>IMPRESION DE LA CABECERA
+     lSaveTxt('<?xml version="1.0" encoding="iso-8859-1"?>',nHandle,fArchvo)
+     RETURN nHandle
+*>>>>FIN IMPRESION DE LA CABECERA
+
+/*************************************************************************
+* TITULO..: REGISTRO DE IMPRESION DEL BOLETIN                            *
+**************************************************************************
+
+AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: ABR 14/2002 DOM A
+       Colombia, Bucaramanga        INICIO: 03:30 PM   ABR 14/2002 DOM
+
+OBJETIVOS:
+
+1- Prepara el registro de impresi¢n del Boletin en un vector.
+
+2- Retorna el vector de impresion
+
+SINTAXIS:
+
+*------------------------------------------------------------------------*
+*                              PROGRAMA                                  *
+*------------------------------------------------------------------------*/
+
+FUNCTION aNotMatXml(lHayNot,lEvaInd,lPrnEva,nLenEva,lPrnCod,;
+		    nNroPer,cNotAcu,cColNo1,cColNo2,cColNo3,;
+		    cColNo4,nHanXml,FileXml)
+
+*>>>>DESCRIPCION DE PARAMETROS
+/*     lHayNot                              // .T. Hay Notas
+       lEvaInd                              // .T. Evaluar el indicador
+       lPrnEva                              // .T. Imprimir el Nombre de la Evaluaci¢n del Nombre del Indicador. .F. Imprime el c¢digo de Evaluaci¢n.
+       nLenEva                              // Longitud del Nombre de la Evaluaci¢n del Indicador
+       lPrnCod                              // .T. Imprimir el C¢digo .F. Imprimir la Descripci¢n del Juicio
+       nNroPer			            // N£mero del Periodo
+       cNotAcu                              // Notas Acumuladas
+       cColNo1                              // Columna No. 1  Intensidad
+       cColNo2                              // Columna No. 2  Materia
+       cColNo3                              // Columna No. 3  Nota o Notas
+       cColNo4                              // Columna No. 4  Fallas
+       nHanXml                              // Manejador Archivo Xml
+       FileXml                              // Archivo Xml  */
+*>>>>FIN DESCRIPCION DE PARAMETROS
+
+*>>>>DECLARACION DE VARIABLES
+       LOCAL       i := 0                   // Contador
+       LOCAL aRegPrn := {}                  // Registro de Impresi¢n
+*>>>>FIN DECLARACION DE VARIABLES
+
+*>>>>REGISTRO DE IMPRESION DEL BOLETIN
+       lSaveTxt('<materia>'+cColNo2,nHanXml,FileXml)
+       lSaveTxt('<ih>'+cColNo1+'</ih>',nHanXml,FileXml)
+
+       AADD(aRegPrn,cColNo1)  // Intensidad
+       AADD(aRegPrn,cColNo2)  // Materia
+
+       IF lHayNot .OR. lEvaInd
+	  IF lHayNot
+	     IF EMPTY(cNotAcu)
+		IF lPrnCod
+		   AADD(aRegPrn,cColNo3)   // Notas
+
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+cColNo3+;
+	 '</juicio>',nHanXml,FileXml)
+
+		ELSE
+		   AADD(aRegPrn,IF(EMPTY(cColNo3),'',;
+				   ALLTRIM(cTxtNota(cColNo3))))
+
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+;
+	  IF(EMPTY(cColNo3),'',ALLTRIM(cTxtNota(cColNo3)))+;
+	 '</juicio>',nHanXml,FileXml)
+
+		ENDIF
+	     ELSE
+		FOR i := 1 TO nNroPer
+
+lSaveTxt('<juicio p="P'+STR(i,1)+'">'+ALLTRIM(SUBS(cColNo3,i*4-3,4))+;
+	 '</juicio>',nHanXml,FileXml)
+
+		    AADD(aRegPrn,ALLTRIM(SUBS(cColNo3,i*4-3,4)))
+		ENDFOR
+	     ENDIF
+	  ELSE
+	     IF lPrnEva
+		IF nLenEva > 4
+
+		   AADD(aRegPrn,SPACE(nLenEva))
+
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+SPACE(nLenEva)+;
+	 '</juicio>',nHanXml,FileXml)
+
+		ELSE
+		   AADD(aRegPrn,SPACE(06))
+
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+SPACE(06)+;
+	 '</juicio>',nHanXml,FileXml)
+
+		ENDIF
+	     ELSE
+		AADD(aRegPrn,SPACE(04))
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+SPACE(04)+;
+	 '</juicio>',nHanXml,FileXml)
+	     ENDIF
+	  ENDIF
+	  AADD(aRegPrn,cColNo4)  // Intensidad
+
+       ELSE
+	  AADD(aRegPrn,cColNo3)
+
+lSaveTxt('<juicio p="P'+STR(nNroPer,1)+'">'+cColNo3+;
+	 '</juicio>',nHanXml,FileXml)
+
+       ENDIF
+       RETURN aRegPrn
+*>>>>FIN REGISTRO DE IMPRESION DEL BOLETIN
+
+
+FUNCTION cTxtNota(cNota,lSpaces)
+
+LOCAL cTxtNot := ''
+
+lSpaces := IF(EMPTY(lSpaces),.F.,lSpaces)
+DO CASE
+CASE 'E' $ cNota
+     cTxtNot := 'EXCELENTE    '
+CASE 'S' $ cNota
+     cTxtNot := 'SOBRESALIENTE'
+CASE 'B' $ cNota
+     cTxtNot := 'BUENO        '
+CASE 'A' $ cNota
+     cTxtNot := 'ACEPTABLE    '
+CASE 'R' $ cNota
+     cTxtNot := 'REGULAR      '
+CASE 'I' $ cNota
+     cTxtNot := 'INSUFICIENTE '
+CASE 'D' $ cNota
+     cTxtNot := 'DEFICIENTE   '
+OTHERWISE
+     IF .NOT. lSpaces
+	cTxtNot := 'SIN NOTA     '
+     ENDIF
+ENDCASE
+RETURN cTxtNot

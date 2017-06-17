@@ -1,0 +1,79 @@
+//  ENCADENADOR: SISTEMA DE CENTRAL DE RIESGOS
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: ENE 16/2004 JUE A
+//        Colombia, Bucaramanga        INICIO: 11:00 PM   ENE 16/2004 JUE
+
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente los archivos .LNK correspondientes
+
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+
+// SINTAXIS:
+//          Rmake SimaMatr /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaData
+      OBJDIR := \SimaClip.v52\SimaData\f\objs
+      SISPRG := \SimaClip.v52\SimaData\f
+      FUNPRG := \SimaClip.v52\SimaData\f\funcions
+      OPTIONS := /w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaData\f\lnk\Rtlink.lnk
+      LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaData\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SimaData.obj" : "$(SISPRG)\SimaData.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Data101.obj" : "$(SISPRG)\Data101.prg"
+"$(OBJDIR)\Data103.obj" : "$(SISPRG)\Data103.prg"
+"$(OBJDIR)\Data104.obj" : "$(SISPRG)\Data104.prg"
+"$(OBJDIR)\Data105.obj" : "$(SISPRG)\Data105.prg"
+"$(OBJDIR)\Data301.obj" : "$(SISPRG)\Data301.prg"
+"$(OBJDIR)\Data401.obj" : "$(SISPRG)\Data401.prg"
+"$(OBJDIR)\Data411.obj" : "$(SISPRG)\Data411.prg"
+"$(OBJDIR)\Data412.obj" : "$(SISPRG)\Data412.prg"
+"$(OBJDIR)\Data504.obj" : "$(SISPRG)\Data504.prg"
+"$(OBJDIR)\Data504.obj" : "$(SISPRG)\Data504.prg"
+"$(OBJDIR)\Data543.obj" : "$(SISPRG)\Data543.prg"
+"$(OBJDIR)\Data505.obj" : "$(SISPRG)\Data505.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\DataFun.obj"  :  "$(FUNPRG)\DataFun.prg"
+"$(OBJDIR)\FSimaDat.obj" :  "$(FUNPRG)\FSimaDat.prg"
+"$(OBJDIR)\FuncsEmp.obj" :  "$(FUNPRG)\FuncsEmp.prg"
+"$(OBJDIR)\FDataAno.obj" :  "$(FUNPRG)\FDataAno.prg"
+"$(OBJDIR)\FuncsRep.obj" :  "$(FUNPRG)\FuncsRep.prg"
+"$(OBJDIR)\FuncsTxt.obj" :  "$(FUNPRG)\FuncsTxt.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+    $(FILSCR).EXE: $(OBJDIR)\SimaData.obj  $(OBJDIR)\DataFun.obj  \\
+		   $(OBJDIR)\FSimaDat.obj  $(OBJDIR)\FuncsEmp.obj \\
+		   $(OBJDIR)\FDataAno.obj  $(OBJDIR)\FuncsRep.obj \\
+		   $(OBJDIR)\FuncsRep.obj  \\
+		   $(OBJDIR)\Data101.obj   \\
+		   $(OBJDIR)\Data103.obj   $(OBJDIR)\Data504.obj \\
+		   $(OBJDIR)\Data301.obj   \\
+		   $(OBJDIR)\Data401.obj   $(OBJDIR)\Data411.obj \\
+		   $(OBJDIR)\Data412.obj   \\
+		   $(OBJDIR)\Data505.obj
+    $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{PAGOS POR ALUMNOS}"
+   titulo1 = "RELACION DE PAGOS FACTURADOS A MAY 31/2016"
+   titulo2 = "CORRESPONDIENTE AL MES DE MAYO"
+   titulo3 = "GRUPO: 0101 JORNADA: DIURNA. A¥O: 2016"
+   fechprn = "JUN  3/2016"
+   horaprn = "14:54:17"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>No</columna>
+    <columna>APELLIDOS Y NOMBRES </columna>
+    <columna>CONCEPTOS       </columna>
+    <columna>SALDO ACTUAL</columna>
+    <columna>FACT MES</columna>
+    <columna>INTxCOBMes</columna>
+    <columna>TOTAL DEUDA </columna>
+    <columna>MESES.FA</columna>
+    <columna>INT PAGMes</columna>
+    <columna>PAGOS </columna>
+    <columna>BA</columna>
+    <columna>CODIGO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="MV051616.XML">1</campo>
+    <campo url="no">APARICIO BELTRAN I</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216032</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV051616.XML">2</campo>
+    <campo url="no">AYALA GARCIA JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216094</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV052516.XML">3</campo>
+    <campo url="no">CAMARGO TOLOZA SIM</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">MAY 25/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">214009</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV051616.XML">4</campo>
+    <campo url="no">GOMEZ GOMEZ JULIAN</campo>
+    <campo url="no">PENSION->BECA 15.00%</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,163,499</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 16/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215072</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV051416.XML">5</campo>
+    <campo url="no">IBA¥EZ SAAD RONALD</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 14/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">215128</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV052616.XML">6</campo>
+    <campo url="no">LEON DUARTE JUAN J</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">MAY 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216055</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">7</campo>
+    <campo url="no">MORALES VALENCIA F</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">692,059</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">15,295</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">215123</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">8</campo>
+    <campo url="no">OVALLE JAIMES JUAN</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">0</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">01</campo>
+    <campo url="no">213135</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">9</campo>
+    <campo url="no">RAMIREZ ALBARRACIN</campo>
+    <campo url="no">NO FACTURADO</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">213014</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV052616.XML">10</campo>
+    <campo url="no">REYES DURAN JUAN M</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no">6,768</campo>
+    <campo url="no">MAY 26/2016:E</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216108</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">11</campo>
+    <campo url="no">SANCHEZ AMADO JUAN</campo>
+    <campo url="no">NO FACTURADO->BECA</campo>
+    <campo url="no">0</campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">214103</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="MV051116.XML">12</campo>
+    <campo url="no">SARMIENTO GOMEZ JU</campo>
+    <campo url="no">PENSION</campo>
+    <campo url="no">0</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">676,764</campo>
+    <campo url="no">MAYMAY</campo>
+    <campo url="no"></campo>
+    <campo url="no">MAY 11/2016:O</campo>
+    <campo url="no">01</campo>
+    <campo url="no">216033</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no"></campo>
+    <campo url="no">============</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">==========</campo>
+    <campo url="no">============</campo>
+    <campo url="no"></campo>
+    <campo url="no">==========</campo>
+    <campo url="no">================</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+  <registro>
+    <campo url="FACMAY16.XML">TOTALES</campo>
+    <campo url="no">******************************</campo>
+    <campo url="no"></campo>
+    <campo url="no">692,059</campo>
+    <campo url="no">6,767,640</campo>
+    <campo url="no">15,295</campo>
+    <campo url="no">676,764</campo>
+    <campo url="no"></campo>
+    <campo url="no">20,304</campo>
+    <campo url="no">5,900,847</campo>
+    <campo url="no"></campo>
+
+  </registro>
+
+</registros>

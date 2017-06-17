@@ -1,0 +1,18 @@
+#  LINKEADOR: SIMA - CUENTAS POR PAGAR
+
+#*************************************************************************
+# MODULO..: FUNCIONES DEL SISTEMA                                        *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \SimaClip.v52\SimaPark\f\objs\ParkFun
+       fi \SimaClip.v52\SimaPark\f\objs\fsimaPak
+       fi \SimaClip.v52\SimaPark\f\objs\fParkAno
+       fi \SimaClip.v52\SimaPark\f\objs\gParkDes
+       fi \SimaClip.v52\SimaPark\f\objs\eParkDes
+     #ÀFunciones del Sistema
+#>>>>FIN ARCHIVOS DEL MODULO

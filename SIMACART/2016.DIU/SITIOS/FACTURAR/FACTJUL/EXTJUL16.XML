@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="IMG\INFHTM00.WWW"?>
+<registros 
+   codiinf = ""
+   pathweb = ""
+   empresa = "COLEGIO LA SALLE - BUCARAMANGA"
+   sistema = "SISTEMA DE CARTERA ACADEMICA PENSIONES:02:{PAGOS}{BANCO}{EXTRACTO BANCARARIO}(MES){F9}{MOVIMIENTOS}{IMPRIMIR POR CONCEPTOS}(S)(S)"
+   titulo1 = "EXTRACTO DEL MES DE JULIO. A¥O: 2016"
+   titulo2 = "MOVIMIENTOS POR CONCEPTOS"
+   titulo3 = ""
+   fechprn = "AGO  5/2016"
+   horaprn = "14:41:06"
+   fdiaprn = ""
+   codiiso = ""
+   fechiso = ""
+   versiso = ""
+   piepag1 = ""
+   piepag2 = ""
+   piepag3 = "">
+
+  <cabecera>
+    <columna>CONCEPTOS</columna>
+    <columna>CREDITOS</columna>
+    <columna>DEBITOS</columna>
+    <columna>SALDO</columna>
+  </cabecera>
+
+  <registro>
+    <campo url="..\FACTJUL\PAGJUL16.XML">RECIBOS DE JUL 2016</campo>
+    <campo url="no">237,250,501.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">237,250,501.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTJUL\PAGJUL16.XML">RECIBOS DE JUL 2016</campo>
+    <campo url="no">6,214,912.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,214,912.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTSEP\PAGSEP16.XML">RECIBOS DE SEP 2016</campo>
+    <campo url="no">2,968,381.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">2,968,381.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTJUL\PAGJUL16.XML">ABONOS DE JUL 2016</campo>
+    <campo url="no">41,936,898.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">41,936,898.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2013 NOV</campo>
+    <campo url="no">882,534.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">882,534.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="..\FACTNOV\PAGNOV16.XML">ABONOS 2015 NOV</campo>
+    <campo url="no">1,901,134.00</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,901,134.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TRANSFERENCIAS PROCURADURIA</campo>
+    <campo url="no">57,506,609.00</campo>
+    <campo url="no">338,902,521.00</campo>
+    <campo url="no">-281,395,912.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">RENDIMIENTOS FINANCIEROS</campo>
+    <campo url="no">6,101.88</campo>
+    <campo url="no"></campo>
+    <campo url="no">6,101.88</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS</campo>
+    <campo url="no"></campo>
+    <campo url="no">1,017,453.95</campo>
+    <campo url="no">-1,017,453.95</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">IVA POR SERVICIOS</campo>
+    <campo url="no"></campo>
+    <campo url="no">24,212.00</campo>
+    <campo url="no">-24,212.00</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no"></campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+    <campo url="no">------------------</campo>
+
+  </registro>
+
+  <registro>
+    <campo url="no">TOTALES ...</campo>
+    <campo url="no">348,667,070.88</campo>
+    <campo url="no">339,944,186.95</campo>
+    <campo url="no">8,722,883.93</campo>
+
+  </registro>
+
+</registros>

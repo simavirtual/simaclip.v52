@@ -1,0 +1,35 @@
+#  LINKEADOR: SIMA - CARTERA ACADEMICA
+
+#*************************************************************************
+# MODULO..: INFORMES DEL SISTEMA                                         *
+#*************************************************************************
+
+#------------------------------------------------------------------------*
+#                       DECLARACION DE ARCHIVOS                          *
+#------------------------------------------------------------------------*
+
+#>>>>ARCHIVOS DEL MODULO
+       fi \simaclip.v52\simacart\f\objs\CarInfor
+     #ÀInformes de la aplicaci¢n
+
+       fi \simaclip.v52\simacart\f\objs\Car00100
+     #ÀInformes del Sistema
+
+       fi \simaclip.v52\simacart\f\objs\Car00200
+     #ÀInformes Controlados
+
+       fi \simaclip.v52\simacart\f\objs\CarRec05
+     #ÀRecibo de pago No.05
+
+       fi \simaclip.v52\simacart\f\objs\CarAbo05
+     #ÀRecibo de Abono No.05
+
+       fi \simaclip.v52\simacart\f\objs\CarRec11
+     #ÀRecibo de pago No.11
+
+       fi \simaclip.v52\simacart\f\objs\CarAbo11
+     #ÀRecibo de Abono No.11
+
+       fi \simaclip.v52\simacart\f\objs\Car20900
+     #ÀFacturaci¢n para pagos en l¡nea.
+#>>>>FIN ARCHIVOS DEL MODULO

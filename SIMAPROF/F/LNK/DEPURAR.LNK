@@ -1,0 +1,90 @@
+#  ENCADENADOR PARA SIMA - MATRICULA ACADEMICA
+
+#*************************************************************************
+# COMPILADOR..: CLIPPER. Versi¢n 5.2c                                    *
+# ENLAZADOR...: RTLINK FOR CLIPPER. Versi¢n 3.14b                        *
+#*************************************************************************
+
+#AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: DIC 27/95 MIE A
+#	Colombia, Bucaramanga	     INICIO: 09:00 AM   Pendiente
+
+#------------------------------------------------------------------------*
+#                    ESPECIFICACIONES PARA EL ENCADENADOR                *
+#------------------------------------------------------------------------*
+
+#>>>>GENERACION DEL ARCHIVO EJECUTABLE
+       output \SimaClip.v52\SimaProf\SimaProf
+#>>>>FIN GENERACION DEL ARCHIVO EJECUTABLE
+
+#>>>>MODULOS RESIDENTES EN MEMORIA
+       resident
+       fi \SimaClip.v52\SimaProf\f\objs\Depurar
+#>>>>FIN MODULOS RESIDENTES EN MEMORIA
+
+#>>>>FUNCIONES GENERALES
+       dynamic into \SimaClip.v52\SimaProf\SimaProf
+
+       lib \aplica.dos\lenguaje\tools\lib\nt250
+#>>>>FIN FUNCIONES GENERALES
+
+#>>>>PROGRAMAS DEL SISTEMA
+       fi \SimaClip.v52\SimaProf\f\objs\Profe401
+       fi \SimaClip.v52\SimaProf\f\objs\Profe301
+#>>>>FIN PROGRAMAS DEL SISTEMA
+
+#>>>>FUNCIONES DEL SISTEMA
+	fi \SimaClip.v52\SimaProf\f\objs\FSimaPro
+	fi \SimaClip.v52\SimaProf\f\objs\FProfAno
+	fi \SimaClip.v52\SimaProf\f\objs\FProfTbl
+	fi \SimaClip.v52\SimaProf\f\objs\ProfeFun
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsPro
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsCaP
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsMaP
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsNoP
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsInd
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsCla
+	fi \SimaClip.v52\SimaProf\f\objs\FuncsEva
+#	fi \SimaClip.v52\SimaProf\f\objs\FuncsNro
+#        fi \SimaClip.v52\SimaProf\f\objs\fProfLog
+       @lnk\ProfeSha.lnk
+#>>>>FIN FUNCIONES DEL SISTEMA
+
+#>>>>FUNCIONES COMPARTIDAS DE MATRICULAS
+#       fi \SimaClip.v52\SimaMatr\f\objs\FuncsAlu
+#>>>>FIN FUNCIONES COMPARTIDAS DE MATRICULAS
+
+#>>>>MODULOS COMPARTIDAS DE CONTABILIDAD ACADEMICA
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsNiv
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsMat
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsPla
+       fi \SimaClip.v52\SimaCont\f\objs\FuncsNot
+
+       fi \SimaClip.v52\clipper.fun\funcsdbf
+       fi \SimaClip.v52\clipper.fun\funcsnel
+       fi \SimaClip.v52\clipper.fun\classnel
+       fi \SimaClip.v52\clipper.fun\archinel
+#       fi \SimaClip.v52\clipper.fun\funcsprn
+#       fi \SimaClip.v52\clipper.fun\usrcrypt
+       fi \SimaClip.v52\clipper.fun\fwwwusr
+       fi \SimaClip.v52\clipper.fun\ftipousr
+#       fi \SimaClip.v52\clipper.fun\funcsErr
+#       fi \SimaClip.v52\clipper.fun\OtrErr01
+       fi \SimaClip.v52\clipper.fun\FunColor
+#       fi \SimaClip.v52\clipper.fun\Printer
+#       fi \SimaClip.v52\clipper.fun\FuncsXml
+#       fi \SimaClip.v52\clipper.fun\FileSys
+#       fi \SimaClip.v52\clipper.fun\FileStr
+#       fi \SimaClip.v52\clipper.fun\FilePrg
+
+#       fi \SimaClip.v52\clipper.fun\GFuncPer
+
+#       fi \SimaClip.v52\clipper.fun\EFuncPer
+#>>>>FIN FUNCIONES COMPARTIDAS DE CONTABILIDAD ACADEMICA
+
+#>>>>LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+#      pll base52
+#>>>>FIN LIBRERIA PRELINK BASE5n.PLL SEGUN LA ORDEN SET
+
+#>>>>LINKEO INCREMENTAL. AHORRO DE TIEMPO
+#     incremental
+#>>>>FIN LINKEO INCREMENTAL. AHORRO DE TIEMPO

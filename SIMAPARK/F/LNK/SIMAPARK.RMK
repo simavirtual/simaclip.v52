@@ -1,0 +1,73 @@
+//  ENCADENADOR: SIMA - PARQUEADEROS
+
+//*************************************************************************
+// TITULO..: UTILIDAD DE CONTRUCCION DEL SISTEMA                          *
+//*************************************************************************
+
+// AUTOR: Nelson Fern ndez G¢mez       FECHA DE CREACION: MAR 27/2005 DOM A
+//        Colombia, Bucaramanga        INICIO: 09:15 PM   MAR 27/2004 DOM
+
+
+// REQUERIMIENTOS:
+
+// 1- Debe estar presente los archivos .LNK correspondientes
+
+
+// OBJETIVOS:
+
+// 1- Permite compilar y linkquiar dinamicamente la aplicaci¢n
+
+
+// SINTAXIS:
+//          Rmake SimaPago /dOK
+
+//------------------------------------------------------------------------*
+//	                   ESPECIFICACIONES                               *
+//------------------------------------------------------------------------*
+
+//>>CONDICIONES GENERALES
+      FILSCR := SimaPark
+      OBJDIR := \SimaClip.v52\SimaPark\f\objs
+      SISPRG := \SimaClip.v52\SimaPark\f
+      FUNPRG := \SimaClip.v52\SimaPark\f\funcions
+      SIMOBJ := \SimaClip.v52\Sima.Fun
+      SIMPRG := \SimaClip.v52\Sima.Fun\f
+      OPTIONS := /w/b
+//    LINKER  := \Aplica.dos\Lenguaje\Clipper.v52\bin\Rtlink @\SimaClip.v52\SimaPark\f\lnk\Rtlink.lnk
+   LINKER  := \Aplica.dos\Lenguaje\Blinker7\Bin\Blinker @\SimaClip.v52\SimaPark\f\lnk\Blink52p.lnk
+      CLIPPER := \Aplica.dos\Lenguaje\Clipper.v52\bin\clipper
+//>>FIN CONDICIONES GENERALES
+
+//>>RELACIONES DE DEPENDENCIA PARA LOS OBJS
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\SimaPark.obj" : "$(SISPRG)\SimaPark.prg"
+.prg.obj:
+	 clipper $* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\Park101.obj" : "$(SISPRG)\Park101.prg"
+"$(OBJDIR)\Park102.obj" : "$(SISPRG)\Park102.prg"
+"$(OBJDIR)\Park201.obj" : "$(SISPRG)\Park201.prg"
+"$(OBJDIR)\Park202.obj" : "$(SISPRG)\Park202.prg"
+"$(OBJDIR)\Park203.obj" : "$(SISPRG)\Park203.prg"
+"$(OBJDIR)\Park204.obj" : "$(SISPRG)\Park204.prg"
+"$(OBJDIR)\Park205.obj" : "$(SISPRG)\Park205.prg"
+"$(OBJDIR)\Park206.obj" : "$(SISPRG)\Park206.prg"
+"$(OBJDIR)\Park207.obj" : "$(SISPRG)\Park207.prg"
+"$(OBJDIR)\Park707.obj" : "$(SISPRG)\Park707.prg"
+"$(OBJDIR)\Park708.obj" : "$(SISPRG)\Park708.prg"
+.prg.obj:
+	 clipper funcions\$* $(OPTIONS)/o$(OBJDIR)\$
+"$(OBJDIR)\ParkFun.obj" :  "$(FUNPRG)\ParkFun.prg"
+"$(OBJDIR)\fSimaPak.obj" :  "$(FUNPRG)\fSimaPak.prg"
+"$(OBJDIR)\fParkAno.obj" :  "$(FUNPRG)\fParkAno.prg"
+"$(OBJDIR)\gParkDes.obj" :  "$(FUNPRG)\gParkDes.prg"
+"$(OBJDIR)\eParkDes.obj" :  "$(FUNPRG)\eParkDes.prg"
+.prg.obj:
+	 clipper $(SIMPRG)\$* $(OPTIONS)/o$(SIMOBJ)\$
+"$(SIMOBJ)\eParkCaj.obj" :  "$(SIMPRG)\eParkCaj.prg"
+//>>FIN RELACIONES DE DEPENDENCIA PARA LOS OBJS
+
+///CONSTRUCCION DEL EJECUTABLE
+     $(FILSCR).EXE: $(OBJDIR)\SimaPark.obj
+     $(LINKER)
+///FIN CONSTRUCCION DEL EJECUTABLE
